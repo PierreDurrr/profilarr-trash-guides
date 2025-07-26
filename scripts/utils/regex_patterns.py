@@ -29,7 +29,10 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
         }
 
         # Output path
-        output_path = os.path.join(output_dir, f"{name.replace('/', '-')}.yml")
+        output_path = os.path.join(
+            output_dir,
+            f"{name.replace('/', '-').replace('[', '(').replace(']', ')')}.yml",
+        )
         with open(output_path, "w", encoding="utf-8") as f:
             yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
         print(f"Generated: {output_path}")
