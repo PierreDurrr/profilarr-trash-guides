@@ -20,101 +20,127 @@ qualities:
     name: Remux-2160p
 custom_formats:
 - name: German 1080p Booster
-  score: 650
+  score: null
 - name: German 2160p Booster
-  score: 9000
+  score: null
 - name: 2160p
-  score: 100
+  score: null
 - name: 1080p
-  score: 50
+  score: null
 - name: 720p
-  score: 5
+  score: null
 - name: German
-  score: 10000
+  score: null
 - name: German DL
-  score: 11000
+  score: null
 - name: German DL (undefined)
-  score: 11000
+  score: null
 - name: Not German or English
-  score: -35000
+  score: null
 - name: German Remux Tier 01
-  score: 4000
+  score: null
 - name: German Remux Tier 02
-  score: 3900
+  score: null
 - name: German Web Tier 01
-  score: 2100
+  score: null
 - name: German Web Tier 02
-  score: 1900
+  score: null
 - name: German Web Tier 03
-  score: 1800
+  score: null
 - name: German Scene
-  score: 1700
+  score: null
 - name: German LQ
-  score: -35000
+  score: null
 - name: German LQ (release title)
-  score: -35000
+  score: null
 - name: German Microsized
-  score: -35000
+  score: null
 - name: Line/Mic Dubbed
-  score: -35000
+  score: null
 - name: DV HDR10Plus
-  score: 1500
+  score: null
 - name: DV HDR10
-  score: 1500
+  score: null
 - name: DV
-  score: 1500
+  score: null
 - name: DV HLG
-  score: 1500
+  score: null
 - name: DV SDR
-  score: 1500
+  score: null
 - name: HDR10+
-  score: 600
+  score: null
 - name: HDR10
-  score: 500
+  score: null
 - name: HDR
-  score: 500
+  score: null
 - name: HDR (undefined)
-  score: 500
+  score: null
 - name: PQ
-  score: 500
+  score: null
 - name: HLG
-  score: 500
+  score: null
 - name: Remux Tier 01
-  score: 1950
+  score: null
 - name: Remux Tier 02
-  score: 1900
+  score: null
 - name: Remux Tier 03
-  score: 1850
+  score: null
 - name: WEB Tier 01
-  score: 1700
+  score: null
 - name: WEB Tier 02
-  score: 1650
+  score: null
 - name: WEB Tier 03
-  score: 1600
+  score: null
 - name: Repack/Proper
-  score: 5
+  score: null
 - name: Repack2
-  score: 6
+  score: null
 - name: Repack3
-  score: 7
+  score: null
 - name: BR-DISK
-  score: -35000
+  score: null
+- name: Generated Dynamic HDR
+  score: null
 - name: LQ
-  score: -35000
+  score: null
 - name: LQ (Release Title)
-  score: -35000
+  score: null
 - name: 3D
-  score: -35000
+  score: null
 - name: Upscaled
-  score: -35000
+  score: null
 - name: Extras
-  score: -35000
+  score: null
 - name: AV1
-  score: -35000
+  score: null
+- name: AMZN
+  score: null
+- name: ATVP
+  score: null
 - name: BCORE
-  score: 15
+  score: null
 - name: CRiT
-  score: 20
+  score: null
+- name: DSNP
+  score: null
+- name: HBO
+  score: null
+- name: HMAX
+  score: null
+- name: Hulu
+  score: null
+- name: iT
+  score: null
 - name: MA
-  score: 20
+  score: null
+- name: MAX
+  score: null
+- name: NF
+  score: null
+- name: PCOK
+  score: null
+- name: PMTP
+  score: null
+- name: STAN
+  score: null
 language: any

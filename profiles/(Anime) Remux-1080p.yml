@@ -57,65 +57,71 @@ qualities:
     name: Remux-1080p
 custom_formats:
 - name: Anime BD Tier 01 (Top SeaDex Muxers)
-  score: 1400
+  score: null
 - name: Anime BD Tier 02 (SeaDex Muxers)
-  score: 1300
+  score: null
 - name: Anime BD Tier 03 (SeaDex Muxers)
-  score: 1200
+  score: null
 - name: Anime BD Tier 04 (SeaDex Muxers)
-  score: 1100
+  score: null
 - name: Anime BD Tier 05 (Remuxes)
-  score: 1000
+  score: null
 - name: Anime BD Tier 06 (FanSubs)
-  score: 900
+  score: null
 - name: Anime BD Tier 07 (P2P/Scene)
-  score: 800
+  score: null
 - name: Anime BD Tier 08 (Mini Encodes)
-  score: 700
+  score: null
 - name: Anime Web Tier 01 (Muxers)
-  score: 600
+  score: null
 - name: Anime Web Tier 02 (Top FanSubs)
-  score: 500
+  score: null
 - name: Anime Web Tier 03 (Official Subs)
-  score: 400
+  score: null
 - name: Anime Web Tier 04 (Official Subs)
-  score: 300
+  score: null
 - name: Anime Web Tier 05 (FanSubs)
-  score: 200
+  score: null
 - name: Anime Web Tier 06 (FanSubs)
-  score: 100
+  score: null
 - name: Remux Tier 01
-  score: 1050
+  score: null
 - name: Remux Tier 02
-  score: 1000
+  score: null
 - name: Remux Tier 03
-  score: 950
+  score: null
 - name: WEB Tier 01
-  score: 350
+  score: null
 - name: WEB Tier 02
-  score: 250
+  score: null
 - name: WEB Tier 03
-  score: 150
+  score: null
 - name: Anime Raws
-  score: -10000
+  score: null
 - name: Anime LQ Groups
-  score: -10000
+  score: null
+- name: Uncensored
+  score: null
 - name: v0
-  score: -51
+  score: null
 - name: v1
-  score: 1
+  score: null
 - name: v2
-  score: 2
+  score: null
 - name: v3
-  score: 3
+  score: null
 - name: v4
-  score: 4
+  score: null
 - name: VRV
-  score: 10
+  score: null
+- name: 10bit
+  score: null
+- name: Anime Dual Audio
+  score: null
 - name: Dubs Only
-  score: -10000
+  score: null
 - name: VOSTFR
-  score: -10000
+  score: null
 - name: AV1
-  score: -10000
+  score: null
 language: original

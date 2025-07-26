@@ -7,12 +7,11 @@
 # ///
 import os
 import sys
-import json
-import yaml
 
 from utils.custom_formats import collect_custom_formats
 from utils.regex_patterns import collect_regex_patterns
 from utils.profiles import collect_profiles
+
 
 def clear_output_dir(output_dir):
     if not os.path.exists(output_dir):
@@ -23,6 +22,7 @@ def clear_output_dir(output_dir):
             os.remove(file_path)
         print(f"Cleared output directory: {output_dir}")
 
+
 def main():
     if len(sys.argv) != 3:
         print("Usage: python generate.py <input_dir> <output_dir>")
@@ -30,33 +30,38 @@ def main():
     input_dir = sys.argv[1]
     output_dir = sys.argv[2]
 
-    regex_patterns_dir = os.path.join(output_dir, 'regex_patterns')
+    regex_patterns_dir = os.path.join(output_dir, "regex_patterns")
     os.makedirs(regex_patterns_dir, exist_ok=True)
     clear_output_dir(regex_patterns_dir)
 
-    custom_formats_dir = os.path.join(output_dir, 'custom_formats')
+    custom_formats_dir = os.path.join(output_dir, "custom_formats")
     os.makedirs(custom_formats_dir, exist_ok=True)
     clear_output_dir(custom_formats_dir)
 
-    profiles_dir = os.path.join(output_dir, 'profiles')
+    profiles_dir = os.path.join(output_dir, "profiles")
     os.makedirs(profiles_dir, exist_ok=True)
     clear_output_dir(profiles_dir)
 
     # TODO: Support Sonarr
-    for service in ['radarr']:
+    for service in ["radarr"]:
         trash_custom_formats_dir = os.path.join(input_dir, f"{service}/cf")
         if not os.path.exists(trash_custom_formats_dir):
-            print(f"Custom format directory {trash_custom_formats_dir} does not exist, skipping.")
+            print(
+                f"Custom format directory {trash_custom_formats_dir} does not exist, skipping."
+            )
             continue
 
         trash_profiles_dir = os.path.join(input_dir, f"{service}/quality-profiles")
         if not os.path.exists(trash_profiles_dir):
-            print(f"Custom format directory {trash_profiles_dir} does not exist, skipping.")
+            print(
+                f"Custom format directory {trash_profiles_dir} does not exist, skipping."
+            )
             continue
 
         collect_regex_patterns(service, trash_custom_formats_dir, regex_patterns_dir)
         collect_custom_formats(service, trash_custom_formats_dir, custom_formats_dir)
         collect_profiles(service, trash_profiles_dir, profiles_dir)
+
 
 if __name__ == "__main__":
     main()

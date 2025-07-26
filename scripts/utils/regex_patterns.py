@@ -2,6 +2,9 @@ import os
 import json
 import yaml
 
+# TODO: prevent duplicates by only writing unique regex patterns to files
+# In some cases negations will result in a new regex pattern as of now
+
 
 def collect_regex_pattern(service, file_name, input_json, output_dir):
     # Find the first pattern in specifications
