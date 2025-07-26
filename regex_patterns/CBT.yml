@@ -2,3 +2,4 @@ name: CBT
 pattern: \b(CBT)\b
 description: ''
 tags: []
+tests: []

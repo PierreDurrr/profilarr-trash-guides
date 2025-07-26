@@ -1,4 +1,5 @@
 name: Rip Time
-pattern: \b(Rip[ .-]?Time)\b
+pattern: \b(Rip( .-)?Time)\b
 description: ''
 tags: []
+tests: []

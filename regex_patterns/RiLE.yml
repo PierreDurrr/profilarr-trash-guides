@@ -2,3 +2,4 @@ name: RiLE
 pattern: ^(RiLE)$
 description: ''
 tags: []
+tests: []

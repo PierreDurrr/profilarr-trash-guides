@@ -1,4 +1,5 @@
 name: ARC
-pattern: \[ARC\]|-ARC\b
+pattern: \(ARC\)|-ARC\b
 description: ''
 tags: []
+tests: []

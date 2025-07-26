@@ -2,3 +2,4 @@ name: RU4HD
 pattern: ^(RU4HD)$
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: PAS
 pattern: \b(PAS)\b
 description: ''
 tags: []
+tests: []

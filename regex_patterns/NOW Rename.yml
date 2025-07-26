@@ -1,4 +1,5 @@
 name: NOW Rename
-pattern: \[(NOW)\b|\b(NOW)\]
+pattern: \((NOW)\b|\b(NOW)\)
 description: ''
 tags: []
+tests: []

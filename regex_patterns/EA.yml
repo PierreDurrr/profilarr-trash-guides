@@ -2,3 +2,4 @@ name: EA
 pattern: ^(EA)$
 description: ''
 tags: []
+tests: []

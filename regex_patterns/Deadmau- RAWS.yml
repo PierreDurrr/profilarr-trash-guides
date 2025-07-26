@@ -1,4 +1,5 @@
 name: Deadmau- RAWS
-pattern: \b(Deadmau[ .-]?[ .-]?RAWS)\b
+pattern: \b(Deadmau( .-)?( .-)?RAWS)\b
 description: ''
 tags: []
+tests: []

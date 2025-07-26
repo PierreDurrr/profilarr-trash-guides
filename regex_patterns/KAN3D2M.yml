@@ -2,3 +2,4 @@ name: KAN3D2M
 pattern: \b(KAN3D2M)\b
 description: ''
 tags: []
+tests: []

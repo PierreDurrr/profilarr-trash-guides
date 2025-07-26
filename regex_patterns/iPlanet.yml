@@ -2,3 +2,4 @@ name: iPlanet
 pattern: ^(iPlanet)$
 description: ''
 tags: []
+tests: []

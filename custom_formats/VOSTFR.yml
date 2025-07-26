@@ -9,8 +9,6 @@ trash_scores:
   french-multi-vo: 0
   french-vostfr: 1000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vostfr)'
-metadata:
-  includeInRename: true
 tags:
 - Release Title
 conditions:
@@ -25,3 +23,5 @@ conditions:
   type: release_title
   pattern: SUBFRENCH
 tests: []
+metadata:
+  includeInRename: true

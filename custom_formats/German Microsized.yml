@@ -3,8 +3,6 @@ trash_id: 03c430f326f10a27a9739b8bc83c30e4
 trash_scores:
   default: -35000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-microsized)'
-metadata:
-  includeInRename: false
 tags:
 - Release Group
 conditions:

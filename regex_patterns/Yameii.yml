@@ -1,4 +1,5 @@
 name: Yameii
-pattern: \[Yameii\]|-Yameii\b
+pattern: \(Yameii\)|-Yameii\b
 description: ''
 tags: []
+tests: []

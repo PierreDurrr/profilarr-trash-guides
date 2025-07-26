@@ -6,8 +6,6 @@ trash_scores:
   french-multi-vo: 0
   german: -35000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#bad-dual-groups)'
-metadata:
-  includeInRename: false
 tags:
 - Release Group
 conditions:

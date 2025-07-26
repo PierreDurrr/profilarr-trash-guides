@@ -2,3 +2,4 @@ name: ZeroTwo
 pattern: ^(ZeroTwo)$
 description: ''
 tags: []
+tests: []

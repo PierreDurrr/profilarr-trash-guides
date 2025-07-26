@@ -1,4 +1,5 @@
 name: Anime Chap
-pattern: \b(Anime[ .-]?Chap)\b
+pattern: \b(Anime( .-)?Chap)\b
 description: ''
 tags: []
+tests: []

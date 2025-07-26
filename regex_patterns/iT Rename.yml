@@ -1,4 +1,5 @@
 name: iT Rename
-pattern: \[(iT)\b|\b(iT)\]
+pattern: \((iT)\b|\b(iT)\)
 description: ''
 tags: []
+tests: []

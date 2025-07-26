@@ -2,3 +2,4 @@ name: Regrade
 pattern: \b((Upscale)?Re-?graded?)\b
 description: ''
 tags: []
+tests: []

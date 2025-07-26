@@ -2,3 +2,4 @@ name: NanDesuKa
 pattern: \b(NanDesuKa)\b
 description: ''
 tags: []
+tests: []

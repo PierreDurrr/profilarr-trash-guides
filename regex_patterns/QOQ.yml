@@ -2,3 +2,4 @@ name: QOQ
 pattern: ^(QOQ)$
 description: ''
 tags: []
+tests: []

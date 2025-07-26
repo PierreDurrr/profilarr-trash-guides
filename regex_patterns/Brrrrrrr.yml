@@ -2,3 +2,4 @@ name: Brrrrrrr
 pattern: \b(Brrrrrrr)\b
 description: ''
 tags: []
+tests: []

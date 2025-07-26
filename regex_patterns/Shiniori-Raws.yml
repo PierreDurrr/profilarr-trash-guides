@@ -1,4 +1,5 @@
 name: Shiniori-Raws
-pattern: Shiniori[ ._-]?(Raws)
+pattern: Shiniori( ._-)?(Raws)
 description: ''
 tags: []
+tests: []

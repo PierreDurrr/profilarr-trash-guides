@@ -2,3 +2,4 @@ name: RiPER
 pattern: ^(RiPER)$
 description: ''
 tags: []
+tests: []

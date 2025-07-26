@@ -2,3 +2,4 @@ name: SUPPLY
 pattern: ^(SUPPLY)$
 description: ''
 tags: []
+tests: []

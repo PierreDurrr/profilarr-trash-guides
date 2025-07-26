@@ -2,3 +2,4 @@ name: PS
 pattern: (PS)$
 description: ''
 tags: []
+tests: []

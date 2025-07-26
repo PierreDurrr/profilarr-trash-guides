@@ -2,3 +2,4 @@ name: Hulu
 pattern: \b(hulu)\b
 description: ''
 tags: []
+tests: []

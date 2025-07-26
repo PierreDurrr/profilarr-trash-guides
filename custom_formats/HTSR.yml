@@ -2,8 +2,6 @@ name: HTSR
 trash_id: 834b2c0ba0a8596029b4479a29e1a032
 trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#htsr)'
-metadata:
-  includeInRename: true
 tags:
 - Source
 conditions:
@@ -23,3 +21,5 @@ conditions:
   type: source
   source: 8
 tests: []
+metadata:
+  includeInRename: true

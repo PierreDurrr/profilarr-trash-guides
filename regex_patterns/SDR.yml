@@ -2,3 +2,4 @@ name: SDR
 pattern: \bSDR\b
 description: ''
 tags: []
+tests: []

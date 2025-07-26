@@ -1,4 +1,5 @@
 name: Aoi-Project
-pattern: \b(Aoi[ .-]?Project)\b
+pattern: \b(Aoi( .-)?Project)\b
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: ITVX Rename
-pattern: \[(ITVX)\b|\b(ITVX)\]
+pattern: \((ITVX)\b|\b(ITVX)\)
 description: ''
 tags: []
+tests: []

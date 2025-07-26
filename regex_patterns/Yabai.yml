@@ -1,4 +1,5 @@
 name: Yabai
-pattern: \[Yabai\]|-Yabai\b
+pattern: \(Yabai\)|-Yabai\b
 description: ''
 tags: []
+tests: []

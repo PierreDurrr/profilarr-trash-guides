@@ -2,3 +2,4 @@ name: Criterion
 pattern: \b(Criterion)\b
 description: ''
 tags: []
+tests: []

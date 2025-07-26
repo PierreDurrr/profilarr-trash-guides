@@ -1,4 +1,5 @@
 name: Natsumi-no-Sekai
-pattern: \b(Natsumi[ .-]?no[ .-]?Sekai)\b
+pattern: \b(Natsumi( .-)?no( .-)?Sekai)\b
 description: ''
 tags: []
+tests: []

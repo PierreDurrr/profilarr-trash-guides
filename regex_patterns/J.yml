@@ -2,3 +2,4 @@ name: J
 pattern: ^(JMT|JoKeR|JUSTICELEAGUE)$
 description: ''
 tags: []
+tests: []

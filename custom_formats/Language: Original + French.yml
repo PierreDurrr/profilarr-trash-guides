@@ -7,8 +7,6 @@ trash_scores:
   french-multi-vo: 500
   french-vostfr: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-original-plus-french)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

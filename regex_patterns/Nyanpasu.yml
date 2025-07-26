@@ -2,3 +2,4 @@ name: Nyanpasu
 pattern: \b(Nyanpasu)\b
 description: ''
 tags: []
+tests: []

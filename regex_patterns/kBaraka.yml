@@ -2,3 +2,4 @@ name: kBaraka
 pattern: \b(kBaraka)\b
 description: ''
 tags: []
+tests: []

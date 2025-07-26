@@ -1,4 +1,5 @@
 name: VULCAN
-pattern: \[VULCAN\]|-VULCAN\b
+pattern: \(VULCAN\)|-VULCAN\b
 description: ''
 tags: []
+tests: []

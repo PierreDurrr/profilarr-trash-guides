@@ -1,4 +1,5 @@
 name: Senjou
-pattern: \[Senjou\]|-Senjou\b
+pattern: \(Senjou\)|-Senjou\b
 description: ''
 tags: []
+tests: []

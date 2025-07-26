@@ -2,3 +2,4 @@ name: KiNGS
 pattern: ^(KiNGS)$
 description: ''
 tags: []
+tests: []

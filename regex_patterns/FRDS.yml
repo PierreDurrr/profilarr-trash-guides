@@ -2,3 +2,4 @@ name: FRDS
 pattern: ^(FRDS)$
 description: ''
 tags: []
+tests: []

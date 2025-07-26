@@ -2,3 +2,4 @@ name: KTM
 pattern: ^(KTM)$
 description: ''
 tags: []
+tests: []

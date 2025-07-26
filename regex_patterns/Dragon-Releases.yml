@@ -2,3 +2,4 @@ name: Dragon-Releases
 pattern: \b(Dragon-Releases)\b
 description: ''
 tags: []
+tests: []

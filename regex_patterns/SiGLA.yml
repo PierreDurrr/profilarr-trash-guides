@@ -2,3 +2,4 @@ name: SiGLA
 pattern: ^(SiGLA)$
 description: ''
 tags: []
+tests: []

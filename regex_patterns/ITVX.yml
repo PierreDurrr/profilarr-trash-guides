@@ -1,4 +1,5 @@
 name: ITVX
-pattern: \b(ITVX?)\b[ ._-]web[ ._-]?(dl|rip)?\b
+pattern: \b(ITVX?)\b( ._-)web( ._-)?(dl|rip)?\b
 description: ''
 tags: []
+tests: []

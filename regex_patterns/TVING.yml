@@ -1,4 +1,5 @@
 name: TVING
-pattern: \b(tving)\b[ ._-]web[ ._-]?(dl|rip)?\b
+pattern: \b(tving)\b( ._-)web( ._-)?(dl|rip)?\b
 description: ''
 tags: []
+tests: []

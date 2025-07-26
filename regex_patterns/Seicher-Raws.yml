@@ -1,4 +1,5 @@
 name: Seicher-Raws
-pattern: Seicher[ ._-]?(Raws)
+pattern: Seicher( ._-)?(Raws)
 description: ''
 tags: []
+tests: []

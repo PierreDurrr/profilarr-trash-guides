@@ -1,4 +1,5 @@
 name: .heb
-pattern: '[.]heb\b'
+pattern: (.)heb\b
 description: ''
 tags: []
+tests: []

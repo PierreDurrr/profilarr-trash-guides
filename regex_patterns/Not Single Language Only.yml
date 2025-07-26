@@ -1,4 +1,5 @@
 name: Not Single Language Only
-pattern: \[(JA|ZH|KO)\]
+pattern: \((JA|ZH|KO)\)
 description: ''
 tags: []
+tests: []

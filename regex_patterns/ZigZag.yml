@@ -2,3 +2,4 @@ name: ZigZag
 pattern: ^(ZigZag)$
 description: ''
 tags: []
+tests: []

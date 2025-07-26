@@ -1,4 +1,5 @@
 name: Asakura
-pattern: \[Asakura\]|-Asakura\b
+pattern: \(Asakura\)|-Asakura\b
 description: ''
 tags: []
+tests: []

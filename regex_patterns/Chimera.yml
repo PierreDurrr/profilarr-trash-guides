@@ -1,4 +1,5 @@
 name: Chimera
-pattern: \[Chimera\]|-Chimera\b
+pattern: \(Chimera\)|-Chimera\b
 description: ''
 tags: []
+tests: []

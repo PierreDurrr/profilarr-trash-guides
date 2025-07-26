@@ -2,3 +2,4 @@ name: SWTYBLZ
 pattern: \b(SWTYBLZ)\b
 description: ''
 tags: []
+tests: []

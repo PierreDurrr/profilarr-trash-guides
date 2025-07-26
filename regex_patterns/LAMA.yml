@@ -2,3 +2,4 @@ name: LAMA
 pattern: ^(LAMA)$
 description: ''
 tags: []
+tests: []

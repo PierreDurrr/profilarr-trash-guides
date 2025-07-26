@@ -1,4 +1,5 @@
 name: Bolshevik
-pattern: \[Bolshevik\]|-Bolshevik\b
+pattern: \(Bolshevik\)|-Bolshevik\b
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: FAV
-pattern: \[FAV\]|-FAV\b
+pattern: \(FAV\)|-FAV\b
 description: ''
 tags: []
+tests: []

@@ -60,7 +60,7 @@ custom_formats:
   score: 125
 - name: DD
   score: 115
-- name: DV HDR10Plus
+- name: DV HDR10+
   score: 1500
 - name: DV HDR10
   score: 1500

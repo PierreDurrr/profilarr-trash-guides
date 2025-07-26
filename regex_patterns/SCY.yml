@@ -2,3 +2,4 @@ name: SCY
 pattern: \b(SCY)\b
 description: ''
 tags: []
+tests: []

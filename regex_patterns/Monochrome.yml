@@ -1,4 +1,5 @@
 name: Monochrome
-pattern: (?<=\b[12]\d{3}\b).*\b(Monochrome)\b(?!$)
+pattern: (?<=\b(12)\d{3}\b).*\b(Monochrome)\b(?!$)
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: Legion
-pattern: \[Legion\]|-Legion\b
+pattern: \(Legion\)|-Legion\b
 description: ''
 tags: []
+tests: []

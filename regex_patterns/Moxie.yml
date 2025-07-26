@@ -1,4 +1,5 @@
 name: Moxie
-pattern: \[Moxie\]|-Moxie\b
+pattern: \(Moxie\)|-Moxie\b
 description: ''
 tags: []
+tests: []

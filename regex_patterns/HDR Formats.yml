@@ -1,4 +1,5 @@
 name: HDR Formats
-pattern: \bHDR(\b|\d)|\b(dv|dovi|dolby[ .]?v(ision)?)\b|\b(FraMeSToR|HQMUX|SICFoI)\b|\b(PQ)\b|\bHLG(\b|\d)
+pattern: \bHDR(\b|\d)|\b(dv|dovi|dolby( .)?v(ision)?)\b|\b(FraMeSToR|HQMUX|SICFoI)\b|\b(PQ)\b|\bHLG(\b|\d)
 description: ''
 tags: []
+tests: []

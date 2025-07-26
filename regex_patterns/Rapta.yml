@@ -1,4 +1,5 @@
 name: Rapta
-pattern: \[Rapta\]|-Rapta\b
+pattern: \(Rapta\)|-Rapta\b
 description: ''
 tags: []
+tests: []

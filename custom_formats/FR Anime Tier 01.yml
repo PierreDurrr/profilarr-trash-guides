@@ -5,8 +5,6 @@ trash_scores:
   french-anime-multi: 1650
   french-anime-vostfr: 1650
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-anime-tier-01)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

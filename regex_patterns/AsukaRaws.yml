@@ -1,4 +1,5 @@
 name: AsukaRaws
-pattern: Asuka[ ._-]?(Raws)
+pattern: Asuka( ._-)?(Raws)
 description: ''
 tags: []
+tests: []

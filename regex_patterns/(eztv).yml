@@ -1,4 +1,5 @@
 name: (eztv)
-pattern: \[eztvx?[ ._-]?(io|re|to)?\]
+pattern: \(eztvx?( ._-)?(io|re|to)?\)
 description: ''
 tags: []
+tests: []

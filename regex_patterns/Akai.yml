@@ -1,4 +1,5 @@
 name: Akai
-pattern: \[Akai\]|-Akai\b
+pattern: \(Akai\)|-Akai\b
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: Obi
 pattern: ^(Obi)$
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: Pantsu
-pattern: \[Pantsu\]|-Pantsu\b
+pattern: \(Pantsu\)|-Pantsu\b
 description: ''
 tags: []
+tests: []

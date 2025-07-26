@@ -28,9 +28,10 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
         name = spec.get("name", "")
         yml_data = {
             "name": get_file_name(name),
-            "pattern": pattern,
+            "pattern": get_file_name(pattern),
             "description": "",
             "tags": [],
+            "tests": [],
         }
 
         # Output path

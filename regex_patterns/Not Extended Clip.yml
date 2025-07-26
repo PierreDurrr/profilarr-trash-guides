@@ -1,4 +1,5 @@
 name: Not Extended Clip
-pattern: \b(Extended[ ._-]Clip)\b
+pattern: \b(Extended( ._-)Clip)\b
 description: ''
 tags: []
+tests: []

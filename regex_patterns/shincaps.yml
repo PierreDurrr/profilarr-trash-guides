@@ -2,3 +2,4 @@ name: shincaps
 pattern: \b(shincaps)\b
 description: ''
 tags: []
+tests: []

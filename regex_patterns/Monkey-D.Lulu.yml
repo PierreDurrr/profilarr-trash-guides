@@ -1,4 +1,5 @@
 name: Monkey-D.Lulu
-pattern: \b(Monkey[ .-]?D[ .-]?Lulu)\b
+pattern: \b(Monkey( .-)?D( .-)?Lulu)\b
 description: ''
 tags: []
+tests: []

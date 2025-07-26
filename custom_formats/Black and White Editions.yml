@@ -3,12 +3,10 @@ trash_id: cc444569854e9de0b084ab2b8b1532b2
 trash_scores:
   default: -10000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#black-and-white-editions)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:
-- name: Blackout/B&W/Black&Chrome
+- name: Blackout-B&W-Black&Chrome
   negate: false
   required: false
   type: release_title
@@ -28,7 +26,7 @@ conditions:
   required: false
   type: release_title
   pattern: Shush Cut
-- name: No/Minus Color
+- name: No-Minus Color
   negate: false
   required: false
   type: release_title

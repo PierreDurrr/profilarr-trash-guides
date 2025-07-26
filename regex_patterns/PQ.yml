@@ -2,3 +2,4 @@ name: PQ
 pattern: \b(PQ)\b
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: HDTime
 pattern: ^(HDTime)$
 description: ''
 tags: []
+tests: []

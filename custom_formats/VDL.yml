@@ -2,8 +2,6 @@ name: VDL
 trash_id: 996e8ce50025e8b1e8fa95fcb28c4e5a
 trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#vdl)'
-metadata:
-  includeInRename: true
 tags:
 - Source
 conditions:
@@ -23,3 +21,5 @@ conditions:
   type: source
   source: 8
 tests: []
+metadata:
+  includeInRename: true

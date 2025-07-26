@@ -4,8 +4,6 @@ trash_scores:
   default: -10000
   german: 11000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-german-dl)'
-metadata:
-  includeInRename: true
 tags:
 - Language
 conditions:
@@ -20,3 +18,5 @@ conditions:
   type: language
   language: -2
 tests: []
+metadata:
+  includeInRename: true

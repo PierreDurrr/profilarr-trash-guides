@@ -2,3 +2,4 @@ name: NemDiggers
 pattern: \b(NemDiggers)\b
 description: ''
 tags: []
+tests: []

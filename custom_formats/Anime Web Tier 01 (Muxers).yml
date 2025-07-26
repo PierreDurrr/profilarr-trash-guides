@@ -3,8 +3,6 @@ trash_id: 8167cffba4febfb9a6988ef24f274e7e
 trash_scores:
   default: 600
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-01-muxers)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

@@ -2,3 +2,4 @@ name: DsunS
 pattern: \b(DsunS)\b
 description: ''
 tags: []
+tests: []

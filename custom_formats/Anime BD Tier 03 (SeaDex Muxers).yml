@@ -3,8 +3,6 @@ trash_id: fa857662bad28d5ff21a6e611869a0ff
 trash_scores:
   default: 1200
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-03-seadex-muxers)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

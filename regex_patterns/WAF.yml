@@ -2,3 +2,4 @@ name: WAF
 pattern: ^(WAF)$
 description: ''
 tags: []
+tests: []

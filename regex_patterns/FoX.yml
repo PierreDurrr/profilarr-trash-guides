@@ -2,3 +2,4 @@ name: FoX
 pattern: ^(FoX)$
 description: ''
 tags: []
+tests: []

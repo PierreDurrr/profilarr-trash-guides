@@ -1,4 +1,5 @@
 name: BEN THE MEN
-pattern: \b(BEN[ ._-]THE[ ._-]MEN)\b
+pattern: \b(BEN( ._-)THE( ._-)MEN)\b
 description: ''
 tags: []
+tests: []

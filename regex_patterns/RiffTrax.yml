@@ -2,3 +2,4 @@ name: RiffTrax
 pattern: ^(Rifftrax)$
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: YuiSubs
 pattern: \b(YuiSubs)\b
 description: ''
 tags: []
+tests: []

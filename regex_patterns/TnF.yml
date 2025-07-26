@@ -2,3 +2,4 @@ name: TnF
 pattern: \b(TnF)\b
 description: ''
 tags: []
+tests: []

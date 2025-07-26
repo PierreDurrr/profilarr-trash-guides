@@ -2,3 +2,4 @@ name: Sicario
 pattern: ^(Sicario)$
 description: ''
 tags: []
+tests: []

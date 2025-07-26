@@ -1,4 +1,5 @@
 name: x|h265
-pattern: '[xh][ ._-]?265|\bHEVC(\b|\d)'
+pattern: (xh)( ._-)?265|\bHEVC(\b|\d)
 description: ''
 tags: []
+tests: []

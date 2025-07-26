@@ -2,3 +2,4 @@ name: LazyRemux
 pattern: \b(LazyRemux)\b
 description: ''
 tags: []
+tests: []

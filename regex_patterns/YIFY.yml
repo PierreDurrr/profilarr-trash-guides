@@ -2,3 +2,4 @@ name: YIFY
 pattern: ^(YIFY)$
 description: ''
 tags: []
+tests: []

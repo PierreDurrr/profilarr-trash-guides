@@ -1,4 +1,5 @@
 name: Upscaled
-pattern: (?<=\b[12]\d{3}\b).*\b(UPS|Up(s(caled?|UHD)|(Rez)))\b
+pattern: (?<=\b(12)\d{3}\b).*\b(UPS|Up(s(caled?|UHD)|(Rez)))\b
 description: ''
 tags: []
+tests: []

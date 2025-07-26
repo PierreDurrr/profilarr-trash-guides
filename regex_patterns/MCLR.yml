@@ -2,3 +2,4 @@ name: MCLR
 pattern: \b(MCLR)\b
 description: ''
 tags: []
+tests: []

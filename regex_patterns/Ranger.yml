@@ -1,4 +1,5 @@
 name: Ranger
-pattern: \[Ranger\]|-Ranger\b
+pattern: \(Ranger\)|-Ranger\b
 description: ''
 tags: []
+tests: []

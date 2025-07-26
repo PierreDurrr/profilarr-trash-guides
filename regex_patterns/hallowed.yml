@@ -2,3 +2,4 @@ name: hallowed
 pattern: ^(hallowed)$
 description: ''
 tags: []
+tests: []

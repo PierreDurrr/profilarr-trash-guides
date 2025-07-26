@@ -2,3 +2,4 @@ name: kazuizui
 pattern: \b(kazui(zui)?)\b
 description: ''
 tags: []
+tests: []

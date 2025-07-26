@@ -56,7 +56,7 @@ custom_formats:
   score: 115
 - name: 2.0 Stereo
   score: -175
-- name: DV HDR10Plus
+- name: DV HDR10+
   score: 1500
 - name: DV HDR10
   score: 1500

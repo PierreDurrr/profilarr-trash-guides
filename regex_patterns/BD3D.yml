@@ -2,3 +2,4 @@ name: BD3D
 pattern: \b(BD3D)\b
 description: ''
 tags: []
+tests: []

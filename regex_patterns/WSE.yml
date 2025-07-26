@@ -2,3 +2,4 @@ name: WSE
 pattern: \b(WSE)\b
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: DB
-pattern: \[DB\]
+pattern: \(DB\)
 description: ''
 tags: []
+tests: []

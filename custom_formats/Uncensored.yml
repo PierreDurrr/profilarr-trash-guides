@@ -2,8 +2,6 @@ name: Uncensored
 trash_id: 064af5f084a0a24458cc8ecd3220f93f
 trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uncensored)'
-metadata:
-  includeInRename: true
 tags:
 - Release Title
 conditions:
@@ -13,3 +11,5 @@ conditions:
   type: release_title
   pattern: Uncensored
 tests: []
+metadata:
+  includeInRename: true

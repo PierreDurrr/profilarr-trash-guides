@@ -2,3 +2,4 @@ name: Kaleido
 pattern: \b(Kaleido)\b
 description: ''
 tags: []
+tests: []

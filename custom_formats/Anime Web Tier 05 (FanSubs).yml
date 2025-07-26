@@ -3,8 +3,6 @@ trash_id: 22d953bbe897857b517928f3652b8dd3
 trash_scores:
   default: 200
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-05-fansubs)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

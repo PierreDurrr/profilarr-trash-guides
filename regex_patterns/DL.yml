@@ -1,4 +1,5 @@
 name: DL
-pattern: (?<!WEB[-_. ]?)\b(DL)\b
+pattern: (?<!WEB(-_. )?)\b(DL)\b
 description: ''
 tags: []
+tests: []

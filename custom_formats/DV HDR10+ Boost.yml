@@ -3,8 +3,6 @@ trash_id: 55a5b50cb416dea5a50c4955896217ab
 trash_scores:
   default: 100
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-hdr10plus-boost)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

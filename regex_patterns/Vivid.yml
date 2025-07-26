@@ -1,4 +1,5 @@
 name: Vivid
-pattern: \[Vivid\]|-Vivid\b
+pattern: \(Vivid\)|-Vivid\b
 description: ''
 tags: []
+tests: []

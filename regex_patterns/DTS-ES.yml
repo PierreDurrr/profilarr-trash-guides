@@ -1,4 +1,5 @@
 name: DTS-ES
-pattern: dts[-. ]?es\b
+pattern: dts(-. )?es\b
 description: ''
 tags: []
+tests: []

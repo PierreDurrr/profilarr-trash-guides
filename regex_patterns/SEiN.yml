@@ -1,4 +1,5 @@
 name: SEiN
-pattern: \[SEiN\]|-SEiN\b
+pattern: \(SEiN\)|-SEiN\b
 description: ''
 tags: []
+tests: []

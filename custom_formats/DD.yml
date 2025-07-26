@@ -7,8 +7,6 @@ trash_scores:
   sqp-1-2160p: 115
   sqp-1-web-2160p: 115
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dd)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:
@@ -22,7 +20,7 @@ conditions:
   required: true
   type: release_title
   pattern: Not Dolby Digital Plus
-- name: Not TrueHD/ATMOS
+- name: Not TrueHD-ATMOS
   negate: true
   required: true
   type: release_title

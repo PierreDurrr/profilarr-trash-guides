@@ -2,3 +2,4 @@ name: GHD
 pattern: ^(GHD)$
 description: ''
 tags: []
+tests: []

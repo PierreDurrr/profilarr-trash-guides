@@ -2,8 +2,6 @@ name: AMZN
 trash_id: b3b3a6ac74ecbd56bcdbefa4799fb9df
 trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#amzn)'
-metadata:
-  includeInRename: true
 tags:
 - Source
 conditions:
@@ -23,3 +21,5 @@ conditions:
   type: source
   source: 8
 tests: []
+metadata:
+  includeInRename: true

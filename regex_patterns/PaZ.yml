@@ -2,3 +2,4 @@ name: PaZ
 pattern: (PaZ)$
 description: ''
 tags: []
+tests: []

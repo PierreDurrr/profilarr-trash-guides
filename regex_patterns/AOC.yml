@@ -2,3 +2,4 @@ name: AOC
 pattern: ^(AOC)$
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: Afro
-pattern: \[Afro\]|-Afro\b
+pattern: \(Afro\)|-Afro\b
 description: ''
 tags: []
+tests: []

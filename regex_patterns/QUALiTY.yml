@@ -2,3 +2,4 @@ name: QUALiTY
 pattern: ^(QUALiTY)$
 description: ''
 tags: []
+tests: []

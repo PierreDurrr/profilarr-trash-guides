@@ -2,8 +2,6 @@ name: FanSUB
 trash_id: 02e48d30a176c91baf9e15de05e5dc6a
 trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#fansub)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

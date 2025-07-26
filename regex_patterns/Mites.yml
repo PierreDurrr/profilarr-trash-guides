@@ -2,3 +2,4 @@ name: Mites
 pattern: \b(Mites)\b
 description: ''
 tags: []
+tests: []

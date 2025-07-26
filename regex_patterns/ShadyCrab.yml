@@ -2,3 +2,4 @@ name: ShadyCrab
 pattern: \b(ShadyCrab)\b
 description: ''
 tags: []
+tests: []

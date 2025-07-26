@@ -2,3 +2,4 @@ name: TayTO
 pattern: ^(TayTO)$
 description: ''
 tags: []
+tests: []

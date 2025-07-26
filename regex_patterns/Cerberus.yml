@@ -1,4 +1,5 @@
 name: Cerberus
-pattern: \[Cerberus\]|-Cerberus\b
+pattern: \(Cerberus\)|-Cerberus\b
 description: ''
 tags: []
+tests: []

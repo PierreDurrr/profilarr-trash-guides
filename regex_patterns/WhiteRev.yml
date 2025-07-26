@@ -2,3 +2,4 @@ name: WhiteRev
 pattern: -WhiteRev\b
 description: ''
 tags: []
+tests: []

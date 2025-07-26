@@ -1,4 +1,5 @@
 name: Impatience
-pattern: \[Impatience\]|-Impatience\b
+pattern: \(Impatience\)|-Impatience\b
 description: ''
 tags: []
+tests: []

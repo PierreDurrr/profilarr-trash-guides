@@ -2,3 +2,4 @@ name: Repack
 pattern: \b(Repack)\b
 description: ''
 tags: []
+tests: []

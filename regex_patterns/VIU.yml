@@ -1,4 +1,5 @@
 name: VIU
-pattern: \b(viu)\b[ ._-]web[ ._-]?(dl|rip)?\b
+pattern: \b(viu)\b( ._-)web( ._-)?(dl|rip)?\b
 description: ''
 tags: []
+tests: []

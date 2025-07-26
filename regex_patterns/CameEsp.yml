@@ -2,3 +2,4 @@ name: CameEsp
 pattern: \b(CameEsp)\b
 description: ''
 tags: []
+tests: []

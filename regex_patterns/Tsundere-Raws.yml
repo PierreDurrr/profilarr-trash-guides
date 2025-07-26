@@ -1,4 +1,5 @@
 name: Tsundere-Raws
-pattern: \b(Tsundere[ .-]?Raws)\b
+pattern: \b(Tsundere( .-)?Raws)\b
 description: ''
 tags: []
+tests: []

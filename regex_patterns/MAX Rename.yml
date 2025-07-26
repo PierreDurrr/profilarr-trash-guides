@@ -1,4 +1,5 @@
 name: MAX Rename
-pattern: \[(MAX)\b|\b(MAX)\]
+pattern: \((MAX)\b|\b(MAX)\)
 description: ''
 tags: []
+tests: []

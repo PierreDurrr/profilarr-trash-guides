@@ -2,3 +2,4 @@ name: SAUERKRAUT
 pattern: ^(SAUERKRAUT)$
 description: ''
 tags: []
+tests: []

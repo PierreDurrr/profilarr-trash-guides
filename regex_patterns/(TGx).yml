@@ -1,4 +1,5 @@
 name: (TGx)
-pattern: \[TGx\]
+pattern: \(TGx\)
 description: ''
 tags: []
+tests: []

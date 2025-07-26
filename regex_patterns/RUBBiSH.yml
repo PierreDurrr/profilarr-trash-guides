@@ -2,3 +2,4 @@ name: RUBBiSH
 pattern: ^(RUBBiSH)$
 description: ''
 tags: []
+tests: []

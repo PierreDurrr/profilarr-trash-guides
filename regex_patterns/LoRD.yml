@@ -2,3 +2,4 @@ name: LoRD
 pattern: ^(LoRD)$
 description: ''
 tags: []
+tests: []

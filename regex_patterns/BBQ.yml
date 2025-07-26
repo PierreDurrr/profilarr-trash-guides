@@ -2,3 +2,4 @@ name: BBQ
 pattern: ^(BBQ)$
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: YakuboEncodes
 pattern: \b(YakuboEncodes)\b
 description: ''
 tags: []
+tests: []

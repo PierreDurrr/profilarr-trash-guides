@@ -1,4 +1,5 @@
 name: Kaizoku
-pattern: \b(AnimeKaizoku)\b|\[Kaizoku\]|-Kaizoku\b
+pattern: \b(AnimeKaizoku)\b|\(Kaizoku\)|-Kaizoku\b
 description: ''
 tags: []
+tests: []

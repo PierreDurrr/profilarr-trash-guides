@@ -2,3 +2,4 @@ name: PTer
 pattern: ^(PTer)$
 description: ''
 tags: []
+tests: []

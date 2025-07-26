@@ -2,3 +2,4 @@ name: AnimeRG
 pattern: \b(AnimeRG)\b
 description: ''
 tags: []
+tests: []

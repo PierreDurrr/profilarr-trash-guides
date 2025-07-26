@@ -1,4 +1,5 @@
 name: Wardevil
-pattern: \[Wardevil\]|-Wardevil\b
+pattern: \(Wardevil\)|-Wardevil\b
 description: ''
 tags: []
+tests: []

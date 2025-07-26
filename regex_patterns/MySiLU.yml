@@ -2,3 +2,4 @@ name: MySiLU
 pattern: ^(MySiLU)$
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: DBArabic
 pattern: \b(DBArabic)\b
 description: ''
 tags: []
+tests: []

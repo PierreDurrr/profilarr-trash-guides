@@ -1,4 +1,5 @@
 name: CRUCiBLE
-pattern: \[CRUCiBLE\]|-CRUCiBLE\b
+pattern: \(CRUCiBLE\)|-CRUCiBLE\b
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: Kallango
-pattern: \[Kallango\]|-Kallango\b
+pattern: \(Kallango\)|-Kallango\b
 description: ''
 tags: []
+tests: []

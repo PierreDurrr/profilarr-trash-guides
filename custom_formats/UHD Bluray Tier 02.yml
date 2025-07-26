@@ -8,8 +8,6 @@ trash_scores:
   sqp-5: 2200
   french-multi-vf: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uhd-bluray-tier-02)'
-metadata:
-  includeInRename: false
 tags:
 - Release Group
 conditions:

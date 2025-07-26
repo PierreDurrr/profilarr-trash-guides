@@ -2,3 +2,4 @@ name: CRFW
 pattern: ^(CRFW)$
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: Dolby Vision
-pattern: \b(dv|dovi|dolby[ .]?V(ision)?)\b
+pattern: \b(dv|dovi|dolby( .)?V(ision)?)\b
 description: ''
 tags: []
+tests: []

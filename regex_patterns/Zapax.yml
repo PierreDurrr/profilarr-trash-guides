@@ -2,3 +2,4 @@ name: Zapax
 pattern: ^(Zapax)$
 description: ''
 tags: []
+tests: []

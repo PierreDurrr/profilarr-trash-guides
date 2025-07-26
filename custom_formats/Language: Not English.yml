@@ -3,8 +3,6 @@ trash_id: 0dc8aec3bd1c47cd6c40c46ecd27e846
 trash_scores:
   default: -10000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-not-english)'
-metadata:
-  includeInRename: false
 tags:
 - Language
 conditions:

@@ -2,3 +2,4 @@ name: R
 pattern: ^(ROUGH|RUDE|Ryotox)$
 description: ''
 tags: []
+tests: []

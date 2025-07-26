@@ -1,4 +1,5 @@
 name: Pixel
-pattern: \[Pixel\]|-Pixel\b
+pattern: \(Pixel\)|-Pixel\b
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: Judgement
-pattern: \[Judgment\]|-Judgment\b
+pattern: \(Judgment\)|-Judgment\b
 description: ''
 tags: []
+tests: []

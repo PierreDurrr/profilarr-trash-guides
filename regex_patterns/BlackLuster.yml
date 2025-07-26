@@ -2,3 +2,4 @@ name: BlackLuster
 pattern: \b(BlackLuster)\b
 description: ''
 tags: []
+tests: []

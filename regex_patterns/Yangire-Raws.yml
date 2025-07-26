@@ -1,4 +1,5 @@
 name: Yangire-Raws
-pattern: \b(Yangire[ .-]?Raws)\b
+pattern: \b(Yangire( .-)?Raws)\b
 description: ''
 tags: []
+tests: []

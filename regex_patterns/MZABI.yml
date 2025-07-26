@@ -2,3 +2,4 @@ name: MZABI
 pattern: ^(MZABI)$
 description: ''
 tags: []
+tests: []

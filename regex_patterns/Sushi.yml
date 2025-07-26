@@ -1,4 +1,5 @@
 name: Sushi
-pattern: \[Sushi\]|-Sushi\b
+pattern: \(Sushi\)|-Sushi\b
 description: ''
 tags: []
+tests: []

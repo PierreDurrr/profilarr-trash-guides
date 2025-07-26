@@ -1,4 +1,5 @@
 name: Pao
-pattern: \[Pao\]|-Pao\b
+pattern: \(Pao\)|-Pao\b
 description: ''
 tags: []
+tests: []

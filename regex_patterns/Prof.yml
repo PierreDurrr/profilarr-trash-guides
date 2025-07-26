@@ -1,4 +1,5 @@
 name: Prof
-pattern: \[Prof\]|-Prof\b
+pattern: \(Prof\)|-Prof\b
 description: ''
 tags: []
+tests: []

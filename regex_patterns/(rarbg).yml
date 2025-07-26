@@ -1,4 +1,5 @@
 name: (rarbg)
-pattern: \[rarbg\]
+pattern: \(rarbg\)
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: CTR
 pattern: \b(CTR)\b
 description: ''
 tags: []
+tests: []

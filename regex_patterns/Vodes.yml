@@ -1,4 +1,5 @@
 name: Vodes
-pattern: \[Vodes\]|(?<!Not)-Vodes\b
+pattern: \(Vodes\)|(?<!Not)-Vodes\b
 description: ''
 tags: []
+tests: []

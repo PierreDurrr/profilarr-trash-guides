@@ -2,3 +2,4 @@ name: KRP
 pattern: \b(KRP)\b
 description: ''
 tags: []
+tests: []

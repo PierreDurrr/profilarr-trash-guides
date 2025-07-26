@@ -2,3 +2,4 @@ name: hydes
 pattern: \b(hydes)\b
 description: ''
 tags: []
+tests: []

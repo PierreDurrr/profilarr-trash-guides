@@ -1,4 +1,5 @@
 name: WtF Anime
-pattern: \b(WtF[ ._-]?Anime)\b
+pattern: \b(WtF( ._-)?Anime)\b
 description: ''
 tags: []
+tests: []

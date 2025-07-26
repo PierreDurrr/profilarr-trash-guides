@@ -1,4 +1,5 @@
 name: Team Arcedo
-pattern: \b((Team[ .-])?Arcedo)\b
+pattern: \b((Team( .-))?Arcedo)\b
 description: ''
 tags: []
+tests: []

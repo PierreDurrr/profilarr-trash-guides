@@ -2,3 +2,4 @@ name: TiNA
 pattern: ^(TiNA)$
 description: ''
 tags: []
+tests: []

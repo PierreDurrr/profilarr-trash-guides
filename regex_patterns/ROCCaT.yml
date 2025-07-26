@@ -2,3 +2,4 @@ name: ROCCaT
 pattern: ^(ROCCaT)$
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: ENCOUNTERS
 pattern: ^(ENCOUNTERS)$
 description: ''
 tags: []
+tests: []

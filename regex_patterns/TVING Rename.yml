@@ -1,4 +1,5 @@
 name: TVING Rename
-pattern: \[(TVING)\b|\b(TVING)\]
+pattern: \((TVING)\b|\b(TVING)\)
 description: ''
 tags: []
+tests: []

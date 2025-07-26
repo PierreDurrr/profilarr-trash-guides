@@ -1,4 +1,5 @@
 name: x|h264
-pattern: '[xh][ ._-]?264|\bAVC(\b|\d)'
+pattern: (xh)( ._-)?264|\bAVC(\b|\d)
 description: ''
 tags: []
+tests: []

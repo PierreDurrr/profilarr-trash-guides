@@ -1,4 +1,5 @@
 name: HBO Rename
-pattern: \[(HBO)\b|\b(HBO)\]
+pattern: \((HBO)\b|\b(HBO)\)
 description: ''
 tags: []
+tests: []

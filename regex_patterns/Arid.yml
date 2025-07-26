@@ -1,4 +1,5 @@
 name: Arid
-pattern: \[Arid\]|-Arid\b
+pattern: \(Arid\)|-Arid\b
 description: ''
 tags: []
+tests: []

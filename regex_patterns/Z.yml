@@ -2,3 +2,4 @@ name: Z
 pattern: ^(ZEST|ZiRCON)$
 description: ''
 tags: []
+tests: []

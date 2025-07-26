@@ -2,3 +2,4 @@ name: ZR
 pattern: \b(ZR)\b
 description: ''
 tags: []
+tests: []

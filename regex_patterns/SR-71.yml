@@ -2,3 +2,4 @@ name: SR-71
 pattern: \b(SR-71)\b
 description: ''
 tags: []
+tests: []

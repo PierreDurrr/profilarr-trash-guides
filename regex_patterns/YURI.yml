@@ -1,4 +1,5 @@
 name: YURI
-pattern: \[YURI\]|-YURI\b
+pattern: \(YURI\)|-YURI\b
 description: ''
 tags: []
+tests: []

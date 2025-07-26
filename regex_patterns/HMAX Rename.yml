@@ -1,4 +1,5 @@
 name: HMAX Rename
-pattern: \[(HMAX)\b|\b(HMAX)\]
+pattern: \((HMAX)\b|\b(HMAX)\)
 description: ''
 tags: []
+tests: []

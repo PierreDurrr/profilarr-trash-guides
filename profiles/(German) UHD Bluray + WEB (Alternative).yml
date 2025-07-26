@@ -75,7 +75,7 @@ custom_formats:
   score: -35000
 - name: Line-Mic Dubbed
   score: -35000
-- name: DV HDR10Plus
+- name: DV HDR10+
   score: 1500
 - name: DV HDR10
   score: 1500

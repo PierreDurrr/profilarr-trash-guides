@@ -1,4 +1,5 @@
 name: NanakoRaws
-pattern: Nanako[ ._-]?(Raws)
+pattern: Nanako( ._-)?(Raws)
 description: ''
 tags: []
+tests: []

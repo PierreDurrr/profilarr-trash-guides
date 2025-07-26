@@ -2,3 +2,4 @@ name: $tore-Chill
 pattern: \b(\$tore-Chill)\b
 description: ''
 tags: []
+tests: []

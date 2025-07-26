@@ -2,8 +2,6 @@ name: VFB
 trash_id: b3fb499641d7b3c2006be1d9eb014cb3
 trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vfb)'
-metadata:
-  includeInRename: true
 tags:
 - Release Title
 conditions:
@@ -13,3 +11,5 @@ conditions:
   type: release_title
   pattern: Belgian French
 tests: []
+metadata:
+  includeInRename: true

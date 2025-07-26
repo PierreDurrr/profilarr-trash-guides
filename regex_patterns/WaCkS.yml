@@ -2,3 +2,4 @@ name: WaCkS
 pattern: ^(WaCkS)$
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: Soldado
-pattern: \[Soldado\]|-Soldado\b
+pattern: \(Soldado\)|-Soldado\b
 description: ''
 tags: []
+tests: []

@@ -3,8 +3,6 @@ trash_id: db9b4c4b53d312a3ca5f1378f6440fc9
 trash_scores:
   default: 25
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#vinegar-syndrome)'
-metadata:
-  includeInRename: true
 tags:
 - Release Title
 conditions:
@@ -24,3 +22,5 @@ conditions:
   type: release_title
   pattern: VinSyn
 tests: []
+metadata:
+  includeInRename: true

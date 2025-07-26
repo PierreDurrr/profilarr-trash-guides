@@ -1,4 +1,5 @@
 name: IMAX
-pattern: \b((?<!NON[ ._-])IMAX)\b
+pattern: \b((?<!NON( ._-))IMAX)\b
 description: ''
 tags: []
+tests: []

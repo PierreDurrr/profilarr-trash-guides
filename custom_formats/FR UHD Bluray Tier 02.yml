@@ -6,8 +6,6 @@ trash_scores:
   french-multi-vo: 1750
   french-vostfr: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-uhd-bluray-tier-02)'
-metadata:
-  includeInRename: false
 tags:
 - Source
 conditions:

@@ -2,3 +2,4 @@ name: SANTi
 pattern: ^(SANTi)$
 description: ''
 tags: []
+tests: []

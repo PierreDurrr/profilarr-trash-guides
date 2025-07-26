@@ -1,4 +1,5 @@
 name: Good Job! Alexis
-pattern: \b(Good[ .-]?(Job|Rip|Sub)!?[ .-]?Alexis)\b
+pattern: \b(Good( .-)?(Job|Rip|Sub)!?( .-)?Alexis)\b
 description: ''
 tags: []
+tests: []

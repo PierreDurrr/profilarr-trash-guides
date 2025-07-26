@@ -2,3 +2,4 @@ name: SUBFRENCH
 pattern: \b(SUBFR(A|ENCH)?)\b
 description: ''
 tags: []
+tests: []

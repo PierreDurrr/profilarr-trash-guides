@@ -2,3 +2,4 @@ name: iPUNISHER
 pattern: \b(iPUNISHER)\b
 description: ''
 tags: []
+tests: []

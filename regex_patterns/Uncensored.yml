@@ -1,4 +1,5 @@
 name: Uncensored
-pattern: \b(Uncut|Unrated|Uncensored|AT[-_. ]?X)\b
+pattern: \b(Uncut|Unrated|Uncensored|AT(-_. )?X)\b
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: SAViOURHD
 pattern: ^(SAViOURHD)$
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: Kirion
 pattern: \b(Kirion)\b
 description: ''
 tags: []
+tests: []

@@ -3,8 +3,6 @@ trash_id: 2a6039655313bf5dab1e43523b62c374
 trash_scores:
   default: 20
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ma)'
-metadata:
-  includeInRename: true
 tags:
 - Release Title
 conditions:
@@ -14,3 +12,5 @@ conditions:
   type: release_title
   pattern: Movies Anywhere
 tests: []
+metadata:
+  includeInRename: true

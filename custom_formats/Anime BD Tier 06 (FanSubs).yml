@@ -3,8 +3,6 @@ trash_id: 9dce189b960fddf47891b7484ee886ca
 trash_scores:
   default: 900
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-06-fansubs)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

@@ -2,3 +2,4 @@ name: FX
 pattern: ^(FX)$
 description: ''
 tags: []
+tests: []

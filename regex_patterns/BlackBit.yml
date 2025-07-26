@@ -2,3 +2,4 @@ name: BlackBit
 pattern: ^(BlackBit)$
 description: ''
 tags: []
+tests: []

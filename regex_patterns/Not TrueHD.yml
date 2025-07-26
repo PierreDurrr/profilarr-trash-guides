@@ -1,4 +1,5 @@
 name: Not TrueHD
-pattern: True[ .-]?HD
+pattern: True( .-)?HD
 description: ''
 tags: []
+tests: []

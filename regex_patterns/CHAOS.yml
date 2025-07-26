@@ -2,3 +2,4 @@ name: CHAOS
 pattern: ^(CHAOS)$
 description: ''
 tags: []
+tests: []

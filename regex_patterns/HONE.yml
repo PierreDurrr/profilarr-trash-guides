@@ -2,3 +2,4 @@ name: HONE
 pattern: ^(HONE)$
 description: ''
 tags: []
+tests: []

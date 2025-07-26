@@ -2,3 +2,4 @@ name: Seimeisen
 pattern: \b(Seimeisen)\b
 description: ''
 tags: []
+tests: []

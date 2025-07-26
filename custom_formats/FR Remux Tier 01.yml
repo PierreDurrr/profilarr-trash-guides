@@ -6,8 +6,6 @@ trash_scores:
   french-multi-vo: 1950
   french-vostfr: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-remux-tier-01)'
-metadata:
-  includeInRename: false
 tags:
 - Release Group
 conditions:

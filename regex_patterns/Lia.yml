@@ -1,4 +1,5 @@
 name: Lia
-pattern: \[Lia\]|-Lia\b
+pattern: \(Lia\)|-Lia\b
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: FastSUB
 pattern: \b(FastSUB)\b
 description: ''
 tags: []
+tests: []

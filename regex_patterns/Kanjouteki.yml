@@ -2,3 +2,4 @@ name: Kanjouteki
 pattern: \b(Kanjouteki)\b
 description: ''
 tags: []
+tests: []

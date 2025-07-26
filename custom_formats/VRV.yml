@@ -3,8 +3,6 @@ trash_id: 60f6d50cbd3cfc3e9a8c00e3a30c3114
 trash_scores:
   default: 10
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#vrv)'
-metadata:
-  includeInRename: true
 tags:
 - Source
 conditions:
@@ -24,3 +22,5 @@ conditions:
   type: source
   source: 8
 tests: []
+metadata:
+  includeInRename: true

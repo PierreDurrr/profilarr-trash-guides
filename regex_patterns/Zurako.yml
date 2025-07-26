@@ -2,3 +2,4 @@ name: Zurako
 pattern: \b(Zurako)\b
 description: ''
 tags: []
+tests: []

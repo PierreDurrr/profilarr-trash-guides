@@ -4,8 +4,6 @@ trash_scores:
   default: -10000
   german: -35000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#obfuscated)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

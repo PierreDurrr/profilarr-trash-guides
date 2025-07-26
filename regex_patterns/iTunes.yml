@@ -1,4 +1,5 @@
 name: iTunes
-pattern: \b(it|itunes)\b(?=[ ._-]web[ ._-]?(dl|rip)\b)
+pattern: \b(it|itunes)\b(?=( ._-)web( ._-)?(dl|rip)\b)
 description: ''
 tags: []
+tests: []

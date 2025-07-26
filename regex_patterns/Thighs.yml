@@ -1,4 +1,5 @@
 name: Thighs
-pattern: \[Thighs\]|-Thighs\b
+pattern: \(Thighs\)|-Thighs\b
 description: ''
 tags: []
+tests: []

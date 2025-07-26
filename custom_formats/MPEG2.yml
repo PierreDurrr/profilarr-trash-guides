@@ -2,8 +2,6 @@ name: MPEG2
 trash_id: ff86c4326018682f817830ced463332b
 trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#mpeg2)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

@@ -2,3 +2,4 @@ name: FanSUB
 pattern: \b(FanSUB)\b
 description: ''
 tags: []
+tests: []

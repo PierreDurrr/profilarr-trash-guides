@@ -1,4 +1,5 @@
 name: HR
-pattern: \[HR\]|-HR\b
+pattern: \(HR\)|-HR\b
 description: ''
 tags: []
+tests: []

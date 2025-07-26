@@ -7,8 +7,6 @@ trash_scores:
   sqp-1-2160p: -10000
   sqp-1-web-2160p: -10000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#bcore)'
-metadata:
-  includeInRename: true
 tags:
 - Source
 conditions:
@@ -28,3 +26,5 @@ conditions:
   type: source
   source: 8
 tests: []
+metadata:
+  includeInRename: true

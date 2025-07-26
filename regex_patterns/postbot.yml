@@ -2,3 +2,4 @@ name: postbot
 pattern: -postbot\b
 description: ''
 tags: []
+tests: []

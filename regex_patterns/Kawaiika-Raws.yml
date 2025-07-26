@@ -1,4 +1,5 @@
 name: Kawaiika-Raws
-pattern: Kawaiika[ ._-]?(Raws)
+pattern: Kawaiika( ._-)?(Raws)
 description: ''
 tags: []
+tests: []

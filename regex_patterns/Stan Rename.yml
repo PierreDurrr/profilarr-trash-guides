@@ -1,4 +1,5 @@
 name: Stan Rename
-pattern: \[(STAN)\b|\b(STAN)\]
+pattern: \((STAN)\b|\b(STAN)\)
 description: ''
 tags: []
+tests: []

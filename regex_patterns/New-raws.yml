@@ -1,4 +1,5 @@
 name: New-raws
-pattern: New[ ._-]?(raws)
+pattern: New( ._-)?(raws)
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: MisFiTS
 pattern: ^(MisFiTS)$
 description: ''
 tags: []
+tests: []

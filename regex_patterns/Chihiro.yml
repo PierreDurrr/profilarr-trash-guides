@@ -1,4 +1,5 @@
 name: Chihiro
-pattern: \[Chihiro\]|-Chihiro\b
+pattern: \(Chihiro\)|-Chihiro\b
 description: ''
 tags: []
+tests: []

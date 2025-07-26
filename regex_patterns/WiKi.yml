@@ -2,3 +2,4 @@ name: WiKi
 pattern: ^(WiKi)$
 description: ''
 tags: []
+tests: []

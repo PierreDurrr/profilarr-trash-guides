@@ -1,4 +1,5 @@
 name: Koten_Gars
-pattern: \b(Koten[ ._-]Gars)\b
+pattern: \b(Koten( ._-)Gars)\b
 description: ''
 tags: []
+tests: []

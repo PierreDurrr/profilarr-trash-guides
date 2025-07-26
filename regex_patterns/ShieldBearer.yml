@@ -2,3 +2,4 @@ name: ShieldBearer
 pattern: ^(ShieldBearer)$
 description: ''
 tags: []
+tests: []

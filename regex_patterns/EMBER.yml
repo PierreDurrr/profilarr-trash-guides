@@ -1,4 +1,5 @@
 name: EMBER
-pattern: \[EMBER\]|-EMBER\b
+pattern: \(EMBER\)|-EMBER\b
 description: ''
 tags: []
+tests: []

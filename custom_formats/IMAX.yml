@@ -3,8 +3,6 @@ trash_id: eecf3a857724171f968a66cb5719e152
 trash_scores:
   default: 800
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#imax)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

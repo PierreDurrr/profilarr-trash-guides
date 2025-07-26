@@ -1,4 +1,5 @@
 name: IrizaRaws
-pattern: Iriza[ ._-]?(Raws)
+pattern: Iriza( ._-)?(Raws)
 description: ''
 tags: []
+tests: []

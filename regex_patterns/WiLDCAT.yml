@@ -2,3 +2,4 @@ name: WiLDCAT
 pattern: ^(WiLDCAT)$
 description: ''
 tags: []
+tests: []

@@ -45,7 +45,7 @@ custom_formats:
   score: 1500
 - name: FR LQ
   score: -10000
-- name: DV HDR10Plus
+- name: DV HDR10+
   score: 1500
 - name: DV HDR10
   score: 1500

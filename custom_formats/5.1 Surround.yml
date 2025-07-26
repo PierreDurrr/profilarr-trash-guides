@@ -2,8 +2,6 @@ name: 5.1 Surround
 trash_id: 77ff61788dfe1097194fd8743d7b4524
 trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#51-surround)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

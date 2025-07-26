@@ -3,8 +3,6 @@ trash_id: c53085ddbd027d9624b320627748612f
 trash_scores:
   default: 1500
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-hdr10plus)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

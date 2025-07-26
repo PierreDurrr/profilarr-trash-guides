@@ -2,3 +2,4 @@ name: HDHUB4U
 pattern: ^(HDHUB4U)$
 description: ''
 tags: []
+tests: []

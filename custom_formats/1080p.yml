@@ -3,8 +3,6 @@ trash_id: 820b09bb9acbfde9c35c71e0e565dad8
 trash_scores:
   default: 50
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#1080p)'
-metadata:
-  includeInRename: false
 tags:
 - Resolution
 conditions:

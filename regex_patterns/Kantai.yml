@@ -1,4 +1,5 @@
 name: Kantai
-pattern: \[Kantai\]|-Kantai\b
+pattern: \(Kantai\)|-Kantai\b
 description: ''
 tags: []
+tests: []

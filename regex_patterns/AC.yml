@@ -1,4 +1,5 @@
 name: AC
-pattern: \[AC\]|-AC$
+pattern: \(AC\)|-AC$
 description: ''
 tags: []
+tests: []

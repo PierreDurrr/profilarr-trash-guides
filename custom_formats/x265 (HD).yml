@@ -4,12 +4,10 @@ trash_scores:
   default: -10000
   german: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x265-hd)'
-metadata:
-  includeInRename: false
 tags:
 - Resolution
 conditions:
-- name: x265/HEVC
+- name: x265-HEVC
   negate: false
   required: true
   type: release_title

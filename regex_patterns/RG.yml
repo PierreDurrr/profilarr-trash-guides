@@ -2,3 +2,4 @@ name: RG
 pattern: ^(RG)$
 description: ''
 tags: []
+tests: []

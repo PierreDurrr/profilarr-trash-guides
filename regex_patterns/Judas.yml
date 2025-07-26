@@ -1,4 +1,5 @@
 name: Judas
-pattern: \[Judas\]|-Judas
+pattern: \(Judas\)|-Judas
 description: ''
 tags: []
+tests: []

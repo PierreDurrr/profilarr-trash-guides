@@ -2,3 +2,4 @@ name: N
 pattern: ^(NERDHD|NERO|NrZ|NTK)$
 description: ''
 tags: []
+tests: []

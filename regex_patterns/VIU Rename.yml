@@ -1,4 +1,5 @@
 name: VIU Rename
-pattern: \[(VIU)\b|\b(VIU)\]
+pattern: \((VIU)\b|\b(VIU)\)
 description: ''
 tags: []
+tests: []

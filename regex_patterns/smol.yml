@@ -1,4 +1,5 @@
 name: smol
-pattern: \[smol\]|-smol\b
+pattern: \(smol\)|-smol\b
 description: ''
 tags: []
+tests: []

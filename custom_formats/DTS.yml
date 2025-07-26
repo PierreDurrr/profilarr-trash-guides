@@ -7,8 +7,6 @@ trash_scores:
   sqp-1-2160p: 0
   sqp-1-web-2160p: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dts)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:
@@ -22,7 +20,7 @@ conditions:
   required: true
   type: release_title
   pattern: Not DTS-HD
-- name: Not DTS-HD HRA/ES
+- name: Not DTS-HD HRA-ES
   negate: true
   required: true
   type: release_title
@@ -32,7 +30,7 @@ conditions:
   required: true
   type: release_title
   pattern: Not Dolby Digital Plus
-- name: Not TrueHD/ATMOS
+- name: Not TrueHD-ATMOS
   negate: true
   required: true
   type: release_title

@@ -2,3 +2,4 @@ name: GS
 pattern: \b(GS)\b
 description: ''
 tags: []
+tests: []

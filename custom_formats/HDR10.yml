@@ -3,8 +3,6 @@ trash_id: dfb86d5941bc9075d6af23b09c2aeecd
 trash_scores:
   default: 500
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hdr10)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

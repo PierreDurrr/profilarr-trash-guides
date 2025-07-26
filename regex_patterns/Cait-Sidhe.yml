@@ -2,3 +2,4 @@ name: Cait-Sidhe
 pattern: \b(Cait-Sidhe)\b
 description: ''
 tags: []
+tests: []

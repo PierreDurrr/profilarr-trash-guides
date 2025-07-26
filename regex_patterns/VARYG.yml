@@ -2,3 +2,4 @@ name: VARYG
 pattern: \b(VARYG)\b
 description: ''
 tags: []
+tests: []

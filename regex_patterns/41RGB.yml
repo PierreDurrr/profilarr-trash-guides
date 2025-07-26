@@ -2,3 +2,4 @@ name: 41RGB
 pattern: ^(41RGB)$
 description: ''
 tags: []
+tests: []

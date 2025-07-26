@@ -1,4 +1,5 @@
 name: Dae
-pattern: \[Dae\]|-Dae\b
+pattern: \(Dae\)|-Dae\b
 description: ''
 tags: []
+tests: []

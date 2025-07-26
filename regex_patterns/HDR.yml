@@ -2,3 +2,4 @@ name: HDR
 pattern: \bHDR(\b|\d)
 description: ''
 tags: []
+tests: []

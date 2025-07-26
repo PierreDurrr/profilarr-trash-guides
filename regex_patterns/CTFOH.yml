@@ -2,3 +2,4 @@ name: CTFOH
 pattern: ^(CTFOH)$
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: SOLA
-pattern: \[SOLA\]|-SOLA\b
+pattern: \(SOLA\)|-SOLA\b
 description: ''
 tags: []
+tests: []

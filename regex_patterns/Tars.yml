@@ -2,3 +2,4 @@ name: Tars
 pattern: ^(Tars)$
 description: ''
 tags: []
+tests: []

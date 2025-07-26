@@ -1,4 +1,5 @@
 name: Mysteria
-pattern: \[Mysteria\]|-Mysteria\b
+pattern: \(Mysteria\)|-Mysteria\b
 description: ''
 tags: []
+tests: []

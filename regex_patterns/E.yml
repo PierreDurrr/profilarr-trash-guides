@@ -2,3 +2,4 @@ name: E
 pattern: ^(E)$
 description: ''
 tags: []
+tests: []

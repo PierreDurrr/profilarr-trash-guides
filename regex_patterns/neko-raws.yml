@@ -1,4 +1,5 @@
 name: neko-raws
-pattern: neko[ ._-]?(raws)
+pattern: neko( ._-)?(raws)
 description: ''
 tags: []
+tests: []

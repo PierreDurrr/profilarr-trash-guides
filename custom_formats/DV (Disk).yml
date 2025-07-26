@@ -3,8 +3,6 @@ trash_id: f700d29429c023a5734505e77daeaea7
 trash_scores:
   default: 101
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-disk)'
-metadata:
-  includeInRename: false
 tags:
 - Release Title
 conditions:

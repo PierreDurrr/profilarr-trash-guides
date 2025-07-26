@@ -2,3 +2,4 @@ name: ONLY
 pattern: ^(ONLY)$
 description: ''
 tags: []
+tests: []

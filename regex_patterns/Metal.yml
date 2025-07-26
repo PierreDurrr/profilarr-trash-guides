@@ -1,4 +1,5 @@
 name: Metal
-pattern: \[Metal\]|-Metal\b
+pattern: \(Metal\)|-Metal\b
 description: ''
 tags: []
+tests: []

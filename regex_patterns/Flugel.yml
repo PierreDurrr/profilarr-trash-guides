@@ -2,3 +2,4 @@ name: Flugel
 pattern: \b(Flugel)\b
 description: ''
 tags: []
+tests: []

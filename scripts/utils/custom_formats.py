@@ -33,7 +33,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
     conditions = []
     for spec in input_json.get("specifications", []):
         condition = {
-            "name": spec.get("name", ""),
+            "name": get_file_name(spec.get("name", "")),
             "negate": spec.get("negate", False),
             "required": spec.get("required", False),
             "type": IMPLEMENTATION_TO_TYPE_MAPPING.get(
@@ -70,13 +70,14 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         "description": f"""[Custom format from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service.capitalize()}-collection-of-custom-formats/#{file_name})
 
 {markdownify(input_json.get('description', ''))}""".strip(),
-        "metadata": {
-            "includeInRename": input_json.get("includeCustomFormatWhenRenaming", False),
-        },
         "tags": IMPLEMENTATION_TO_TAG_MAPPING[implementation],
         "conditions": conditions,
         "tests": [],
     }
+
+    include_in_rename = input_json.get("includeCustomFormatWhenRenaming", False)
+    if include_in_rename:
+        yml_data["metadata"] = {"includeInRename": include_in_rename}
 
     # Output path
     output_path = os.path.join(output_dir, f"{get_file_name(name)}.yml")

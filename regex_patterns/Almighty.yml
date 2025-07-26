@@ -1,4 +1,5 @@
 name: Almighty
-pattern: \[Almighty\]|-Almighty\b
+pattern: \(Almighty\)|-Almighty\b
 description: ''
 tags: []
+tests: []

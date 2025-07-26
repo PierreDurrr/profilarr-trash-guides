@@ -2,3 +2,4 @@ name: POTO
 pattern: ^(POTO)$
 description: ''
 tags: []
+tests: []

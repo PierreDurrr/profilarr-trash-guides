@@ -1,4 +1,5 @@
 name: Scryous-Raws
-pattern: Scryous[ ._-]?(Raws)
+pattern: Scryous( ._-)?(Raws)
 description: ''
 tags: []
+tests: []

@@ -1,4 +1,5 @@
 name: DV HLG
-pattern: \b(DV[ .]HLG)\b
+pattern: \b(DV( .)HLG)\b
 description: ''
 tags: []
+tests: []

@@ -2,3 +2,4 @@ name: TANOSHii
 pattern: \b(TANOSHii)\b
 description: ''
 tags: []
+tests: []

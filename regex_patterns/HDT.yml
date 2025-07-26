@@ -2,3 +2,4 @@ name: HDT
 pattern: ^(HDT)$
 description: ''
 tags: []
+tests: []

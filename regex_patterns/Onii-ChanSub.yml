@@ -1,4 +1,5 @@
 name: Onii-ChanSub
-pattern: \b(Onii[ .-]?ChanSub)\b
+pattern: \b(Onii( .-)?ChanSub)\b
 description: ''
 tags: []
+tests: []

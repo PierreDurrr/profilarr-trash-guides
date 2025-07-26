@@ -3,8 +3,6 @@ trash_id: c259005cbaeb5ab44c06eddb4751e70c
 trash_scores:
   default: -51
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#v0)'
-metadata:
-  includeInRename: true
 tags:
 - Release Title
 conditions:
@@ -14,3 +12,5 @@ conditions:
   type: release_title
   pattern: v0
 tests: []
+metadata:
+  includeInRename: true

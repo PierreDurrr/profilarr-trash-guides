@@ -1,4 +1,5 @@
 name: LowPower-Raws
-pattern: LowPower[ ._-]?(Raws)
+pattern: LowPower( ._-)?(Raws)
 description: ''
 tags: []
+tests: []

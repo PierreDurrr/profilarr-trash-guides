@@ -2,3 +2,4 @@ name: CHD
 pattern: ^(CHD)$
 description: ''
 tags: []
+tests: []

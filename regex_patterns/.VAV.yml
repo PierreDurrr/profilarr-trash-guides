@@ -1,4 +1,5 @@
 name: .VAV
-pattern: '[.]VAV\b'
+pattern: (.)VAV\b
 description: ''
 tags: []
+tests: []

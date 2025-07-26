@@ -2,3 +2,4 @@ name: Not DTS
 pattern: \bDTS(\b|\d)
 description: ''
 tags: []
+tests: []
