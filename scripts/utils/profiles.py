@@ -77,7 +77,7 @@ def collect_qualities(items):
 
   return qualities
 
-def collect_profile(service, file_name, input_json, output_dir):
+def collect_profile(service, input_json, output_dir):
     # Compose YAML structure
     name = input_json.get('name', '')
     trash_id = input_json.get('trash_id', '')
@@ -97,7 +97,7 @@ def collect_profile(service, file_name, input_json, output_dir):
     }
 
     # Output path
-    output_path = os.path.join(output_dir, f"{file_name}-{trash_id}.yml")
+    output_path = os.path.join(output_dir, f"{name}.yml")
     with open(output_path, 'w', encoding='utf-8') as f:
         yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
     print(f"Generated: {output_path}")
@@ -109,7 +109,6 @@ def collect_profiles(service, input_dir, output_dir):
                 continue
 
             file_path = os.path.join(root, filename)
-            file_stem = os.path.splitext(filename)[0]  # Filename without extension
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-            collect_profile(service, file_stem, data, output_dir)
+            collect_profile(service, data, output_dir)
