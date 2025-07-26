@@ -1,4 +1,4 @@
 name: DV HDR10+
-pattern: \b(DV[ .]SDR)\b
+pattern: ^(?=.*\b(DV|DoVi|Dolby[ .]?V(ision)?)\b)(?=.*\b((HDR10(?=(P(lus)?)\b|\+))))
 description: ''
 tags: []

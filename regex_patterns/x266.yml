@@ -1,4 +1,0 @@
-name: x266
-pattern: '[xh][ ._-]?266|\bVVC(\b|\d)'
-description: ''
-tags: []

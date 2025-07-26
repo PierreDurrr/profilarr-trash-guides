@@ -1,0 +1,4 @@
+name: SLAX
+pattern: \b(SLAX)\b
+description: ''
+tags: []

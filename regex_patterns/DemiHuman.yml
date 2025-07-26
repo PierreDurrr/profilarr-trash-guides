@@ -1,0 +1,4 @@
+name: DemiHuman
+pattern: \[DemiHuman\]|-DemiHuman\b
+description: ''
+tags: []

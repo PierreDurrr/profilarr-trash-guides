@@ -1,0 +1,4 @@
+name: MiniMTBB
+pattern: \b(MiniMTBB)\b
+description: ''
+tags: []

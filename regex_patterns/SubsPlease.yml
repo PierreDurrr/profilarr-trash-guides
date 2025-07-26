@@ -1,0 +1,4 @@
+name: SubsPlease
+pattern: \b(SubsPlease)\b
+description: ''
+tags: []

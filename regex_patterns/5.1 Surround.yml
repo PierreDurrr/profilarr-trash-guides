@@ -1,4 +1,4 @@
 name: 5.1 Surround
-pattern: (?<!repac)[^0-9][1-4][ .][0-1]\b|\b(Stereo|Mono)\b
+pattern: '[^0-9]5[ .][0-1]\b'
 description: ''
 tags: []

@@ -1,4 +1,4 @@
 name: PQ
-pattern: \bSDR(\b|\d)
+pattern: \b(PQ)\b
 description: ''
 tags: []

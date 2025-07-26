@@ -1,4 +1,4 @@
 name: Vinegar Syndrome
-pattern: \b(VinSyn)\b
+pattern: \b(Vinegar[ ._-]Syndrome)\b
 description: ''
 tags: []

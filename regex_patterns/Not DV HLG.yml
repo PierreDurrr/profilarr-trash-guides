@@ -1,0 +1,4 @@
+name: Not DV HLG
+pattern: \b(DV[ .]HLG)\b
+description: ''
+tags: []

@@ -1,4 +1,4 @@
 name: MULTi
-pattern: \b(Multi)(?![ ._-]?sub(s)?)(\b|\d)
+pattern: \b(MULTi)(\b|\d)
 description: ''
 tags: []

@@ -1,0 +1,4 @@
+name: MK
+pattern: \b(MK)\b
+description: ''
+tags: []

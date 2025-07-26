@@ -1,0 +1,4 @@
+name: Videoland
+pattern: \b(vdl|Videoland)\b
+description: ''
+tags: []

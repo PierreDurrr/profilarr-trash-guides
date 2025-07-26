@@ -1,4 +1,4 @@
 name: SiC
-pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
+pattern: ^(SiC)$
 description: ''
 tags: []

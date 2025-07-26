@@ -1,0 +1,4 @@
+name: TRUEFRENCH
+pattern: \b(TRUEFRENCH|VFF)\b
+description: ''
+tags: []

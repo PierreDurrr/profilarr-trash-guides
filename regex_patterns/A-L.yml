@@ -1,0 +1,4 @@
+name: A-L
+pattern: \b(A-L)\b
+description: ''
+tags: []

@@ -1,0 +1,4 @@
+name: Line Dubbed
+pattern: \b(LD|AC3LD|Line[ .-]?Dubbed)\b
+description: ''
+tags: []

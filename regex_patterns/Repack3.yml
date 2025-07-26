@@ -1,4 +1,4 @@
 name: Repack3
-pattern: \b(REAL\.REAL\.(PROPER|REPACK))\b
+pattern: \b(Repack3)\b
 description: ''
 tags: []

@@ -1,4 +1,4 @@
 name: DV HLG
-pattern: \b(DV[ .]SDR)\b
+pattern: \b(DV[ .]HLG)\b
 description: ''
 tags: []

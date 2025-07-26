@@ -1,4 +1,4 @@
 name: HDR
-pattern: \bSDR(\b|\d)
+pattern: \bHDR(\b|\d)
 description: ''
 tags: []

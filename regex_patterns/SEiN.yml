@@ -1,0 +1,4 @@
+name: SEiN
+pattern: \[SEiN\]|-SEiN\b
+description: ''
+tags: []

@@ -1,0 +1,4 @@
+name: McBalls
+pattern: \b(McBalls)\b
+description: ''
+tags: []

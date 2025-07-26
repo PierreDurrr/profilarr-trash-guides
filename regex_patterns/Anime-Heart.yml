@@ -1,0 +1,4 @@
+name: Anime-Heart
+pattern: \b(Anime[ .-]?Heart)\b
+description: ''
+tags: []

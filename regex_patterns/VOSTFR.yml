@@ -1,4 +1,4 @@
 name: VOSTFR
-pattern: \b(SUBFR(A|ENCH)?)\b
+pattern: \b(VOST.*?FR(E|A)?)\b
 description: ''
 tags: []

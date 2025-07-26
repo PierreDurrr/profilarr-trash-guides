@@ -1,0 +1,4 @@
+name: EDGE
+pattern: \[EDGE\]|-EDGE\b
+description: ''
+tags: []

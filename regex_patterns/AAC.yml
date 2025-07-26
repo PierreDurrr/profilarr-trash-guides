@@ -1,4 +1,4 @@
 name: AAC
-pattern: True[ .-]?HD|\bATMOS(\b|\d)
+pattern: \bAAC(\b|\d)
 description: ''
 tags: []

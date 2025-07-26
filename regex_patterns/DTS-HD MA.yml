@@ -1,4 +1,4 @@
 name: DTS-HD MA
-pattern: dts[-. ]?(es|(hd[. ]?)?(hr|hi))
+pattern: \b(dts[-_. ]?(ma|hd([-_. ]?ma)?|xll))(\b|\d)
 description: ''
 tags: []

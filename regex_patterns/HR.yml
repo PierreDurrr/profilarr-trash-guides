@@ -1,0 +1,4 @@
+name: HR
+pattern: \[HR\]|-HR\b
+description: ''
+tags: []

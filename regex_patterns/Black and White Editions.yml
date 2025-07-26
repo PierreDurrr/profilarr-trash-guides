@@ -1,4 +1,0 @@
-name: Black and White Editions
-pattern: (?<=\b[12]\d{3}\b).*\b(Darkness?[ ._-]?(and|&)[ ._-]?(Light))\b(?!$)
-description: ''
-tags: []

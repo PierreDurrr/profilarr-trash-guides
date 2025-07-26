@@ -1,4 +1,0 @@
-name: Not German or English
-pattern: (?i)\bgerman\b
-description: ''
-tags: []

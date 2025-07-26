@@ -1,4 +1,4 @@
 name: HLG
-pattern: \b(PQ)\b
+pattern: \b(HLG)\b
 description: ''
 tags: []

@@ -1,0 +1,4 @@
+name: CAPTCHA
+pattern: -CAPTCHA\b
+description: ''
+tags: []

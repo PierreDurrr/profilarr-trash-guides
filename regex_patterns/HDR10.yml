@@ -1,4 +1,4 @@
 name: HDR10
-pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
+pattern: \bHDR10(?!\+|Plus)\b
 description: ''
 tags: []

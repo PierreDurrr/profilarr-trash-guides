@@ -1,4 +1,4 @@
 name: Hybrid
-pattern: \b(HYBRID)\b
+pattern: \bhybrid(\b|\d)
 description: ''
 tags: []

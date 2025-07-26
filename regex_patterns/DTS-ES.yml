@@ -1,4 +1,4 @@
 name: DTS-ES
-pattern: \b(l?)PCM(\b|\d)
+pattern: dts[-. ]?es\b
 description: ''
 tags: []

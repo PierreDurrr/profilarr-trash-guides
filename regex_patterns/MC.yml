@@ -1,0 +1,4 @@
+name: MC
+pattern: \b(MC)\b
+description: ''
+tags: []

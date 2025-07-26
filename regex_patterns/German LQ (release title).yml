@@ -1,4 +1,0 @@
-name: German LQ (release title)
-pattern: '[._-]German[._-].+?[._-]?German$'
-description: ''
-tags: []

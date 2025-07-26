@@ -1,0 +1,4 @@
+name: Davinci
+pattern: \[Davinci\]|-Davinci\b
+description: ''
+tags: []

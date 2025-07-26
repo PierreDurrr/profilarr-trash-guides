@@ -20,7 +20,7 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
             print(f"No pattern found in {file_name} for {implementation}")
             continue
         # Compose YAML structure
-        name = input_json.get("name", "")
+        name = spec.get("name", "")
         yml_data = {
             "name": name,
             "pattern": pattern,

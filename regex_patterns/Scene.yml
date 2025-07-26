@@ -1,4 +1,4 @@
 name: Scene
-pattern: \b(GERMAN)\b
+pattern: ^(Scene)$
 description: ''
 tags: []

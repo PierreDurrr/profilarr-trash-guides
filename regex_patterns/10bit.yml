@@ -1,4 +1,4 @@
 name: 10bit
-pattern: hi10p
+pattern: 10[.-]?bit
 description: ''
 tags: []

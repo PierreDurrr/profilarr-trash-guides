@@ -1,4 +1,4 @@
 name: Masters of Cinema
-pattern: \b(MoC)\b
+pattern: \b(Masters[ .-]?Of[ .-]?Cinema)(\b|\d)
 description: ''
 tags: []

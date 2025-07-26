@@ -1,4 +1,4 @@
 name: FLAC
-pattern: \bDD[P+]|\b(e[-_. ]?ac-?3)\b
+pattern: \bFLAC(\b|\d)
 description: ''
 tags: []

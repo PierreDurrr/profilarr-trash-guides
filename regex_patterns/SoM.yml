@@ -1,0 +1,4 @@
+name: SoM
+pattern: \[SoM\]|-SoM\b
+description: ''
+tags: []

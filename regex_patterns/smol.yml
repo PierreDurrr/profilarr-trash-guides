@@ -1,0 +1,4 @@
+name: smol
+pattern: \[smol\]|-smol\b
+description: ''
+tags: []

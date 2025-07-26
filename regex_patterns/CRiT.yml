@@ -1,4 +1,4 @@
 name: CRiT
-pattern: ^(Criterion)$
+pattern: \b(CRiT)\b
 description: ''
 tags: []

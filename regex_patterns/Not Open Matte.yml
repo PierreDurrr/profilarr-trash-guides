@@ -1,0 +1,4 @@
+name: Not Open Matte
+pattern: \b(Open[ ._-]?Matte)\b
+description: ''
+tags: []

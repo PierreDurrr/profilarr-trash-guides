@@ -1,4 +1,0 @@
-name: VFQ
-pattern: \b(VF2|(VF(F|Q)[ .]VF(F|Q)))\b
-description: ''
-tags: []

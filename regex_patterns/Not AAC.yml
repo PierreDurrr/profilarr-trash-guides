@@ -1,0 +1,4 @@
+name: Not AAC
+pattern: \bAAC(\b|\d)
+description: ''
+tags: []

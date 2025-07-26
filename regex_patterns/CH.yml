@@ -1,0 +1,4 @@
+name: CH
+pattern: \[CH\]|-CH\b
+description: ''
+tags: []

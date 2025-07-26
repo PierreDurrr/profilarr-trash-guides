@@ -1,4 +1,0 @@
-name: HMAX
-pattern: \[(HMAX)\b|\b(HMAX)\]
-description: ''
-tags: []

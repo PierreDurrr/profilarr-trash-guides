@@ -1,4 +1,4 @@
 name: Special Edition
-pattern: \b(Extended[ ._-]Clip)\b
+pattern: (?<!^|{)\b(extended|uncut|directors|special|unrated|uncensored|cut|version|edition)(\b|\d)
 description: ''
 tags: []

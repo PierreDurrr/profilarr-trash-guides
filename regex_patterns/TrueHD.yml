@@ -1,4 +1,4 @@
 name: TrueHD
-pattern: \b(CtrlHD|W4NK3R|DON)\b
+pattern: True[ .-]?HD|W4NK3R|HQMUX
 description: ''
 tags: []

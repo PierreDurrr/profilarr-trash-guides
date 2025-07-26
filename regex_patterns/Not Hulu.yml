@@ -1,0 +1,4 @@
+name: Not Hulu
+pattern: \b(hulu)\b
+description: ''
+tags: []

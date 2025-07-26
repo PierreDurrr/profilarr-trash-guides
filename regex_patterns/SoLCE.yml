@@ -1,0 +1,4 @@
+name: SoLCE
+pattern: \b(SoLCE)\b
+description: ''
+tags: []

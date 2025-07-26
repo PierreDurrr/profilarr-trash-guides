@@ -1,4 +1,0 @@
-name: 4.0 Sound
-pattern: '[^0-9][5-9][ .][0-1]\b'
-description: ''
-tags: []

@@ -1,0 +1,4 @@
+name: Sokudo
+pattern: \[Sokudo\]|-Sokudo\b
+description: ''
+tags: []

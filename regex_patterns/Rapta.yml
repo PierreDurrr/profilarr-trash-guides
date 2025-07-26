@@ -1,0 +1,4 @@
+name: Rapta
+pattern: \[Rapta\]|-Rapta\b
+description: ''
+tags: []

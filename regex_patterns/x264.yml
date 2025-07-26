@@ -1,4 +1,0 @@
-name: x264
-pattern: '[xh][ ._-]?264|\bAVC(\b|\d)'
-description: ''
-tags: []

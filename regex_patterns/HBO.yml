@@ -1,4 +1,4 @@
 name: HBO
-pattern: \[(HBO)\b|\b(HBO)\]
+pattern: \b(hbo)(?![ ._-]max)\b(?=[ ._-]web[ ._-]?(dl|rip)\b)
 description: ''
 tags: []

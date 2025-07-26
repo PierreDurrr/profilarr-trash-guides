@@ -1,4 +1,4 @@
 name: DTS X
-pattern: \b(l?)PCM(\b|\d)
+pattern: '\b(dts[-_.: ]?x7?)\b(?![-_. ]?(26[456]))'
 description: ''
 tags: []

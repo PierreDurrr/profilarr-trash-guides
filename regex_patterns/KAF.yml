@@ -1,0 +1,4 @@
+name: KAF
+pattern: \b(KAF)\b
+description: ''
+tags: []

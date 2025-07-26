@@ -1,0 +1,4 @@
+name: mottoj
+pattern: \b(mottoj)\b
+description: ''
+tags: []

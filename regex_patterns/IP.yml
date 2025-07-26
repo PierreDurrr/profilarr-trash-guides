@@ -1,4 +1,0 @@
-name: IP
-pattern: \b(ip|iplayer)\b
-description: ''
-tags: []

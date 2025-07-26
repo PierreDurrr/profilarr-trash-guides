@@ -1,4 +1,0 @@
-name: HDR10+ Boost
-pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
-description: ''
-tags: []

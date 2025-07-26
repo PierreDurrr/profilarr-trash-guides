@@ -1,4 +1,4 @@
 name: Obfuscated
-pattern: _nzb\b
+pattern: -Obfuscated\b
 description: ''
 tags: []

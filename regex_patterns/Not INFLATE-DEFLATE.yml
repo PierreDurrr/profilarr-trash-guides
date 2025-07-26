@@ -1,0 +1,4 @@
+name: Not INFLATE/DEFLATE
+pattern: \b(INFLATE|DEFLATE)\b
+description: ''
+tags: []

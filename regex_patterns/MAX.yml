@@ -1,4 +1,4 @@
 name: MAX
-pattern: \[(MAX)\b|\b(MAX)\]
+pattern: ^(MAX)$
 description: ''
 tags: []
