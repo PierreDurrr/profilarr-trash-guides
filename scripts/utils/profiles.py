@@ -6,29 +6,39 @@ from markdownify import markdownify
 
 from utils.strings import get_file_name
 
+cache = {}
+
 
 def find_score_for_custom_format(
     trash_score_set, custom_format_name, trash_id, output_dir
 ):
     custom_formats_dir = os.path.join(output_dir, "..", "custom_formats")
     target_file = None
+
+    if cache.get(trash_id):
+        trash_scores = cache[trash_id].get("trash_scores", {})
+        if not trash_scores:
+            print(f"No trash scores found in cache for {custom_format_name}")
+            return 0
+
+        return trash_scores.get(trash_score_set, trash_scores.get("default", 0))
+
     for fname in os.listdir(custom_formats_dir):
         if fname.endswith(".yml"):
             target_file = os.path.join(custom_formats_dir, fname)
-            break
 
         if not target_file or not os.path.exists(target_file):
-            print(
-                f"Custom format with trash_id {trash_id} not found in {custom_formats_dir}"
-            )
-            return 0
+            print(f"Target file {target_file} does not exist. Skipping...")
+            continue
 
         with open(target_file, "r", encoding="utf-8") as f:
             data = yaml.safe_load(f)
 
         if not data or "trash_id" not in data:
             print(f"Invalid custom format data for {custom_format_name}")
-            return 0
+            continue
+
+        cache[trash_id] = data
 
         if data["trash_id"] != trash_id:
             continue

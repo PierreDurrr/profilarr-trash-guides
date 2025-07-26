@@ -21,104 +21,60 @@ qualities:
   - id: 4
     name: Bluray-1080p
 custom_formats:
-- name: VFF
-  score: null
-- name: VOF
-  score: null
-- name: VFI
-  score: null
-- name: VF2
-  score: null
-- name: VFQ
-  score: null
-- name: VOQ
-  score: null
-- name: VQ
-  score: null
-- name: VFB
-  score: null
 - name: 'Language: Not Original'
-  score: null
-- name: 'Language: Not French'
-  score: null
+  score: -10000
 - name: 'Language: Original + French'
-  score: null
-- name: MULTi
-  score: null
+  score: 500
 - name: FR HD Bluray Tier 01
-  score: null
+  score: 1800
 - name: FR HD Bluray Tier 02
-  score: null
+  score: 1750
 - name: FR WEB Tier 01
-  score: null
+  score: 1700
 - name: FR WEB Tier 02
-  score: null
+  score: 1650
 - name: FR Scene Groups
-  score: null
+  score: 1500
 - name: FR LQ
-  score: null
+  score: -10000
 - name: HD Bluray Tier 01
-  score: null
+  score: 1800
 - name: HD Bluray Tier 02
-  score: null
+  score: 1750
 - name: HD Bluray Tier 03
-  score: null
+  score: 1700
 - name: WEB Tier 01
-  score: null
+  score: 1700
 - name: WEB Tier 02
-  score: null
+  score: 1650
 - name: WEB Tier 03
-  score: null
+  score: 1600
 - name: Repack/Proper
-  score: null
+  score: 5
 - name: Repack2
-  score: null
+  score: 6
 - name: Repack3
-  score: null
+  score: 7
 - name: BR-DISK
-  score: null
+  score: -10000
 - name: LQ
-  score: null
+  score: -10000
 - name: LQ (Release Title)
-  score: null
+  score: -10000
 - name: 3D
-  score: null
+  score: -10000
 - name: Upscaled
-  score: null
+  score: -10000
 - name: Extras
-  score: null
+  score: -10000
 - name: Sing-Along Versions
-  score: null
+  score: -10000
 - name: AV1
-  score: null
-- name: AMZN
-  score: null
-- name: ATVP
-  score: null
+  score: -10000
 - name: BCORE
-  score: null
+  score: 15
 - name: CRiT
-  score: null
-- name: DSNP
-  score: null
-- name: HBO
-  score: null
-- name: HMAX
-  score: null
-- name: Hulu
-  score: null
-- name: iT
-  score: null
+  score: 20
 - name: MA
-  score: null
-- name: MAX
-  score: null
-- name: NF
-  score: null
-- name: PCOK
-  score: null
-- name: PMTP
-  score: null
-- name: STAN
-  score: null
+  score: 20
 language: original

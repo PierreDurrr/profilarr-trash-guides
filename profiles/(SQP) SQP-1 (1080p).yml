@@ -32,107 +32,71 @@ qualities:
     name: Bluray-1080p
 custom_formats:
 - name: TrueHD ATMOS
-  score: null
+  score: -10000
 - name: DTS X
-  score: null
-- name: ATMOS (undefined)
-  score: null
+  score: -10000
 - name: DD+ ATMOS
-  score: null
+  score: 135
 - name: TrueHD
-  score: null
+  score: -10000
 - name: DTS-HD MA
-  score: null
-- name: FLAC
-  score: null
-- name: PCM
-  score: null
+  score: -10000
 - name: DTS-HD HRA
-  score: null
+  score: -10000
 - name: DD+
-  score: null
-- name: DTS-ES
-  score: null
-- name: DTS
-  score: null
-- name: AAC
-  score: null
+  score: 125
 - name: DD
-  score: null
+  score: 115
 - name: BHDStudio
-  score: null
+  score: 1000
 - name: hallowed
-  score: null
+  score: 600
 - name: WEB Tier 01
-  score: null
+  score: 1700
 - name: WEB Tier 02
-  score: null
+  score: 1650
 - name: WEB Tier 03
-  score: null
+  score: 1600
 - name: HD Bluray Tier 01
-  score: null
+  score: 1100
 - name: HD Bluray Tier 02
-  score: null
+  score: 1050
 - name: HD Bluray Tier 03
-  score: null
+  score: 1000
 - name: Repack/Proper
-  score: null
+  score: 5
 - name: Repack2
-  score: null
+  score: 6
 - name: Repack3
-  score: null
+  score: 7
 - name: BR-DISK
-  score: null
+  score: -10000
 - name: Generated Dynamic HDR
-  score: null
+  score: -10000
 - name: LQ
-  score: null
+  score: -10000
 - name: LQ (Release Title)
-  score: null
+  score: -10000
 - name: x265 (HD)
-  score: null
+  score: -10000
 - name: 3D
-  score: null
+  score: -10000
 - name: Extras
-  score: null
+  score: -10000
 - name: Sing-Along Versions
-  score: null
+  score: -10000
 - name: 10 bit
-  score: null
+  score: -10000
 - name: AV1
-  score: null
+  score: -10000
 - name: 1080p
-  score: null
+  score: 50
 - name: 720p
-  score: null
-- name: AMZN
-  score: null
-- name: ATVP
-  score: null
+  score: 5
 - name: BCORE
-  score: null
+  score: -10000
 - name: CRiT
-  score: null
-- name: DSNP
-  score: null
-- name: HBO
-  score: null
-- name: HMAX
-  score: null
-- name: Hulu
-  score: null
-- name: iT
-  score: null
+  score: 20
 - name: MA
-  score: null
-- name: MAX
-  score: null
-- name: NF
-  score: null
-- name: PCOK
-  score: null
-- name: PMTP
-  score: null
-- name: STAN
-  score: null
+  score: 20
 language: original
