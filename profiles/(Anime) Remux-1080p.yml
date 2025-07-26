@@ -58,7 +58,6 @@ qualities:
 upgrade_until:
   name: Remux 1080p
   id: -4
-  description: ''
 custom_formats:
 - name: Anime BD Tier 01 (Top SeaDex Muxers)
   score: 1400

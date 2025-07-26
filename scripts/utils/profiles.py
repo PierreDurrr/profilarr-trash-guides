@@ -103,6 +103,8 @@ def get_upgrade_until(quality_name, profile_qualities):
     )
     if found_quality:
         found_quality = found_quality.copy()
+        if not found_quality.get("description"):
+            found_quality.pop("description", None)
         found_quality.pop("qualities", None)
     return found_quality
 

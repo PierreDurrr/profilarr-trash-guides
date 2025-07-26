@@ -33,7 +33,6 @@ qualities:
 upgrade_until:
   name: WEBDL|Bluray|2160p
   id: -1
-  description: ''
 custom_formats:
 - name: DV HDR10Plus
   score: 1500

@@ -33,7 +33,6 @@ qualities:
 upgrade_until:
   name: WEB|Remux|2160p
   id: -1
-  description: ''
 custom_formats:
 - name: TrueHD Atmos
   score: 5000

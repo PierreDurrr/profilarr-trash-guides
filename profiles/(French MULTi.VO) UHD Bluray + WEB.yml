@@ -24,7 +24,6 @@ qualities:
 upgrade_until:
   name: Bluray|WEB 2160p
   id: -1
-  description: ''
 custom_formats:
 - name: 'Language: Not Original'
   score: -10000

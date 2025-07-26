@@ -33,7 +33,6 @@ qualities:
 upgrade_until:
   name: Bluray|WEB-1080p
   id: -1
-  description: ''
 custom_formats:
 - name: TrueHD ATMOS
   score: -10000
