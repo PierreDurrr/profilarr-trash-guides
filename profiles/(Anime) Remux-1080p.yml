@@ -7,56 +7,6 @@ upgradesAllowed: true
 minCustomFormatScore: 100
 upgradeUntilScore: 10000
 minScoreIncrement: 1
-qualities:
-- name: SDTV
-  id: 24
-- name: DVD
-  id: 22
-- name: WEB 480p
-  id: -1
-  description: ''
-  qualities:
-  - id: 19
-    name: WEBDL-480p
-  - id: 20
-    name: WEBRip-480p
-- name: Bluray-480p
-  id: 18
-- name: Bluray-576p
-  id: 17
-- name: WEB 720p
-  id: -2
-  description: ''
-  qualities:
-  - id: 14
-    name: WEBDL-720p
-  - id: 15
-    name: WEBRip-720p
-  - id: 16
-    name: HDTV-720p
-- name: Bluray-720p
-  id: 13
-- name: WEB 1080p
-  id: -3
-  description: ''
-  qualities:
-  - id: 9
-    name: WEBDL-1080p
-  - id: 11
-    name: WEBRip-1080p
-  - id: 12
-    name: HDTV-1080p
-- name: Remux 1080p
-  id: -4
-  description: ''
-  qualities:
-  - id: 10
-    name: Bluray-1080p
-  - id: 8
-    name: Remux-1080p
-upgrade_until:
-  name: Remux 1080p
-  id: -4
 custom_formats:
 - name: Anime BD Tier 01 (Top SeaDex Muxers)
   score: 1400
@@ -66,8 +16,14 @@ custom_formats:
   score: 1200
 - name: Anime BD Tier 04 (SeaDex Muxers)
   score: 1100
+- name: Remux Tier 01
+  score: 1050
 - name: Anime BD Tier 05 (Remuxes)
   score: 1000
+- name: Remux Tier 02
+  score: 1000
+- name: Remux Tier 03
+  score: 950
 - name: Anime BD Tier 06 (FanSubs)
   score: 900
 - name: Anime BD Tier 07 (P2P-Scene)
@@ -80,44 +36,88 @@ custom_formats:
   score: 500
 - name: Anime Web Tier 03 (Official Subs)
   score: 400
-- name: Anime Web Tier 04 (Official Subs)
-  score: 300
-- name: Anime Web Tier 05 (FanSubs)
-  score: 200
-- name: Anime Web Tier 06 (FanSubs)
-  score: 100
-- name: Remux Tier 01
-  score: 1050
-- name: Remux Tier 02
-  score: 1000
-- name: Remux Tier 03
-  score: 950
 - name: WEB Tier 01
   score: 350
+- name: Anime Web Tier 04 (Official Subs)
+  score: 300
 - name: WEB Tier 02
   score: 250
+- name: Anime Web Tier 05 (FanSubs)
+  score: 200
 - name: WEB Tier 03
   score: 150
-- name: Anime Raws
-  score: -10000
-- name: Anime LQ Groups
-  score: -10000
-- name: v0
-  score: -51
-- name: v1
-  score: 1
-- name: v2
-  score: 2
-- name: v3
-  score: 3
-- name: v4
-  score: 4
+- name: Anime Web Tier 06 (FanSubs)
+  score: 100
 - name: VRV
   score: 10
+- name: v4
+  score: 4
+- name: v3
+  score: 3
+- name: v2
+  score: 2
+- name: v1
+  score: 1
+- name: v0
+  score: -51
+- name: Anime LQ Groups
+  score: -10000
+- name: Anime Raws
+  score: -10000
+- name: AV1
+  score: -10000
 - name: Dubs Only
   score: -10000
 - name: VOSTFR
   score: -10000
-- name: AV1
-  score: -10000
+qualities:
+- id: -4
+  name: Remux 1080p
+  description: ''
+  qualities:
+  - id: 10
+    name: Bluray-1080p
+  - id: 8
+    name: Remux-1080p
+- id: -3
+  name: WEB 1080p
+  description: ''
+  qualities:
+  - id: 9
+    name: WEBDL-1080p
+  - id: 11
+    name: WEBRip-1080p
+  - id: 12
+    name: HDTV-1080p
+- id: 13
+  name: Bluray-720p
+- id: -2
+  name: WEB 720p
+  description: ''
+  qualities:
+  - id: 14
+    name: WEBDL-720p
+  - id: 15
+    name: WEBRip-720p
+  - id: 16
+    name: HDTV-720p
+- id: 17
+  name: Bluray-576p
+- id: 18
+  name: Bluray-480p
+- id: -1
+  name: WEB 480p
+  description: ''
+  qualities:
+  - id: 19
+    name: WEBDL-480p
+  - id: 20
+    name: WEBRip-480p
+- id: 22
+  name: DVD
+- id: 24
+  name: SDTV
+upgrade_until:
+  id: -4
+  name: Remux 1080p
 language: original

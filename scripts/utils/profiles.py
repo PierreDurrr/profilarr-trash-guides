@@ -9,20 +9,28 @@ from utils.strings import get_file_name
 
 
 def collect_profile_formats(trash_score_set, format_items, trash_id_to_scoring_mapping):
-    profile_format = []
+    profile_formats = []
     for name, trash_id in format_items.items():
         scoring = trash_id_to_scoring_mapping[trash_id]
         score = scoring.get(trash_score_set, scoring.get("default", 0))
         if score == 0:
             continue
 
-        profile_format.append({"name": get_file_name(name), "score": score})
-    return profile_format
+        profile_formats.append({"name": get_file_name(name), "score": score})
+    return sorted(
+        profile_formats,
+        key=lambda profile_format: (
+            -profile_format["score"],
+            profile_format["name"].lower(),
+        ),
+        reverse=False,
+    )
 
 
 def get_quality_id(quality_name):
     return next(
-        quality["id"] for quality in QUALITIES if quality["name"] == quality_name
+        (quality["id"] for quality in QUALITIES if quality["name"] == quality_name),
+        None,
     )
 
 
@@ -34,6 +42,7 @@ def collect_qualities(items):
             continue
 
         quality = {
+            "id": get_quality_id(item.get("name", "")),
             "name": item.get("name", ""),
         }
         if item.get("items") is not None:
@@ -45,11 +54,9 @@ def collect_qualities(items):
                 quality["qualities"].append(
                     {"id": get_quality_id(sub_item), "name": sub_item}
                 )
-        else:
-            quality["id"] = get_quality_id(item.get("name", ""))
         qualities.append(quality)
 
-    return qualities
+    return list(reversed(qualities))
 
 
 def get_upgrade_until(quality_name, profile_qualities):
@@ -67,7 +74,6 @@ def get_upgrade_until(quality_name, profile_qualities):
 def collect_profile(service, input_json, output_dir, trash_id_to_scoring_mapping):
     # Compose YAML structure
     name = input_json.get("name", "")
-    trash_id = input_json.get("trash_id", "")
     profile_qualities = collect_qualities(input_json.get("items", []))
     yml_data = {
         "name": get_file_name(name),
@@ -79,13 +85,13 @@ def collect_profile(service, input_json, output_dir, trash_id_to_scoring_mapping
         "minCustomFormatScore": input_json.get("minFormatScore", 0),
         "upgradeUntilScore": input_json.get("cutoffFormatScore", 0),
         "minScoreIncrement": input_json.get("minUpgradeFormatScore", 0),
-        "qualities": profile_qualities,
-        "upgrade_until": get_upgrade_until(input_json.get("cutoff"), profile_qualities),
         "custom_formats": collect_profile_formats(
             input_json.get("trash_score_set"),
             input_json.get("formatItems", {}),
             trash_id_to_scoring_mapping,
         ),
+        "qualities": profile_qualities,
+        "upgrade_until": get_upgrade_until(input_json.get("cutoff"), profile_qualities),
         "language": input_json.get("language", "any").lower(),
     }
 

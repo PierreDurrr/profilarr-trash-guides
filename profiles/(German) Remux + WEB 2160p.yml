@@ -6,9 +6,108 @@ upgradesAllowed: true
 minCustomFormatScore: 0
 upgradeUntilScore: 35000
 minScoreIncrement: 1
+custom_formats:
+- name: German DL
+  score: 11000
+- name: German DL (undefined)
+  score: 11000
+- name: German
+  score: 10000
+- name: German 2160p Booster
+  score: 9000
+- name: German Remux Tier 01
+  score: 4000
+- name: German Remux Tier 02
+  score: 3900
+- name: German Web Tier 01
+  score: 2100
+- name: Remux Tier 01
+  score: 1950
+- name: German Web Tier 02
+  score: 1900
+- name: Remux Tier 02
+  score: 1900
+- name: Remux Tier 03
+  score: 1850
+- name: German Web Tier 03
+  score: 1800
+- name: German Scene
+  score: 1700
+- name: WEB Tier 01
+  score: 1700
+- name: WEB Tier 02
+  score: 1650
+- name: WEB Tier 03
+  score: 1600
+- name: DV
+  score: 1500
+- name: DV HDR10
+  score: 1500
+- name: DV HDR10+
+  score: 1500
+- name: DV HLG
+  score: 1500
+- name: DV SDR
+  score: 1500
+- name: German 1080p Booster
+  score: 650
+- name: HDR10+
+  score: 600
+- name: HDR
+  score: 500
+- name: HDR (undefined)
+  score: 500
+- name: HDR10
+  score: 500
+- name: HLG
+  score: 500
+- name: PQ
+  score: 500
+- name: 2160p
+  score: 100
+- name: 1080p
+  score: 50
+- name: CRiT
+  score: 20
+- name: MA
+  score: 20
+- name: BCORE
+  score: 15
+- name: Repack3
+  score: 7
+- name: Repack2
+  score: 6
+- name: 720p
+  score: 5
+- name: Repack-Proper
+  score: 5
+- name: 3D
+  score: -35000
+- name: AV1
+  score: -35000
+- name: BR-DISK
+  score: -35000
+- name: Extras
+  score: -35000
+- name: German LQ
+  score: -35000
+- name: German LQ (release title)
+  score: -35000
+- name: German Microsized
+  score: -35000
+- name: Line-Mic Dubbed
+  score: -35000
+- name: LQ
+  score: -35000
+- name: LQ (Release Title)
+  score: -35000
+- name: Not German or English
+  score: -35000
+- name: Upscaled
+  score: -35000
 qualities:
-- name: Merged QPs
-  id: -1
+- id: -1
+  name: Merged QPs
   description: ''
   qualities:
   - id: 6
@@ -18,105 +117,6 @@ qualities:
   - id: 3
     name: Remux-2160p
 upgrade_until:
-  name: Merged QPs
   id: -1
-custom_formats:
-- name: German 1080p Booster
-  score: 650
-- name: German 2160p Booster
-  score: 9000
-- name: 2160p
-  score: 100
-- name: 1080p
-  score: 50
-- name: 720p
-  score: 5
-- name: German
-  score: 10000
-- name: German DL
-  score: 11000
-- name: German DL (undefined)
-  score: 11000
-- name: Not German or English
-  score: -35000
-- name: German Remux Tier 01
-  score: 4000
-- name: German Remux Tier 02
-  score: 3900
-- name: German Web Tier 01
-  score: 2100
-- name: German Web Tier 02
-  score: 1900
-- name: German Web Tier 03
-  score: 1800
-- name: German Scene
-  score: 1700
-- name: German LQ
-  score: -35000
-- name: German LQ (release title)
-  score: -35000
-- name: German Microsized
-  score: -35000
-- name: Line-Mic Dubbed
-  score: -35000
-- name: DV HDR10+
-  score: 1500
-- name: DV HDR10
-  score: 1500
-- name: DV
-  score: 1500
-- name: DV HLG
-  score: 1500
-- name: DV SDR
-  score: 1500
-- name: HDR10+
-  score: 600
-- name: HDR10
-  score: 500
-- name: HDR
-  score: 500
-- name: HDR (undefined)
-  score: 500
-- name: PQ
-  score: 500
-- name: HLG
-  score: 500
-- name: Remux Tier 01
-  score: 1950
-- name: Remux Tier 02
-  score: 1900
-- name: Remux Tier 03
-  score: 1850
-- name: WEB Tier 01
-  score: 1700
-- name: WEB Tier 02
-  score: 1650
-- name: WEB Tier 03
-  score: 1600
-- name: Repack-Proper
-  score: 5
-- name: Repack2
-  score: 6
-- name: Repack3
-  score: 7
-- name: BR-DISK
-  score: -35000
-- name: LQ
-  score: -35000
-- name: LQ (Release Title)
-  score: -35000
-- name: 3D
-  score: -35000
-- name: Upscaled
-  score: -35000
-- name: Extras
-  score: -35000
-- name: AV1
-  score: -35000
-- name: BCORE
-  score: 15
-- name: CRiT
-  score: 20
-- name: MA
-  score: 20
+  name: Merged QPs
 language: any
