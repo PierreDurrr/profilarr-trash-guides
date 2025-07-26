@@ -1,0 +1,5 @@
+name: Sonarr - HAiKU
+pattern: \b(HAiKU)\b
+description: ''
+tags: []
+tests: []

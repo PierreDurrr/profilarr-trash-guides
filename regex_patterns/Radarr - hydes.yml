@@ -1,0 +1,5 @@
+name: Radarr - hydes
+pattern: \b(hydes)\b
+description: ''
+tags: []
+tests: []

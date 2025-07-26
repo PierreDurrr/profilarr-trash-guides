@@ -1,5 +1,0 @@
-name: radarr-TnF
-pattern: \b(TnF)\b
-description: ''
-tags: []
-tests: []

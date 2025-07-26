@@ -1,0 +1,5 @@
+name: Sonarr - Yuki
+pattern: \[Yuki\]|-Yuki\b
+description: ''
+tags: []
+tests: []

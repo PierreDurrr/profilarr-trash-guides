@@ -1,0 +1,12 @@
+name: Sonarr - AV1
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#av1)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - AV1
+  negate: false
+  required: true
+  type: release_title
+  pattern: AV1
+tests: []

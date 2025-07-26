@@ -1,5 +1,0 @@
-name: radarr-Apple TV+
-pattern: \b(atvp|aptv|Apple TV\+)\b
-description: ''
-tags: []
-tests: []

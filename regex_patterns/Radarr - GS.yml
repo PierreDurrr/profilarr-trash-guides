@@ -1,0 +1,5 @@
+name: Radarr - GS
+pattern: \b(GS)\b
+description: ''
+tags: []
+tests: []

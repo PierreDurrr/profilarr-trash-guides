@@ -1,0 +1,5 @@
+name: Sonarr - SEV
+pattern: \b(SEV)\b
+description: ''
+tags: []
+tests: []

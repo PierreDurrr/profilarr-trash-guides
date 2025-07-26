@@ -1,0 +1,5 @@
+name: Sonarr - RedBlade
+pattern: \b(RedBlade)\b
+description: ''
+tags: []
+tests: []

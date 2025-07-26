@@ -1,0 +1,12 @@
+name: Sonarr - MP3
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#mp3)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - MP3
+  negate: false
+  required: true
+  type: release_title
+  pattern: MP3
+tests: []

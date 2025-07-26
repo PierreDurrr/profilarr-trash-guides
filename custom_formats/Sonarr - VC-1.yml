@@ -1,0 +1,12 @@
+name: Sonarr - VC-1
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#vc-1)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - VC-1
+  negate: false
+  required: true
+  type: release_title
+  pattern: VC-1
+tests: []

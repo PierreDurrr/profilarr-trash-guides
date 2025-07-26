@@ -1,5 +1,0 @@
-name: sonarr-NemDiggers
-pattern: \b(NemDiggers)\b
-description: ''
-tags: []
-tests: []

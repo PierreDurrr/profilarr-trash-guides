@@ -1,5 +1,0 @@
-name: radarr-CBB
-pattern: \b(CBB)\b
-description: ''
-tags: []
-tests: []

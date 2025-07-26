@@ -1,5 +1,0 @@
-name: sonarr-xpost
-pattern: -xpost\b
-description: ''
-tags: []
-tests: []

@@ -1,5 +1,0 @@
-name: sonarr-BKC
-pattern: \b(BKC)\b
-description: ''
-tags: []
-tests: []

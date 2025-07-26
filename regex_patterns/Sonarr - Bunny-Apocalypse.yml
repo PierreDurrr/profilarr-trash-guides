@@ -1,0 +1,5 @@
+name: Sonarr - Bunny-Apocalypse
+pattern: \b(Bunny-Apocalypse)\b
+description: ''
+tags: []
+tests: []

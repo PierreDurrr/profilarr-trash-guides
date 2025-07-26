@@ -1,5 +1,0 @@
-name: sonarr-SHD
-pattern: ^(SHD)$
-description: ''
-tags: []
-tests: []

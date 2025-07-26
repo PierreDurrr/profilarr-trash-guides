@@ -1,0 +1,5 @@
+name: Radarr - Noyr
+pattern: \b(Noyr)\b
+description: ''
+tags: []
+tests: []

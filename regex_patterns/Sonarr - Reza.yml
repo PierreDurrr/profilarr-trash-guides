@@ -1,0 +1,5 @@
+name: Sonarr - Reza
+pattern: \b(Reza)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - Fumi-Raws
+pattern: Fumi[ ._-]?(Raws)
+description: ''
+tags: []
+tests: []

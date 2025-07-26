@@ -1,0 +1,5 @@
+name: Radarr - QCE
+pattern: \b(QCE)\b
+description: ''
+tags: []
+tests: []

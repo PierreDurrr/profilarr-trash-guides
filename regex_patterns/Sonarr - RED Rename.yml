@@ -1,0 +1,5 @@
+name: Sonarr - RED Rename
+pattern: \[(RED)\b|\b(RED)\]
+description: ''
+tags: []
+tests: []

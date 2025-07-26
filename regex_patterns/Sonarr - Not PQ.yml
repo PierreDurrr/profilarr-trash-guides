@@ -1,0 +1,5 @@
+name: Sonarr - Not PQ
+pattern: \b(PQ)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - DameDesuYo
+pattern: \b(DameDesuYo)\b
+description: ''
+tags: []
+tests: []

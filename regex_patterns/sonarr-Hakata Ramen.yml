@@ -1,5 +1,0 @@
-name: sonarr-Hakata Ramen
-pattern: \b(Hakata[ .-]?Ramen)\b
-description: ''
-tags: []
-tests: []

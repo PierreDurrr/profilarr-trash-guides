@@ -1,0 +1,5 @@
+name: Sonarr - Cunnysseur
+pattern: \b(Cunnysseur)\b
+description: ''
+tags: []
+tests: []

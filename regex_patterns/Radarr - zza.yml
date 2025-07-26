@@ -1,0 +1,5 @@
+name: Radarr - zza
+pattern: \[zza\]|-zza\b
+description: ''
+tags: []
+tests: []

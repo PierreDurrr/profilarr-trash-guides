@@ -1,0 +1,5 @@
+name: Sonarr - Pizza
+pattern: \[Pizza\]|-Pizza\b
+description: ''
+tags: []
+tests: []

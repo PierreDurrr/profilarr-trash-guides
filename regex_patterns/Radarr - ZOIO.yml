@@ -1,0 +1,5 @@
+name: Radarr - ZOIO
+pattern: \b(ZOIO)\b
+description: ''
+tags: []
+tests: []

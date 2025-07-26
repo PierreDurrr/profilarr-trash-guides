@@ -1,0 +1,5 @@
+name: Sonarr - FunArts
+pattern: \b(FunArts)\b
+description: ''
+tags: []
+tests: []

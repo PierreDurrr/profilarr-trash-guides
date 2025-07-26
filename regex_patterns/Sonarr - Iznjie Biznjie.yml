@@ -1,0 +1,5 @@
+name: Sonarr - Iznjie Biznjie
+pattern: \b(Iznjie[ .-]Biznjie)\b
+description: ''
+tags: []
+tests: []

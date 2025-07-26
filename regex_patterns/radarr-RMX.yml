@@ -1,5 +1,0 @@
-name: radarr-RMX
-pattern: \b(RMX)\b
-description: ''
-tags: []
-tests: []

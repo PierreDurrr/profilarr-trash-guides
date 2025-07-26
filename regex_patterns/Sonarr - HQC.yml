@@ -1,0 +1,5 @@
+name: Sonarr - HQC
+pattern: ^(HQC)$
+description: ''
+tags: []
+tests: []

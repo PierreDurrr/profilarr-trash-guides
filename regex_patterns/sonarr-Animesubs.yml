@@ -1,5 +1,0 @@
-name: sonarr-Animesubs
-pattern: \b(Animesubs)\b
-description: ''
-tags: []
-tests: []

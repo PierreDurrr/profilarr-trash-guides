@@ -1,0 +1,27 @@
+name: Sonarr - SHO
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#sho)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - SHOWTIME
+  negate: false
+  required: false
+  type: release_title
+  pattern: SHOWTIME
+- name: Sonarr - SHO Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: SHO Rename
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

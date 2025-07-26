@@ -1,0 +1,5 @@
+name: Sonarr - Judgement
+pattern: \[Judgment\]|-Judgment\b
+description: ''
+tags: []
+tests: []

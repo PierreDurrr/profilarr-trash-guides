@@ -1,5 +1,0 @@
-name: sonarr-iAHD
-pattern: \b(iAHD)\b
-description: ''
-tags: []
-tests: []

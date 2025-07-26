@@ -1,5 +1,0 @@
-name: sonarr-WRTEAM
-pattern: -WRTEAM\b
-description: ''
-tags: []
-tests: []

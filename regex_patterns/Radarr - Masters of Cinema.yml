@@ -1,0 +1,5 @@
+name: Radarr - Masters of Cinema
+pattern: \b(Masters[ .-]?Of[ .-]?Cinema)(\b|\d)
+description: ''
+tags: []
+tests: []

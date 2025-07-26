@@ -1,0 +1,5 @@
+name: Sonarr - UTOPiA
+pattern: ^(UTOPiA)$
+description: ''
+tags: []
+tests: []

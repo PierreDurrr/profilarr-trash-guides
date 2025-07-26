@@ -1,0 +1,5 @@
+name: Radarr - DB
+pattern: \[DB\]
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - WAYNE
+pattern: ^(WAYNE)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - JySzE
+pattern: \b(JySzE)\b
+description: ''
+tags: []
+tests: []

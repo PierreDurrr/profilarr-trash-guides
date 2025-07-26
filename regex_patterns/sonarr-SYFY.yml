@@ -1,5 +1,0 @@
-name: sonarr-SYFY
-pattern: \b(SYFY)\b
-description: ''
-tags: []
-tests: []

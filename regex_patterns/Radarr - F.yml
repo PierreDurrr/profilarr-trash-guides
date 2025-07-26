@@ -1,0 +1,5 @@
+name: Radarr - F
+pattern: ^(FHD|FiDELiO|FiDO|ForceBleue|FREAMON|FRENCHDEADPOOL2|FRiES|FUTiL|FWDHD)$
+description: ''
+tags: []
+tests: []

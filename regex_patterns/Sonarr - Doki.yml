@@ -1,0 +1,5 @@
+name: Sonarr - Doki
+pattern: \[Doki\]|-Doki\b
+description: ''
+tags: []
+tests: []

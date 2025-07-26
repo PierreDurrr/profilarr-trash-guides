@@ -1,0 +1,5 @@
+name: Radarr - HDT
+pattern: ^(HDT)$
+description: ''
+tags: []
+tests: []

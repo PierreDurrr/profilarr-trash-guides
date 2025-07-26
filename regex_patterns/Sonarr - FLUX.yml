@@ -1,0 +1,5 @@
+name: Sonarr - FLUX
+pattern: ^(FLUX)$
+description: ''
+tags: []
+tests: []

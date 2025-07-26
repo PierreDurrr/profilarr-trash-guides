@@ -1,5 +1,0 @@
-name: sonarr-AAC
-pattern: \bAAC(\b|\d)
-description: ''
-tags: []
-tests: []

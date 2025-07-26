@@ -1,0 +1,5 @@
+name: Radarr - BlurayDesuYo
+pattern: \b(BlurayDesuYo)\b
+description: ''
+tags: []
+tests: []

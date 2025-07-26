@@ -1,0 +1,12 @@
+name: Radarr - FreeLeech
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#freeleech)'
+tags:
+- Indexer Flag
+- Radarr
+conditions:
+- name: Radarr - FreeLeech
+  negate: false
+  required: false
+  type: indexer_flag
+  flag: 1
+tests: []

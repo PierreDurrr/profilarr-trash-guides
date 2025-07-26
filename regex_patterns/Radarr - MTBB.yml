@@ -1,0 +1,5 @@
+name: Radarr - MTBB
+pattern: \b(MTBB)\b
+description: ''
+tags: []
+tests: []

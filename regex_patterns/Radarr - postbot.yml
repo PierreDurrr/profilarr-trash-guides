@@ -1,0 +1,5 @@
+name: Radarr - postbot
+pattern: -postbot\b
+description: ''
+tags: []
+tests: []

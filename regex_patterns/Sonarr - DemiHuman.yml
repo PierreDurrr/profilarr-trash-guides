@@ -1,0 +1,5 @@
+name: Sonarr - DemiHuman
+pattern: \[DemiHuman\]|-DemiHuman\b
+description: ''
+tags: []
+tests: []

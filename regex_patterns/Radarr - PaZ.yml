@@ -1,0 +1,5 @@
+name: Radarr - PaZ
+pattern: (PaZ)$
+description: ''
+tags: []
+tests: []

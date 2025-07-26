@@ -1,0 +1,5 @@
+name: Sonarr - TVer
+pattern: \b(tver)\b
+description: ''
+tags: []
+tests: []

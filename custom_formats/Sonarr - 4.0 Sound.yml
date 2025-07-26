@@ -1,0 +1,32 @@
+name: Sonarr - 4.0 Sound
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#40-sound)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - 4.0ch
+  negate: false
+  required: true
+  type: release_title
+  pattern: 4.0ch
+- name: Sonarr - Not Mono
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Mono
+- name: Sonarr - Not Stereo
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Stereo
+- name: Sonarr - Not 3.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 3.0ch
+- name: Sonarr - Not High Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not High Channel Count
+tests: []

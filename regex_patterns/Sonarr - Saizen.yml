@@ -1,0 +1,5 @@
+name: Sonarr - Saizen
+pattern: \b(Saizen)\b
+description: ''
+tags: []
+tests: []

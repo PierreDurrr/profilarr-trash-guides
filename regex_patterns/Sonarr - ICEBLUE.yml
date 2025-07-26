@@ -1,0 +1,5 @@
+name: Sonarr - ICEBLUE
+pattern: \b(ICEBLUE)\b
+description: ''
+tags: []
+tests: []

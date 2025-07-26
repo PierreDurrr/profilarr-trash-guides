@@ -1,0 +1,5 @@
+name: Sonarr - BNd
+pattern: ^(BNd)$
+description: ''
+tags: []
+tests: []

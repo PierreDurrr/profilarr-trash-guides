@@ -1,0 +1,37 @@
+name: Sonarr - UHD Streaming Boost
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#uhd-streaming-boost)'
+tags:
+- Resolution
+- Sonarr
+conditions:
+- name: Sonarr - Peacock TV
+  negate: false
+  required: false
+  type: release_title
+  pattern: Peacock TV
+- name: Sonarr - Paramount+
+  negate: false
+  required: false
+  type: release_title
+  pattern: Paramount+
+- name: Sonarr - Hulu
+  negate: false
+  required: false
+  type: release_title
+  pattern: Hulu
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+- name: Sonarr - 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - MD
+pattern: \[MD\]|-MD\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - RWP
+pattern: ^(RWP)$
+description: ''
+tags: []
+tests: []

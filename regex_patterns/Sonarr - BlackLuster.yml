@@ -1,0 +1,5 @@
+name: Sonarr - BlackLuster
+pattern: \b(BlackLuster)\b
+description: ''
+tags: []
+tests: []

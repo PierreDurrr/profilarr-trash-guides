@@ -1,0 +1,22 @@
+name: Sonarr - German 2160p Booster
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-2160p-booster)'
+tags:
+- Resolution
+- Sonarr
+conditions:
+- name: Sonarr - German
+  negate: false
+  required: true
+  type: language
+  language: 4
+- name: Sonarr - Original Language
+  negate: false
+  required: true
+  type: language
+  language: -2
+- name: Sonarr - 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+tests: []

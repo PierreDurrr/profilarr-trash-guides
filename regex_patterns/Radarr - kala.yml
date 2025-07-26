@@ -1,0 +1,5 @@
+name: Radarr - kala
+pattern: (kala)$
+description: ''
+tags: []
+tests: []

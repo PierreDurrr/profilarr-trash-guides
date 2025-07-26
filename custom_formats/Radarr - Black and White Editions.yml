@@ -1,0 +1,42 @@
+name: Radarr - Black and White Editions
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#black-and-white-editions)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - Blackout-B&W-Black&Chrome
+  negate: false
+  required: false
+  type: release_title
+  pattern: Blackout/B&W/Black&Chrome
+- name: Radarr - Monochrome
+  negate: false
+  required: false
+  type: release_title
+  pattern: Monochrome
+- name: Radarr - Noir
+  negate: false
+  required: false
+  type: release_title
+  pattern: Noir
+- name: Radarr - Shush Cut
+  negate: false
+  required: false
+  type: release_title
+  pattern: Shush Cut
+- name: Radarr - No-Minus Color
+  negate: false
+  required: false
+  type: release_title
+  pattern: No/Minus Color
+- name: Radarr - Grayscale
+  negate: false
+  required: false
+  type: release_title
+  pattern: Grayscale
+- name: Radarr - Darkness and Light
+  negate: false
+  required: false
+  type: release_title
+  pattern: Darkness and Light
+tests: []

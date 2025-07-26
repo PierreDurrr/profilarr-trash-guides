@@ -1,0 +1,5 @@
+name: Radarr - Open Matte
+pattern: \b(Open[ ._-]?Matte)\b
+description: ''
+tags: []
+tests: []

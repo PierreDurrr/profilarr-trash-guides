@@ -1,0 +1,22 @@
+name: Radarr - Hybrid
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hybrid)'
+tags:
+- Source
+- Radarr
+conditions:
+- name: Radarr - Hybrid
+  negate: false
+  required: false
+  type: release_title
+  pattern: Hybrid
+- name: Radarr - Not Hybrid Release Group
+  negate: true
+  required: true
+  type: release_group
+  pattern: Not Hybrid Release Group
+- name: Radarr - Bluray
+  negate: false
+  required: false
+  type: source
+  source: 9
+tests: []

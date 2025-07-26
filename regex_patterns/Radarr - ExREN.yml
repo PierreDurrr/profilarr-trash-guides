@@ -1,0 +1,5 @@
+name: Radarr - ExREN
+pattern: \b(ExREN)\b
+description: ''
+tags: []
+tests: []

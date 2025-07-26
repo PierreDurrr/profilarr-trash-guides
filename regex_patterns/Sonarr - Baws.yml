@@ -1,0 +1,5 @@
+name: Sonarr - Baws
+pattern: \b(Baws)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - PaTroL
+pattern: ^(PaTroL)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - B-Global
+pattern: \b(B[ .-]?Global)\b
+description: ''
+tags: []
+tests: []

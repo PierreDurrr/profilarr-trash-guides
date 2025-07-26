@@ -1,0 +1,5 @@
+name: Sonarr - FOD
+pattern: \b(fod)\b
+description: ''
+tags: []
+tests: []

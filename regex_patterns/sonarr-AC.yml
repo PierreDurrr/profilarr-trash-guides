@@ -1,5 +1,0 @@
-name: sonarr-AC
-pattern: \[AC\]|-AC$
-description: ''
-tags: []
-tests: []

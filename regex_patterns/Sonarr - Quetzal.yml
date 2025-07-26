@@ -1,0 +1,5 @@
+name: Sonarr - Quetzal
+pattern: \b(Quetzal)\b
+description: ''
+tags: []
+tests: []

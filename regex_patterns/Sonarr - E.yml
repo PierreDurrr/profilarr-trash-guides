@@ -1,0 +1,5 @@
+name: Sonarr - E
+pattern: ^(ENJOi|EUBDS)$
+description: ''
+tags: []
+tests: []

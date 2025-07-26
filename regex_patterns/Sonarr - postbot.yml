@@ -1,0 +1,5 @@
+name: Sonarr - postbot
+pattern: -postbot\b
+description: ''
+tags: []
+tests: []

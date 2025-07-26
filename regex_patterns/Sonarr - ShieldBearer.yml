@@ -1,0 +1,5 @@
+name: Sonarr - ShieldBearer
+pattern: ^(ShieldBearer)$
+description: ''
+tags: []
+tests: []

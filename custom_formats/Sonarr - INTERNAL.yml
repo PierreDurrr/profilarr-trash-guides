@@ -1,0 +1,12 @@
+name: Sonarr - INTERNAL
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#internal)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - INTERNAL
+  negate: false
+  required: false
+  type: release_title
+  pattern: INTERNAL
+tests: []

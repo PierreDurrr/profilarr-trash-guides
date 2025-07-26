@@ -1,5 +1,0 @@
-name: sonarr-NOW Rename
-pattern: \[(NOW)\b|\b(NOW)\]
-description: ''
-tags: []
-tests: []

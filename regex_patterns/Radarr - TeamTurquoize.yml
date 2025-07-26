@@ -1,0 +1,5 @@
+name: Radarr - TeamTurquoize
+pattern: \b(TeamTurquoize)\b
+description: ''
+tags: []
+tests: []

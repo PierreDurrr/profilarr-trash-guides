@@ -1,0 +1,5 @@
+name: Radarr - Senjou
+pattern: \[Senjou\]|-Senjou\b
+description: ''
+tags: []
+tests: []

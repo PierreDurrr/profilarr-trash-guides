@@ -1,0 +1,5 @@
+name: Radarr - Flights
+pattern: ^(Flights)$
+description: ''
+tags: []
+tests: []

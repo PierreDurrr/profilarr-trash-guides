@@ -1,0 +1,5 @@
+name: Sonarr - TiNA
+pattern: ^(TiNA)$
+description: ''
+tags: []
+tests: []

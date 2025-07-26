@@ -1,0 +1,5 @@
+name: Sonarr - ASW
+pattern: \b(ASW)\b
+description: ''
+tags: []
+tests: []

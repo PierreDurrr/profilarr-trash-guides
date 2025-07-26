@@ -1,5 +1,0 @@
-name: sonarr-Bulldog
-pattern: \[Bulldog\]|-Bulldog\b
-description: ''
-tags: []
-tests: []

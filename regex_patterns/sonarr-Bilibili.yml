@@ -1,5 +1,0 @@
-name: sonarr-Bilibili
-pattern: \b(Bili(bili)?)\b
-description: ''
-tags: []
-tests: []

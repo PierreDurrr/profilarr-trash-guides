@@ -1,0 +1,5 @@
+name: Radarr - AniVoid
+pattern: \b(AniVoid)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - Koten_Gars
+pattern: \b(Koten[ ._-]Gars)\b
+description: ''
+tags: []
+tests: []

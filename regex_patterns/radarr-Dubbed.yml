@@ -1,5 +1,0 @@
-name: radarr-Dubbed
-pattern: ^(?!.*(Dual|Multi)[-_. ]?Audio).*((?<!multi-)\b(dub(bed)?)\b|(funi|eng(lish)?)_?dub)
-description: ''
-tags: []
-tests: []

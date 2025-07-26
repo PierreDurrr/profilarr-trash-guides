@@ -1,0 +1,5 @@
+name: Radarr - RSG
+pattern: ^(RSG)$
+description: ''
+tags: []
+tests: []

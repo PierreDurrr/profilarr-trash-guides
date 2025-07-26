@@ -1,0 +1,5 @@
+name: Radarr - RedBlade
+pattern: \b(RedBlade)\b
+description: ''
+tags: []
+tests: []

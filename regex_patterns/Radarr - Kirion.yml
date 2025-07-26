@@ -1,0 +1,5 @@
+name: Radarr - Kirion
+pattern: \b(Kirion)\b
+description: ''
+tags: []
+tests: []

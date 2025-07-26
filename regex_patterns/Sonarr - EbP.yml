@@ -1,0 +1,5 @@
+name: Sonarr - EbP
+pattern: ^(EbP)$
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: sonarr-peachflavored
-pattern: \b(peachflavored)\b
-description: ''
-tags: []
-tests: []

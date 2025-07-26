@@ -1,0 +1,5 @@
+name: Sonarr - ZR
+pattern: \b(ZR)\b
+description: ''
+tags: []
+tests: []

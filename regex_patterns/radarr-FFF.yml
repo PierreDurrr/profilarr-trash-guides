@@ -1,5 +1,0 @@
-name: radarr-FFF
-pattern: \b(FFF)\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Radarr - ZNM
+pattern: ^(ZNM)$
+description: ''
+tags: []
+tests: []

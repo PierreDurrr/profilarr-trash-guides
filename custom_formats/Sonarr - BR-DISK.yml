@@ -1,0 +1,12 @@
+name: Sonarr - BR-DISK
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#br-disk)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - BR-DISK
+  negate: false
+  required: true
+  type: release_title
+  pattern: BR-DISK
+tests: []

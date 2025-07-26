@@ -1,0 +1,5 @@
+name: Sonarr - THORA
+pattern: \b(THORA)\b
+description: ''
+tags: []
+tests: []

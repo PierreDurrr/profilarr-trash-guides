@@ -1,5 +1,0 @@
-name: sonarr-KQRM
-pattern: \b(KQRM)\b
-description: ''
-tags: []
-tests: []

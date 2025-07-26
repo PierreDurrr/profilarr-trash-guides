@@ -1,5 +1,0 @@
-name: radarr-VRV
-pattern: \b(vrv)\b
-description: ''
-tags: []
-tests: []

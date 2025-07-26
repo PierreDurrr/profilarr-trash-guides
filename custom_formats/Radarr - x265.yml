@@ -1,0 +1,17 @@
+name: Radarr - x265
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x265)'
+tags:
+- Quality Modifier
+- Radarr
+conditions:
+- name: Radarr - x|h265
+  negate: false
+  required: true
+  type: release_title
+  pattern: x|h265
+- name: Radarr - Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+tests: []

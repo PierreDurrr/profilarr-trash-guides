@@ -1,5 +1,0 @@
-name: radarr-HAV1T
-pattern: \b(HAV1T)\b
-description: ''
-tags: []
-tests: []

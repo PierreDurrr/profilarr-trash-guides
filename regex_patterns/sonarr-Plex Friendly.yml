@@ -1,5 +1,0 @@
-name: sonarr-Plex Friendly
-pattern: \b(Plex[ .-]?Friendly)\b
-description: ''
-tags: []
-tests: []

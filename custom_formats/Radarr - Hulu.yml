@@ -1,0 +1,22 @@
+name: Radarr - Hulu
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hulu)'
+tags:
+- Source
+- Radarr
+conditions:
+- name: Radarr - Hulu
+  negate: false
+  required: true
+  type: release_title
+  pattern: Hulu
+- name: Radarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: Radarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

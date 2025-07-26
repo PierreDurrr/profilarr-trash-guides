@@ -1,0 +1,5 @@
+name: Radarr - NH
+pattern: \b(NH)\b
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: radarr-OECUF
-pattern: \b(OECUF)\b
-description: ''
-tags: []
-tests: []

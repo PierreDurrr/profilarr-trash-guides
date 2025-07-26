@@ -1,5 +1,0 @@
-name: sonarr-SoM
-pattern: \[SoM\]|-SoM\b
-description: ''
-tags: []
-tests: []

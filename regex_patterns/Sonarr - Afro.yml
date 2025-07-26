@@ -1,0 +1,5 @@
+name: Sonarr - Afro
+pattern: \[Afro\]|-Afro\b
+description: ''
+tags: []
+tests: []

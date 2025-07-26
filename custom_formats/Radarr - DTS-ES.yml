@@ -1,0 +1,52 @@
+name: Radarr - DTS-ES
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dts-es)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - DTS-ES
+  negate: false
+  required: true
+  type: release_title
+  pattern: DTS-ES
+- name: Radarr - Not TrueHD-ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+- name: Radarr - Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Dolby Digital Plus
+- name: Radarr - Not Basic DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic DTS
+- name: 'Radarr - Not Basic Dolby Digital '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Basic Dolby Digital '
+- name: Radarr - Not DTS X
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS X
+- name: Radarr - Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: Radarr - Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: Radarr - Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+tests: []

@@ -1,5 +1,0 @@
-name: sonarr-HMAX Rename
-pattern: \[(HMAX)\b|\b(HMAX)\]
-description: ''
-tags: []
-tests: []

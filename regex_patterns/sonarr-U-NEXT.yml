@@ -1,5 +1,0 @@
-name: sonarr-U-NEXT
-pattern: \b(u-next)\b
-description: ''
-tags: []
-tests: []

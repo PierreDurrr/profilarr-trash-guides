@@ -1,5 +1,0 @@
-name: sonarr-FW
-pattern: ^(FW)$
-description: ''
-tags: []
-tests: []

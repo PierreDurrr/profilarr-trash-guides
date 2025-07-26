@@ -1,5 +1,0 @@
-name: sonarr-Nagutos
-pattern: \b(Nagutos)\b
-description: ''
-tags: []
-tests: []

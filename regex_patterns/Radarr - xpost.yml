@@ -1,0 +1,5 @@
+name: Radarr - xpost
+pattern: -xpost\b
+description: ''
+tags: []
+tests: []

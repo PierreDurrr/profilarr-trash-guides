@@ -1,5 +1,0 @@
-name: sonarr-KHAYA
-pattern: \b(KHAYA)\b
-description: ''
-tags: []
-tests: []

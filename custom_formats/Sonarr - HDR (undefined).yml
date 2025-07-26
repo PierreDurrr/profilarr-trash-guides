@@ -1,0 +1,47 @@
+name: Sonarr - HDR (undefined)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#hdr-undefined)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - RlsGrp (Missing HDR)
+  negate: false
+  required: true
+  type: release_group
+  pattern: RlsGrp (Missing HDR)
+- name: Sonarr - 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: Sonarr - Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV
+- name: Sonarr - Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10
+- name: Sonarr - Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10+
+- name: Sonarr - Not HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HLG
+- name: Sonarr - Not PQ
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PQ
+- name: Sonarr - Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not SDR
+tests: []

@@ -1,5 +1,0 @@
-name: sonarr-A-L
-pattern: \b(A-L)\b
-description: ''
-tags: []
-tests: []

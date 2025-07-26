@@ -1,0 +1,5 @@
+name: Sonarr - HENiL
+pattern: \b(HENiL)\b
+description: ''
+tags: []
+tests: []

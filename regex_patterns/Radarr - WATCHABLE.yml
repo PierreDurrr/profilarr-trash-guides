@@ -1,0 +1,5 @@
+name: Radarr - WATCHABLE
+pattern: ^(WATCHABLE)$
+description: ''
+tags: []
+tests: []

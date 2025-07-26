@@ -1,0 +1,5 @@
+name: Radarr - O
+pattern: ^(OBSTACLE|OohLaLa|OOKAMI)$
+description: ''
+tags: []
+tests: []

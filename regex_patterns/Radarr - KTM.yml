@@ -1,0 +1,5 @@
+name: Radarr - KTM
+pattern: ^(KTM)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - peachflavored
+pattern: \b(peachflavored)\b
+description: ''
+tags: []
+tests: []

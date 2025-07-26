@@ -1,0 +1,5 @@
+name: Sonarr - Flights
+pattern: ^(Flights)$
+description: ''
+tags: []
+tests: []

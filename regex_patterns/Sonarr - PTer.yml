@@ -1,0 +1,5 @@
+name: Sonarr - PTer
+pattern: ^(PTer)$
+description: ''
+tags: []
+tests: []

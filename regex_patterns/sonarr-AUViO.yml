@@ -1,5 +1,0 @@
-name: sonarr-AUViO
-pattern: \b(AUVIO)\b
-description: ''
-tags: []
-tests: []

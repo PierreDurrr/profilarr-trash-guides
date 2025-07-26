@@ -1,5 +1,0 @@
-name: radarr-Not DV HDR10
-pattern: ^(?=.*\b(DV|DoVi|Dolby[ .]?V(ision)?)\b)(?=.*\b(HDR(10)?(P(lus)?)?)\b)
-description: ''
-tags: []
-tests: []

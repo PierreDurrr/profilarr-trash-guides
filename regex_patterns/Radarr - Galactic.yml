@@ -1,0 +1,5 @@
+name: Radarr - Galactic
+pattern: \b(Galactic)\b
+description: ''
+tags: []
+tests: []

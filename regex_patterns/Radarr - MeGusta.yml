@@ -1,0 +1,5 @@
+name: Radarr - MeGusta
+pattern: ^(MeGusta)$
+description: ''
+tags: []
+tests: []

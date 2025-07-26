@@ -1,0 +1,5 @@
+name: Sonarr - CoalGirls
+pattern: \b(CoalGirls)\b
+description: ''
+tags: []
+tests: []

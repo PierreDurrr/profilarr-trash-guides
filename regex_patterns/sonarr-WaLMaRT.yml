@@ -1,5 +1,0 @@
-name: sonarr-WaLMaRT
-pattern: \b(WaLMaRT)\b
-description: ''
-tags: []
-tests: []

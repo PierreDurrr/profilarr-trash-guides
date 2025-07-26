@@ -1,0 +1,17 @@
+name: Sonarr - German DL
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#language-german-dl)'
+tags:
+- Language
+- Sonarr
+conditions:
+- name: Sonarr - German
+  negate: false
+  required: true
+  type: language
+  language: 4
+- name: Sonarr - Original Language
+  negate: false
+  required: true
+  type: language
+  language: -2
+tests: []

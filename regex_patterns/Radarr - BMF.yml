@@ -1,0 +1,5 @@
+name: Radarr - BMF
+pattern: ^(BMF)$
+description: ''
+tags: []
+tests: []

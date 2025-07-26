@@ -1,0 +1,5 @@
+name: Radarr - CtrlHD
+pattern: ^(CtrlHD)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,12 @@
+name: Sonarr - VOQ
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-voq)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - Quebec Original Version
+  negate: false
+  required: true
+  type: release_title
+  pattern: Quebec Original Version
+tests: []

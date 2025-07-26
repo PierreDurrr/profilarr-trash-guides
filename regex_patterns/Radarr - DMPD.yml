@@ -1,0 +1,5 @@
+name: Radarr - DMPD
+pattern: ^(DMPD)$
+description: ''
+tags: []
+tests: []

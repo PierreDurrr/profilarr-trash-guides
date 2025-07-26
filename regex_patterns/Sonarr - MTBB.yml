@@ -1,0 +1,5 @@
+name: Sonarr - MTBB
+pattern: \b(MTBB)\b
+description: ''
+tags: []
+tests: []

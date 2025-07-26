@@ -1,0 +1,5 @@
+name: Radarr - CRiSC
+pattern: ^(CRiSC)$
+description: ''
+tags: []
+tests: []

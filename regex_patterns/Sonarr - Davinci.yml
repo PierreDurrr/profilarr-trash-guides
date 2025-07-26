@@ -1,0 +1,5 @@
+name: Sonarr - Davinci
+pattern: \[Davinci\]|-Davinci\b
+description: ''
+tags: []
+tests: []

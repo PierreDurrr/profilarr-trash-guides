@@ -1,0 +1,5 @@
+name: Radarr - BKC
+pattern: \b(BKC)\b
+description: ''
+tags: []
+tests: []

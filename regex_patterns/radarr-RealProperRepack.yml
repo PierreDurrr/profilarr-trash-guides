@@ -1,5 +1,0 @@
-name: radarr-RealProperRepack
-pattern: \b(REAL\.(PROPER|REPACK))\b
-description: ''
-tags: []
-tests: []

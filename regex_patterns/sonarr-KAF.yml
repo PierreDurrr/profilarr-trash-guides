@@ -1,5 +1,0 @@
-name: sonarr-KAF
-pattern: \b(KAF)\b
-description: ''
-tags: []
-tests: []

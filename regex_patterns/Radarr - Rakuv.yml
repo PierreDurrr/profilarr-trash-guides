@@ -1,0 +1,5 @@
+name: Radarr - Rakuv
+pattern: -Rakuv\b
+description: ''
+tags: []
+tests: []

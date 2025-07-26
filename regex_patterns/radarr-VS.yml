@@ -1,5 +1,0 @@
-name: radarr-VS
-pattern: \b(V-S)\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Radarr - FLOP
+pattern: ^(FLOP)$
+description: ''
+tags: []
+tests: []

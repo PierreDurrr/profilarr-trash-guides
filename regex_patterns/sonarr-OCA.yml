@@ -1,5 +1,0 @@
-name: sonarr-OCA
-pattern: ^(OCA)$
-description: ''
-tags: []
-tests: []

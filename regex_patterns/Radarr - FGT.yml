@@ -1,0 +1,5 @@
+name: Radarr - FGT
+pattern: ^(FGT)$
+description: ''
+tags: []
+tests: []

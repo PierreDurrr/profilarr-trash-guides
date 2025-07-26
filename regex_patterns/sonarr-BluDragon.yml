@@ -1,5 +1,0 @@
-name: sonarr-BluDragon
-pattern: \b(BluDragon)\b
-description: ''
-tags: []
-tests: []

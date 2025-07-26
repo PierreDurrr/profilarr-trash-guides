@@ -1,0 +1,5 @@
+name: Radarr - Impatience
+pattern: \[Impatience\]|-Impatience\b
+description: ''
+tags: []
+tests: []

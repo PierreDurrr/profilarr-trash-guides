@@ -1,0 +1,22 @@
+name: Radarr - Not German or English
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-not-german-or-english)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - Not English Language
+  negate: true
+  required: true
+  type: language
+  language: 1
+- name: Radarr - Not German Language
+  negate: true
+  required: true
+  type: language
+  language: 4
+- name: Radarr - Not German in Title
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not German in Title
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - MCR
+pattern: \b(MCR)\b
+description: ''
+tags: []
+tests: []

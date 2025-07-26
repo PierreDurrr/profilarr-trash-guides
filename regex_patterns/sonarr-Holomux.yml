@@ -1,5 +1,0 @@
-name: sonarr-Holomux
-pattern: \b(Holomux)\b
-description: ''
-tags: []
-tests: []

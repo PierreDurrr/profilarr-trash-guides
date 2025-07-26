@@ -1,0 +1,5 @@
+name: Radarr - Pantsu
+pattern: \[Pantsu\]|-Pantsu\b
+description: ''
+tags: []
+tests: []

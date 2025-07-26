@@ -1,0 +1,5 @@
+name: Radarr - Mysteria
+pattern: \[Mysteria\]|-Mysteria\b
+description: ''
+tags: []
+tests: []

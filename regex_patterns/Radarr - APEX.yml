@@ -1,0 +1,5 @@
+name: Radarr - APEX
+pattern: ^(APEX|PAXA|PEXA|XEPA)$
+description: ''
+tags: []
+tests: []

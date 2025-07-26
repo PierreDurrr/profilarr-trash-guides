@@ -1,0 +1,5 @@
+name: Radarr - pyroneko
+pattern: \b(pyroneko)\b
+description: ''
+tags: []
+tests: []

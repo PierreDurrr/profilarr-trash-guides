@@ -1,0 +1,5 @@
+name: Radarr - MiniMTBB
+pattern: \b(MiniMTBB)\b
+description: ''
+tags: []
+tests: []

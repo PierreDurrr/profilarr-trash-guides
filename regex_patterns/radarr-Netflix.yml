@@ -1,5 +1,0 @@
-name: radarr-Netflix
-pattern: \b(nf|netflix(u?hd)?)\b
-description: ''
-tags: []
-tests: []

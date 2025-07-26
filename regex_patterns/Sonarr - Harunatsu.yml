@@ -1,0 +1,5 @@
+name: Sonarr - Harunatsu
+pattern: \[Harunatsu\]|-Harunatsu\b
+description: ''
+tags: []
+tests: []

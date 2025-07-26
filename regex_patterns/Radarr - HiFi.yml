@@ -1,0 +1,5 @@
+name: Radarr - HiFi
+pattern: ^(HiFi)$
+description: ''
+tags: []
+tests: []

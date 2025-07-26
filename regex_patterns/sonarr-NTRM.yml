@@ -1,5 +1,0 @@
-name: sonarr-NTRM
-pattern: \b(NTRM)\b
-description: ''
-tags: []
-tests: []

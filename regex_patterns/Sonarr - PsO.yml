@@ -1,0 +1,5 @@
+name: Sonarr - PsO
+pattern: ^(PsO)$
+description: ''
+tags: []
+tests: []

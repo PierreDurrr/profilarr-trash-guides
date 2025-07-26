@@ -1,0 +1,5 @@
+name: Sonarr - AVTOMAT
+pattern: ^(AVTOMAT)$
+description: ''
+tags: []
+tests: []

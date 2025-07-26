@@ -1,5 +1,0 @@
-name: sonarr-Crave
-pattern: \b(crav(e)?)\b[ ._-]web[ ._-]?(dl|rip)?\b
-description: ''
-tags: []
-tests: []

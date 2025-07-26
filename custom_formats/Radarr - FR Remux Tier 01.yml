@@ -1,0 +1,62 @@
+name: Radarr - FR Remux Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-remux-tier-01)'
+tags:
+- Release Group
+- Radarr
+conditions:
+- name: Radarr - Remux
+  negate: false
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: Radarr - BlackAngel
+  negate: false
+  required: false
+  type: release_group
+  pattern: BlackAngel
+- name: Radarr - Choco
+  negate: false
+  required: false
+  type: release_group
+  pattern: Choco
+- name: Radarr - HDForever
+  negate: false
+  required: false
+  type: release_group
+  pattern: HDForever
+- name: Radarr - MAX
+  negate: false
+  required: false
+  type: release_group
+  pattern: MAX
+- name: Radarr - ONLY
+  negate: false
+  required: false
+  type: release_group
+  pattern: ONLY
+- name: Radarr - Psaro
+  negate: false
+  required: false
+  type: release_group
+  pattern: Psaro
+- name: Radarr - Sicario
+  negate: false
+  required: false
+  type: release_group
+  pattern: Sicario
+- name: Radarr - Tezcat74
+  negate: false
+  required: false
+  type: release_group
+  pattern: Tezcat74
+- name: Radarr - TyrellCorp
+  negate: false
+  required: false
+  type: release_group
+  pattern: TyrellCorp
+- name: Radarr - Zapax
+  negate: false
+  required: false
+  type: release_group
+  pattern: Zapax
+tests: []

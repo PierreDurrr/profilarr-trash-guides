@@ -1,0 +1,5 @@
+name: Radarr - OldCastle
+pattern: \b(OldCastle)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - Dekinai
+pattern: \[Dekinai\]|-Dekinai\b
+description: ''
+tags: []
+tests: []

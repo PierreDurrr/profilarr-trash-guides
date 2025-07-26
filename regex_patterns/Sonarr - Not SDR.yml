@@ -1,0 +1,5 @@
+name: Sonarr - Not SDR
+pattern: \bSDR(\b|\d)
+description: ''
+tags: []
+tests: []

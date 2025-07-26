@@ -1,5 +1,0 @@
-name: radarr-FastSUB
-pattern: \b(FastSUB)\b
-description: ''
-tags: []
-tests: []

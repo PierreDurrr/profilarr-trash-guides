@@ -1,0 +1,5 @@
+name: Sonarr - Judas
+pattern: \[Judas\]|-Judas
+description: ''
+tags: []
+tests: []

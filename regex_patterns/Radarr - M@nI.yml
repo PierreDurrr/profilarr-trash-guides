@@ -1,0 +1,5 @@
+name: Radarr - M@nI
+pattern: \b(M@nI)\b
+description: ''
+tags: []
+tests: []

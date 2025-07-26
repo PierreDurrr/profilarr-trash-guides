@@ -1,5 +1,0 @@
-name: sonarr-HorribleRips
-pattern: \b(HorribleRips)\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - AWARDS
+pattern: ^(AWARDS)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - Reaktor
+pattern: \b(Reaktor)\b
+description: ''
+tags: []
+tests: []

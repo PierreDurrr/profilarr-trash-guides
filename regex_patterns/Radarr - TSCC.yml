@@ -1,0 +1,5 @@
+name: Radarr - TSCC
+pattern: ^(TSCC)$
+description: ''
+tags: []
+tests: []

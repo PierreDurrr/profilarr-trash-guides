@@ -1,0 +1,5 @@
+name: Sonarr - GNOME
+pattern: ^(GNOME)$
+description: ''
+tags: []
+tests: []

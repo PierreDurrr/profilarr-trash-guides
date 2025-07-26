@@ -1,0 +1,5 @@
+name: Sonarr - LizardSquad
+pattern: ^(LizardSquad)$
+description: ''
+tags: []
+tests: []

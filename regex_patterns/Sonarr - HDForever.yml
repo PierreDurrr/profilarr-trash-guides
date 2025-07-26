@@ -1,0 +1,5 @@
+name: Sonarr - HDForever
+pattern: ^(HDForever)$
+description: ''
+tags: []
+tests: []

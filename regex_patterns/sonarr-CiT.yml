@@ -1,5 +1,0 @@
-name: sonarr-CiT
-pattern: ^(CiT)$
-description: ''
-tags: []
-tests: []

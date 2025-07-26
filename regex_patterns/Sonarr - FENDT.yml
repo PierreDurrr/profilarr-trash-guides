@@ -1,0 +1,5 @@
+name: Sonarr - FENDT
+pattern: ^(FENDT)$
+description: ''
+tags: []
+tests: []

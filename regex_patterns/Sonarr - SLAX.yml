@@ -1,0 +1,5 @@
+name: Sonarr - SLAX
+pattern: \b(SLAX)\b
+description: ''
+tags: []
+tests: []

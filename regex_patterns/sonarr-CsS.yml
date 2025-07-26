@@ -1,5 +1,0 @@
-name: sonarr-CsS
-pattern: \b(CsS)\b
-description: ''
-tags: []
-tests: []

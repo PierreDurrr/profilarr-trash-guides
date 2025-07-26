@@ -1,0 +1,5 @@
+name: Radarr - French International
+pattern: \b(VFI)\b
+description: ''
+tags: []
+tests: []

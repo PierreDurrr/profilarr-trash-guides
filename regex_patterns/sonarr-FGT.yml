@@ -1,5 +1,0 @@
-name: sonarr-FGT
-pattern: ^(FGT)$
-description: ''
-tags: []
-tests: []

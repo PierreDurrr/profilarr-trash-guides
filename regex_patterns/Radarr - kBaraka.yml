@@ -1,0 +1,5 @@
+name: Radarr - kBaraka
+pattern: \b(kBaraka)\b
+description: ''
+tags: []
+tests: []

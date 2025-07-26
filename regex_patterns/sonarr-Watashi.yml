@@ -1,5 +1,0 @@
-name: sonarr-Watashi
-pattern: \[Watashi\]|-Watashi\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - RSG
+pattern: ^(RSG)$
+description: ''
+tags: []
+tests: []

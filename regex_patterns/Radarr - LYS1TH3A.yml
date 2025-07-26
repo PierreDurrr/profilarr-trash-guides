@@ -1,0 +1,5 @@
+name: Radarr - LYS1TH3A
+pattern: \b(LYS1TH3A)\b
+description: ''
+tags: []
+tests: []

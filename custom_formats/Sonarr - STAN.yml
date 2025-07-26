@@ -1,0 +1,27 @@
+name: Sonarr - STAN
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#stan)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - Stan
+  negate: false
+  required: false
+  type: release_title
+  pattern: Stan
+- name: Sonarr - Stan Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: Stan Rename
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

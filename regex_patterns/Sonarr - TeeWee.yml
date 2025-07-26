@@ -1,0 +1,5 @@
+name: Sonarr - TeeWee
+pattern: \b(TeeWee)\b
+description: ''
+tags: []
+tests: []

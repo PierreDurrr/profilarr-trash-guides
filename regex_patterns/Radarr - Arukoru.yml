@@ -1,0 +1,5 @@
+name: Radarr - Arukoru
+pattern: \b(Arukoru)\b
+description: ''
+tags: []
+tests: []

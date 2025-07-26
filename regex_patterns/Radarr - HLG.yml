@@ -1,0 +1,5 @@
+name: Radarr - HLG
+pattern: \b(HLG)\b
+description: ''
+tags: []
+tests: []

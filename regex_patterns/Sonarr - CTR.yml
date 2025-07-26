@@ -1,0 +1,5 @@
+name: Sonarr - CTR
+pattern: \b(CTR)\b
+description: ''
+tags: []
+tests: []

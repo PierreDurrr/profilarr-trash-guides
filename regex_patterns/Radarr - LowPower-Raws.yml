@@ -1,0 +1,5 @@
+name: Radarr - LowPower-Raws
+pattern: LowPower[ ._-]?(Raws)
+description: ''
+tags: []
+tests: []

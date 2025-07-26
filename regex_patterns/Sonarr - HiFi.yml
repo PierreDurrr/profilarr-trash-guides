@@ -1,0 +1,5 @@
+name: Sonarr - HiFi
+pattern: ^(HiFi)$
+description: ''
+tags: []
+tests: []

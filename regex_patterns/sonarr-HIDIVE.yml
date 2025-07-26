@@ -1,5 +1,0 @@
-name: sonarr-HIDIVE
-pattern: \b(HIDI(VE)?)\b
-description: ''
-tags: []
-tests: []

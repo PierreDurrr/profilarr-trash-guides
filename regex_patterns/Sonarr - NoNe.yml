@@ -1,0 +1,5 @@
+name: Sonarr - NoNe
+pattern: ^(NoNe)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - ANE
+pattern: \[ANE\]|-ANE$
+description: ''
+tags: []
+tests: []

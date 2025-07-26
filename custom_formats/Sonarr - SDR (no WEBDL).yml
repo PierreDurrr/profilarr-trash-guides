@@ -1,0 +1,32 @@
+name: Sonarr - SDR (no WEBDL)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#sdr-no-webdl)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: Sonarr - HDR Formats
+  negate: true
+  required: false
+  type: release_title
+  pattern: HDR Formats
+- name: Sonarr - SDR
+  negate: false
+  required: false
+  type: release_title
+  pattern: SDR
+- name: Sonarr - Not WEBDL
+  negate: true
+  required: true
+  type: source
+  source: 3
+- name: Sonarr - Not WEBRip
+  negate: true
+  required: true
+  type: source
+  source: 4
+tests: []

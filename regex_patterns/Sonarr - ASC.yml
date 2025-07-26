@@ -1,0 +1,5 @@
+name: Sonarr - ASC
+pattern: \b(ASC)\b
+description: ''
+tags: []
+tests: []

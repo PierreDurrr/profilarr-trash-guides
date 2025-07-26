@@ -1,0 +1,5 @@
+name: Radarr - Gao
+pattern: \[Gao\]|-Gao\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,77 @@
+name: Radarr - Anime Web Tier 04 (Official Subs)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-04-official-subs)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: Radarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+- name: Radarr - BlueLobster
+  negate: false
+  required: false
+  type: release_title
+  pattern: BlueLobster
+- name: Radarr - Erai-Raws
+  negate: false
+  required: false
+  type: release_title
+  pattern: Erai-Raws
+- name: Radarr - GST
+  negate: false
+  required: false
+  type: release_title
+  pattern: GST
+- name: Radarr - HorribleRips
+  negate: false
+  required: false
+  type: release_title
+  pattern: HorribleRips
+- name: Radarr - HorribleSubs
+  negate: false
+  required: false
+  type: release_title
+  pattern: HorribleSubs
+- name: Radarr - KAN3D2M
+  negate: false
+  required: false
+  type: release_title
+  pattern: KAN3D2M
+- name: Radarr - KiyoshiStar
+  negate: false
+  required: false
+  type: release_title
+  pattern: KiyoshiStar
+- name: Radarr - Lia
+  negate: false
+  required: false
+  type: release_title
+  pattern: Lia
+- name: Radarr - NanDesuKa
+  negate: false
+  required: false
+  type: release_title
+  pattern: NanDesuKa
+- name: Radarr - URANIME
+  negate: false
+  required: false
+  type: release_title
+  pattern: URANIME
+- name: Radarr - VARYG
+  negate: false
+  required: false
+  type: release_title
+  pattern: VARYG
+- name: Radarr - ZigZag
+  negate: false
+  required: false
+  type: release_title
+  pattern: ZigZag
+tests: []

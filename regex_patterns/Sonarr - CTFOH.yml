@@ -1,0 +1,5 @@
+name: Sonarr - CTFOH
+pattern: ^(CTFOH)$
+description: ''
+tags: []
+tests: []

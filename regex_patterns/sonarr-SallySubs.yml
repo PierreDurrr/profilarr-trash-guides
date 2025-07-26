@@ -1,5 +1,0 @@
-name: sonarr-SallySubs
-pattern: \b(SallySubs)\b
-description: ''
-tags: []
-tests: []

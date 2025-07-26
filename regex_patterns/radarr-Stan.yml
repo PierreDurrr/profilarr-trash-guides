@@ -1,5 +1,0 @@
-name: radarr-Stan
-pattern: \b(stan)\b[ ._-]web[ ._-]?(dl|rip)?\b
-description: ''
-tags: []
-tests: []

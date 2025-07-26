@@ -1,5 +1,0 @@
-name: sonarr-WtF Anime
-pattern: \b(WtF[ ._-]?Anime)\b
-description: ''
-tags: []
-tests: []

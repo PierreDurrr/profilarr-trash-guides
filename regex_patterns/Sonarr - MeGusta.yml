@@ -1,0 +1,5 @@
+name: Sonarr - MeGusta
+pattern: ^(MeGusta)$
+description: ''
+tags: []
+tests: []

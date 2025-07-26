@@ -1,5 +1,0 @@
-name: radarr-NOW Rename
-pattern: \[(NOW)\b|\b(NOW)\]
-description: ''
-tags: []
-tests: []

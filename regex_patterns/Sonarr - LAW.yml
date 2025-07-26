@@ -1,0 +1,5 @@
+name: Sonarr - LAW
+pattern: ^(LAW)$
+description: ''
+tags: []
+tests: []

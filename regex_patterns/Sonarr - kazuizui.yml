@@ -1,0 +1,5 @@
+name: Sonarr - kazuizui
+pattern: \b(kazui(zui)?)\b
+description: ''
+tags: []
+tests: []

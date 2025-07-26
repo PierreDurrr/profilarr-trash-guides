@@ -1,5 +1,0 @@
-name: radarr-SOLA
-pattern: \[SOLA\]|-SOLA\b
-description: ''
-tags: []
-tests: []

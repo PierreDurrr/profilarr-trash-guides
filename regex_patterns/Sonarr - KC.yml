@@ -1,0 +1,5 @@
+name: Sonarr - KC
+pattern: ^(KC)$
+description: ''
+tags: []
+tests: []

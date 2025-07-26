@@ -1,5 +1,0 @@
-name: sonarr-Aoi-Project
-pattern: \b(Aoi[ .-]?Project)\b
-description: ''
-tags: []
-tests: []

@@ -1,5 +1,0 @@
-name: sonarr-AIUS
-pattern: \b(AIUS)\b
-description: ''
-tags: []
-tests: []

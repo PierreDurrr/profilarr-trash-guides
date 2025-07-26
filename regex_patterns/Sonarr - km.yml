@@ -1,0 +1,5 @@
+name: Sonarr - km
+pattern: \[km\]|-km\b
+description: ''
+tags: []
+tests: []

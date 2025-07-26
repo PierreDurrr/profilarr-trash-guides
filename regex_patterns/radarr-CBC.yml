@@ -1,5 +1,0 @@
-name: radarr-CBC
-pattern: \b(CBC)\b
-description: ''
-tags: []
-tests: []

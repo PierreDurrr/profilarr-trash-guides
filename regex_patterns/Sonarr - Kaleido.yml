@@ -1,0 +1,5 @@
+name: Sonarr - Kaleido
+pattern: \b(Kaleido)\b
+description: ''
+tags: []
+tests: []

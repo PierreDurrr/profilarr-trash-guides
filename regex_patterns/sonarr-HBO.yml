@@ -1,5 +1,0 @@
-name: sonarr-HBO
-pattern: \b(hbo)(?![ ._-]max)\b(?=[ ._-]web[ ._-]?(dl|rip)\b)
-description: ''
-tags: []
-tests: []

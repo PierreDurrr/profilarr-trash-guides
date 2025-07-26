@@ -1,0 +1,5 @@
+name: Radarr - FSX
+pattern: (FSX)$
+description: ''
+tags: []
+tests: []

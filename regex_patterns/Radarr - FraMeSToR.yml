@@ -1,0 +1,5 @@
+name: Radarr - FraMeSToR
+pattern: \b(FraMeSToR)\b
+description: ''
+tags: []
+tests: []

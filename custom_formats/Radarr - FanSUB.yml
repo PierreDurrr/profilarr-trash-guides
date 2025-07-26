@@ -1,0 +1,12 @@
+name: Radarr - FanSUB
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#fansub)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - FanSUB
+  negate: false
+  required: true
+  type: release_title
+  pattern: FanSUB
+tests: []

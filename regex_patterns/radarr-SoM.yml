@@ -1,5 +1,0 @@
-name: radarr-SoM
-pattern: \[SoM\]|-SoM\b
-description: ''
-tags: []
-tests: []

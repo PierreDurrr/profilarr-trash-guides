@@ -1,0 +1,5 @@
+name: Radarr - CTR
+pattern: \b(CTR)\b
+description: ''
+tags: []
+tests: []

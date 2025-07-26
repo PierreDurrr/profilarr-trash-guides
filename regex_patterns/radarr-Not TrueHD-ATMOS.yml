@@ -1,5 +1,0 @@
-name: radarr-Not TrueHD-ATMOS
-pattern: True[ .-]?HD|\bATMOS(\b|\d)
-description: ''
-tags: []
-tests: []

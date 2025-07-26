@@ -1,0 +1,5 @@
+name: Radarr - A-Destiny
+pattern: \b(A-Destiny)\b
+description: ''
+tags: []
+tests: []

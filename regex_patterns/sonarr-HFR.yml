@@ -1,5 +1,0 @@
-name: sonarr-HFR
-pattern: \b(HFR)\b
-description: ''
-tags: []
-tests: []

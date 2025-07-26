@@ -1,0 +1,5 @@
+name: Sonarr - FMD
+pattern: ^(FMD)$
+description: ''
+tags: []
+tests: []

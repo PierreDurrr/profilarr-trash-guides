@@ -1,0 +1,5 @@
+name: Radarr - MEGA
+pattern: (MEGA)$
+description: ''
+tags: []
+tests: []

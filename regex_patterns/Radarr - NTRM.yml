@@ -1,0 +1,5 @@
+name: Radarr - NTRM
+pattern: \b(NTRM)\b
+description: ''
+tags: []
+tests: []

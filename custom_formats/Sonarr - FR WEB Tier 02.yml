@@ -1,0 +1,67 @@
+name: Sonarr - FR WEB Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-web-tier-02)'
+tags:
+- Release Group
+- Sonarr
+conditions:
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+- name: Sonarr - COLL3CTiF
+  negate: false
+  required: false
+  type: release_group
+  pattern: COLL3CTiF
+- name: Sonarr - FiND
+  negate: false
+  required: false
+  type: release_group
+  pattern: FiND
+- name: Sonarr - FrIeNdS
+  negate: false
+  required: false
+  type: release_group
+  pattern: FrIeNdS
+- name: Sonarr - HeavyWeight
+  negate: false
+  required: false
+  type: release_group
+  pattern: HeavyWeight
+- name: Sonarr - NoNe
+  negate: false
+  required: false
+  type: release_group
+  pattern: NoNe
+- name: Sonarr - pERsO
+  negate: false
+  required: false
+  type: release_group
+  pattern: pERsO
+- name: Sonarr - POTO
+  negate: false
+  required: false
+  type: release_group
+  pattern: POTO
+- name: Sonarr - RG
+  negate: false
+  required: false
+  type: release_group
+  pattern: RG
+- name: Sonarr - RiPiT
+  negate: false
+  required: false
+  type: release_group
+  pattern: RiPiT
+- name: Sonarr - TAT
+  negate: false
+  required: false
+  type: release_group
+  pattern: TAT
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - G
+pattern: ^(GHOULS|GiMBAP|GLiMMER|Goatlove)$
+description: ''
+tags: []
+tests: []

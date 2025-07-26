@@ -1,0 +1,5 @@
+name: Sonarr - VIU Rename
+pattern: \[(VIU)\b|\b(VIU)\]
+description: ''
+tags: []
+tests: []

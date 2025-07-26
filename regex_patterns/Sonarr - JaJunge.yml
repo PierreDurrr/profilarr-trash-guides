@@ -1,0 +1,5 @@
+name: Sonarr - JaJunge
+pattern: ^(JaJunge)$
+description: ''
+tags: []
+tests: []

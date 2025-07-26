@@ -1,0 +1,5 @@
+name: Radarr - Anime Land
+pattern: \b(Anime[ .-]?Land)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,27 @@
+name: Sonarr - German Remux Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-remux-tier-02)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - MULTiPLEX
+  negate: false
+  required: false
+  type: release_group
+  pattern: MULTiPLEX
+- name: Sonarr - HQC
+  negate: false
+  required: false
+  type: release_group
+  pattern: HQC
+- name: Sonarr - HDSource
+  negate: false
+  required: false
+  type: release_group
+  pattern: HDSource
+- name: Sonarr - Remux
+  negate: false
+  required: true
+  type: source
+  source: 7
+tests: []

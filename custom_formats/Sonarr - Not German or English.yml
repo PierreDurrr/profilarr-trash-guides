@@ -1,0 +1,22 @@
+name: Sonarr - Not German or English
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#language-not-german-or-english)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - Not English Language
+  negate: true
+  required: true
+  type: language
+  language: 1
+- name: Sonarr - Not German Language
+  negate: true
+  required: true
+  type: language
+  language: 4
+- name: Sonarr - Not German in Title
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not German in Title
+tests: []

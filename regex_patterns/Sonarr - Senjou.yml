@@ -1,0 +1,5 @@
+name: Sonarr - Senjou
+pattern: \[Senjou\]|-Senjou\b
+description: ''
+tags: []
+tests: []

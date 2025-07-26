@@ -1,0 +1,5 @@
+name: Sonarr - Chimera
+pattern: \[Chimera\]|-Chimera\b
+description: ''
+tags: []
+tests: []

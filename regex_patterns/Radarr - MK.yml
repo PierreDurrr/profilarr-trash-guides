@@ -1,0 +1,5 @@
+name: Radarr - MK
+pattern: \b(MK)\b
+description: ''
+tags: []
+tests: []

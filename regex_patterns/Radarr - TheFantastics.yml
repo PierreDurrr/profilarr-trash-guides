@@ -1,0 +1,5 @@
+name: Radarr - TheFantastics
+pattern: \b(TheFantastics)\b
+description: ''
+tags: []
+tests: []

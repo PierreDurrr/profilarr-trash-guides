@@ -1,0 +1,5 @@
+name: Sonarr - Yabai
+pattern: \[Yabai\]|-Yabai\b
+description: ''
+tags: []
+tests: []

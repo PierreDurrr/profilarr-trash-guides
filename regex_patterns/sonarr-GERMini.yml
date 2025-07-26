@@ -1,5 +1,0 @@
-name: sonarr-GERMini
-pattern: \b(GERMini)\b
-description: ''
-tags: []
-tests: []

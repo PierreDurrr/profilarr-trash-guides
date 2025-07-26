@@ -1,0 +1,5 @@
+name: Radarr - HaiveMind
+pattern: \b(HaiveMind)\b
+description: ''
+tags: []
+tests: []

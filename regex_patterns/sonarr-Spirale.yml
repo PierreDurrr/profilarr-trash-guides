@@ -1,5 +1,0 @@
-name: sonarr-Spirale
-pattern: \b(Spirale)\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Radarr - CuaP
+pattern: \b(CuaP)\b
+description: ''
+tags: []
+tests: []

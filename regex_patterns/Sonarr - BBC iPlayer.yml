@@ -1,0 +1,5 @@
+name: Sonarr - BBC iPlayer
+pattern: \b(ip|iplayer)\b
+description: ''
+tags: []
+tests: []

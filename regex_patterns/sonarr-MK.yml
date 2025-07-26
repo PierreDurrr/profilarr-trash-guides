@@ -1,5 +1,0 @@
-name: sonarr-MK
-pattern: \b(MK)\b
-description: ''
-tags: []
-tests: []

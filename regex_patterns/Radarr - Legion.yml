@@ -1,0 +1,5 @@
+name: Radarr - Legion
+pattern: \[Legion\]|-Legion\b
+description: ''
+tags: []
+tests: []

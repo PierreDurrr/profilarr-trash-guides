@@ -1,0 +1,5 @@
+name: Radarr - Licca
+pattern: \b(Licca)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - NTG
+pattern: ^(NTG)$
+description: ''
+tags: []
+tests: []

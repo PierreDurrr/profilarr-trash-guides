@@ -1,0 +1,5 @@
+name: Sonarr - NH
+pattern: \b(NH)\b
+description: ''
+tags: []
+tests: []

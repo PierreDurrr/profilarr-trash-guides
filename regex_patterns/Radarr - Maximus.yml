@@ -1,0 +1,5 @@
+name: Radarr - Maximus
+pattern: \[Maximus\]|-Maximus\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,232 @@
+name: Sonarr - WEB Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#web-tier-02)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - 3cTWeB
+  negate: false
+  required: false
+  type: release_group
+  pattern: 3cTWeB
+- name: Sonarr - BLUTONiUM
+  negate: false
+  required: false
+  type: release_group
+  pattern: BLUTONiUM
+- name: Sonarr - BTW
+  negate: false
+  required: false
+  type: release_group
+  pattern: BTW
+- name: Sonarr - Chotab
+  negate: false
+  required: false
+  type: release_group
+  pattern: Chotab
+- name: Sonarr - Cinefeel
+  negate: false
+  required: false
+  type: release_group
+  pattern: Cinefeel
+- name: Sonarr - CiT
+  negate: false
+  required: false
+  type: release_group
+  pattern: CiT
+- name: Sonarr - CMRG
+  negate: false
+  required: false
+  type: release_group
+  pattern: CMRG
+- name: Sonarr - Coo7
+  negate: false
+  required: false
+  type: release_group
+  pattern: Coo7
+- name: Sonarr - dB
+  negate: false
+  required: false
+  type: release_group
+  pattern: dB
+- name: Sonarr - DEEP
+  negate: false
+  required: false
+  type: release_group
+  pattern: DEEP
+- name: Sonarr - END
+  negate: false
+  required: false
+  type: release_group
+  pattern: END
+- name: Sonarr - ETHiCS
+  negate: false
+  required: false
+  type: release_group
+  pattern: ETHiCS
+- name: Sonarr - FC
+  negate: false
+  required: false
+  type: release_group
+  pattern: FC
+- name: Sonarr - Flights
+  negate: false
+  required: false
+  type: release_group
+  pattern: Flights
+- name: Sonarr - GNOME
+  negate: false
+  required: false
+  type: release_group
+  pattern: GNOME
+- name: Sonarr - iJP
+  negate: false
+  required: false
+  type: release_group
+  pattern: iJP
+- name: Sonarr - iKA
+  negate: false
+  required: false
+  type: release_group
+  pattern: iKA
+- name: Sonarr - iT00NZ
+  negate: false
+  required: false
+  type: release_group
+  pattern: iT00NZ
+- name: Sonarr - JETIX
+  negate: false
+  required: false
+  type: release_group
+  pattern: JETIX
+- name: Sonarr - KHN
+  negate: false
+  required: false
+  type: release_group
+  pattern: KHN
+- name: Sonarr - KiMCHI
+  negate: false
+  required: false
+  type: release_group
+  pattern: KiMCHI
+- name: Sonarr - LAZY
+  negate: false
+  required: false
+  type: release_group
+  pattern: LAZY
+- name: Sonarr - MiU
+  negate: false
+  required: false
+  type: release_group
+  pattern: MiU
+- name: Sonarr - MZABI
+  negate: false
+  required: false
+  type: release_group
+  pattern: MZABI
+- name: Sonarr - NPMS
+  negate: false
+  required: false
+  type: release_group
+  pattern: NPMS
+- name: Sonarr - NYH
+  negate: false
+  required: false
+  type: release_group
+  pattern: NYH
+- name: Sonarr - orbitron
+  negate: false
+  required: false
+  type: release_group
+  pattern: orbitron
+- name: Sonarr - PHOENiX
+  negate: false
+  required: false
+  type: release_group
+  pattern: PHOENiX
+- name: Sonarr - playWEB
+  negate: false
+  required: false
+  type: release_group
+  pattern: playWEB
+- name: Sonarr - PSiG
+  negate: false
+  required: false
+  type: release_group
+  pattern: PSiG
+- name: Sonarr - RAWR
+  negate: false
+  required: false
+  type: release_group
+  pattern: RAWR
+- name: Sonarr - ROCCaT
+  negate: false
+  required: false
+  type: release_group
+  pattern: ROCCaT
+- name: Sonarr - RTFM
+  negate: false
+  required: false
+  type: release_group
+  pattern: RTFM
+- name: Sonarr - SA89
+  negate: false
+  required: false
+  type: release_group
+  pattern: SA89
+- name: Sonarr - SbR
+  negate: false
+  required: false
+  type: release_group
+  pattern: SbR
+- name: Sonarr - SDCC
+  negate: false
+  required: false
+  type: release_group
+  pattern: SDCC
+- name: Sonarr - SIGMA
+  negate: false
+  required: false
+  type: release_group
+  pattern: SIGMA
+- name: Sonarr - SMURF
+  negate: false
+  required: false
+  type: release_group
+  pattern: SMURF
+- name: Sonarr - SPiRiT
+  negate: false
+  required: false
+  type: release_group
+  pattern: SPiRiT
+- name: Sonarr - TEPES
+  negate: false
+  required: false
+  type: release_group
+  pattern: TEPES
+- name: Sonarr - TVSmash
+  negate: false
+  required: false
+  type: release_group
+  pattern: TVSmash
+- name: Sonarr - WELP
+  negate: false
+  required: false
+  type: release_group
+  pattern: WELP
+- name: Sonarr - XEBEC
+  negate: false
+  required: false
+  type: release_group
+  pattern: XEBEC
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

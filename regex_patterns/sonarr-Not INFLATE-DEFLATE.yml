@@ -1,5 +1,0 @@
-name: sonarr-Not INFLATE-DEFLATE
-pattern: \b(INFLATE|DEFLATE[)\]]?)$
-description: ''
-tags: []
-tests: []

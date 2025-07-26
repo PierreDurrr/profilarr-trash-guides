@@ -1,5 +1,0 @@
-name: sonarr-Upscaled
-pattern: (?<=\b\d{3,4}p\b).*\b(UPS|Up(s(caled?|UHD)|(Rez)))\b
-description: ''
-tags: []
-tests: []

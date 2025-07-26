@@ -1,5 +1,0 @@
-name: radarr-EMBER
-pattern: \[EMBER\]|-EMBER\b
-description: ''
-tags: []
-tests: []

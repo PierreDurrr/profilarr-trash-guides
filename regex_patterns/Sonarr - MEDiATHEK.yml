@@ -1,0 +1,5 @@
+name: Sonarr - MEDiATHEK
+pattern: ^(MEDiATHEK)$
+description: ''
+tags: []
+tests: []

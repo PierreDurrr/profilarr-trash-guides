@@ -1,0 +1,5 @@
+name: Sonarr - GHOST
+pattern: \[GHOST\]|-GHOST\b
+description: ''
+tags: []
+tests: []

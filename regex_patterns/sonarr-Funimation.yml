@@ -1,5 +1,0 @@
-name: sonarr-Funimation
-pattern: \b(FUNi(mation)?)\b
-description: ''
-tags: []
-tests: []

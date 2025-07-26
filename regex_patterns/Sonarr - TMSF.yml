@@ -1,0 +1,5 @@
+name: Sonarr - TMSF
+pattern: ^(TMSF)$
+description: ''
+tags: []
+tests: []

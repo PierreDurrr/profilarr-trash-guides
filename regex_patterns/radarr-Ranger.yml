@@ -1,5 +1,0 @@
-name: radarr-Ranger
-pattern: \[Ranger\]|-Ranger\b
-description: ''
-tags: []
-tests: []

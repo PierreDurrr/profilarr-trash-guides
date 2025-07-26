@@ -1,0 +1,5 @@
+name: Sonarr - MGE
+pattern: ^(MGE)$
+description: ''
+tags: []
+tests: []

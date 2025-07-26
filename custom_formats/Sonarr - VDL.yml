@@ -1,0 +1,22 @@
+name: Sonarr - VDL
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#vdl)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - Videoland
+  negate: false
+  required: true
+  type: release_title
+  pattern: Videoland
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

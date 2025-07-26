@@ -1,0 +1,5 @@
+name: Sonarr - BlueLobster
+pattern: \b(BlueLobster)\b
+description: ''
+tags: []
+tests: []

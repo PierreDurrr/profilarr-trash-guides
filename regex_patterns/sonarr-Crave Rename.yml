@@ -1,5 +1,0 @@
-name: sonarr-Crave Rename
-pattern: \[(CRAV)\b|\b(CRAV)\]
-description: ''
-tags: []
-tests: []

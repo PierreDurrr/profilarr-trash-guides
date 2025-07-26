@@ -1,5 +1,0 @@
-name: radarr-SRLS
-pattern: \b(SRLS)\b
-description: ''
-tags: []
-tests: []

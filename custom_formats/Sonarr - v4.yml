@@ -1,0 +1,12 @@
+name: Sonarr - v4
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#v4)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - v4
+  negate: false
+  required: true
+  type: release_title
+  pattern: v4
+tests: []

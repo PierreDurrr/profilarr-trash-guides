@@ -1,0 +1,5 @@
+name: Radarr - Yabai
+pattern: \[Yabai\]|-Yabai\b
+description: ''
+tags: []
+tests: []

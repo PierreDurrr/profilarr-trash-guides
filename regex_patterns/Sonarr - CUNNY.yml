@@ -1,0 +1,5 @@
+name: Sonarr - CUNNY
+pattern: \b(CUNNY)\b
+description: ''
+tags: []
+tests: []

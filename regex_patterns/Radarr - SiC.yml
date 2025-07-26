@@ -1,0 +1,5 @@
+name: Radarr - SiC
+pattern: ^(SiC)$
+description: ''
+tags: []
+tests: []

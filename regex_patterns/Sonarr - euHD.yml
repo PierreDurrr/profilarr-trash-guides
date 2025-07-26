@@ -1,0 +1,5 @@
+name: Sonarr - euHD
+pattern: ^(euHD)$
+description: ''
+tags: []
+tests: []

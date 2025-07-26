@@ -1,0 +1,5 @@
+name: Sonarr - McBalls
+pattern: \b(McBalls)\b
+description: ''
+tags: []
+tests: []

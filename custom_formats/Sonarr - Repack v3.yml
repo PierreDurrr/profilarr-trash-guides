@@ -1,0 +1,17 @@
+name: Sonarr - Repack v3
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#repack-v3)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - Repack v3
+  negate: false
+  required: false
+  type: release_title
+  pattern: Repack v3
+- name: Sonarr - RealRealProperRepack
+  negate: false
+  required: false
+  type: release_title
+  pattern: RealRealProperRepack
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - worldmkv
+pattern: ^(worldmkv)$
+description: ''
+tags: []
+tests: []

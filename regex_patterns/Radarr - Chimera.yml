@@ -1,0 +1,5 @@
+name: Radarr - Chimera
+pattern: \[Chimera\]|-Chimera\b
+description: ''
+tags: []
+tests: []

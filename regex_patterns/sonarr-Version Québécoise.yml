@@ -1,5 +1,0 @@
-name: sonarr-Version Québécoise
-pattern: \b(VQ)\b
-description: ''
-tags: []
-tests: []

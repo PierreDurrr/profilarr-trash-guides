@@ -1,0 +1,5 @@
+name: Radarr - Setsugen
+pattern: \b(Setsugen)\b
+description: ''
+tags: []
+tests: []

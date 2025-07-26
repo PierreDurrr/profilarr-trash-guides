@@ -1,0 +1,5 @@
+name: Radarr - Sushi
+pattern: \[Sushi\]|-Sushi\b
+description: ''
+tags: []
+tests: []

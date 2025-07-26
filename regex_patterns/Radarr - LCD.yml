@@ -1,0 +1,5 @@
+name: Radarr - LCD
+pattern: ^(LCD)$
+description: ''
+tags: []
+tests: []

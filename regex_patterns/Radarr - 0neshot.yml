@@ -1,0 +1,5 @@
+name: Radarr - 0neshot
+pattern: \b(0neshot)\b
+description: ''
+tags: []
+tests: []

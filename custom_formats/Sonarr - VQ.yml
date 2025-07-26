@@ -1,0 +1,12 @@
+name: Sonarr - VQ
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-vq)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - Version Québécoise
+  negate: false
+  required: true
+  type: release_title
+  pattern: Version Québécoise
+tests: []

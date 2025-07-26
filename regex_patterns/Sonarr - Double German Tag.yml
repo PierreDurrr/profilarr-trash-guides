@@ -1,0 +1,5 @@
+name: Sonarr - Double German Tag
+pattern: '[._-]German[._-].+?[._-]?German$'
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - TENEIGHTY
+pattern: \b(TENEIGHTY)\b
+description: ''
+tags: []
+tests: []

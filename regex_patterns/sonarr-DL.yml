@@ -1,5 +1,0 @@
-name: sonarr-DL
-pattern: (?<!WEB[-_. ]?)\b(DL)\b
-description: ''
-tags: []
-tests: []

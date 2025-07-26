@@ -1,5 +1,0 @@
-name: radarr-SLAX
-pattern: \b(SLAX)\b
-description: ''
-tags: []
-tests: []

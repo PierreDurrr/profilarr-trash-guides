@@ -1,5 +1,0 @@
-name: sonarr-ZeroBuild
-pattern: \b(ZeroBuild)\b
-description: ''
-tags: []
-tests: []

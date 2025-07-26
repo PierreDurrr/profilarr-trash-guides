@@ -1,0 +1,5 @@
+name: Sonarr - SCY
+pattern: \b(SCY)\b
+description: ''
+tags: []
+tests: []

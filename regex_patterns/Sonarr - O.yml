@@ -1,0 +1,5 @@
+name: Sonarr - O
+pattern: ^(OBSTACLE|OohLaLa|OOKAMI)$
+description: ''
+tags: []
+tests: []

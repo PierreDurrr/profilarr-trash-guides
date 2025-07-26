@@ -1,0 +1,22 @@
+name: Sonarr - FOD
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#fod)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - FOD
+  negate: false
+  required: true
+  type: release_title
+  pattern: FOD
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

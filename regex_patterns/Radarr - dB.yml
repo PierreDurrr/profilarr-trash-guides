@@ -1,0 +1,5 @@
+name: Radarr - dB
+pattern: ^(dB)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,42 @@
+name: Radarr - DD
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dd)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - Basic Dolby Digital
+  negate: false
+  required: true
+  type: release_title
+  pattern: Basic Dolby Digital
+- name: Radarr - Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Dolby Digital Plus
+- name: Radarr - Not TrueHD-ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+- name: Radarr - Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: Radarr - Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: Radarr - Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: Radarr - Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+tests: []

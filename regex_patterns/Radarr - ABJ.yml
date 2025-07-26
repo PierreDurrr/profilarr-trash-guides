@@ -1,0 +1,5 @@
+name: Radarr - ABJ
+pattern: (ABJ)$
+description: ''
+tags: []
+tests: []

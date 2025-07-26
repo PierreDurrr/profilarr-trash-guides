@@ -1,0 +1,107 @@
+name: Radarr - WEB Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#web-tier-01)'
+tags:
+- Release Group
+- Radarr
+conditions:
+- name: Radarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: Radarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+- name: Radarr - ABBIE
+  negate: false
+  required: false
+  type: release_group
+  pattern: ABBIE
+- name: Radarr - AJP69
+  negate: false
+  required: false
+  type: release_group
+  pattern: AJP69
+- name: Radarr - APEX
+  negate: false
+  required: false
+  type: release_group
+  pattern: APEX
+- name: Radarr - BLUTONiUM
+  negate: false
+  required: false
+  type: release_group
+  pattern: BLUTONiUM
+- name: Radarr - CMRG
+  negate: false
+  required: false
+  type: release_group
+  pattern: CMRG
+- name: Radarr - CRFW
+  negate: false
+  required: false
+  type: release_group
+  pattern: CRFW
+- name: Radarr - CRUD
+  negate: false
+  required: false
+  type: release_group
+  pattern: CRUD
+- name: Radarr - FLUX
+  negate: false
+  required: false
+  type: release_group
+  pattern: FLUX
+- name: Radarr - GNOME
+  negate: false
+  required: false
+  type: release_group
+  pattern: GNOME
+- name: Radarr - HONE
+  negate: false
+  required: false
+  type: release_group
+  pattern: HONE
+- name: Radarr - KiNGS
+  negate: false
+  required: false
+  type: release_group
+  pattern: KiNGS
+- name: Radarr - Kitsune
+  negate: false
+  required: false
+  type: release_group
+  pattern: Kitsune
+- name: Radarr - NOSiViD
+  negate: false
+  required: false
+  type: release_group
+  pattern: NOSiViD
+- name: Radarr - NTb
+  negate: false
+  required: false
+  type: release_group
+  pattern: NTb
+- name: Radarr - NTG
+  negate: false
+  required: false
+  type: release_group
+  pattern: NTG
+- name: Radarr - SiC
+  negate: false
+  required: false
+  type: release_group
+  pattern: SiC
+- name: Radarr - TEPES
+  negate: false
+  required: false
+  type: release_group
+  pattern: TEPES
+- name: Radarr - ZoroSenpai
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZoroSenpai
+tests: []

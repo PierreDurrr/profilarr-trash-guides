@@ -1,0 +1,5 @@
+name: Radarr - YTS
+pattern: ^(YTS(.(MX|LT|AG))?)$
+description: ''
+tags: []
+tests: []

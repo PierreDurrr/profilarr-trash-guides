@@ -1,5 +1,0 @@
-name: radarr-neoHEVC
-pattern: \b(neoHEVC)\b
-description: ''
-tags: []
-tests: []

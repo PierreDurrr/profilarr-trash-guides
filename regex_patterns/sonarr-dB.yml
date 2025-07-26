@@ -1,5 +1,0 @@
-name: sonarr-dB
-pattern: ^(dB)$
-description: ''
-tags: []
-tests: []

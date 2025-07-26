@@ -1,0 +1,32 @@
+name: Sonarr - Remux Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#remux-tier-01)'
+tags:
+- Release Group
+- Sonarr
+conditions:
+- name: Sonarr - Remux
+  negate: false
+  required: true
+  type: source
+  source: 7
+- name: Sonarr - BLURANiUM
+  negate: false
+  required: false
+  type: release_group
+  pattern: BLURANiUM
+- name: Sonarr - BMF
+  negate: false
+  required: false
+  type: release_group
+  pattern: BMF
+- name: Sonarr - FraMeSToR
+  negate: false
+  required: false
+  type: release_group
+  pattern: FraMeSToR
+- name: Sonarr - PmP
+  negate: false
+  required: false
+  type: release_group
+  pattern: PmP
+tests: []

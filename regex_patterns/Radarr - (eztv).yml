@@ -1,0 +1,5 @@
+name: Radarr - (eztv)
+pattern: \[eztvx?[ ._-]?(io|re|to)?\]
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: radarr-OZR
-pattern: \b(OZR)\b
-description: ''
-tags: []
-tests: []

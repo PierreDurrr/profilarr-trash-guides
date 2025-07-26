@@ -1,0 +1,5 @@
+name: Sonarr - BUYMORE
+pattern: -BUYMORE\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - AOmundson
+pattern: \b(AOmundson)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - MC
+pattern: \b(MC)\b
+description: ''
+tags: []
+tests: []

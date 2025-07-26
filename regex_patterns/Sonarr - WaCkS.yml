@@ -1,0 +1,5 @@
+name: Sonarr - WaCkS
+pattern: ^(WaCkS)$
+description: ''
+tags: []
+tests: []

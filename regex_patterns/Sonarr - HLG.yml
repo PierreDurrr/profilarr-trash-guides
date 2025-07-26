@@ -1,0 +1,5 @@
+name: Sonarr - HLG
+pattern: \b(HLG)\b
+description: ''
+tags: []
+tests: []

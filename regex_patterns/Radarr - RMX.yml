@@ -1,0 +1,5 @@
+name: Radarr - RMX
+pattern: \b(RMX)\b
+description: ''
+tags: []
+tests: []

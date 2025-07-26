@@ -1,0 +1,5 @@
+name: Radarr - Spirale
+pattern: \b(Spirale)\b
+description: ''
+tags: []
+tests: []

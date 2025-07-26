@@ -1,0 +1,5 @@
+name: Sonarr - NemDiggers
+pattern: \b(NemDiggers)\b
+description: ''
+tags: []
+tests: []

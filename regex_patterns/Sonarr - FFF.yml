@@ -1,0 +1,5 @@
+name: Sonarr - FFF
+pattern: \b(FFF)\b
+description: ''
+tags: []
+tests: []

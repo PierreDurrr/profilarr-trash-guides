@@ -1,0 +1,5 @@
+name: Sonarr - BONBON
+pattern: ^(BONBON)$
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: sonarr-zza
-pattern: \[zza\]|-zza\b
-description: ''
-tags: []
-tests: []

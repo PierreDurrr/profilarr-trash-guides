@@ -1,0 +1,5 @@
+name: Radarr - GJM
+pattern: \b(GJM)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - SubsPlease
+pattern: \b(SubsPlease)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - Ari
+pattern: \[Ari\]|-Ari\b
+description: ''
+tags: []
+tests: []

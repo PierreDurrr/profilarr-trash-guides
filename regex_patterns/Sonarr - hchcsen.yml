@@ -1,0 +1,5 @@
+name: Sonarr - hchcsen
+pattern: \b(hchcsen)\b
+description: ''
+tags: []
+tests: []

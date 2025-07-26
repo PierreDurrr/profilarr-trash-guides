@@ -1,0 +1,5 @@
+name: Sonarr - Commie
+pattern: \b(Commie)\b
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: radarr-Anime Chap
-pattern: \b(Anime[ .-]?Chap)\b
-description: ''
-tags: []
-tests: []

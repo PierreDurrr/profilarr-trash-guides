@@ -1,0 +1,5 @@
+name: Radarr - CiNEPHiLES
+pattern: ^(CiNEPHiLES)$
+description: ''
+tags: []
+tests: []

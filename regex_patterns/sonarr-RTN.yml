@@ -1,5 +1,0 @@
-name: sonarr-RTN
-pattern: ^(RTN)$
-description: ''
-tags: []
-tests: []

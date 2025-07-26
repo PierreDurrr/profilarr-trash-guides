@@ -1,0 +1,5 @@
+name: Sonarr - TTN
+pattern: \b(TTN)\b
+description: ''
+tags: []
+tests: []

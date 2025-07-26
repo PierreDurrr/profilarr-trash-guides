@@ -1,0 +1,5 @@
+name: Radarr - WaLMaRT
+pattern: \b(WaLMaRT)\b
+description: ''
+tags: []
+tests: []

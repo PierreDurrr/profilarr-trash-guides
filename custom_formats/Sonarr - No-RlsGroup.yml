@@ -1,0 +1,12 @@
+name: Sonarr - No-RlsGroup
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#no-rlsgroup)'
+tags:
+- Release Group
+- Sonarr
+conditions:
+- name: Sonarr - No Parsed Group
+  negate: true
+  required: false
+  type: release_group
+  pattern: No Parsed Group
+tests: []

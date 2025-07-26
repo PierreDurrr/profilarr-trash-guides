@@ -1,0 +1,5 @@
+name: Radarr - GHOST
+pattern: \[GHOST\]|-GHOST\b
+description: ''
+tags: []
+tests: []

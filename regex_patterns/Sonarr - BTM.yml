@@ -1,0 +1,5 @@
+name: Sonarr - BTM
+pattern: ^(BTM)$
+description: ''
+tags: []
+tests: []

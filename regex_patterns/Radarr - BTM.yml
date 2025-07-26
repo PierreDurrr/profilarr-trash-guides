@@ -1,0 +1,5 @@
+name: Radarr - BTM
+pattern: ^(BTM)$
+description: ''
+tags: []
+tests: []

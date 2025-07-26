@@ -1,0 +1,5 @@
+name: Sonarr - ZigZag
+pattern: ^(ZigZag)$
+description: ''
+tags: []
+tests: []

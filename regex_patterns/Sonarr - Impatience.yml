@@ -1,0 +1,5 @@
+name: Sonarr - Impatience
+pattern: \[Impatience\]|-Impatience\b
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: sonarr-CDD
-pattern: ^(CDD)$
-description: ''
-tags: []
-tests: []

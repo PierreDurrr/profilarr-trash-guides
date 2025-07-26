@@ -1,5 +1,0 @@
-name: sonarr-CBM
-pattern: \b(CBM)\b
-description: ''
-tags: []
-tests: []

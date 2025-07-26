@@ -1,0 +1,5 @@
+name: Sonarr - NS
+pattern: \b(NS)\b
+description: ''
+tags: []
+tests: []

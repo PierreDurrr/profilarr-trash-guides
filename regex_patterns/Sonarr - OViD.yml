@@ -1,0 +1,5 @@
+name: Sonarr - OViD
+pattern: \b(ovid)\b
+description: ''
+tags: []
+tests: []

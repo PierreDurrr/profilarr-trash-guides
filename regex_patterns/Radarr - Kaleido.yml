@@ -1,0 +1,5 @@
+name: Radarr - Kaleido
+pattern: \b(Kaleido)\b
+description: ''
+tags: []
+tests: []

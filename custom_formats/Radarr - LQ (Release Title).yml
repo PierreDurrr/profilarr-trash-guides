@@ -1,0 +1,72 @@
+name: Radarr - LQ (Release Title)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#lq-release-title)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - 1XBET
+  negate: false
+  required: false
+  type: release_title
+  pattern: 1XBET
+- name: Radarr - BEN THE MEN
+  negate: false
+  required: false
+  type: release_title
+  pattern: BEN THE MEN
+- name: Radarr - D3US
+  negate: false
+  required: false
+  type: release_title
+  pattern: D3US
+- name: Radarr - EVO (no WEBDL)
+  negate: false
+  required: false
+  type: release_title
+  pattern: EVO (no WEBDL)
+- name: Radarr - Feranki1980
+  negate: false
+  required: false
+  type: release_title
+  pattern: Feranki1980
+- name: Radarr - GalaxyRG
+  negate: false
+  required: false
+  type: release_title
+  pattern: GalaxyRG
+- name: Radarr - jennaortega
+  negate: false
+  required: false
+  type: release_title
+  pattern: jennaortega
+- name: Radarr - PiRaTeS (no WEBDL)
+  negate: false
+  required: false
+  type: release_title
+  pattern: PiRaTeS (no WEBDL)
+- name: Radarr - READ NOTE
+  negate: false
+  required: false
+  type: release_title
+  pattern: READ NOTE
+- name: Radarr - SWTYBLZ
+  negate: false
+  required: false
+  type: release_title
+  pattern: SWTYBLZ
+- name: Radarr - TeeWee
+  negate: false
+  required: false
+  type: release_title
+  pattern: TeeWee
+- name: Radarr - TEKNO3D
+  negate: false
+  required: false
+  type: release_title
+  pattern: TEKNO3D
+- name: Radarr - Will1869
+  negate: false
+  required: false
+  type: release_title
+  pattern: Will1869
+tests: []

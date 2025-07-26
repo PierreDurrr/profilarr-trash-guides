@@ -1,0 +1,5 @@
+name: Sonarr - Trix
+pattern: \[Trix\]|-Trix\b
+description: ''
+tags: []
+tests: []

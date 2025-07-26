@@ -1,5 +1,0 @@
-name: sonarr-AnimeRG
-pattern: \b(AnimeRG)\b
-description: ''
-tags: []
-tests: []

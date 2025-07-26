@@ -1,5 +1,0 @@
-name: radarr-AI Upscales
-pattern: (?<=\b[12]\d{3}\b)(?=.*\b(HEVC)\b)(?=.*\b(AI)\b)
-description: ''
-tags: []
-tests: []

@@ -1,5 +1,0 @@
-name: sonarr-pog42
-pattern: \b(pog42)\b
-description: ''
-tags: []
-tests: []

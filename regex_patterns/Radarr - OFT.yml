@@ -1,0 +1,5 @@
+name: Radarr - OFT
+pattern: ^(OFT)$
+description: ''
+tags: []
+tests: []

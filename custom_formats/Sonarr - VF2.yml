@@ -1,0 +1,17 @@
+name: Sonarr - VF2
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-vf2)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - VF2
+  negate: false
+  required: false
+  type: release_title
+  pattern: VF2
+- name: Sonarr - Both VFF and VFQ
+  negate: false
+  required: false
+  type: release_title
+  pattern: Both VFF and VFQ
+tests: []

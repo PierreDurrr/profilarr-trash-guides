@@ -1,0 +1,17 @@
+name: Sonarr - Opus
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#opus)'
+tags:
+- Release Group
+- Sonarr
+conditions:
+- name: Sonarr - Opus
+  negate: false
+  required: true
+  type: release_title
+  pattern: Opus
+- name: Sonarr - Not OPUS Release Group
+  negate: true
+  required: true
+  type: release_group
+  pattern: Not OPUS Release Group
+tests: []

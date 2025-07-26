@@ -1,0 +1,5 @@
+name: Radarr - Nagutos
+pattern: \b(Nagutos)\b
+description: ''
+tags: []
+tests: []

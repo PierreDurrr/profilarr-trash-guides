@@ -1,0 +1,5 @@
+name: Sonarr - RealRealProperRepack
+pattern: \b(REAL\.REAL\.(PROPER|REPACK))\b
+description: ''
+tags: []
+tests: []

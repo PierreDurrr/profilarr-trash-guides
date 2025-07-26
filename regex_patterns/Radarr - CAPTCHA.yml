@@ -1,0 +1,5 @@
+name: Radarr - CAPTCHA
+pattern: -CAPTCHA\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - G
+pattern: ^(GHOULS|GiMBAP|GLiMMER|Goatlove)$
+description: ''
+tags: []
+tests: []

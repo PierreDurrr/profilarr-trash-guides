@@ -1,5 +1,0 @@
-name: radarr-Sing-Along
-pattern: (?<=\b[12]\d{3}\b).*\b(Sing[-_. ]Along)\b
-description: ''
-tags: []
-tests: []

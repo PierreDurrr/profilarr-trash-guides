@@ -1,0 +1,5 @@
+name: Sonarr - Not Subbed
+pattern: (?=.*(German|Ger))(?=.*(Sub|Multi(ple)?Sub))
+description: ''
+tags: []
+tests: []

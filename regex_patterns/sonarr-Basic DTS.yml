@@ -1,5 +1,0 @@
-name: sonarr-Basic DTS
-pattern: \bDTS(\b|\d)
-description: ''
-tags: []
-tests: []

@@ -1,5 +1,0 @@
-name: radarr-Not Extended Clip
-pattern: \b(Extended[ ._-]Clip)\b
-description: ''
-tags: []
-tests: []

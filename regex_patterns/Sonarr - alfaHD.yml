@@ -1,0 +1,5 @@
+name: Sonarr - alfaHD
+pattern: ^(alfaHD.*)$
+description: ''
+tags: []
+tests: []

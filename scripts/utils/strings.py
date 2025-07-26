@@ -1,4 +1,4 @@
-def get_file_name(service, profile_name):
+def get_name(service, profile_name):
     safe_profile_name = (
         profile_name.replace("/", "-")
         .replace("[", "(")
@@ -7,4 +7,4 @@ def get_file_name(service, profile_name):
         .replace("10 bit", "10bit")
         .replace("Atmos", "ATMOS")
     )
-    return f"{service}-{safe_profile_name}"
+    return f"{service.capitalize()} - {safe_profile_name}"

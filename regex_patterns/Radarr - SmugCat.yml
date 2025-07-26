@@ -1,0 +1,5 @@
+name: Radarr - SmugCat
+pattern: \b(SmugCat)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - MAMA
+pattern: ^(MAMA)$
+description: ''
+tags: []
+tests: []

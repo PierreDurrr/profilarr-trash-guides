@@ -1,0 +1,5 @@
+name: Radarr - KC
+pattern: ^(KC)$
+description: ''
+tags: []
+tests: []

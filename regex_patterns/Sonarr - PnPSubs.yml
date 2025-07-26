@@ -1,0 +1,5 @@
+name: Sonarr - PnPSubs
+pattern: \b(PnPSubs)\b
+description: ''
+tags: []
+tests: []

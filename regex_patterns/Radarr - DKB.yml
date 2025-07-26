@@ -1,0 +1,5 @@
+name: Radarr - DKB
+pattern: \b(DKB)\b
+description: ''
+tags: []
+tests: []

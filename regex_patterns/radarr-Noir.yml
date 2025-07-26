@@ -1,5 +1,0 @@
-name: radarr-Noir
-pattern: (?<=\b[12]\d{3}\b).*\b(Noir)\b(?!$)
-description: ''
-tags: []
-tests: []

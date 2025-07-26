@@ -1,0 +1,32 @@
+name: Sonarr - German
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#language-german)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - German
+  negate: false
+  required: true
+  type: language
+  language: 4
+- name: Sonarr - NOT Original
+  negate: true
+  required: true
+  type: language
+  language: -2
+- name: Sonarr - DL
+  negate: true
+  required: true
+  type: release_title
+  pattern: DL
+- name: Sonarr - ML
+  negate: true
+  required: true
+  type: release_title
+  pattern: ML
+- name: Sonarr - Not Subbed
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Subbed
+tests: []

@@ -1,5 +1,0 @@
-name: sonarr-Comedy Central
-pattern: \b(CC)\b[ ._-]web[ ._-]?(dl|rip)?\b
-description: ''
-tags: []
-tests: []

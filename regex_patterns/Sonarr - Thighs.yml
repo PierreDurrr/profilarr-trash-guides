@@ -1,0 +1,5 @@
+name: Sonarr - Thighs
+pattern: \[Thighs\]|-Thighs\b
+description: ''
+tags: []
+tests: []

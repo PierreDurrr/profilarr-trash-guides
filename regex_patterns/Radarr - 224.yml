@@ -1,0 +1,5 @@
+name: Radarr - 224
+pattern: \[224\]|-224\b
+description: ''
+tags: []
+tests: []

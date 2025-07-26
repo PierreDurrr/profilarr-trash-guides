@@ -1,0 +1,5 @@
+name: Sonarr - Lulu
+pattern: \[Lulu\]|-Lulu\b
+description: ''
+tags: []
+tests: []

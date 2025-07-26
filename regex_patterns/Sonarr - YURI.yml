@@ -1,0 +1,5 @@
+name: Sonarr - YURI
+pattern: \[YURI\]|-YURI\b
+description: ''
+tags: []
+tests: []

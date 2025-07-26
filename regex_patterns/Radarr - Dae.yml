@@ -1,0 +1,5 @@
+name: Radarr - Dae
+pattern: \[Dae\]|-Dae\b
+description: ''
+tags: []
+tests: []

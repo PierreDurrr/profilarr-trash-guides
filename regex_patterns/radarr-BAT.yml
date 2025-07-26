@@ -1,5 +1,0 @@
-name: radarr-BAT
-pattern: ^(BAT)$
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - NeoSG
+pattern: \b(NeoSG)\b
+description: ''
+tags: []
+tests: []

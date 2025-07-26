@@ -1,0 +1,5 @@
+name: Radarr - No FANRES
+pattern: \b(FANRES)\b
+description: ''
+tags: []
+tests: []

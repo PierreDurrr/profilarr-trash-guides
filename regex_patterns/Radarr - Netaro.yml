@@ -1,0 +1,5 @@
+name: Radarr - Netaro
+pattern: \b(Netaro)\b
+description: ''
+tags: []
+tests: []

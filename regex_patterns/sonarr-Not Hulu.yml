@@ -1,5 +1,0 @@
-name: sonarr-Not Hulu
-pattern: \b(hulu)\b
-description: ''
-tags: []
-tests: []

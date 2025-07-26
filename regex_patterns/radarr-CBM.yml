@@ -1,5 +1,0 @@
-name: radarr-CBM
-pattern: \b(CBM)\b
-description: ''
-tags: []
-tests: []

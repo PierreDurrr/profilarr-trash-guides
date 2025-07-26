@@ -1,0 +1,5 @@
+name: Radarr - ANiHLS
+pattern: \b(ANiHLS)\b
+description: ''
+tags: []
+tests: []

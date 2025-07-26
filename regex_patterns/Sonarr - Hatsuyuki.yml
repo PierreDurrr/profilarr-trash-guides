@@ -1,0 +1,5 @@
+name: Sonarr - Hatsuyuki
+pattern: \[Hatsuyuki\]|-Hatsuyuki\b
+description: ''
+tags: []
+tests: []

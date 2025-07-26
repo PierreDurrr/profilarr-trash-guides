@@ -1,5 +1,0 @@
-name: sonarr-Slyfox
-pattern: \b(Slyfox)\b
-description: ''
-tags: []
-tests: []

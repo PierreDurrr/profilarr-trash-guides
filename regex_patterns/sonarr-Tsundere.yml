@@ -1,5 +1,0 @@
-name: sonarr-Tsundere
-pattern: \[Tsundere\]|-Tsundere(?!-)\b
-description: ''
-tags: []
-tests: []

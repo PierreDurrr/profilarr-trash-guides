@@ -1,0 +1,5 @@
+name: Radarr - DON
+pattern: ^(DON)$
+description: ''
+tags: []
+tests: []

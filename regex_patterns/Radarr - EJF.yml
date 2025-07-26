@@ -1,0 +1,5 @@
+name: Radarr - EJF
+pattern: \b(EJF)\b
+description: ''
+tags: []
+tests: []

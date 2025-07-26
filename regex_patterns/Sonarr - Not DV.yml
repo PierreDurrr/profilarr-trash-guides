@@ -1,0 +1,5 @@
+name: Sonarr - Not DV
+pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
+description: ''
+tags: []
+tests: []

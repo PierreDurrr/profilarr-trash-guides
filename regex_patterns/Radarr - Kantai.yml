@@ -1,0 +1,5 @@
+name: Radarr - Kantai
+pattern: \[Kantai\]|-Kantai\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,67 @@
+name: Radarr - Remux Tier 03
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#remux-tier-03)'
+tags:
+- Release Group
+- Radarr
+conditions:
+- name: Radarr - Remux
+  negate: false
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: Radarr - ATELiER
+  negate: false
+  required: false
+  type: release_group
+  pattern: ATELiER
+- name: Radarr - decibeL
+  negate: false
+  required: false
+  type: release_group
+  pattern: decibeL
+- name: Radarr - EPSiLON
+  negate: false
+  required: false
+  type: release_group
+  pattern: EPSiLON
+- name: Radarr - HiFi
+  negate: false
+  required: false
+  type: release_group
+  pattern: HiFi
+- name: Radarr - iFT
+  negate: false
+  required: false
+  type: release_group
+  pattern: iFT
+- name: Radarr - KRaLiMaRKo
+  negate: false
+  required: false
+  type: release_group
+  pattern: KRaLiMaRKo
+- name: Radarr - NTb
+  negate: false
+  required: false
+  type: release_group
+  pattern: NTb
+- name: Radarr - PTP
+  negate: false
+  required: false
+  type: release_group
+  pattern: PTP
+- name: Radarr - SumVision
+  negate: false
+  required: false
+  type: release_group
+  pattern: SumVision
+- name: Radarr - TOA
+  negate: false
+  required: false
+  type: release_group
+  pattern: TOA
+- name: Radarr - TRiToN
+  negate: false
+  required: false
+  type: release_group
+  pattern: TRiToN
+tests: []

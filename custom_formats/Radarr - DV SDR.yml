@@ -1,0 +1,22 @@
+name: Radarr - DV SDR
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-sdr)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - DV SDR
+  negate: false
+  required: true
+  type: release_title
+  pattern: DV SDR
+- name: Radarr - Not DV HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV HDR10
+- name: Radarr - Not DV HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV HLG
+tests: []

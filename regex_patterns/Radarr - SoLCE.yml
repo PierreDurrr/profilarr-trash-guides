@@ -1,0 +1,5 @@
+name: Radarr - SoLCE
+pattern: \b(SoLCE)\b
+description: ''
+tags: []
+tests: []

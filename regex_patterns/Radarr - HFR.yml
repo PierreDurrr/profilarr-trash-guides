@@ -1,0 +1,5 @@
+name: Radarr - HFR
+pattern: \b(HFR)\b
+description: ''
+tags: []
+tests: []

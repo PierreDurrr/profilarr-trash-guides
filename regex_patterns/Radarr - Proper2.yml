@@ -1,0 +1,5 @@
+name: Radarr - Proper2
+pattern: \b(Proper2)\b
+description: ''
+tags: []
+tests: []

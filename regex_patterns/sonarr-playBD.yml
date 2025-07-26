@@ -1,5 +1,0 @@
-name: sonarr-playBD
-pattern: ^(playBD)$
-description: ''
-tags: []
-tests: []

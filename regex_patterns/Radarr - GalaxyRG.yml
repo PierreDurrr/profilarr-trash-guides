@@ -1,0 +1,5 @@
+name: Radarr - GalaxyRG
+pattern: \b(GalaxyRG)\b
+description: ''
+tags: []
+tests: []

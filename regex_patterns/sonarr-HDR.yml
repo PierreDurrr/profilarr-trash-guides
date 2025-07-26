@@ -1,5 +1,0 @@
-name: sonarr-HDR
-pattern: \b(HDR)\b
-description: ''
-tags: []
-tests: []

@@ -1,5 +1,0 @@
-name: sonarr-Akai
-pattern: \[Akai\]|-Akai\b
-description: ''
-tags: []
-tests: []

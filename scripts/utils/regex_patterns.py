@@ -2,7 +2,7 @@ import os
 import json
 import yaml
 
-from utils.strings import get_file_name
+from utils.strings import get_name
 
 # TODO: prevent duplicates by only writing unique regex patterns to files
 # In some cases negations will result in a new regex pattern as of now
@@ -27,7 +27,7 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
         # Compose YAML structure
         name = spec.get("name", "")
         yml_data = {
-            "name": get_file_name(service, name),
+            "name": get_name(service, name),
             "pattern": pattern,
             "description": "",
             "tags": [],
@@ -37,7 +37,7 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
         # Output path
         output_path = os.path.join(
             output_dir,
-            f"{get_file_name(service, name)}.yml",
+            f"{get_name(service, name)}.yml",
         )
         with open(output_path, "w", encoding="utf-8") as f:
             yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)

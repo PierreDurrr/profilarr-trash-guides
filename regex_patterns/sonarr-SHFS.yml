@@ -1,5 +1,0 @@
-name: sonarr-SHFS
-pattern: \b(SHFS)\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - Kitsune
+pattern: ^(Kitsune)$
+description: ''
+tags: []
+tests: []

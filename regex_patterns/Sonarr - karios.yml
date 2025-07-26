@@ -1,0 +1,5 @@
+name: Sonarr - karios
+pattern: \b(karios)\b
+description: ''
+tags: []
+tests: []

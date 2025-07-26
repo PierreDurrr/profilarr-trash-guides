@@ -1,0 +1,5 @@
+name: Radarr - EDPH
+pattern: ^(EDPH)$
+description: ''
+tags: []
+tests: []

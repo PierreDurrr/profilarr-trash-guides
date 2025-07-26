@@ -1,0 +1,5 @@
+name: Sonarr - Beatrice-Raws
+pattern: Beatrice[ ._-]?(Raws)
+description: ''
+tags: []
+tests: []

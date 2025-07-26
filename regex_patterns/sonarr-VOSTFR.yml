@@ -1,5 +1,0 @@
-name: sonarr-VOSTFR
-pattern: \b(VOST.*?FR(E|A)?)\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - CH
+pattern: \[CH\]|-CH\b
+description: ''
+tags: []
+tests: []

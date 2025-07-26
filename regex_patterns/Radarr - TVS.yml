@@ -1,0 +1,5 @@
+name: Radarr - TVS
+pattern: ^(TVS)$
+description: ''
+tags: []
+tests: []

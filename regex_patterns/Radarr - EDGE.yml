@@ -1,0 +1,5 @@
+name: Radarr - EDGE
+pattern: \[EDGE\]|-EDGE\b
+description: ''
+tags: []
+tests: []

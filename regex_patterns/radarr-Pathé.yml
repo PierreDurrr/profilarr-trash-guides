@@ -1,5 +1,0 @@
-name: radarr-Pathé
-pattern: \b(Pathe)\b
-description: ''
-tags: []
-tests: []

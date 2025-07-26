@@ -1,5 +1,0 @@
-name: sonarr-HBO Rename
-pattern: \[(HBO)\b|\b(HBO)\]
-description: ''
-tags: []
-tests: []

@@ -1,5 +1,0 @@
-name: radarr-VULCAN
-pattern: \[VULCAN\]|-VULCAN\b
-description: ''
-tags: []
-tests: []

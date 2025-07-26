@@ -1,0 +1,5 @@
+name: Radarr - Judgement
+pattern: \[Judgment\]|-Judgment\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - PS
+pattern: ^(PS)$
+description: ''
+tags: []
+tests: []

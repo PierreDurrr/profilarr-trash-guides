@@ -1,0 +1,5 @@
+name: Sonarr - C
+pattern: ^(CARAPiLS|CiELOS|CiNEMA|CMBHD|CoRa|COUAC|CRYPT0)$
+description: ''
+tags: []
+tests: []

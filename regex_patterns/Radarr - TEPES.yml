@@ -1,0 +1,5 @@
+name: Radarr - TEPES
+pattern: ^(TEPES)$
+description: ''
+tags: []
+tests: []

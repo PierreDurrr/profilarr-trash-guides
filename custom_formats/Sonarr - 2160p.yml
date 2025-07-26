@@ -1,0 +1,12 @@
+name: Sonarr - 2160p
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#2160p)'
+tags:
+- Resolution
+- Sonarr
+conditions:
+- name: Sonarr - 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+tests: []

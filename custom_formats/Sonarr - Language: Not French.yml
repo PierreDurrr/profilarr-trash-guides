@@ -1,0 +1,12 @@
+name: 'Sonarr - Language: Not French'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#language-not-french)'
+tags:
+- Language
+- Sonarr
+conditions:
+- name: Sonarr - Not French Language
+  negate: true
+  required: false
+  type: language
+  language: 2
+tests: []

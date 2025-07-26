@@ -1,0 +1,5 @@
+name: Radarr - Yoghurt
+pattern: \b(Yoghurt)\b
+description: ''
+tags: []
+tests: []

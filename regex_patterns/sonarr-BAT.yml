@@ -1,5 +1,0 @@
-name: sonarr-BAT
-pattern: ^(BAT)$
-description: ''
-tags: []
-tests: []

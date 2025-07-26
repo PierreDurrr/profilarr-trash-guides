@@ -1,0 +1,5 @@
+name: Radarr - LoliHouse
+pattern: \b(LoliHouse)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - REVO
+pattern: \b(REVO)\b
+description: ''
+tags: []
+tests: []

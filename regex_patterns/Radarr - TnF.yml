@@ -1,0 +1,5 @@
+name: Radarr - TnF
+pattern: \b(TnF)\b
+description: ''
+tags: []
+tests: []

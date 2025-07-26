@@ -1,0 +1,17 @@
+name: Radarr - Masters of Cinema
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#masters-of-cinema)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - Masters of Cinema
+  negate: false
+  required: false
+  type: release_title
+  pattern: Masters of Cinema
+- name: Radarr - MoC
+  negate: false
+  required: false
+  type: release_title
+  pattern: MoC
+tests: []

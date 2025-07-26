@@ -1,0 +1,5 @@
+name: Sonarr - BlurayDesuYo
+pattern: \b(BlurayDesuYo)\b
+description: ''
+tags: []
+tests: []

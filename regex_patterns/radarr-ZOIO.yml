@@ -1,5 +1,0 @@
-name: radarr-ZOIO
-pattern: \b(ZOIO)\b
-description: ''
-tags: []
-tests: []

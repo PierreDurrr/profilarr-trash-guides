@@ -1,5 +1,0 @@
-name: sonarr-youshikibi
-pattern: \b(youshikibi)\b
-description: ''
-tags: []
-tests: []

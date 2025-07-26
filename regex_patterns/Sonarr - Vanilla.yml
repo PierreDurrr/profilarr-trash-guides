@@ -1,0 +1,5 @@
+name: Sonarr - Vanilla
+pattern: \[Vanilla\]|-Vanilla\b
+description: ''
+tags: []
+tests: []

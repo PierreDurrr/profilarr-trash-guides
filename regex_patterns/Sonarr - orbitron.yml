@@ -1,0 +1,5 @@
+name: Sonarr - orbitron
+pattern: ^(orbitron)$
+description: ''
+tags: []
+tests: []

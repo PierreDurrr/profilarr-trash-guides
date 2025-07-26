@@ -1,5 +1,0 @@
-name: radarr-ITVX Rename
-pattern: \[(ITVX)\b|\b(ITVX)\]
-description: ''
-tags: []
-tests: []

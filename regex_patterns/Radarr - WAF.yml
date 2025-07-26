@@ -1,0 +1,5 @@
+name: Radarr - WAF
+pattern: ^(WAF)$
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: sonarr-Metal
-pattern: \[Metal\]|-Metal\b
-description: ''
-tags: []
-tests: []

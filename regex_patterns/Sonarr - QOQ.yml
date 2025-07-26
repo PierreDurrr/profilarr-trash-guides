@@ -1,0 +1,5 @@
+name: Sonarr - QOQ
+pattern: ^(QOQ)$
+description: ''
+tags: []
+tests: []

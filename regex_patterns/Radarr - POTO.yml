@@ -1,0 +1,5 @@
+name: Radarr - POTO
+pattern: ^(POTO)$
+description: ''
+tags: []
+tests: []

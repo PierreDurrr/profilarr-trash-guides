@@ -1,5 +1,0 @@
-name: sonarr-naiyas
-pattern: \[naiyas\]|-naiyas\b
-description: ''
-tags: []
-tests: []

@@ -1,5 +1,0 @@
-name: radarr-Smoke
-pattern: \[Smoke\]|-Smoke\b
-description: ''
-tags: []
-tests: []

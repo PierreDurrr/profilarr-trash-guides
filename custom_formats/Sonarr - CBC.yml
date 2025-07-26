@@ -1,0 +1,22 @@
+name: Sonarr - CBC
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#cbc)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - CBC
+  negate: false
+  required: true
+  type: release_title
+  pattern: CBC
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

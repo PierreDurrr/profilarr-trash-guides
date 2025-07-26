@@ -1,0 +1,42 @@
+name: Sonarr - German Bluray Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-bluray-tier-02)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - VECTOR
+  negate: false
+  required: false
+  type: release_group
+  pattern: VECTOR
+- name: Sonarr - MULTiPLEX
+  negate: false
+  required: false
+  type: release_group
+  pattern: MULTiPLEX
+- name: Sonarr - SiXTYNiNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: SiXTYNiNE
+- name: Sonarr - Oergel
+  negate: false
+  required: false
+  type: release_group
+  pattern: Oergel
+- name: Sonarr - ABJ
+  negate: false
+  required: false
+  type: release_group
+  pattern: ABJ
+- name: Sonarr - Bluray
+  negate: false
+  required: true
+  type: source
+  source: 6
+- name: Sonarr - Not REMUX
+  negate: true
+  required: true
+  type: source
+  source: 7
+tests: []

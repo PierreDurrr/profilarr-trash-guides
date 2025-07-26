@@ -1,5 +1,0 @@
-name: sonarr-DemiHuman
-pattern: \[DemiHuman\]|-DemiHuman\b
-description: ''
-tags: []
-tests: []

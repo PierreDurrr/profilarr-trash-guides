@@ -1,5 +1,0 @@
-name: sonarr-ZOIO
-pattern: \b(ZOIO)\b
-description: ''
-tags: []
-tests: []

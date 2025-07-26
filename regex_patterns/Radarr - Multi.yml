@@ -1,0 +1,5 @@
+name: Radarr - Multi
+pattern: \b(Multi)(?![ ._-]?sub(s)?)(\b|\d)
+description: ''
+tags: []
+tests: []

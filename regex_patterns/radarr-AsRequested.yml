@@ -1,5 +1,0 @@
-name: radarr-AsRequested
-pattern: -AsRequested\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - decibeL
+pattern: ^(decibeL)$
+description: ''
+tags: []
+tests: []

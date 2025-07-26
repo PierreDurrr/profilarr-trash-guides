@@ -1,0 +1,12 @@
+name: Radarr - v2
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#v2)'
+tags:
+- Release Title
+- Radarr
+conditions:
+- name: Radarr - v2
+  negate: false
+  required: true
+  type: release_title
+  pattern: v2
+tests: []

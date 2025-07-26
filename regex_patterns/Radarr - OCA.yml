@@ -1,0 +1,5 @@
+name: Radarr - OCA
+pattern: ^(OCA)$
+description: ''
+tags: []
+tests: []

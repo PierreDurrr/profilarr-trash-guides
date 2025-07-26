@@ -1,0 +1,5 @@
+name: Radarr - MD
+pattern: \[MD\]|-MD\b
+description: ''
+tags: []
+tests: []

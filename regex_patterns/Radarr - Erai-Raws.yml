@@ -1,0 +1,5 @@
+name: Radarr - Erai-Raws
+pattern: \b(Erai-raws)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - HDSource
+pattern: ^(HDSource)$
+description: ''
+tags: []
+tests: []

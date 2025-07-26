@@ -1,0 +1,5 @@
+name: Sonarr - Oergel
+pattern: ^(Oergel)$
+description: ''
+tags: []
+tests: []

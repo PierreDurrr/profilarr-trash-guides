@@ -1,0 +1,5 @@
+name: Radarr - Hulu
+pattern: \b(hulu)\b
+description: ''
+tags: []
+tests: []

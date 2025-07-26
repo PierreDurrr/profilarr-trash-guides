@@ -1,5 +1,0 @@
-name: sonarr-FAV
-pattern: \[FAV\]|-FAV\b
-description: ''
-tags: []
-tests: []

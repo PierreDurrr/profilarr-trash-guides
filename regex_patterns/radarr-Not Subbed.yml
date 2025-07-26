@@ -1,5 +1,0 @@
-name: radarr-Not Subbed
-pattern: (?=.*(German|Ger))(?=.*(Sub|Multi(ple)?Sub))
-description: ''
-tags: []
-tests: []

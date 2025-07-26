@@ -1,0 +1,12 @@
+name: Sonarr - Extras
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#extras)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - Extras
+  negate: false
+  required: true
+  type: release_title
+  pattern: Extras
+tests: []

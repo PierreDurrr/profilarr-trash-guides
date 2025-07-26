@@ -1,0 +1,5 @@
+name: Radarr - sbR
+pattern: ^(sbR)$
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: sonarr-TVING Rename
-pattern: \[(TVING)\b|\b(TVING)\]
-description: ''
-tags: []
-tests: []

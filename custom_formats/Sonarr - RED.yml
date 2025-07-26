@@ -1,0 +1,27 @@
+name: Sonarr - RED
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#red)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - YouTube Red
+  negate: false
+  required: false
+  type: release_title
+  pattern: YouTube Red
+- name: Sonarr - RED Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: RED Rename
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

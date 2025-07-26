@@ -1,0 +1,5 @@
+name: Radarr - TkHD
+pattern: ^(TkHD)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: Radarr - Z
+pattern: ^(ZEST|ZiRCON)$
+description: ''
+tags: []
+tests: []

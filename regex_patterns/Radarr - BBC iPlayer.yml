@@ -1,0 +1,5 @@
+name: Radarr - BBC iPlayer
+pattern: \b(ip|iplayer)\b
+description: ''
+tags: []
+tests: []

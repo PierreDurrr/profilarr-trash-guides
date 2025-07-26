@@ -1,5 +1,0 @@
-name: radarr-MTBB
-pattern: \b(MTBB)\b
-description: ''
-tags: []
-tests: []

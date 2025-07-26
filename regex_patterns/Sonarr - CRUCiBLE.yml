@@ -1,0 +1,5 @@
+name: Sonarr - CRUCiBLE
+pattern: \[CRUCiBLE\]|-CRUCiBLE\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,32 @@
+name: Sonarr - Anime Dual Audio
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-dual-audio)'
+tags:
+- Language
+- Sonarr
+conditions:
+- name: Sonarr - Dual Audio
+  negate: false
+  required: true
+  type: release_title
+  pattern: Dual Audio
+- name: Sonarr - Not Single Language Only
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Single Language Only
+- name: Sonarr - Japanese Language
+  negate: false
+  required: false
+  type: language
+  language: 8
+- name: Sonarr - Chinese Language
+  negate: false
+  required: false
+  type: language
+  language: 10
+- name: Sonarr - Korean Language
+  negate: false
+  required: false
+  type: language
+  language: 21
+tests: []

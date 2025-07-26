@@ -5,7 +5,7 @@ import yaml
 from markdownify import markdownify
 
 from utils.qualities import QUALITIES
-from utils.strings import get_file_name
+from utils.strings import get_name
 
 
 def collect_profile_formats(
@@ -18,7 +18,7 @@ def collect_profile_formats(
         if score == 0:
             continue
 
-        profile_formats.append({"name": get_file_name(service, name), "score": score})
+        profile_formats.append({"name": get_name(service, name), "score": score})
     return sorted(
         profile_formats,
         key=lambda profile_format: (
@@ -78,11 +78,11 @@ def collect_profile(service, input_json, output_dir, trash_id_to_scoring_mapping
     name = input_json.get("name", "")
     profile_qualities = collect_qualities(input_json.get("items", []))
     yml_data = {
-        "name": get_file_name(service, name),
+        "name": get_name(service, name),
         "description": f"""[Profile from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service}-setup-quality-profiles)
 
 {markdownify(input_json.get('trash_description', ''))}""".strip(),
-        "tags": [],
+        "tags": [service.capitalize()],
         "upgradesAllowed": input_json.get("upgradeAllowed", True),
         "minCustomFormatScore": input_json.get("minFormatScore", 0),
         "upgradeUntilScore": input_json.get("cutoffFormatScore", 0),
@@ -99,7 +99,7 @@ def collect_profile(service, input_json, output_dir, trash_id_to_scoring_mapping
     }
 
     # Output path
-    output_path = os.path.join(output_dir, f"{get_file_name(service, name)}.yml")
+    output_path = os.path.join(output_dir, f"{get_name(service, name)}.yml")
     with open(output_path, "w", encoding="utf-8") as f:
         yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
     print(f"Generated: {output_path}")

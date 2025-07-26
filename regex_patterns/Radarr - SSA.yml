@@ -1,0 +1,5 @@
+name: Radarr - SSA
+pattern: \b(SSA)\b
+description: ''
+tags: []
+tests: []

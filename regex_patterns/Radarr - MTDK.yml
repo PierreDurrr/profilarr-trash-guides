@@ -1,0 +1,5 @@
+name: Radarr - MTDK
+pattern: ^(MTDK)$
+description: ''
+tags: []
+tests: []

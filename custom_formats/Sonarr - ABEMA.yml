@@ -1,0 +1,27 @@
+name: Sonarr - ABEMA
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#abema)'
+tags:
+- Source
+- Sonarr
+conditions:
+- name: Sonarr - ABEMA
+  negate: false
+  required: true
+  type: release_title
+  pattern: ABEMA
+- name: Sonarr - WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+- name: Sonarr - WEB
+  negate: false
+  required: false
+  type: source
+  source: 1
+tests: []

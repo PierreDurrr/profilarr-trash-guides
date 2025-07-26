@@ -1,5 +1,0 @@
-name: radarr-ANE
-pattern: \[ANE\]|-ANE$
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: Sonarr - ONLY
+pattern: ^(ONLY)$
+description: ''
+tags: []
+tests: []

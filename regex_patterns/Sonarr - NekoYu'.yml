@@ -1,0 +1,5 @@
+name: Sonarr - NekoYu'
+pattern: \b(NekoYu\'?)\b
+description: ''
+tags: []
+tests: []

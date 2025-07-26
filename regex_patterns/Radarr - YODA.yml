@@ -1,0 +1,5 @@
+name: Radarr - YODA
+pattern: ^(YODA)$
+description: ''
+tags: []
+tests: []

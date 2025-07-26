@@ -1,0 +1,5 @@
+name: Radarr - PTHome
+pattern: ^(PTHome)$
+description: ''
+tags: []
+tests: []

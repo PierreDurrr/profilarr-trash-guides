@@ -1,0 +1,5 @@
+name: Sonarr - BYNDR
+pattern: ^(BYNDR)$
+description: ''
+tags: []
+tests: []

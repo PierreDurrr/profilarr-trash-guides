@@ -1,0 +1,5 @@
+name: Sonarr - D-Z0N3
+pattern: \b(D-Z0N3)\b
+description: ''
+tags: []
+tests: []

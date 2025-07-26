@@ -1,0 +1,5 @@
+name: Sonarr - PTHome
+pattern: ^(PTHome)$
+description: ''
+tags: []
+tests: []

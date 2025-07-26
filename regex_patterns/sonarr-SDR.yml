@@ -1,5 +1,0 @@
-name: sonarr-SDR
-pattern: \bSDR\b
-description: ''
-tags: []
-tests: []

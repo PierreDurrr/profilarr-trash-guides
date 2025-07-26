@@ -1,5 +1,0 @@
-name: sonarr-Alt
-pattern: \[Alt\]|-Alt\b
-description: ''
-tags: []
-tests: []

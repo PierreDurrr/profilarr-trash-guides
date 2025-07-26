@@ -1,0 +1,5 @@
+name: Radarr - Lia
+pattern: \[Lia\]|-Lia\b
+description: ''
+tags: []
+tests: []

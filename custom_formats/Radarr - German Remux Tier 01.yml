@@ -1,0 +1,42 @@
+name: Radarr - German Remux Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-remux-tier-01)'
+tags:
+- Quality Modifier
+- Radarr
+conditions:
+- name: Radarr - TvR
+  negate: false
+  required: false
+  type: release_group
+  pattern: TvR
+- name: Radarr - pmHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: pmHD
+- name: Radarr - NIMA4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: NIMA4K
+- name: Radarr - QfG
+  negate: false
+  required: false
+  type: release_group
+  pattern: QfG
+- name: Radarr - WeebPinn
+  negate: false
+  required: false
+  type: release_group
+  pattern: WeebPinn
+- name: Radarr - MAMA
+  negate: false
+  required: false
+  type: release_group
+  pattern: MAMA
+- name: Radarr - Remux
+  negate: false
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+tests: []

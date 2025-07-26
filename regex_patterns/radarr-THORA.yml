@@ -1,5 +1,0 @@
-name: radarr-THORA
-pattern: \b(THORA)\b
-description: ''
-tags: []
-tests: []

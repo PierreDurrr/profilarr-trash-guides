@@ -1,0 +1,5 @@
+name: Radarr - DTS-ES
+pattern: dts[-. ]?es\b
+description: ''
+tags: []
+tests: []

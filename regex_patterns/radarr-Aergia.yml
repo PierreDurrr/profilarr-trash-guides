@@ -1,5 +1,0 @@
-name: radarr-Aergia
-pattern: \[Aergia\]|-Aergia(?!-raws)\b
-description: ''
-tags: []
-tests: []

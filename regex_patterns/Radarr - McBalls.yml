@@ -1,0 +1,5 @@
+name: Radarr - McBalls
+pattern: \b(McBalls)\b
+description: ''
+tags: []
+tests: []

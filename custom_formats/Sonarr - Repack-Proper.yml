@@ -1,0 +1,22 @@
+name: Sonarr - Repack-Proper
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#repack-proper)'
+tags:
+- Release Title
+- Sonarr
+conditions:
+- name: Sonarr - Repack
+  negate: false
+  required: false
+  type: release_title
+  pattern: Repack
+- name: Sonarr - Proper
+  negate: false
+  required: false
+  type: release_title
+  pattern: Proper
+- name: Sonarr - Rerip
+  negate: false
+  required: false
+  type: release_title
+  pattern: Rerip
+tests: []

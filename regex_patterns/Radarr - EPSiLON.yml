@@ -1,0 +1,5 @@
+name: Radarr - EPSiLON
+pattern: ^(EPSiLON)$
+description: ''
+tags: []
+tests: []

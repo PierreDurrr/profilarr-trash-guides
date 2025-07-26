@@ -1,0 +1,5 @@
+name: Radarr - JFF
+pattern: ^(JFF)$
+description: ''
+tags: []
+tests: []

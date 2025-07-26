@@ -1,0 +1,5 @@
+name: Sonarr - ArataEnc
+pattern: \b(ArataEnc)\b
+description: ''
+tags: []
+tests: []

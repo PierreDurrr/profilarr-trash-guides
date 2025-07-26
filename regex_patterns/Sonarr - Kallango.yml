@@ -1,0 +1,5 @@
+name: Sonarr - Kallango
+pattern: \[Kallango\]|-Kallango\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,12 @@
+name: Sonarr - Multi-Episode
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#multi-episode)'
+tags:
+- Release Type
+- Sonarr
+conditions:
+- name: Sonarr - Multi-Episode
+  negate: false
+  required: false
+  type: release_type
+  releaseType: 2
+tests: []

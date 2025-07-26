@@ -1,0 +1,5 @@
+name: Sonarr - SIGMA
+pattern: ^(SIGMA)$
+description: ''
+tags: []
+tests: []

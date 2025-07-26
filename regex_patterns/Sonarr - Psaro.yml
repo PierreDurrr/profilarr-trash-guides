@@ -1,0 +1,5 @@
+name: Sonarr - Psaro
+pattern: ^(Psaro)$
+description: ''
+tags: []
+tests: []

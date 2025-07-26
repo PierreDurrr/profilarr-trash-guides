@@ -1,0 +1,5 @@
+name: Sonarr - Asenshi
+pattern: \b(Asenshi)\b
+description: ''
+tags: []
+tests: []

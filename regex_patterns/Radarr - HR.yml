@@ -1,0 +1,5 @@
+name: Radarr - HR
+pattern: \[HR\]|-HR\b
+description: ''
+tags: []
+tests: []

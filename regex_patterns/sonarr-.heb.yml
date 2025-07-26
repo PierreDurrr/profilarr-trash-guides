@@ -1,5 +1,0 @@
-name: sonarr-.heb
-pattern: '[.]heb\b'
-description: ''
-tags: []
-tests: []

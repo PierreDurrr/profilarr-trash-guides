@@ -1,0 +1,5 @@
+name: Radarr - CRUCiBLE
+pattern: \[CRUCiBLE\]|-CRUCiBLE\b
+description: ''
+tags: []
+tests: []

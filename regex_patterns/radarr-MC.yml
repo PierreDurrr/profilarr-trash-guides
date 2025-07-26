@@ -1,5 +1,0 @@
-name: radarr-MC
-pattern: \b(MC)\b
-description: ''
-tags: []
-tests: []
