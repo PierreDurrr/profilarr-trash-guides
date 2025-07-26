@@ -2,6 +2,9 @@ import os
 import json
 import yaml
 
+def get_file_name(profile_name):
+  return profile_name.replace('[', '(').replace(']', ')')
+
 def find_score_for_custom_format(trash_score_set, custom_format_name, trash_id, output_dir):
   custom_formats_dir = os.path.join(output_dir, '..', 'custom_formats')
   target_file = None
@@ -97,7 +100,7 @@ def collect_profile(service, input_json, output_dir):
     }
 
     # Output path
-    output_path = os.path.join(output_dir, f"{name}.yml")
+    output_path = os.path.join(output_dir, f"{get_file_name(name)}.yml")
     with open(output_path, 'w', encoding='utf-8') as f:
         yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
     print(f"Generated: {output_path}")
