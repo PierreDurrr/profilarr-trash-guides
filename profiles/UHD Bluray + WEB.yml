@@ -18,6 +18,9 @@ qualities:
     name: WEBRip-2160p
 - name: Bluray-2160p
   id: 4
+upgrade_until:
+  name: Bluray-2160p
+  id: 4
 custom_formats:
 - name: DV HDR10Plus
   score: 1500

@@ -28,6 +28,10 @@ qualities:
     name: WEBRip-2160p
   - id: 5
     name: WEBDL-2160p
+upgrade_until:
+  name: WEB|2160p
+  id: -1
+  description: ''
 custom_formats:
 - name: DV HDR10Plus
   score: 1500

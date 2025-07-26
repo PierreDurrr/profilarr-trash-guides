@@ -25,6 +25,10 @@ qualities:
     name: WEBRip-1080p
   - id: 10
     name: Bluray-1080p
+upgrade_until:
+  name: Merged QPs
+  id: -1
+  description: ''
 custom_formats:
 - name: German 1080p Booster
   score: 650

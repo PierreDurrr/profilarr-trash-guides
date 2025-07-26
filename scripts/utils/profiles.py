@@ -97,10 +97,21 @@ def collect_qualities(items):
     return qualities
 
 
+def get_upgrade_until(quality_name, profile_qualities):
+    found_quality = next(
+        quality for quality in profile_qualities if quality["name"] == quality_name
+    )
+    if found_quality:
+        found_quality = found_quality.copy()
+        found_quality.pop("qualities", None)
+    return found_quality
+
+
 def collect_profile(service, input_json, output_dir):
     # Compose YAML structure
     name = input_json.get("name", "")
     trash_id = input_json.get("trash_id", "")
+    profile_qualities = collect_qualities(input_json.get("items", []))
     yml_data = {
         "name": get_file_name(name),
         "description": f"""[Profile from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service}-setup-quality-profiles)
@@ -112,7 +123,8 @@ def collect_profile(service, input_json, output_dir):
         "minCustomFormatScore": input_json.get("minFormatScore", 0),
         "upgradeUntilScore": input_json.get("cutoffFormatScore", 0),
         "minScoreIncrement": input_json.get("minUpgradeFormatScore", 0),
-        "qualities": collect_qualities(input_json.get("items", [])),
+        "qualities": profile_qualities,
+        "upgrade_until": get_upgrade_until(input_json.get("cutoff"), profile_qualities),
         "custom_formats": collect_profile_formats(
             input_json.get("trash_score_set"),
             input_json.get("formatItems", {}),

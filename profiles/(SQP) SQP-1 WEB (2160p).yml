@@ -34,6 +34,10 @@ qualities:
     name: WEBRip-2160p
   - id: 4
     name: Bluray-2160p
+upgrade_until:
+  name: Bluray|WEB-2160p
+  id: -2
+  description: ''
 custom_formats:
 - name: TrueHD ATMOS
   score: -10000

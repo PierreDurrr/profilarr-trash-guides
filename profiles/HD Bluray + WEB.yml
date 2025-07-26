@@ -20,6 +20,9 @@ qualities:
     name: WEBRip-1080p
 - name: Bluray-1080p
   id: 10
+upgrade_until:
+  name: Bluray-1080p
+  id: 10
 custom_formats:
 - name: HD Bluray Tier 01
   score: 1800

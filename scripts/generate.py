@@ -7,10 +7,14 @@
 # ///
 import os
 import sys
+import yaml
 
 from utils.custom_formats import collect_custom_formats
 from utils.regex_patterns import collect_regex_patterns
 from utils.profiles import collect_profiles
+
+# Prevent aliases from showing up
+yaml.Dumper.ignore_aliases = lambda *args: True
 
 
 def clear_output_dir(output_dir):

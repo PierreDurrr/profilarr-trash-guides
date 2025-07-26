@@ -21,6 +21,9 @@ qualities:
     name: Bluray-1080p
 - name: Remux-1080p
   id: 8
+upgrade_until:
+  name: Remux-1080p
+  id: 8
 custom_formats:
 - name: 'Language: Not Original'
   score: -10000

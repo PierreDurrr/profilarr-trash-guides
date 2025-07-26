@@ -24,6 +24,10 @@ qualities:
     name: WEBRip-1080p
   - id: 10
     name: Bluray-1080p
+upgrade_until:
+  name: Bluray|WEB-1080p
+  id: -1
+  description: ''
 custom_formats:
 - name: TrueHD ATMOS
   score: -10000

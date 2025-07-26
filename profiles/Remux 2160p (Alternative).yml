@@ -64,6 +64,9 @@ qualities:
   id: 4
 - name: Remux-2160p
   id: 3
+upgrade_until:
+  name: Remux-2160p
+  id: 3
 custom_formats:
 - name: DV HDR10Plus
   score: 1500

@@ -31,6 +31,10 @@ qualities:
     name: WEBDL-2160p
   - id: 4
     name: Bluray-2160p
+upgrade_until:
+  name: Merged QPs
+  id: -1
+  description: ''
 custom_formats:
 - name: German 1080p Booster
   score: 650
