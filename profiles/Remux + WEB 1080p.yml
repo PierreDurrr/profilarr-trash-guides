@@ -1,7 +1,6 @@
 name: Remux + WEB 1080p
 description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
   \nQuality Profile that covers:  \n- WEBDL: 1080p  \n- Remux: 1080p"
-trash_id: 9ca12ea80aa55ef916e3751f4b874151
 tags: []
 upgradesAllowed: true
 minCustomFormatScore: 0

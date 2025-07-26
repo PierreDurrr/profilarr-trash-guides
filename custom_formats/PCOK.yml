@@ -1,6 +1,4 @@
 name: PCOK
-trash_id: c9fd353f8f5f1baf56dc601c4cb29920
-trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pcok)'
 tags:
 - Source
@@ -21,5 +19,3 @@ conditions:
   type: source
   source: 8
 tests: []
-metadata:
-  includeInRename: true

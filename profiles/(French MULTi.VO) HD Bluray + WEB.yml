@@ -1,7 +1,6 @@
 name: (French MULTi.VO) HD Bluray + WEB
 description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
   \nFrench Quality Profile that covers:  \n- WEBDL: 1080p  \n- Bluray 720p, 1080p"
-trash_id: 2572ce3ea4eef1c19d59e0e20ed1cea7
 tags: []
 upgradesAllowed: true
 minCustomFormatScore: 0

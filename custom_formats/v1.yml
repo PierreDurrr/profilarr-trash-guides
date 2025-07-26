@@ -1,7 +1,4 @@
 name: v1
-trash_id: 5f400539421b8fcf71d51e6384434573
-trash_scores:
-  default: 1
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#v1)'
 tags:
 - Release Title
@@ -12,5 +9,3 @@ conditions:
   type: release_title
   pattern: v1
 tests: []
-metadata:
-  includeInRename: true

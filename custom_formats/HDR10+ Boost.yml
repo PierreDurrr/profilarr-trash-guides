@@ -1,7 +1,4 @@
 name: HDR10+ Boost
-trash_id: b17886cb4158d9fea189859409975758
-trash_scores:
-  default: 901
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hdr10plus-boost)'
 tags:
 - Release Title

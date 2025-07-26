@@ -1,9 +1,4 @@
 name: FR Anime FanSub
-trash_id: eb1e434d8e46cb3f728c79f8e4400bfd
-trash_scores:
-  default: 1450
-  french-anime-multi: 1450
-  french-anime-vostfr: 1450
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-anime-fansub)'
 tags:
 - Release Title

@@ -1,6 +1,4 @@
 name: MULTi
-trash_id: 4b900e171accbfb172729b63323ea8ca
-trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#multi)'
 tags:
 - Release Title
@@ -11,5 +9,3 @@ conditions:
   type: release_title
   pattern: Multi
 tests: []
-metadata:
-  includeInRename: true

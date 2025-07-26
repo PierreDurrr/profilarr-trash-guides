@@ -1,7 +1,4 @@
 name: v3
-trash_id: db92c27ba606996b146b57fbe6d09186
-trash_scores:
-  default: 3
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#v3)'
 tags:
 - Release Title
@@ -12,5 +9,3 @@ conditions:
   type: release_title
   pattern: v3
 tests: []
-metadata:
-  includeInRename: true

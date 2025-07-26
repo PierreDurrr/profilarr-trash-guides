@@ -1,7 +1,4 @@
 name: SiC
-trash_id: 8cd3ac70db7ac318cf9a0e01333940a4
-trash_scores:
-  default: 51
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sic)'
 tags:
 - Release Title

@@ -7,7 +7,6 @@ description: '[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/rada
   for more information. Open the #access-to-sqp channel and accept the three simple
   rules. Any questions related to the SQP should only be asked in the dedicated SQP
   support channels.'
-trash_id: 0ada8e60cc3ddf2733b65de10f4a6c72
 tags: []
 upgradesAllowed: true
 minCustomFormatScore: 3350
@@ -34,7 +33,7 @@ upgrade_until:
   name: WEB|Remux|2160p
   id: -1
 custom_formats:
-- name: TrueHD Atmos
+- name: TrueHD ATMOS
   score: 5000
 - name: DTS X
   score: 4500

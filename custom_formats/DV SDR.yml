@@ -1,7 +1,4 @@
 name: DV SDR
-trash_id: a3e19f8f627608af0211acd02bf89735
-trash_scores:
-  default: 1500
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-sdr)'
 tags:
 - Release Title

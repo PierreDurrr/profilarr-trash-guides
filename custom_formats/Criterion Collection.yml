@@ -1,7 +1,4 @@
 name: Criterion Collection
-trash_id: e0c07d59beb37348e975a930d5e50319
-trash_scores:
-  default: 25
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#criterion-collection)'
 tags:
 - Release Group
@@ -32,5 +29,3 @@ conditions:
   type: release_group
   pattern: Not Criterion RlsGrp
 tests: []
-metadata:
-  includeInRename: true

@@ -7,57 +7,12 @@ from markdownify import markdownify
 from utils.qualities import QUALITIES
 from utils.strings import get_file_name
 
-cache = {}
 
-
-def find_score_for_custom_format(
-    trash_score_set, custom_format_name, trash_id, output_dir
-):
-    custom_formats_dir = os.path.join(output_dir, "..", "custom_formats")
-    target_file = None
-
-    if cache.get(trash_id):
-        trash_scores = cache[trash_id].get("trash_scores", {})
-        if not trash_scores:
-            print(f"No trash scores found in cache for {custom_format_name}")
-            return 0
-
-        return trash_scores.get(trash_score_set, trash_scores.get("default", 0))
-
-    for fname in os.listdir(custom_formats_dir):
-        if fname.endswith(".yml"):
-            target_file = os.path.join(custom_formats_dir, fname)
-
-        if not target_file or not os.path.exists(target_file):
-            print(f"Target file {target_file} does not exist. Skipping...")
-            continue
-
-        with open(target_file, "r", encoding="utf-8") as f:
-            data = yaml.safe_load(f)
-
-        if not data or "trash_id" not in data:
-            print(f"Invalid custom format data for {custom_format_name}")
-            continue
-
-        cache[trash_id] = data
-
-        if data["trash_id"] != trash_id:
-            continue
-
-        trash_scores = data.get("trash_scores", {})
-        if not trash_scores:
-            print(f"No trash scores found in {custom_format_name}")
-            return 0
-
-        return trash_scores.get(trash_score_set, trash_scores.get("default", 0))
-
-
-def collect_profile_formats(trash_score_set, format_items, output_dir):
+def collect_profile_formats(trash_score_set, format_items, trash_id_to_scoring_mapping):
     profile_format = []
     for name, trash_id in format_items.items():
-        score = find_score_for_custom_format(
-            trash_score_set, name, trash_id, output_dir
-        )
+        scoring = trash_id_to_scoring_mapping[trash_id]
+        score = scoring.get(trash_score_set, scoring.get("default", 0))
         if score == 0:
             continue
 
@@ -103,13 +58,13 @@ def get_upgrade_until(quality_name, profile_qualities):
     )
     if found_quality:
         found_quality = found_quality.copy()
-        if not found_quality.get("description"):
+        if found_quality.get("description", "") == "":
             found_quality.pop("description", None)
         found_quality.pop("qualities", None)
     return found_quality
 
 
-def collect_profile(service, input_json, output_dir):
+def collect_profile(service, input_json, output_dir, trash_id_to_scoring_mapping):
     # Compose YAML structure
     name = input_json.get("name", "")
     trash_id = input_json.get("trash_id", "")
@@ -119,7 +74,6 @@ def collect_profile(service, input_json, output_dir):
         "description": f"""[Profile from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service}-setup-quality-profiles)
 
 {markdownify(input_json.get('trash_description', ''))}""".strip(),
-        "trash_id": trash_id,
         "tags": [],
         "upgradesAllowed": input_json.get("upgradeAllowed", True),
         "minCustomFormatScore": input_json.get("minFormatScore", 0),
@@ -130,7 +84,7 @@ def collect_profile(service, input_json, output_dir):
         "custom_formats": collect_profile_formats(
             input_json.get("trash_score_set"),
             input_json.get("formatItems", {}),
-            output_dir,
+            trash_id_to_scoring_mapping,
         ),
         "language": input_json.get("language", "any").lower(),
     }
@@ -142,7 +96,12 @@ def collect_profile(service, input_json, output_dir):
     print(f"Generated: {output_path}")
 
 
-def collect_profiles(service, input_dir, output_dir):
+def collect_profiles(
+    service,
+    input_dir,
+    output_dir,
+    trash_id_to_scoring_mapping,
+):
     for root, _, files in os.walk(input_dir):
         for filename in files:
             if not filename.endswith(".json"):
@@ -151,4 +110,4 @@ def collect_profiles(service, input_dir, output_dir):
             file_path = os.path.join(root, filename)
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            collect_profile(service, data, output_dir)
+            collect_profile(service, data, output_dir, trash_id_to_scoring_mapping)

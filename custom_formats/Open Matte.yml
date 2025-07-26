@@ -1,7 +1,4 @@
 name: Open Matte
-trash_id: 09d9dd29a0fc958f9796e65c2a8864b4
-trash_scores:
-  default: 25
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#open-matte)'
 tags:
 - Release Title

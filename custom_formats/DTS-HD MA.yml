@@ -1,11 +1,4 @@
 name: DTS-HD MA
-trash_id: dcf3ec6938fa32445f590a4da84256cd
-trash_scores:
-  default: 2500
-  sqp-1-1080p: -10000
-  sqp-1-web-1080p: -10000
-  sqp-1-2160p: -10000
-  sqp-1-web-2160p: -10000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dts-hd-ma)'
 tags:
 - Release Title

@@ -1,6 +1,4 @@
 name: STAN
-trash_id: c2863d2a50c9acad1fb50e53ece60817
-trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#stan)'
 tags:
 - Source
@@ -26,5 +24,3 @@ conditions:
   type: source
   source: 8
 tests: []
-metadata:
-  includeInRename: true

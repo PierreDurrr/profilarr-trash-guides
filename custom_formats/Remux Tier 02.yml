@@ -1,9 +1,4 @@
 name: Remux Tier 02
-trash_id: 9f98181fe5a3fbeb0cc29340da2a468a
-trash_scores:
-  default: 1900
-  anime-radarr: 1000
-  french-multi-vf: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#remux-tier-02)'
 tags:
 - Release Group

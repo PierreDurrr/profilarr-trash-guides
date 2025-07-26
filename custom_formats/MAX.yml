@@ -1,6 +1,4 @@
 name: MAX
-trash_id: 6a061313d22e51e0f25b7cd4dc065233
-trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#max)'
 tags:
 - Source
@@ -26,5 +24,3 @@ conditions:
   type: source
   source: 8
 tests: []
-metadata:
-  includeInRename: true

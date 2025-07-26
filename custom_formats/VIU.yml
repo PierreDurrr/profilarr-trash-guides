@@ -1,6 +1,4 @@
 name: VIU
-trash_id: 1b355ff093fd1064b75ea98c616881b1
-trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#viu)'
 tags:
 - Source
@@ -26,5 +24,3 @@ conditions:
   type: source
   source: 8
 tests: []
-metadata:
-  includeInRename: true

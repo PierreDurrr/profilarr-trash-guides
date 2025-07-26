@@ -1,10 +1,4 @@
 name: FR UHD Bluray Tier 01
-trash_id: 64f8f12bbf7472a6ccf838bfd6b5e3e8
-trash_scores:
-  default: 1800
-  french-multi-vf: 1800
-  french-multi-vo: 1800
-  french-vostfr: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-uhd-bluray-tier-01)'
 tags:
 - Source

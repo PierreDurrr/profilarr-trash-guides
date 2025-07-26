@@ -1,11 +1,4 @@
 name: DD+
-trash_id: 185f1dd7264c4562b9022d963ac37424
-trash_scores:
-  default: 1750
-  sqp-1-1080p: 125
-  sqp-1-web-1080p: 125
-  sqp-1-2160p: 125
-  sqp-1-web-2160p: 125
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ddplus)'
 tags:
 - Release Title

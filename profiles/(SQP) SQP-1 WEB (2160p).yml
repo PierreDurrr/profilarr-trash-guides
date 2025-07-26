@@ -7,7 +7,6 @@ description: '[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/rada
   for more information. Open the #access-to-sqp channel and accept the three simple
   rules. Any questions related to the SQP should only be asked in the dedicated SQP
   support channels.'
-trash_id: e91c9adaca0231493f4af0d571b907f9
 tags: []
 upgradesAllowed: true
 minCustomFormatScore: 1000
@@ -126,7 +125,7 @@ custom_formats:
   score: -10000
 - name: Sing-Along Versions
   score: -10000
-- name: 10 bit
+- name: 10bit
   score: -10000
 - name: AV1
   score: -10000

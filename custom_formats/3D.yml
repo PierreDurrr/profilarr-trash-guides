@@ -1,8 +1,4 @@
 name: 3D
-trash_id: b8cd450cbfa689c0259a01d9e29ba3d6
-trash_scores:
-  default: -10000
-  german: -35000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#3d)'
 tags:
 - Release Title

@@ -1,6 +1,4 @@
 name: VFF
-trash_id: 404c08fd0bd67f39b4d8e5709319094e
-trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vff)'
 tags:
 - Release Title
@@ -16,5 +14,3 @@ conditions:
   type: release_title
   pattern: Not VF2
 tests: []
-metadata:
-  includeInRename: true

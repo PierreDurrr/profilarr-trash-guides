@@ -1,6 +1,4 @@
 name: ATVP
-trash_id: 40e9380490e748672c2522eaaeb692f7
-trash_scores: {}
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#atvp)'
 tags:
 - Source
@@ -21,5 +19,3 @@ conditions:
   type: source
   source: 8
 tests: []
-metadata:
-  includeInRename: true

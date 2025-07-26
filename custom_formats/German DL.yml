@@ -1,8 +1,4 @@
 name: German DL
-trash_id: f845be10da4f442654c13e1f2c3d6cd5
-trash_scores:
-  default: -10000
-  german: 11000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-german-dl)'
 tags:
 - Language
@@ -18,5 +14,3 @@ conditions:
   type: language
   language: -2
 tests: []
-metadata:
-  includeInRename: true

@@ -2,7 +2,6 @@ name: (German) HD Bluray + WEB
 description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
   \nGerman Quality Profile that covers:  \n- WEBDL: 720p, 1080p  \n- Bluray: 720p,\
   \ 1080p"
-trash_id: 2b90e905c99490edc7c7a5787443748b
 tags: []
 upgradesAllowed: true
 minCustomFormatScore: 0

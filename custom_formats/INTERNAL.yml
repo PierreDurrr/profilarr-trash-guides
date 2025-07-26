@@ -1,7 +1,4 @@
 name: INTERNAL
-trash_id: 182fa1c42a2468f8488e6dcf75a81b81
-trash_scores:
-  default: 10
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#internal)'
 tags:
 - Release Title

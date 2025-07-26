@@ -1,8 +1,4 @@
 name: SDR
-trash_id: 9c38ebb7384dada637be8899efa68e6f
-trash_scores:
-  default: -10000
-  german: -35000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sdr)'
 tags:
 - Release Title

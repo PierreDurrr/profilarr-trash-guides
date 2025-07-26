@@ -1,11 +1,4 @@
 name: ATMOS (undefined)
-trash_id: 417804f7f2c4308c1f4c5d380d4c4475
-trash_scores:
-  default: 3000
-  sqp-1-1080p: 0
-  sqp-1-web-1080p: 0
-  sqp-1-2160p: 0
-  sqp-1-web-2160p: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#atmos-undefined)'
 tags:
 - Release Title
@@ -45,7 +38,7 @@ conditions:
   required: true
   type: release_title
   pattern: Not PCM
-- name: Not RlsGrp (Atmos Only)
+- name: Not RlsGrp (ATMOS Only)
   negate: true
   required: true
   type: release_title

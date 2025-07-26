@@ -2,7 +2,6 @@ name: Remux 2160p (Combined)
 description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
   \nQuality Profile that covers:  \n- WEBDL: 1080p, 2160p  \n- Bluray: 1080p, 2160p\
   \  \n- Remux: 1080p, 2160p"
-trash_id: d1d310673359205736b4b84acd5ea8c8
 tags: []
 upgradesAllowed: true
 minCustomFormatScore: 0

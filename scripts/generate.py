@@ -12,6 +12,7 @@ import yaml
 from utils.custom_formats import collect_custom_formats
 from utils.regex_patterns import collect_regex_patterns
 from utils.profiles import collect_profiles
+from utils.files import clean_files
 
 # Prevent aliases from showing up
 yaml.Dumper.ignore_aliases = lambda *args: True
@@ -62,9 +63,24 @@ def main():
             )
             continue
 
-        collect_regex_patterns(service, trash_custom_formats_dir, regex_patterns_dir)
-        collect_custom_formats(service, trash_custom_formats_dir, custom_formats_dir)
-        collect_profiles(service, trash_profiles_dir, profiles_dir)
+        collect_regex_patterns(
+            service,
+            trash_custom_formats_dir,
+            regex_patterns_dir,
+        )
+        trash_id_to_scoring_mapping = collect_custom_formats(
+            service,
+            trash_custom_formats_dir,
+            custom_formats_dir,
+        )
+        collect_profiles(
+            service,
+            trash_profiles_dir,
+            profiles_dir,
+            trash_id_to_scoring_mapping,
+        )
+
+        clean_files([regex_patterns_dir, custom_formats_dir, profiles_dir])
 
 
 if __name__ == "__main__":

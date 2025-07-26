@@ -2,7 +2,6 @@ name: (French MULTi.VO) HD Remux (1080p)
 description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
   \nFrench Quality Profile that covers:  \n- WEBDL: 1080p  \n- Bluray 1080p  \n- Remux:\
   \ 1080p"
-trash_id: c6460a102b312200c095a2d0982e0461
 tags: []
 upgradesAllowed: true
 minCustomFormatScore: 0

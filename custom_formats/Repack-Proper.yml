@@ -1,10 +1,4 @@
 name: Repack-Proper
-trash_id: e7718d7a3ce595f289bfee26adc178f5
-trash_scores:
-  default: 5
-  anime-radarr: 1
-  french-anime-multi: 1
-  french-anime-vostfr: 1
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#repack-proper)'
 tags:
 - Release Title

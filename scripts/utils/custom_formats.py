@@ -62,11 +62,8 @@ def collect_custom_format(service, file_name, input_json, output_dir):
 
     # Compose YAML structure
     name = input_json.get("name", "")
-    trash_id = input_json.get("trash_id", "")
     yml_data = {
         "name": get_file_name(name),
-        "trash_id": trash_id,
-        "trash_scores": input_json.get("trash_scores", {}),
         "description": f"""[Custom format from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service.capitalize()}-collection-of-custom-formats/#{file_name})
 
 {markdownify(input_json.get('description', ''))}""".strip(),
@@ -75,9 +72,12 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         "tests": [],
     }
 
-    include_in_rename = input_json.get("includeCustomFormatWhenRenaming", False)
-    if include_in_rename:
-        yml_data["metadata"] = {"includeInRename": include_in_rename}
+    # Include in rename is currently not supported from the file system
+    # It would require inserting into the DB
+    # TODO: Write a script that can do this?
+    # include_in_rename = input_json.get("includeCustomFormatWhenRenaming", False)
+    # if include_in_rename:
+    #     yml_data["metadata"] = {"includeInRename": include_in_rename}
 
     # Output path
     output_path = os.path.join(output_dir, f"{get_file_name(name)}.yml")
@@ -86,7 +86,12 @@ def collect_custom_format(service, file_name, input_json, output_dir):
     print(f"Generated: {output_path}")
 
 
-def collect_custom_formats(service, input_dir, output_dir):
+def collect_custom_formats(
+    service,
+    input_dir,
+    output_dir,
+):
+    trash_id_to_scoring_mapping = {}
     for root, _, files in os.walk(input_dir):
         for filename in files:
             if not filename.endswith(".json"):
@@ -96,4 +101,17 @@ def collect_custom_formats(service, input_dir, output_dir):
             file_stem = os.path.splitext(filename)[0]  # Filename without extension
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            collect_custom_format(service, file_stem, data, output_dir)
+
+            trash_id = data.get("trash_id")
+            trash_scores = data.get("trash_scores", {})
+            if trash_id:
+                trash_id_to_scoring_mapping[trash_id] = trash_scores
+
+            collect_custom_format(
+                service,
+                file_stem,
+                data,
+                output_dir,
+            )
+
+    return trash_id_to_scoring_mapping

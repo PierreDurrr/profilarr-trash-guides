@@ -1,9 +1,4 @@
 name: FR Anime Tier 01
-trash_id: 03520acbc5e46ce326be984534792d28
-trash_scores:
-  default: 1650
-  french-anime-multi: 1650
-  french-anime-vostfr: 1650
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-anime-tier-01)'
 tags:
 - Release Title

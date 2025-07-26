@@ -1,11 +1,4 @@
 name: DD+ ATMOS
-trash_id: 1af239278386be2919e1bcee0bde047e
-trash_scores:
-  default: 3000
-  sqp-1-1080p: 135
-  sqp-1-web-1080p: 135
-  sqp-1-2160p: 135
-  sqp-1-web-2160p: 135
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ddplus-atmos)'
 tags:
 - Release Title

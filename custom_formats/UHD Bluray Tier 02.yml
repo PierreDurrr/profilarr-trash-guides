@@ -1,12 +1,4 @@
 name: UHD Bluray Tier 02
-trash_id: a58f517a70193f8e578056642178419d
-trash_scores:
-  default: 1750
-  sqp-1-2160p: 1050
-  sqp-1-web-2160p: 1050
-  sqp-2: 2200
-  sqp-5: 2200
-  french-multi-vf: 0
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uhd-bluray-tier-02)'
 tags:
 - Release Group

@@ -1,7 +1,4 @@
 name: Opus
-trash_id: a061e2e700f81932daf888599f8a8273
-trash_scores:
-  default: 250
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#opus)'
 tags:
 - Release Group

@@ -1,8 +1,4 @@
 name: x265 (no HDR-DV)
-trash_id: 839bea857ed2c0a8e084f3cbdbd65ecb
-trash_scores:
-  default: -10000
-  german: -35000
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x265-no-hdrdv)'
 tags:
 - Resolution

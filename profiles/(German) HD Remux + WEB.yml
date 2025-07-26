@@ -1,7 +1,6 @@
 name: (German) HD Remux + WEB
 description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
   \nGerman Quality Profile that covers:  \n- WEBDL: 1080p  \n- Remux: 1080p"
-trash_id: c13c33fdd2c306266b34cb9946de5919
 tags: []
 upgradesAllowed: true
 minCustomFormatScore: 0
