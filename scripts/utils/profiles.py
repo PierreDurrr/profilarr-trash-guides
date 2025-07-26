@@ -61,7 +61,7 @@ def collect_profile_formats(trash_score_set, format_items, output_dir):
         if score == 0:
             continue
 
-        profile_format.append({"name": name, "score": score})
+        profile_format.append({"name": get_file_name(name), "score": score})
     return profile_format
 
 

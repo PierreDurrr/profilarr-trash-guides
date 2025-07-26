@@ -68,7 +68,7 @@ custom_formats:
   score: 1000
 - name: Anime BD Tier 06 (FanSubs)
   score: 900
-- name: Anime BD Tier 07 (P2P/Scene)
+- name: Anime BD Tier 07 (P2P-Scene)
   score: 800
 - name: Anime BD Tier 08 (Mini Encodes)
   score: 700
