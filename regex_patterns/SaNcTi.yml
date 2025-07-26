@@ -1,6 +1,0 @@
-name: SaNcTi
-pattern: (?<=^|[\s.-])SaNcTi\b
-description: ''
-tags:
-- Release Group
-tests: []

@@ -1,0 +1,4 @@
+name: 7.1 Surround
+pattern: (?<!repac)[^0-9][1-4][ .][0-1]|\b(Stereo|Mono)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,6 +1,0 @@
-name: WiKi
-pattern: (?<=^|[\s.-])WiKi\b
-description: ''
-tags:
-- Release Group
-tests: null

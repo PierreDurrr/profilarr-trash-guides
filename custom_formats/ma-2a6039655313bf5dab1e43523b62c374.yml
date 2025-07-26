@@ -1,0 +1,16 @@
+name: MA
+trash_id: 2a6039655313bf5dab1e43523b62c374
+trash_scores:
+  default: 20
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ma'
+tags:
+- Release Title
+conditions:
+- name: Movies Anywhere
+  negate: false
+  required: true
+  type: release_title
+  pattern: Movies Anywhere
+tests: []

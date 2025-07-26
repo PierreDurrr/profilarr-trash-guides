@@ -1,0 +1,4 @@
+name: MY5
+pattern: \b(MY5)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

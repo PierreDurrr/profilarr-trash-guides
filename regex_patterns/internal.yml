@@ -1,0 +1,4 @@
+name: INTERNAL
+pattern: \b(INTERNAL)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

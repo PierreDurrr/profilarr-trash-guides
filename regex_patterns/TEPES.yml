@@ -1,6 +1,0 @@
-name: TEPES
-pattern: (?<=^|[\s.-])TEPES\b
-description: ''
-tags:
-- Release Group
-tests: []

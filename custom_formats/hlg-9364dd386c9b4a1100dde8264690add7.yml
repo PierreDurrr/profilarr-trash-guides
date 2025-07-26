@@ -1,0 +1,36 @@
+name: HLG
+trash_id: 9364dd386c9b4a1100dde8264690add7
+trash_scores:
+  default: 500
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hlg'
+tags:
+- Release Title
+conditions:
+- name: HLG
+  negate: false
+  required: true
+  type: release_title
+  pattern: HLG
+- name: Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV
+- name: Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10+
+- name: Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10
+- name: Not PQ
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PQ
+tests: []

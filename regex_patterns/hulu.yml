@@ -1,0 +1,4 @@
+name: Hulu
+pattern: \b(hulu)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

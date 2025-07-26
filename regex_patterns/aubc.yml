@@ -1,0 +1,4 @@
+name: AUBC
+pattern: \b(AUBC)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

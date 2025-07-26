@@ -1,0 +1,4 @@
+name: IP
+pattern: \b(ip|iplayer)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

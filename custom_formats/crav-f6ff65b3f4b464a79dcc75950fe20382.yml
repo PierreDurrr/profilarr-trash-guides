@@ -1,0 +1,30 @@
+name: CRAV
+trash_id: f6ff65b3f4b464a79dcc75950fe20382
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#crav'
+tags:
+- Source
+conditions:
+- name: Crave
+  negate: false
+  required: false
+  type: release_title
+  pattern: Crave
+- name: Crave Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: Crave Rename
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

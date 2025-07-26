@@ -1,0 +1,4 @@
+name: German Bluray Tier 01
+pattern: ^(MAMA)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

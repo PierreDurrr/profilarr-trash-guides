@@ -1,0 +1,4 @@
+name: Retags
+pattern: \b(ORARBG)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

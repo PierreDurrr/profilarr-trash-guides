@@ -1,0 +1,45 @@
+name: DD+
+trash_id: 185f1dd7264c4562b9022d963ac37424
+trash_scores:
+  default: 1750
+  sqp-1-1080p: 125
+  sqp-1-web-1080p: 125
+  sqp-1-2160p: 125
+  sqp-1-web-2160p: 125
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ddplus'
+tags:
+- Release Title
+conditions:
+- name: Dolby Digital Plus
+  negate: false
+  required: true
+  type: release_title
+  pattern: Dolby Digital Plus
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+tests: []

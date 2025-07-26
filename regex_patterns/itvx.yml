@@ -1,0 +1,4 @@
+name: ITVX
+pattern: \[(ITVX)\b|\b(ITVX)\]
+description: Regex pattern from TRaSH-Guides.
+tags: []

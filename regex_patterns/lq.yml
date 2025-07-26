@@ -1,0 +1,4 @@
+name: LQ
+pattern: ^(Zeus)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

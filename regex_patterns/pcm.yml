@@ -1,0 +1,4 @@
+name: PCM
+pattern: \bDD[P+]|\b(e[-_. ]?ac-?3)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

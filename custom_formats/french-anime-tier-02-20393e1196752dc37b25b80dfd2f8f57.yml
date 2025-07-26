@@ -1,0 +1,58 @@
+name: FR Anime Tier 02
+trash_id: 20393e1196752dc37b25b80dfd2f8f57
+trash_scores:
+  default: 1600
+  french-anime-multi: 1600
+  french-anime-vostfr: 1600
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-anime-tier-02'
+tags:
+- Release Title
+conditions:
+- name: Aoi-Project
+  negate: false
+  required: false
+  type: release_title
+  pattern: Aoi-Project
+- name: Elecman
+  negate: false
+  required: false
+  type: release_title
+  pattern: Elecman
+- name: FUJiSAN
+  negate: false
+  required: false
+  type: release_title
+  pattern: FUJiSAN
+- name: GundamGuy
+  negate: false
+  required: false
+  type: release_title
+  pattern: GundamGuy
+- name: IssouCorp
+  negate: false
+  required: false
+  type: release_title
+  pattern: IssouCorp
+- name: KAF
+  negate: false
+  required: false
+  type: release_title
+  pattern: KAF
+- name: Nagutos
+  negate: false
+  required: false
+  type: release_title
+  pattern: Nagutos
+- name: OECUF
+  negate: false
+  required: false
+  type: release_title
+  pattern: OECUF
+- name: XSPITFIRE911
+  negate: false
+  required: false
+  type: release_title
+  pattern: XSPITFIRE911
+tests: []

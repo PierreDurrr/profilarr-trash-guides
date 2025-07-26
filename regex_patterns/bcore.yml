@@ -1,0 +1,4 @@
+name: BCORE
+pattern: \b(BCORE)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

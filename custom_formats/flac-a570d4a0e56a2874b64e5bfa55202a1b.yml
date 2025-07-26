@@ -1,0 +1,50 @@
+name: FLAC
+trash_id: a570d4a0e56a2874b64e5bfa55202a1b
+trash_scores:
+  default: 2250
+  sqp-1-1080p: 0
+  sqp-1-web-1080p: 0
+  sqp-1-2160p: 0
+  sqp-1-web-2160p: 0
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#flac'
+tags:
+- Release Title
+conditions:
+- name: FLAC
+  negate: false
+  required: true
+  type: release_title
+  pattern: FLAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+- name: Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic Dolby Digital
+- name: 'Not Dolby Digital Plus '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Dolby Digital Plus '
+tests: []

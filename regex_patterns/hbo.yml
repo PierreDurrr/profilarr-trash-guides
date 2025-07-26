@@ -1,0 +1,4 @@
+name: HBO
+pattern: \[(HBO)\b|\b(HBO)\]
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,4 @@
+name: Repack2
+pattern: \b(REAL\.(PROPER|REPACK))\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

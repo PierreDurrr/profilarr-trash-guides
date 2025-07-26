@@ -1,0 +1,16 @@
+name: FastSUB
+trash_id: 7f9b93f82b7e996391525f2be1d891e0
+trash_scores:
+  default: -10000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#fastsub'
+tags:
+- Release Title
+conditions:
+- name: FastSUB
+  negate: false
+  required: true
+  type: release_title
+  pattern: FastSUB
+tests: []

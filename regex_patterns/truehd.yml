@@ -1,0 +1,4 @@
+name: TrueHD
+pattern: \b(CtrlHD|W4NK3R|DON)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,4 @@
+name: Repack/Proper
+pattern: \b(Rerip)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

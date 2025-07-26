@@ -1,0 +1,37 @@
+name: SDR (no WEBDL)
+trash_id: 25c12f78430a3a23413652cbd1d48d77
+trash_scores:
+  default: -10000
+  german: -35000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sdr-no-webdl'
+tags:
+- Source
+conditions:
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160
+- name: HDR Formats
+  negate: true
+  required: false
+  type: release_title
+  pattern: HDR Formats
+- name: SDR
+  negate: false
+  required: false
+  type: release_title
+  pattern: SDR
+- name: Not WEBDL
+  negate: true
+  required: true
+  type: source
+  source: 7
+- name: Not WEBRIP
+  negate: true
+  required: true
+  type: source
+  source: 8
+tests: []

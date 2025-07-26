@@ -1,0 +1,4 @@
+name: TrueHD ATMOS
+pattern: \bFLAC(\b|\d)
+description: Regex pattern from TRaSH-Guides.
+tags: []

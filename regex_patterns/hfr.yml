@@ -1,0 +1,4 @@
+name: HFR
+pattern: \b(HFR)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

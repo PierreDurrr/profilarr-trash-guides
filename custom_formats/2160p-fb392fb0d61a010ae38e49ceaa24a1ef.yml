@@ -1,0 +1,20 @@
+name: 2160p
+trash_id: fb392fb0d61a010ae38e49ceaa24a1ef
+trash_scores:
+  default: 100
+  sqp-2: 151
+  sqp-3: 151
+  sqp-4: 151
+  sqp-5: 151
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#2160p'
+tags:
+- Resolution
+conditions:
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160
+tests: []

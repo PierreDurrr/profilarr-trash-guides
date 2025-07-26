@@ -1,0 +1,4 @@
+name: HLG
+pattern: \b(PQ)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

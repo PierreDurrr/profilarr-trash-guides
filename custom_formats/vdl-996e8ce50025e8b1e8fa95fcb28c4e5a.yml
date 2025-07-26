@@ -1,0 +1,25 @@
+name: VDL
+trash_id: 996e8ce50025e8b1e8fa95fcb28c4e5a
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#vdl'
+tags:
+- Source
+conditions:
+- name: Videoland
+  negate: false
+  required: true
+  type: release_title
+  pattern: Videoland
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

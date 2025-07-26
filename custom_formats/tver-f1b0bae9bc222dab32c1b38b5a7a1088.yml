@@ -1,0 +1,25 @@
+name: TVer
+trash_id: f1b0bae9bc222dab32c1b38b5a7a1088
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#tver'
+tags:
+- Source
+conditions:
+- name: TVer
+  negate: false
+  required: true
+  type: release_title
+  pattern: TVer
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

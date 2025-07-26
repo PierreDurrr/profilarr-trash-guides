@@ -1,0 +1,26 @@
+name: DV HLG
+trash_id: 55d53828b9d81cbe20b02efd00aa0efd
+trash_scores:
+  default: 1500
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-hlg'
+tags:
+- Release Title
+conditions:
+- name: DV HLG
+  negate: false
+  required: true
+  type: release_title
+  pattern: DV HLG
+- name: Not DV HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV HDR10
+- name: Not DV SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV SDR
+tests: []

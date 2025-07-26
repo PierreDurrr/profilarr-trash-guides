@@ -1,0 +1,87 @@
+name: Remux + WEB 2160p
+description: 'Profile from TRaSH-Guides.
+
+  Quality Profile that covers:<br>- WEBDL: 2160p<br>- Remux: 2160p'
+trash_id: fd161a61e3ab826d3a22d53f935696dd
+tags: []
+upgradesAllowed: true
+minCustomFormatScore: 0
+upgradeUntilScore: 10000
+minScoreIncrement: 1
+qualities:
+- name: WEB 2160p
+  id: -1
+  description: ''
+  qualities:
+  - id: 1
+    name: WEBDL-2160p
+  - id: 2
+    name: WEBRip-2160p
+- name: Remux-2160p
+  id: 3
+custom_formats:
+- name: DV HDR10Plus
+  score: 1500
+- name: DV HDR10
+  score: 1500
+- name: DV
+  score: 1500
+- name: DV HLG
+  score: 1500
+- name: DV SDR
+  score: 1500
+- name: HDR10+
+  score: 600
+- name: HDR10
+  score: 500
+- name: HDR
+  score: 500
+- name: HDR (undefined)
+  score: 500
+- name: PQ
+  score: 500
+- name: HLG
+  score: 500
+- name: Remux Tier 01
+  score: 1950
+- name: Remux Tier 02
+  score: 1900
+- name: Remux Tier 03
+  score: 1850
+- name: WEB Tier 01
+  score: 1700
+- name: WEB Tier 02
+  score: 1650
+- name: WEB Tier 03
+  score: 1600
+- name: Repack/Proper
+  score: 5
+- name: Repack2
+  score: 6
+- name: Repack3
+  score: 7
+- name: BR-DISK
+  score: -10000
+- name: Generated Dynamic HDR
+  score: -10000
+- name: LQ
+  score: -10000
+- name: LQ (Release Title)
+  score: -10000
+- name: 3D
+  score: -10000
+- name: Upscaled
+  score: -10000
+- name: Extras
+  score: -10000
+- name: Sing-Along Versions
+  score: -10000
+- name: AV1
+  score: -10000
+- name: BCORE
+  score: 15
+- name: CRiT
+  score: 20
+- name: MA
+  score: 20
+language: original

@@ -1,0 +1,4 @@
+name: VQ
+pattern: \b(VQ)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

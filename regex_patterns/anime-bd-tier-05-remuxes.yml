@@ -1,0 +1,4 @@
+name: Anime BD Tier 05 (Remuxes)
+pattern: \[VULCAN\]|-VULCAN\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

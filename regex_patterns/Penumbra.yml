@@ -1,6 +1,0 @@
-name: Penumbra
-pattern: (?<=^|[\s.-])Penumbra\b
-description: ''
-tags:
-- Release Group
-tests: []

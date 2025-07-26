@@ -1,0 +1,4 @@
+name: No-RlsGroup
+pattern: .
+description: Regex pattern from TRaSH-Guides.
+tags: []

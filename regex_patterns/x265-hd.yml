@@ -1,0 +1,4 @@
+name: x265 (HD)
+pattern: '[xh][ ._-]?265|\bHEVC(\b|\d)'
+description: Regex pattern from TRaSH-Guides.
+tags: []

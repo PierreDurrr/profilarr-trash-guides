@@ -1,6 +1,0 @@
-name: TayTo
-pattern: (?<=^|[\s.-])TayTo\b
-description: ''
-tags:
-- Release Group
-tests: []

@@ -1,0 +1,4 @@
+name: VDL
+pattern: \b(vdl|Videoland)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

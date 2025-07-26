@@ -1,0 +1,16 @@
+name: Sing-Along Versions
+trash_id: 712d74cd88bceb883ee32f773656b1f5
+trash_scores:
+  default: -10000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sing-along-versions'
+tags:
+- Release Title
+conditions:
+- name: Sing-Along
+  negate: false
+  required: true
+  type: release_title
+  pattern: Sing-Along
+tests: []

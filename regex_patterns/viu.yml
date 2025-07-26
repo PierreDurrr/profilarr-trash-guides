@@ -1,0 +1,4 @@
+name: VIU
+pattern: \[(VIU)\b|\b(VIU)\]
+description: Regex pattern from TRaSH-Guides.
+tags: []

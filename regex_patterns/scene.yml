@@ -1,0 +1,4 @@
+name: Scene
+pattern: \b(GERMAN)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

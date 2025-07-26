@@ -1,0 +1,30 @@
+name: HBO
+trash_id: 509e5f41146e278f9eab1ddaceb34515
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hbo'
+tags:
+- Source
+conditions:
+- name: HBO
+  negate: false
+  required: false
+  type: release_title
+  pattern: HBO
+- name: HBO Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: HBO Rename
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

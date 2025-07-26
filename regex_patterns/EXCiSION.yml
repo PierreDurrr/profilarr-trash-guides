@@ -1,6 +1,0 @@
-name: EXCiSION
-pattern: (?<=^|[\s.-])EXCiSION\b
-description: ''
-tags:
-- Release Group
-tests: []

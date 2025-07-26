@@ -1,0 +1,4 @@
+name: Anime Dual Audio
+pattern: \[(JA|ZH|KO)\]
+description: Regex pattern from TRaSH-Guides.
+tags: []

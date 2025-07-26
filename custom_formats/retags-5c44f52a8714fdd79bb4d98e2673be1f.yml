@@ -1,0 +1,47 @@
+name: Retags
+trash_id: 5c44f52a8714fdd79bb4d98e2673be1f
+trash_scores:
+  default: -10000
+  german: -35000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#retags'
+tags:
+- Release Title
+conditions:
+- name: '[rartv]'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[rartv]'
+- name: '[rarbg]'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[rarbg]'
+- name: '[eztv]'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[eztv]'
+- name: '[TGx]'
+  negate: false
+  required: false
+  type: release_title
+  pattern: '[TGx]'
+- name: .VAV
+  negate: false
+  required: false
+  type: release_title
+  pattern: .VAV
+- name: .heb
+  negate: false
+  required: false
+  type: release_title
+  pattern: .heb
+- name: ORARBG
+  negate: false
+  required: false
+  type: release_title
+  pattern: ORARBG
+tests: []

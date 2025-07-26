@@ -1,0 +1,56 @@
+name: German Web Tier 02
+trash_id: 08d120d5a003ec4954b5b255c0691d79
+trash_scores:
+  default: 1900
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-web-tier-02'
+tags:
+- Source
+conditions:
+- name: VECTOR
+  negate: false
+  required: false
+  type: release_group
+  pattern: VECTOR
+- name: MULTiPLEX
+  negate: false
+  required: false
+  type: release_group
+  pattern: MULTiPLEX
+- name: SiXTYNiNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: SiXTYNiNE
+- name: Oergel
+  negate: false
+  required: false
+  type: release_group
+  pattern: Oergel
+- name: 4SF
+  negate: false
+  required: false
+  type: release_group
+  pattern: 4SF
+- name: ABJ
+  negate: false
+  required: false
+  type: release_group
+  pattern: ABJ
+- name: paranoid06
+  negate: false
+  required: false
+  type: release_group
+  pattern: paranoid06
+- name: WebDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: WebRip
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

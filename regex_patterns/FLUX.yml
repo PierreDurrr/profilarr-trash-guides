@@ -1,6 +1,0 @@
-name: FLUX
-pattern: (?<=^|[\s.-])FLUX\b
-description: ''
-tags:
-- Release Group
-tests: []

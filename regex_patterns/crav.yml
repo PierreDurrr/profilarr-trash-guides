@@ -1,0 +1,4 @@
+name: CRAV
+pattern: \[(CRAV)\b|\b(CRAV)\]
+description: Regex pattern from TRaSH-Guides.
+tags: []

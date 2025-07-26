@@ -1,0 +1,4 @@
+name: German Scene
+pattern: ^(SAViOURHD)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

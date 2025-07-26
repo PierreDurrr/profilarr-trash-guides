@@ -1,0 +1,4 @@
+name: 1.0 Mono
+pattern: '[^0-9][5-9][ .][0-1]\b'
+description: Regex pattern from TRaSH-Guides.
+tags: []

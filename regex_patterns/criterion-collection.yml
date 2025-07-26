@@ -1,0 +1,4 @@
+name: Criterion Collection
+pattern: ^(Criterion)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

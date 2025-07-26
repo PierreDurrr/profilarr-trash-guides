@@ -1,0 +1,41 @@
+name: PQ
+trash_id: 08d6d8834ad9ec87b1dc7ec8148e7a1f
+trash_scores:
+  default: 500
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pq'
+tags:
+- Release Title
+conditions:
+- name: PQ
+  negate: false
+  required: true
+  type: release_title
+  pattern: PQ
+- name: Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV
+- name: Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10+
+- name: Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10
+- name: Not HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HLG
+- name: Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not SDR
+tests: []

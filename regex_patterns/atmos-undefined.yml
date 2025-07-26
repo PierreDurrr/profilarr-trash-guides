@@ -1,0 +1,4 @@
+name: ATMOS (undefined)
+pattern: True[ .-]?HD
+description: Regex pattern from TRaSH-Guides.
+tags: []

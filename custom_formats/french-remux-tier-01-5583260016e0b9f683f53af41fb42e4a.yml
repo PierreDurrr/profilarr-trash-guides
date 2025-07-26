@@ -1,0 +1,69 @@
+name: FR Remux Tier 01
+trash_id: 5583260016e0b9f683f53af41fb42e4a
+trash_scores:
+  default: 1950
+  french-multi-vf: 1950
+  french-multi-vo: 1950
+  french-vostfr: 0
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-remux-tier-01'
+tags:
+- Release Group
+conditions:
+- name: Remux
+  negate: false
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: BlackAngel
+  negate: false
+  required: false
+  type: release_group
+  pattern: BlackAngel
+- name: Choco
+  negate: false
+  required: false
+  type: release_group
+  pattern: Choco
+- name: HDForever
+  negate: false
+  required: false
+  type: release_group
+  pattern: HDForever
+- name: MAX
+  negate: false
+  required: false
+  type: release_group
+  pattern: MAX
+- name: ONLY
+  negate: false
+  required: false
+  type: release_group
+  pattern: ONLY
+- name: Psaro
+  negate: false
+  required: false
+  type: release_group
+  pattern: Psaro
+- name: Sicario
+  negate: false
+  required: false
+  type: release_group
+  pattern: Sicario
+- name: Tezcat74
+  negate: false
+  required: false
+  type: release_group
+  pattern: Tezcat74
+- name: TyrellCorp
+  negate: false
+  required: false
+  type: release_group
+  pattern: TyrellCorp
+- name: Zapax
+  negate: false
+  required: false
+  type: release_group
+  pattern: Zapax
+tests: []

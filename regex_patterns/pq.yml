@@ -1,0 +1,4 @@
+name: PQ
+pattern: \bSDR(\b|\d)
+description: Regex pattern from TRaSH-Guides.
+tags: []

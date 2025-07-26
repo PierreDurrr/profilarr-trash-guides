@@ -1,0 +1,4 @@
+name: AAC
+pattern: True[ .-]?HD|\bATMOS(\b|\d)
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,4 @@
+name: DV (WEBDL)
+pattern: \b(hulu)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

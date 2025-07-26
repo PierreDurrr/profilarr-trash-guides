@@ -1,0 +1,56 @@
+name: UHD Bluray Tier 01
+trash_id: 4d74ac4c4db0b64bff6ce0cffef99bf0
+trash_scores:
+  default: 1800
+  sqp-1-2160p: 1100
+  sqp-1-web-2160p: 1100
+  sqp-2: 2300
+  sqp-5: 2300
+  french-multi-vf: 0
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uhd-bluray-tier-01'
+tags:
+- Release Group
+conditions:
+- name: Not REMUX
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: Not WEBDL
+  negate: true
+  required: true
+  type: source
+  source: 7
+- name: Not WEBRIP
+  negate: true
+  required: true
+  type: source
+  source: 8
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160
+- name: CtrlHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: CtrlHD
+- name: MainFrame
+  negate: false
+  required: false
+  type: release_group
+  pattern: MainFrame
+- name: DON
+  negate: false
+  required: false
+  type: release_group
+  pattern: DON
+- name: W4NK3R
+  negate: false
+  required: false
+  type: release_group
+  pattern: W4NK3R
+tests: []

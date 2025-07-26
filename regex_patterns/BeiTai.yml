@@ -1,6 +1,0 @@
-name: BeiTai
-pattern: (?<=^|[\s.-])BeiTai\b
-description: ''
-tags:
-- Release Group
-tests: null

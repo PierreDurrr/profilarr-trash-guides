@@ -1,0 +1,4 @@
+name: VP9
+pattern: \bVP9\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

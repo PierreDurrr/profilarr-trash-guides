@@ -1,0 +1,4 @@
+name: Anime BD Tier 02 (SeaDex Muxers)
+pattern: \[Yuki\]|-Yuki\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

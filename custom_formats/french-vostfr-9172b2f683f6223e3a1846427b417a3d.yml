@@ -1,0 +1,27 @@
+name: VOSTFR
+trash_id: 9172b2f683f6223e3a1846427b417a3d
+trash_scores:
+  default: -10000
+  anime-radarr: -10000
+  french-anime-multi: 0
+  french-anime-vostfr: 101
+  french-multi-vf: 0
+  french-multi-vo: 0
+  french-vostfr: 1000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vostfr'
+tags:
+- Release Title
+conditions:
+- name: VOSTFR
+  negate: false
+  required: false
+  type: release_title
+  pattern: VOSTFR
+- name: SUBFRENCH
+  negate: false
+  required: false
+  type: release_title
+  pattern: SUBFRENCH
+tests: []

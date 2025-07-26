@@ -1,0 +1,36 @@
+name: Special Edition
+trash_id: 957d0f44b592285f26449575e8b1167e
+trash_scores:
+  default: 125
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#special-edition'
+tags:
+- Release Title
+conditions:
+- name: Special Edition
+  negate: false
+  required: true
+  type: release_title
+  pattern: Special Edition
+- name: Not IMAX Edition
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not IMAX Edition
+- name: Not Open Matte
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Open Matte
+- name: Not Theatrical
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Theatrical
+- name: Not Extended Clip
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Extended Clip
+tests: []

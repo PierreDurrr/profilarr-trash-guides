@@ -1,6 +1,0 @@
-name: WOU
-pattern: (?<=^|[\s.-])WOU\b
-description: ''
-tags:
-- Release Group
-tests: null

@@ -1,0 +1,4 @@
+name: VOSTFR
+pattern: \b(SUBFR(A|ENCH)?)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

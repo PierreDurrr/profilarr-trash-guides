@@ -1,0 +1,27 @@
+name: SDR
+trash_id: 9c38ebb7384dada637be8899efa68e6f
+trash_scores:
+  default: -10000
+  german: -35000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sdr'
+tags:
+- Release Title
+conditions:
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160
+- name: HDR Formats
+  negate: true
+  required: false
+  type: release_title
+  pattern: HDR Formats
+- name: SDR
+  negate: false
+  required: false
+  type: release_title
+  pattern: SDR
+tests: []

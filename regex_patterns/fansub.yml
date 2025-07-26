@@ -1,0 +1,4 @@
+name: FanSUB
+pattern: \b(FanSUB)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

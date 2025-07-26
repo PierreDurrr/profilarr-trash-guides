@@ -1,0 +1,4 @@
+name: DV (Disk)
+pattern: -HYBRID
+description: Regex pattern from TRaSH-Guides.
+tags: []

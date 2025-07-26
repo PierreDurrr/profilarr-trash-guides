@@ -1,0 +1,71 @@
+name: German Bluray Tier 01
+trash_id: 54795711b78ea87e56127928c423689b
+trash_scores:
+  default: 2900
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-bluray-tier-01'
+tags:
+- Quality Modifier
+conditions:
+- name: ZeroTwo
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo
+- name: ZeroTwo Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo Aliases
+- name: TSCC
+  negate: false
+  required: false
+  type: release_group
+  pattern: TSCC
+- name: TvR
+  negate: false
+  required: false
+  type: release_group
+  pattern: TvR
+- name: NIMA4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: NIMA4K
+- name: TVS
+  negate: false
+  required: false
+  type: release_group
+  pattern: TVS
+- name: PXL
+  negate: false
+  required: false
+  type: release_group
+  pattern: PXL
+- name: CNY
+  negate: false
+  required: false
+  type: release_group
+  pattern: CNY
+- name: WeebPinn
+  negate: false
+  required: false
+  type: release_group
+  pattern: WeebPinn
+- name: MAMA
+  negate: false
+  required: false
+  type: release_group
+  pattern: MAMA
+- name: Bluray
+  negate: false
+  required: true
+  type: source
+  source: 9
+- name: Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+tests: []

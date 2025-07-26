@@ -1,6 +1,0 @@
-name: KASHMiR
-pattern: (?<=^|[\s.-])KASHMiR\b
-description: ''
-tags:
-- Release Group
-tests: []

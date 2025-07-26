@@ -1,0 +1,24 @@
+name: x264
+trash_id: 2899d84dc9372de3408e6d8cc18e9666
+trash_scores:
+  sqp-2: -10000
+  sqp-3: -10000
+  sqp-4: -10000
+  sqp-5: -10000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x264'
+tags:
+- Quality Modifier
+conditions:
+- name: x|h264
+  negate: false
+  required: true
+  type: release_title
+  pattern: x|h264
+- name: Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+tests: []

@@ -1,0 +1,50 @@
+name: TrueHD
+trash_id: 3cafb66171b47f226146a0770576870f
+trash_scores:
+  default: 2750
+  sqp-1-1080p: -10000
+  sqp-1-web-1080p: -10000
+  sqp-1-2160p: -10000
+  sqp-1-web-2160p: -10000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#truehd'
+tags:
+- Release Title
+conditions:
+- name: TrueHD
+  negate: false
+  required: true
+  type: release_title
+  pattern: TrueHD
+- name: ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: ATMOS
+- name: Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Dolby Digital Plus
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic Dolby Digital
+- name: Not RlsGrp (TrueHD only)
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not RlsGrp (TrueHD only)
+tests: []

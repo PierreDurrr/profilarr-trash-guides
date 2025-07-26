@@ -1,0 +1,4 @@
+name: DTS-HD MA
+pattern: dts[-. ]?(es|(hd[. ]?)?(hr|hi))
+description: Regex pattern from TRaSH-Guides.
+tags: []

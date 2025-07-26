@@ -1,0 +1,26 @@
+name: VRV
+trash_id: 60f6d50cbd3cfc3e9a8c00e3a30c3114
+trash_scores:
+  default: 10
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#vrv'
+tags:
+- Source
+conditions:
+- name: VRV
+  negate: false
+  required: true
+  type: release_title
+  pattern: VRV
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

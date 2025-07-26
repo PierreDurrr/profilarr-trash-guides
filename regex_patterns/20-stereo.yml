@@ -1,0 +1,4 @@
+name: 2.0 Stereo
+pattern: '[^0-9]1[ .]0\b|\bMono\b|\[PCM \]'
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,4 @@
+name: German Web Tier 01
+pattern: \b(TOJ)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,36 @@
+name: SiC
+trash_id: 8cd3ac70db7ac318cf9a0e01333940a4
+trash_scores:
+  default: 51
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sic'
+tags:
+- Release Title
+conditions:
+- name: SiC
+  negate: false
+  required: true
+  type: release_title
+  pattern: SiC
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160
+- name: WEBDL
+  negate: false
+  required: true
+  type: source
+  source: 7
+- name: HDR
+  negate: false
+  required: true
+  type: release_title
+  pattern: HDR
+- name: DV
+  negate: false
+  required: true
+  type: release_title
+  pattern: DV
+tests: []

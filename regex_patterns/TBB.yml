@@ -1,6 +1,0 @@
-name: TBB
-pattern: (?<=^|[\s.-])TBB\b
-description: ''
-tags:
-- Release Group
-tests: []

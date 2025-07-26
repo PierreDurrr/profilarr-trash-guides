@@ -1,0 +1,26 @@
+name: Vinegar Syndrome
+trash_id: db9b4c4b53d312a3ca5f1378f6440fc9
+trash_scores:
+  default: 25
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#vinegar-syndrome'
+tags:
+- Release Title
+conditions:
+- name: Vinegar Syndrome
+  negate: false
+  required: false
+  type: release_title
+  pattern: Vinegar Syndrome
+- name: VS
+  negate: false
+  required: false
+  type: release_title
+  pattern: VS
+- name: VinSyn
+  negate: false
+  required: false
+  type: release_title
+  pattern: VinSyn
+tests: []

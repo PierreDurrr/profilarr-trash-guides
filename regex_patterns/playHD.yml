@@ -1,6 +1,0 @@
-name: playHD
-pattern: (?<=^|[\s.-])playHD\b
-description: ''
-tags:
-- Release Group
-tests: []

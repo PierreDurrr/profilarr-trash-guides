@@ -1,6 +1,0 @@
-name: ReaLHD
-pattern: (?<=^|[\s.-])ReaLHD\b
-description: ''
-tags:
-- Release Group
-tests: null

@@ -1,0 +1,4 @@
+name: FLUX
+pattern: ^(FLUX)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

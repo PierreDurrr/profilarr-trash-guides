@@ -1,0 +1,4 @@
+name: SiC
+pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

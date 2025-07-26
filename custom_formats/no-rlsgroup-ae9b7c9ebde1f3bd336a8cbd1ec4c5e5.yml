@@ -1,0 +1,17 @@
+name: No-RlsGroup
+trash_id: ae9b7c9ebde1f3bd336a8cbd1ec4c5e5
+trash_scores:
+  default: -10000
+  german: -35000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#no-rlsgroup'
+tags:
+- Release Group
+conditions:
+- name: No Parsed Group
+  negate: true
+  required: false
+  type: release_group
+  pattern: No Parsed Group
+tests: []

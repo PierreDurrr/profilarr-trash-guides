@@ -1,0 +1,25 @@
+name: CBC
+trash_id: d9058beaae2e147183870304dd526761
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#cbc'
+tags:
+- Source
+conditions:
+- name: CBC
+  negate: false
+  required: true
+  type: release_title
+  pattern: CBC
+- name: WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

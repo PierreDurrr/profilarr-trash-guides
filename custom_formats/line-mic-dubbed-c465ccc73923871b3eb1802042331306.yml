@@ -1,0 +1,22 @@
+name: Line/Mic Dubbed
+trash_id: c465ccc73923871b3eb1802042331306
+trash_scores:
+  default: -10000
+  german: -35000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#line-mic-dubbed'
+tags:
+- Release Title
+conditions:
+- name: Line Dubbed
+  negate: false
+  required: false
+  type: release_title
+  pattern: Line Dubbed
+- name: Mic Dubbed
+  negate: false
+  required: false
+  type: release_title
+  pattern: Mic Dubbed
+tests: []

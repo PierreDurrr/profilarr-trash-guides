@@ -1,6 +1,0 @@
-name: HHWEB
-pattern: (?<=^|[\s.-])HHWEB\b
-description: ''
-tags:
-- Release Group
-tests: []

@@ -1,0 +1,4 @@
+name: STRP
+pattern: \b(STRP)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

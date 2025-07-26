@@ -1,6 +1,0 @@
-name: IAMABLE
-pattern: (?<=^|[\s.-])IAMABLE\b
-description: ''
-tags:
-- Release Group
-tests: null

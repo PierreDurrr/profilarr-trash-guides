@@ -1,0 +1,31 @@
+name: German DL (undefined)
+trash_id: 6aad77771dabe9d3e9d7be86f310b867
+trash_scores:
+  default: 11000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-german-dl-undefined'
+tags:
+- Release Title
+conditions:
+- name: NOT Original Language
+  negate: true
+  required: true
+  type: language
+  language: -2
+- name: German
+  negate: false
+  required: true
+  type: language
+  language: 4
+- name: DL
+  negate: false
+  required: false
+  type: release_title
+  pattern: DL
+- name: ML
+  negate: false
+  required: false
+  type: release_title
+  pattern: ML
+tests: []

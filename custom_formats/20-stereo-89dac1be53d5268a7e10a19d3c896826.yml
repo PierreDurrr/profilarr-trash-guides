@@ -1,0 +1,37 @@
+name: 2.0 Stereo
+trash_id: 89dac1be53d5268a7e10a19d3c896826
+trash_scores:
+  sqp-1-web-1080p: -175
+  sqp-1-web-2160p: -175
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#20-stereo'
+tags:
+- Release Title
+conditions:
+- name: Stereo
+  negate: false
+  required: true
+  type: release_title
+  pattern: Stereo
+- name: Not 3.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 3.0ch
+- name: Not 4.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 4.0ch
+- name: Not High Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not High Channel Count
+- name: Not Mono
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Mono
+tests: []

@@ -1,0 +1,21 @@
+name: x266
+trash_id: 390455c22a9cac81a738f6cbad705c3c
+trash_scores:
+  default: -10000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x266'
+tags:
+- Quality Modifier
+conditions:
+- name: x|h266
+  negate: false
+  required: true
+  type: release_title
+  pattern: x|h266
+- name: Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+tests: []

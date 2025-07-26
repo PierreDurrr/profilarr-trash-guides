@@ -1,0 +1,4 @@
+name: v4
+pattern: (\b|\d)(v4)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

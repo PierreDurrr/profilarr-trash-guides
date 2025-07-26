@@ -1,0 +1,31 @@
+name: FR LQ
+trash_id: 48f031e76111f17ea94898f4cdc34fdc
+trash_scores:
+  default: -10000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-lq'
+tags:
+- Release Group
+conditions:
+- name: Ads/Watermarks
+  negate: false
+  required: false
+  type: release_group
+  pattern: Ads/Watermarks
+- name: Bad/False releases
+  negate: false
+  required: false
+  type: release_group
+  pattern: Bad/False releases
+- name: DeTAG/ReTAG
+  negate: false
+  required: false
+  type: release_group
+  pattern: DeTAG/ReTAG
+- name: Other reasons
+  negate: false
+  required: false
+  type: release_group
+  pattern: Other reasons
+tests: []

@@ -1,0 +1,51 @@
+name: HDR (undefined)
+trash_id: 2a4d9069cc1fe3242ff9bdaebed239bb
+trash_scores:
+  default: 500
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hdr-undefined'
+tags:
+- Release Title
+conditions:
+- name: RlsGrp (Missing HDR)
+  negate: false
+  required: true
+  type: release_group
+  pattern: RlsGrp (Missing HDR)
+- name: 2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160
+- name: Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV
+- name: Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10
+- name: Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10+
+- name: Not HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HLG
+- name: Not PQ
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PQ
+- name: Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not SDR
+tests: []

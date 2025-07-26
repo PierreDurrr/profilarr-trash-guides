@@ -1,0 +1,18 @@
+name: BHDStudio
+trash_id: 5153ec7413d9dae44e24275589b5e944
+trash_scores:
+  default: 1000
+  sqp-1-web-1080p: 550
+  sqp-1-web-2160p: 550
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#bhdstudio'
+tags:
+- Release Group
+conditions:
+- name: BHDStudio
+  negate: false
+  required: true
+  type: release_group
+  pattern: BHDStudio
+tests: []

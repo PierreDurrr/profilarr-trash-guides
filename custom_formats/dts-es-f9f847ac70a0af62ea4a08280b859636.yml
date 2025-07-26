@@ -1,0 +1,60 @@
+name: DTS-ES
+trash_id: f9f847ac70a0af62ea4a08280b859636
+trash_scores:
+  default: 1500
+  sqp-1-1080p: 0
+  sqp-1-web-1080p: 0
+  sqp-1-2160p: 0
+  sqp-1-web-2160p: 0
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dts-es'
+tags:
+- Release Title
+conditions:
+- name: DTS-ES
+  negate: false
+  required: true
+  type: release_title
+  pattern: DTS-ES
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+- name: Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Dolby Digital Plus
+- name: Not Basic DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic DTS
+- name: 'Not Basic Dolby Digital '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Basic Dolby Digital '
+- name: Not DTS X
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS X
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+tests: []

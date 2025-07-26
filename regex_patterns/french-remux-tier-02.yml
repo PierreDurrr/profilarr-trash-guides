@@ -1,0 +1,4 @@
+name: FR Remux Tier 02
+pattern: ^(ROMKENT)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

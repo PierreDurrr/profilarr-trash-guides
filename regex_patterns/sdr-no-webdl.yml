@@ -1,0 +1,4 @@
+name: SDR (no WEBDL)
+pattern: \bSDR\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,21 @@
+name: Masters of Cinema
+trash_id: 9d27d9d2181838f76dee150882bdc58c
+trash_scores:
+  default: 25
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#masters-of-cinema'
+tags:
+- Release Title
+conditions:
+- name: Masters of Cinema
+  negate: false
+  required: false
+  type: release_title
+  pattern: Masters of Cinema
+- name: MoC
+  negate: false
+  required: false
+  type: release_title
+  pattern: MoC
+tests: []

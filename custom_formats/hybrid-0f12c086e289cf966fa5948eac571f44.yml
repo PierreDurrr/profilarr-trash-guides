@@ -1,0 +1,26 @@
+name: Hybrid
+trash_id: 0f12c086e289cf966fa5948eac571f44
+trash_scores:
+  default: 100
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hybrid'
+tags:
+- Source
+conditions:
+- name: Hybrid
+  negate: false
+  required: false
+  type: release_title
+  pattern: Hybrid
+- name: Not Hybrid Release Group
+  negate: true
+  required: true
+  type: release_group
+  pattern: Not Hybrid Release Group
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: 9
+tests: []

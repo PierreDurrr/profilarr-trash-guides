@@ -1,0 +1,4 @@
+name: Anime LQ Groups
+pattern: \[zza\]|-zza\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,15 @@
+name: VOQ
+trash_id: f7caa1942be5cc547c266bd3dbc2cda9
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-voq'
+tags:
+- Release Title
+conditions:
+- name: Quebec Original Version
+  negate: false
+  required: true
+  type: release_title
+  pattern: Quebec Original Version
+tests: []

@@ -1,0 +1,4 @@
+name: VRV
+pattern: \b(vrv)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

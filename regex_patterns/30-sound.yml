@@ -1,0 +1,4 @@
+name: 3.0 Sound
+pattern: '[^0-9][5-9][ .][0-1]\b'
+description: Regex pattern from TRaSH-Guides.
+tags: []

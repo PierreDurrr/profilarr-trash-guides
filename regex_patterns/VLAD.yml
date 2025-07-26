@@ -1,6 +1,0 @@
-name: VLAD
-pattern: (?<=^|[\s.-])VLAD\b
-description: ''
-tags:
-- Release Group
-tests: []

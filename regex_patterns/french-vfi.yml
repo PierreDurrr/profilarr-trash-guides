@@ -1,0 +1,4 @@
+name: VFI
+pattern: \b(VFI)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

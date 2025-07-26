@@ -1,0 +1,4 @@
+name: Sing-Along Versions
+pattern: (?<=\b[12]\d{3}\b).*\b(Sing[-_. ]Along)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

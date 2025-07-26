@@ -1,0 +1,30 @@
+name: 6.1 Surround
+trash_id: 6fd7b090c3f7317502ab3b63cc7f51e3
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#61-surround'
+tags:
+- Release Title
+conditions:
+- name: 6.1 Surround
+  negate: false
+  required: true
+  type: release_title
+  pattern: 6.1 Surround
+- name: Not 7.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 7.1 Surround
+- name: Not 5.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 5.1 Surround
+- name: Not Low Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Low Channel Count
+tests: []

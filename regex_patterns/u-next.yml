@@ -1,0 +1,4 @@
+name: U-NEXT
+pattern: \b(u-next)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

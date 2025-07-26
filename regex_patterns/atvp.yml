@@ -1,0 +1,4 @@
+name: ATVP
+pattern: \b(atvp|aptv|Apple TV\+)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

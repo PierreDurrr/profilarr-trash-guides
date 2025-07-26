@@ -1,0 +1,70 @@
+name: DTS-HD HRA
+trash_id: 8e109e50e0a0b83a5098b056e13bf6db
+trash_scores:
+  default: 2000
+  sqp-1-1080p: -10000
+  sqp-1-web-1080p: -10000
+  sqp-1-2160p: -10000
+  sqp-1-web-2160p: -10000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dts-hd-hra'
+tags:
+- Release Title
+conditions:
+- name: DTS-HD HRA
+  negate: false
+  required: true
+  type: release_title
+  pattern: DTS-HD HRA
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+- name: Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Dolby Digital Plus
+- name: Not Basic DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic DTS
+- name: 'Not Basic Dolby Digital '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Basic Dolby Digital '
+- name: Not DTS X
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS X
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+- name: Not DTS-ES
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS-ES
+- name: Not 6.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 6.1 Surround
+tests: []

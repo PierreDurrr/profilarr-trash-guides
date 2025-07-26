@@ -1,0 +1,4 @@
+name: FR Anime Tier 03
+pattern: \b(TTN)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,26 @@
+name: German LQ (release title)
+trash_id: a826ee9e46607bc61795c85a6f2b1279
+trash_scores:
+  default: -35000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-lq-release-title'
+tags:
+- Release Title
+conditions:
+- name: TVS iTunesHD
+  negate: false
+  required: false
+  type: release_title
+  pattern: TVS iTunesHD
+- name: Jellyfin-Plex
+  negate: false
+  required: false
+  type: release_title
+  pattern: Jellyfin-Plex
+- name: Double German Tag
+  negate: false
+  required: false
+  type: release_title
+  pattern: Double German Tag
+tests: []

@@ -1,0 +1,76 @@
+name: Anime BD Tier 08 (Mini Encodes)
+trash_id: 6115ccd6640b978234cc47f2c1f2cadc
+trash_scores:
+  default: 700
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-08-mini-encodes'
+tags:
+- Release Title
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: 9
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: 5
+- name: AkihitoSubs
+  negate: false
+  required: false
+  type: release_title
+  pattern: AkihitoSubs
+- name: Arukoru
+  negate: false
+  required: false
+  type: release_title
+  pattern: Arukoru
+- name: EDGE
+  negate: false
+  required: false
+  type: release_title
+  pattern: EDGE
+- name: EMBER
+  negate: false
+  required: false
+  type: release_title
+  pattern: EMBER
+- name: GHOST
+  negate: false
+  required: false
+  type: release_title
+  pattern: GHOST
+- name: Judas
+  negate: false
+  required: false
+  type: release_title
+  pattern: Judas
+- name: naiyas
+  negate: false
+  required: false
+  type: release_title
+  pattern: naiyas
+- name: Nep_Blanc
+  negate: false
+  required: false
+  type: release_title
+  pattern: Nep_Blanc
+- name: Prof
+  negate: false
+  required: false
+  type: release_title
+  pattern: Prof
+- name: Shirσ
+  negate: false
+  required: false
+  type: release_title
+  pattern: Shirσ
+- name: YURASAKA
+  negate: false
+  required: false
+  type: release_title
+  pattern: YURASAKA
+tests: []

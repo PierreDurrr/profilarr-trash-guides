@@ -1,0 +1,4 @@
+name: Obfuscated
+pattern: _nzb\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

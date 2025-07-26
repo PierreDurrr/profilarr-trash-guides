@@ -1,0 +1,4 @@
+name: TVer
+pattern: \b(tver)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

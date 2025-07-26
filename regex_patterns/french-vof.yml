@@ -1,0 +1,4 @@
+name: VOF
+pattern: \b(VOF)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

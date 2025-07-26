@@ -1,0 +1,4 @@
+name: UHD Bluray Tier 03
+pattern: ^(WEBDV)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

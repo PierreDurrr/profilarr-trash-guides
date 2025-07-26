@@ -1,0 +1,4 @@
+name: MAX
+pattern: \[(MAX)\b|\b(MAX)\]
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,6 +1,0 @@
-name: Absinth
-pattern: (?<=^|[\s.-])Absinth\b
-description: ''
-tags:
-- Release Group
-tests: null

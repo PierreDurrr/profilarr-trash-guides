@@ -1,0 +1,4 @@
+name: NOW
+pattern: \[(NOW)\b|\b(NOW)\]
+description: Regex pattern from TRaSH-Guides.
+tags: []

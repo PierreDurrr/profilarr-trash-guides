@@ -1,0 +1,4 @@
+name: Line/Mic Dubbed
+pattern: \b(MD|AC3MD|Mic[ .-]?Dubbed)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

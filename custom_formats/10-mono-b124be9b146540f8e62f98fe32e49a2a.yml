@@ -1,0 +1,30 @@
+name: 1.0 Mono
+trash_id: b124be9b146540f8e62f98fe32e49a2a
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#10-mono'
+tags:
+- Release Title
+conditions:
+- name: Mono
+  negate: false
+  required: true
+  type: release_title
+  pattern: Mono
+- name: Not 3.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 3.0ch
+- name: Not 4.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 4.0ch
+- name: Not High Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not High Channel Count
+tests: []

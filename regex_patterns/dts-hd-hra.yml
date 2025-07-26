@@ -1,0 +1,4 @@
+name: DTS-HD HRA
+pattern: '[^0-9]6[ .][0-1]'
+description: Regex pattern from TRaSH-Guides.
+tags: []

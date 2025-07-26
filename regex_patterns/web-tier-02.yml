@@ -1,0 +1,4 @@
+name: WEB Tier 02
+pattern: ^(XEBEC|4KBEC|CEBEX)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

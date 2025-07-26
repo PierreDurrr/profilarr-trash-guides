@@ -1,0 +1,4 @@
+name: Anime BD Tier 01 (Top SeaDex Muxers)
+pattern: \b(ZeroBuild)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

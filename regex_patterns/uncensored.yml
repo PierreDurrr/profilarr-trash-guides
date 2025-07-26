@@ -1,0 +1,4 @@
+name: Uncensored
+pattern: \b(Uncut|Unrated|Uncensored|AT[-_. ]?X)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

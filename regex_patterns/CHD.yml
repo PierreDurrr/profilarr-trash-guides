@@ -1,6 +1,0 @@
-name: CHD
-pattern: (?<=^|[\s.-])CHD\b
-description: ''
-tags:
-- Release Group
-tests: null

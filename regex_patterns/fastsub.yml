@@ -1,0 +1,4 @@
+name: FastSUB
+pattern: \b(FastSUB)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

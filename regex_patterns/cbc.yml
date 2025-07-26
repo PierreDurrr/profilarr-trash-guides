@@ -1,0 +1,4 @@
+name: CBC
+pattern: \b(CBC)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

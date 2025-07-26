@@ -1,0 +1,50 @@
+name: TrueHD ATMOS
+trash_id: 496f355514737f7d83bf7aa4d24f8169
+trash_scores:
+  default: 5000
+  sqp-1-1080p: -10000
+  sqp-1-web-1080p: -10000
+  sqp-1-2160p: -10000
+  sqp-1-web-2160p: -10000
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#truehd-atmos'
+tags:
+- Release Title
+conditions:
+- name: TrueHD
+  negate: false
+  required: true
+  type: release_title
+  pattern: TrueHD
+- name: ATMOS
+  negate: false
+  required: true
+  type: release_title
+  pattern: ATMOS
+- name: Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic Dolby Digital
+- name: 'Not Dolby Digital Plus '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Dolby Digital Plus '
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: Not DTS X
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS X
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+tests: []

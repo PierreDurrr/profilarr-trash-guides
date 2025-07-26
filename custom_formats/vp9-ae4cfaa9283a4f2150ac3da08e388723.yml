@@ -1,0 +1,15 @@
+name: VP9
+trash_id: ae4cfaa9283a4f2150ac3da08e388723
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#vp9'
+tags:
+- Release Title
+conditions:
+- name: VP9
+  negate: false
+  required: true
+  type: release_title
+  pattern: VP9
+tests: []

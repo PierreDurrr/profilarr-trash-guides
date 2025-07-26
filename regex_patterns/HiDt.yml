@@ -1,6 +1,0 @@
-name: HiDt
-pattern: (?<=^|[\s.-])HiDt\b
-description: ''
-tags:
-- Release Group
-tests: []

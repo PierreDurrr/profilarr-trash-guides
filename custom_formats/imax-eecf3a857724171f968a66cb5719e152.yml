@@ -1,0 +1,21 @@
+name: IMAX
+trash_id: eecf3a857724171f968a66cb5719e152
+trash_scores:
+  default: 800
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#imax'
+tags:
+- Release Title
+conditions:
+- name: IMAX
+  negate: false
+  required: true
+  type: release_title
+  pattern: IMAX
+- name: 'NOT: IMAX Enhanced'
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'NOT: IMAX Enhanced'
+tests: []

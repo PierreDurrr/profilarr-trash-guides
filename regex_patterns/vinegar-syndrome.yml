@@ -1,0 +1,4 @@
+name: Vinegar Syndrome
+pattern: \b(VinSyn)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

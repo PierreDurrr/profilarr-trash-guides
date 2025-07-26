@@ -1,0 +1,4 @@
+name: DV HDR10+ Boost
+pattern: \b(DV[ .]SDR)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,20 @@
+name: VFQ
+trash_id: b6ace47331a1d3b77942fc18156f6df6
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vfq'
+tags:
+- Release Title
+conditions:
+- name: Canadian French
+  negate: false
+  required: true
+  type: release_title
+  pattern: Canadian French
+- name: Not VF2
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not VF2
+tests: []

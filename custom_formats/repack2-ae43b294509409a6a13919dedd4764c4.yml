@@ -1,0 +1,29 @@
+name: Repack2
+trash_id: ae43b294509409a6a13919dedd4764c4
+trash_scores:
+  default: 6
+  anime-radarr: 2
+  french-anime-multi: 2
+  french-anime-vostfr: 2
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#repack2'
+tags:
+- Release Title
+conditions:
+- name: Repack2
+  negate: false
+  required: false
+  type: release_title
+  pattern: Repack2
+- name: Proper2
+  negate: false
+  required: false
+  type: release_title
+  pattern: Proper2
+- name: RealProperRepack
+  negate: false
+  required: false
+  type: release_title
+  pattern: RealProperRepack
+tests: []

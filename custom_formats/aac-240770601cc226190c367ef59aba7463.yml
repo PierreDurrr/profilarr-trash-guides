@@ -1,0 +1,50 @@
+name: AAC
+trash_id: 240770601cc226190c367ef59aba7463
+trash_scores:
+  default: 1000
+  sqp-1-1080p: 0
+  sqp-1-web-1080p: 0
+  sqp-1-2160p: 0
+  sqp-1-web-2160p: 0
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#aac'
+tags:
+- Release Title
+conditions:
+- name: AAC
+  negate: false
+  required: true
+  type: release_title
+  pattern: AAC
+- name: Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: 'Not Dolby Digital Plus '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Dolby Digital Plus '
+- name: Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic Dolby Digital
+- name: Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+- name: Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: Not TrueHD/ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+tests: []

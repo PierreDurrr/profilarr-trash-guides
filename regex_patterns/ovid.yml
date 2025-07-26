@@ -1,0 +1,4 @@
+name: OViD
+pattern: \b(ovid)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

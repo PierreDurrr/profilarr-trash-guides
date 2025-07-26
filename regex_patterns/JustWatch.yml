@@ -1,6 +1,0 @@
-name: JustWatch
-pattern: (?<=^|[\s.-])JustWatch\b
-description: ''
-tags:
-- Release Group
-tests: null

@@ -1,0 +1,4 @@
+name: VFF
+pattern: \b(VF2|(VF(F|Q)[ .]VF(F|Q)))\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,4 @@
+name: Special Edition
+pattern: \b(Extended[ ._-]Clip)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

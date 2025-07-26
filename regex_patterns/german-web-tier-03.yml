@@ -1,0 +1,4 @@
+name: German Web Tier 03
+pattern: ^(FX)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

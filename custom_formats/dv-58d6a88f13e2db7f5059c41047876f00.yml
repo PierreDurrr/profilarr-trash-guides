@@ -1,0 +1,31 @@
+name: DV
+trash_id: 58d6a88f13e2db7f5059c41047876f00
+trash_scores:
+  default: 1500
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv'
+tags:
+- Release Title
+conditions:
+- name: DV
+  negate: false
+  required: true
+  type: release_title
+  pattern: DV
+- name: Not DV HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV HDR10
+- name: Not DV HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV HLG
+- name: Not DV SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV SDR
+tests: []

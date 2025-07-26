@@ -1,0 +1,36 @@
+name: Criterion Collection
+trash_id: e0c07d59beb37348e975a930d5e50319
+trash_scores:
+  default: 25
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#criterion-collection'
+tags:
+- Release Group
+conditions:
+- name: Bluray
+  negate: false
+  required: false
+  type: source
+  source: 9
+- name: DVD
+  negate: false
+  required: false
+  type: source
+  source: 5
+- name: Criterion
+  negate: false
+  required: false
+  type: release_title
+  pattern: Criterion
+- name: CC
+  negate: false
+  required: false
+  type: release_title
+  pattern: CC
+- name: Not Criterion RlsGrp
+  negate: true
+  required: true
+  type: release_group
+  pattern: Not Criterion RlsGrp
+tests: []

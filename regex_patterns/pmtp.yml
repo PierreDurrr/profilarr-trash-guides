@@ -1,0 +1,4 @@
+name: PMTP
+pattern: \b(pmtp|Paramount Plus)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []

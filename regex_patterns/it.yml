@@ -1,0 +1,4 @@
+name: iT
+pattern: \[(iT)\b|\b(iT)\]
+description: Regex pattern from TRaSH-Guides.
+tags: []

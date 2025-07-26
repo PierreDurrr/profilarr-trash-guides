@@ -1,0 +1,4 @@
+name: German LQ
+pattern: ^(REEL)$
+description: Regex pattern from TRaSH-Guides.
+tags: []

@@ -1,0 +1,20 @@
+name: VFF
+trash_id: 404c08fd0bd67f39b4d8e5709319094e
+trash_scores: {}
+description: 'Custom format from TRaSH-Guides.
+
+  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vff'
+tags:
+- Release Title
+conditions:
+- name: TRUEFRENCH
+  negate: false
+  required: true
+  type: release_title
+  pattern: TRUEFRENCH
+- name: Not VF2
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not VF2
+tests: []

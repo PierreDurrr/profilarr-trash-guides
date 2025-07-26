@@ -1,0 +1,4 @@
+name: Anime BD Tier 07 (P2P/Scene)
+pattern: \b(WaLMaRT)\b
+description: Regex pattern from TRaSH-Guides.
+tags: []
