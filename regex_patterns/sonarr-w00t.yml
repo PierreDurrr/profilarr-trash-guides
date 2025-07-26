@@ -1,0 +1,5 @@
+name: sonarr-w00t
+pattern: ^(w00t)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-STARS
+pattern: ^(STARS)$
+description: ''
+tags: []
+tests: []

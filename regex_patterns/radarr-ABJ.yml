@@ -1,0 +1,5 @@
+name: radarr-ABJ
+pattern: (ABJ)$
+description: ''
+tags: []
+tests: []

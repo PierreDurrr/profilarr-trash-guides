@@ -1,0 +1,46 @@
+name: radarr-DTS X
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dts-x)'
+tags:
+- Release Title
+conditions:
+- name: radarr-DTS X
+  negate: false
+  required: true
+  type: release_title
+  pattern: DTS X
+- name: radarr-Not Basic DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic DTS
+- name: radarr-Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic Dolby Digital
+- name: radarr-Not Dolby Digital Plus
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Dolby Digital Plus
+- name: radarr-Not TrueHD-ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+- name: radarr-Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: radarr-Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: radarr-Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+tests: []

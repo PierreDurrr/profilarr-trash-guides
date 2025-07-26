@@ -1,0 +1,5 @@
+name: sonarr-PuyaSubs
+pattern: \b(PuyaSubs)\b
+description: ''
+tags: []
+tests: []

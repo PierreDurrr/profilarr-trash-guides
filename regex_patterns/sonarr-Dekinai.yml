@@ -1,0 +1,5 @@
+name: sonarr-Dekinai
+pattern: \[Dekinai\]|-Dekinai\b
+description: ''
+tags: []
+tests: []

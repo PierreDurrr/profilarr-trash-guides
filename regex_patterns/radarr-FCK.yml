@@ -1,0 +1,5 @@
+name: radarr-FCK
+pattern: ^(FCK)$
+description: ''
+tags: []
+tests: []

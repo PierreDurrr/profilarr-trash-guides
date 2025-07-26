@@ -1,0 +1,5 @@
+name: radarr-LoliHouse
+pattern: \b(LoliHouse)\b
+description: ''
+tags: []
+tests: []

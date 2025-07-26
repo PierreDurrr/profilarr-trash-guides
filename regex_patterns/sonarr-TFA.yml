@@ -1,0 +1,5 @@
+name: sonarr-TFA
+pattern: ^(TFA)$
+description: ''
+tags: []
+tests: []

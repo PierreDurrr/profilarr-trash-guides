@@ -1,0 +1,5 @@
+name: radarr-Baws
+pattern: \b(Baws)\b
+description: ''
+tags: []
+tests: []

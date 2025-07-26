@@ -1,0 +1,5 @@
+name: sonarr-Yun
+pattern: \[Yun\]|-Yun\b
+description: ''
+tags: []
+tests: []

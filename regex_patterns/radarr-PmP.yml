@@ -1,0 +1,5 @@
+name: radarr-PmP
+pattern: ^(PmP)$
+description: ''
+tags: []
+tests: []

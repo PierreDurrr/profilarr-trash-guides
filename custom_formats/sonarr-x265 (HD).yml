@@ -1,0 +1,16 @@
+name: sonarr-x265 (HD)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#x265-hd)'
+tags:
+- Resolution
+conditions:
+- name: sonarr-x265-HEVC
+  negate: false
+  required: true
+  type: release_title
+  pattern: x265/HEVC
+- name: sonarr-Not 2160p
+  negate: true
+  required: true
+  type: resolution
+  resolution: 2160p
+tests: []

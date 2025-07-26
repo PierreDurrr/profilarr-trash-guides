@@ -1,0 +1,5 @@
+name: radarr-SiGLA
+pattern: ^(SiGLA)$
+description: ''
+tags: []
+tests: []

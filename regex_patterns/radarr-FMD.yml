@@ -1,0 +1,5 @@
+name: radarr-FMD
+pattern: ^(FMD)$
+description: ''
+tags: []
+tests: []

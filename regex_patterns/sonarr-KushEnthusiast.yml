@@ -1,0 +1,5 @@
+name: sonarr-KushEnthusiast
+pattern: \b(KushEnthusiast)\b
+description: ''
+tags: []
+tests: []

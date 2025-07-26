@@ -1,0 +1,5 @@
+name: sonarr-ADN
+pattern: \b(ADN)\b
+description: ''
+tags: []
+tests: []

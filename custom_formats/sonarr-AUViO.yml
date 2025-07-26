@@ -1,0 +1,26 @@
+name: sonarr-AUViO
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-auvio)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: sonarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+- name: sonarr-AUViO
+  negate: false
+  required: false
+  type: release_title
+  pattern: AUViO
+- name: sonarr-Radio Télévision Belge Francophone
+  negate: false
+  required: false
+  type: release_title
+  pattern: Radio Télévision Belge Francophone
+tests: []

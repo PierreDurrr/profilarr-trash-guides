@@ -1,0 +1,11 @@
+name: sonarr-Uncensored
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#uncensored)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-Uncensored
+  negate: false
+  required: true
+  type: release_title
+  pattern: Uncensored
+tests: []

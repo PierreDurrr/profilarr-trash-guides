@@ -1,5 +1,5 @@
-def get_file_name(profile_name):
-    return (
+def get_file_name(service, profile_name):
+    safe_profile_name = (
         profile_name.replace("/", "-")
         .replace("[", "(")
         .replace("]", ")")
@@ -7,3 +7,4 @@ def get_file_name(profile_name):
         .replace("10 bit", "10bit")
         .replace("Atmos", "ATMOS")
     )
+    return f"{service}-{safe_profile_name}"

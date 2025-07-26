@@ -1,0 +1,5 @@
+name: radarr-TVP
+pattern: ^(TVP)$
+description: ''
+tags: []
+tests: []

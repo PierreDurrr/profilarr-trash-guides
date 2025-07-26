@@ -1,0 +1,5 @@
+name: radarr-EJF
+pattern: \b(EJF)\b
+description: ''
+tags: []
+tests: []

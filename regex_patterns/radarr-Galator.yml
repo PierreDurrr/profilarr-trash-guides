@@ -1,0 +1,5 @@
+name: radarr-Galator
+pattern: \b(Galator)\b
+description: ''
+tags: []
+tests: []

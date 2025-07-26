@@ -1,0 +1,11 @@
+name: sonarr-FanSUB
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#fansub)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-FanSUB
+  negate: false
+  required: true
+  type: release_title
+  pattern: FanSUB
+tests: []

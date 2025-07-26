@@ -1,0 +1,16 @@
+name: radarr-10bit
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#10bit)'
+tags:
+- Release Title
+conditions:
+- name: radarr-10bit
+  negate: false
+  required: false
+  type: release_title
+  pattern: 10bit
+- name: radarr-hi10p
+  negate: false
+  required: false
+  type: release_title
+  pattern: hi10p
+tests: []

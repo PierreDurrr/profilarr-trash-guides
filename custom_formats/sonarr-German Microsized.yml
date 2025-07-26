@@ -1,0 +1,31 @@
+name: sonarr-German Microsized
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-microsized)'
+tags:
+- Release Group
+conditions:
+- name: sonarr-FuN
+  negate: false
+  required: false
+  type: release_group
+  pattern: FuN
+- name: sonarr-w00t
+  negate: false
+  required: false
+  type: release_group
+  pattern: w00t
+- name: sonarr-GTF
+  negate: false
+  required: false
+  type: release_group
+  pattern: GTF
+- name: sonarr-PaTroL
+  negate: false
+  required: false
+  type: release_group
+  pattern: PaTroL
+- name: sonarr-JellyfinPlex
+  negate: false
+  required: false
+  type: release_group
+  pattern: JellyfinPlex
+tests: []

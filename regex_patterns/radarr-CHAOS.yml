@@ -1,0 +1,5 @@
+name: radarr-CHAOS
+pattern: ^(CHAOS)$
+description: ''
+tags: []
+tests: []

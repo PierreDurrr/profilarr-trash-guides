@@ -1,0 +1,21 @@
+name: sonarr-NF
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#nf)'
+tags:
+- Source
+conditions:
+- name: sonarr-Netflix
+  negate: false
+  required: true
+  type: release_title
+  pattern: Netflix
+- name: sonarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: sonarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

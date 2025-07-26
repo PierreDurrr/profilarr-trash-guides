@@ -1,0 +1,5 @@
+name: sonarr-Asakura
+pattern: \[Asakura\]|-Asakura\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-JellyfinPlex
+pattern: ^(JellyfinPlex)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-READ NOTE
+pattern: \b(READ(\s|\.)+NOTE)\b
+description: ''
+tags: []
+tests: []

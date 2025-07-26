@@ -1,0 +1,5 @@
+name: radarr-YakuboEncodes
+pattern: \b(YakuboEncodes)\b
+description: ''
+tags: []
+tests: []

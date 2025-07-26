@@ -1,0 +1,5 @@
+name: radarr-NemDiggers
+pattern: \b(NemDiggers)\b
+description: ''
+tags: []
+tests: []

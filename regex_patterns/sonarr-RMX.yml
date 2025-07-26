@@ -1,0 +1,5 @@
+name: sonarr-RMX
+pattern: \b(RMX)\b
+description: ''
+tags: []
+tests: []

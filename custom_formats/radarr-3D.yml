@@ -1,0 +1,21 @@
+name: radarr-3D
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#3d)'
+tags:
+- Release Title
+conditions:
+- name: radarr-3D
+  negate: false
+  required: false
+  type: release_title
+  pattern: 3D
+- name: radarr-BluRay3D
+  negate: false
+  required: false
+  type: release_title
+  pattern: BluRay3D
+- name: radarr-BD3D
+  negate: false
+  required: false
+  type: release_title
+  pattern: BD3D
+tests: []

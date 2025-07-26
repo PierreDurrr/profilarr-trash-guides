@@ -1,0 +1,5 @@
+name: sonarr-Tars
+pattern: ^(Tars)$
+description: ''
+tags: []
+tests: []

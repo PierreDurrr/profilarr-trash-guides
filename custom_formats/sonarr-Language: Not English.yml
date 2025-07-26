@@ -1,0 +1,11 @@
+name: 'sonarr-Language: Not English'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#language-not-english)'
+tags:
+- Language
+conditions:
+- name: sonarr-Not English Language
+  negate: true
+  required: false
+  type: language
+  language: 1
+tests: []

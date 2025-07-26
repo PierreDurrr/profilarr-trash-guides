@@ -1,0 +1,5 @@
+name: sonarr-ACED
+pattern: ^(ACED)$
+description: ''
+tags: []
+tests: []

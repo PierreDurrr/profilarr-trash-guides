@@ -1,0 +1,5 @@
+name: sonarr-WhiteRev
+pattern: -WhiteRev\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-UWU
+pattern: \b(UWU)\b
+description: ''
+tags: []
+tests: []

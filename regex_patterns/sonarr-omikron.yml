@@ -1,0 +1,5 @@
+name: sonarr-omikron
+pattern: ^(omikron)$
+description: ''
+tags: []
+tests: []

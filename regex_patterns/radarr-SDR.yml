@@ -1,0 +1,5 @@
+name: radarr-SDR
+pattern: \bSDR\b
+description: ''
+tags: []
+tests: []

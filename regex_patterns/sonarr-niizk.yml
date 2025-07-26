@@ -1,0 +1,5 @@
+name: sonarr-niizk
+pattern: \b(niizk)\b
+description: ''
+tags: []
+tests: []

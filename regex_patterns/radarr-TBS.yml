@@ -1,0 +1,5 @@
+name: radarr-TBS
+pattern: ^(TBS)$
+description: ''
+tags: []
+tests: []

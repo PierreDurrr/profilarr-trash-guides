@@ -1,0 +1,5 @@
+name: sonarr-ARC
+pattern: \[ARC\]|-ARC\b
+description: ''
+tags: []
+tests: []

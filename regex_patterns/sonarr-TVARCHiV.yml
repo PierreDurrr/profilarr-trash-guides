@@ -1,0 +1,5 @@
+name: sonarr-TVARCHiV
+pattern: ^(TVARCHiV)$
+description: ''
+tags: []
+tests: []

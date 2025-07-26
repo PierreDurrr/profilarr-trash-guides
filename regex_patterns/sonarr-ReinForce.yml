@@ -1,0 +1,5 @@
+name: sonarr-ReinForce
+pattern: \b(ReinForce)\b
+description: ''
+tags: []
+tests: []

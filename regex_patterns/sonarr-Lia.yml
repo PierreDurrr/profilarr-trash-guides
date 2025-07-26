@@ -1,0 +1,5 @@
+name: sonarr-Lia
+pattern: \[Lia\]|-Lia\b
+description: ''
+tags: []
+tests: []

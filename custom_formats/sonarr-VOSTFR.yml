@@ -1,0 +1,16 @@
+name: sonarr-VOSTFR
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-vostfr)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-VOSTFR
+  negate: false
+  required: false
+  type: release_title
+  pattern: VOSTFR
+- name: sonarr-SUBFRENCH
+  negate: false
+  required: false
+  type: release_title
+  pattern: SUBFRENCH
+tests: []

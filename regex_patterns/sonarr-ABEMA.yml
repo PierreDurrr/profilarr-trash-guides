@@ -1,0 +1,5 @@
+name: sonarr-ABEMA
+pattern: \b(ABEMA[ ._-]?(TV)?)\b
+description: ''
+tags: []
+tests: []

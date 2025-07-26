@@ -1,0 +1,11 @@
+name: radarr-hallowed
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hallowed)'
+tags:
+- Release Group
+conditions:
+- name: radarr-hallowed
+  negate: false
+  required: true
+  type: release_group
+  pattern: hallowed
+tests: []

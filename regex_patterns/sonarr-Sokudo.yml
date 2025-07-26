@@ -1,0 +1,5 @@
+name: sonarr-Sokudo
+pattern: \[Sokudo\]|-Sokudo\b
+description: ''
+tags: []
+tests: []

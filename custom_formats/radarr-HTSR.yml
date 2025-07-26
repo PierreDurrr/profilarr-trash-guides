@@ -1,0 +1,21 @@
+name: radarr-HTSR
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#htsr)'
+tags:
+- Source
+conditions:
+- name: radarr-Hotstar
+  negate: false
+  required: true
+  type: release_title
+  pattern: Hotstar
+- name: radarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: radarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-CDDHD
+pattern: ^(CDDHD)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,16 @@
+name: radarr-VOSTFR
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vostfr)'
+tags:
+- Release Title
+conditions:
+- name: radarr-VOSTFR
+  negate: false
+  required: false
+  type: release_title
+  pattern: VOSTFR
+- name: radarr-SUBFRENCH
+  negate: false
+  required: false
+  type: release_title
+  pattern: SUBFRENCH
+tests: []

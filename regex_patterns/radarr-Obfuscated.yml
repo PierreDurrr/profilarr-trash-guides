@@ -1,0 +1,5 @@
+name: radarr-Obfuscated
+pattern: -Obfuscated\b
+description: ''
+tags: []
+tests: []

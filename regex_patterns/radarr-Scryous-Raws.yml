@@ -1,0 +1,5 @@
+name: radarr-Scryous-Raws
+pattern: Scryous[ ._-]?(Raws)
+description: ''
+tags: []
+tests: []

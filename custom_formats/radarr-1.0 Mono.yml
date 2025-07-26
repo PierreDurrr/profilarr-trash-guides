@@ -1,0 +1,26 @@
+name: radarr-1.0 Mono
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#10-mono)'
+tags:
+- Release Title
+conditions:
+- name: radarr-Mono
+  negate: false
+  required: true
+  type: release_title
+  pattern: Mono
+- name: radarr-Not 3.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 3.0ch
+- name: radarr-Not 4.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 4.0ch
+- name: radarr-Not High Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not High Channel Count
+tests: []

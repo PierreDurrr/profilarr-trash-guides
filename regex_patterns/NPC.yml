@@ -1,5 +1,0 @@
-name: NPC
-pattern: \(NPC\)|-NPC\b
-description: ''
-tags: []
-tests: []

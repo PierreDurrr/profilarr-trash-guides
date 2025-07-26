@@ -1,0 +1,5 @@
+name: radarr-CTFOH
+pattern: ^(CTFOH)$
+description: ''
+tags: []
+tests: []

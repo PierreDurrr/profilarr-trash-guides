@@ -1,0 +1,5 @@
+name: radarr-Nagutos
+pattern: \b(Nagutos)\b
+description: ''
+tags: []
+tests: []

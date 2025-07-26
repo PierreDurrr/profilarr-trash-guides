@@ -1,0 +1,21 @@
+name: sonarr-German LQ (release title)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-lq-release-title)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-TVS iTunesHD
+  negate: false
+  required: false
+  type: release_title
+  pattern: TVS iTunesHD
+- name: sonarr-Jellyfin-Plex
+  negate: false
+  required: false
+  type: release_title
+  pattern: Jellyfin-Plex
+- name: sonarr-Double German Tag
+  negate: false
+  required: false
+  type: release_title
+  pattern: Double German Tag
+tests: []

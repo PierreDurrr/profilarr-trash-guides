@@ -1,0 +1,5 @@
+name: sonarr-HELD
+pattern: ^(HELD)$
+description: ''
+tags: []
+tests: []

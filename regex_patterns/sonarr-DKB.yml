@@ -1,0 +1,5 @@
+name: sonarr-DKB
+pattern: \b(DKB)\b
+description: ''
+tags: []
+tests: []

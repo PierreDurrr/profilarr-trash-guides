@@ -1,5 +1,0 @@
-name: VRV
-pattern: \b(vrv)\b
-description: ''
-tags: []
-tests: []

@@ -1,0 +1,5 @@
+name: radarr-SHFS
+pattern: \b(SHFS)\b
+description: ''
+tags: []
+tests: []

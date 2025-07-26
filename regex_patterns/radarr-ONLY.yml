@@ -1,0 +1,5 @@
+name: radarr-ONLY
+pattern: ^(ONLY)$
+description: ''
+tags: []
+tests: []

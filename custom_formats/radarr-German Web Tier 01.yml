@@ -1,0 +1,86 @@
+name: radarr-German Web Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-web-tier-01)'
+tags:
+- Source
+conditions:
+- name: radarr-ZeroTwo
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo
+- name: radarr-ZeroTwo Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo Aliases
+- name: radarr-TSCC
+  negate: false
+  required: false
+  type: release_group
+  pattern: TSCC
+- name: radarr-TvR
+  negate: false
+  required: false
+  type: release_group
+  pattern: TvR
+- name: radarr-NIMA4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: NIMA4K
+- name: radarr-TVS
+  negate: false
+  required: false
+  type: release_group
+  pattern: TVS
+- name: radarr-D02KU
+  negate: false
+  required: false
+  type: release_group
+  pattern: D02KU
+- name: radarr-PXL
+  negate: false
+  required: false
+  type: release_group
+  pattern: PXL
+- name: radarr-QfG
+  negate: false
+  required: false
+  type: release_group
+  pattern: QfG
+- name: radarr-CNY
+  negate: false
+  required: false
+  type: release_group
+  pattern: CNY
+- name: radarr-WeebPinn
+  negate: false
+  required: false
+  type: release_group
+  pattern: WeebPinn
+- name: radarr-MEDiATHEK
+  negate: false
+  required: false
+  type: release_group
+  pattern: MEDiATHEK
+- name: radarr-RiiR
+  negate: false
+  required: false
+  type: release_group
+  pattern: RiiR
+- name: radarr-RiiR Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: RiiR Aliases
+- name: radarr-WebDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: radarr-WebRip
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

@@ -1,0 +1,11 @@
+name: sonarr-Season Pack
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#season-pack)'
+tags:
+- Release Type
+conditions:
+- name: sonarr-Season Packs
+  negate: false
+  required: false
+  type: release_type
+  releaseType: 3
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-FORMBA
+pattern: (FORMBA)$
+description: ''
+tags: []
+tests: []

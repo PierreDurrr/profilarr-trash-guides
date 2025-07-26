@@ -1,0 +1,5 @@
+name: radarr-McBalls
+pattern: \b(McBalls)\b
+description: ''
+tags: []
+tests: []

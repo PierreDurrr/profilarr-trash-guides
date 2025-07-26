@@ -1,0 +1,5 @@
+name: sonarr-Owlolf
+pattern: \b(Owlolf)\b
+description: ''
+tags: []
+tests: []

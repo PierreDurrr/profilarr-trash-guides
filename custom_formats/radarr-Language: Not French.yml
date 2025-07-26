@@ -1,0 +1,11 @@
+name: 'radarr-Language: Not French'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-not-french)'
+tags:
+- Language
+conditions:
+- name: radarr-Not French Language
+  negate: true
+  required: false
+  type: language
+  language: 2
+tests: []

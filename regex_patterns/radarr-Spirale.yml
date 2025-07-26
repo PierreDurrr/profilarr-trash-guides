@@ -1,0 +1,5 @@
+name: radarr-Spirale
+pattern: \b(Spirale)\b
+description: ''
+tags: []
+tests: []

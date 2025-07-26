@@ -1,0 +1,26 @@
+name: sonarr-HIDIVE
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#hidive)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: sonarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+- name: sonarr-WEB
+  negate: false
+  required: false
+  type: source
+  source: 1
+- name: sonarr-HIDIVE
+  negate: false
+  required: true
+  type: release_title
+  pattern: HIDIVE
+tests: []

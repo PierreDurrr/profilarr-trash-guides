@@ -1,0 +1,5 @@
+name: radarr-NTRM
+pattern: \b(NTRM)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,46 @@
+name: sonarr-DD+ ATMOS
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#ddplus-atmos)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-Dolby Digital Plus
+  negate: false
+  required: true
+  type: release_title
+  pattern: Dolby Digital Plus
+- name: sonarr-ATMOS
+  negate: false
+  required: true
+  type: release_title
+  pattern: ATMOS
+- name: sonarr-Not TrueHD
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD
+- name: sonarr-Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: 'sonarr-Not Basic Dolby Digital '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Basic Dolby Digital '
+- name: sonarr-Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: sonarr-Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: sonarr-Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+tests: []

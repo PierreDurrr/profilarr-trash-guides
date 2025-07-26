@@ -1,0 +1,5 @@
+name: sonarr-GEROV
+pattern: -GEROV\b
+description: ''
+tags: []
+tests: []

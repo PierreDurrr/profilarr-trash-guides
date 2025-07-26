@@ -1,0 +1,5 @@
+name: radarr-CtrlHD
+pattern: ^(CtrlHD)$
+description: ''
+tags: []
+tests: []

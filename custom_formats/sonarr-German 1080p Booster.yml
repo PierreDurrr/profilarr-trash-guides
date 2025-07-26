@@ -1,0 +1,21 @@
+name: sonarr-German 1080p Booster
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-1080p-booster)'
+tags:
+- Resolution
+conditions:
+- name: sonarr-German
+  negate: false
+  required: true
+  type: language
+  language: 4
+- name: sonarr-Original Language
+  negate: false
+  required: true
+  type: language
+  language: -2
+- name: sonarr-1080p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 1080p
+tests: []

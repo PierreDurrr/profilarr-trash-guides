@@ -1,0 +1,5 @@
+name: sonarr-CDP
+pattern: ^(CDP)$
+description: ''
+tags: []
+tests: []

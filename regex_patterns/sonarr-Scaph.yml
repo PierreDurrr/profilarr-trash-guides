@@ -1,0 +1,5 @@
+name: sonarr-Scaph
+pattern: ^(Scaph)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-DBArabic
+pattern: \b(DBArabic)\b
+description: ''
+tags: []
+tests: []

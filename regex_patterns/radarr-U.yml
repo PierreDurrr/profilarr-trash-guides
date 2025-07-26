@@ -1,0 +1,5 @@
+name: radarr-U
+pattern: ^(UKDHD|UKDTV|ULSHD|Ulysse|(US)?UNSKiLLED|URY)$
+description: ''
+tags: []
+tests: []

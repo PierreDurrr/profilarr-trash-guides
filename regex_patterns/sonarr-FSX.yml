@@ -1,0 +1,5 @@
+name: sonarr-FSX
+pattern: ^(FSX)$
+description: ''
+tags: []
+tests: []

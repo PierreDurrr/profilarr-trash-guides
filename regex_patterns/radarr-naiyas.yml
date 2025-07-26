@@ -1,0 +1,5 @@
+name: radarr-naiyas
+pattern: \[naiyas\]|-naiyas\b
+description: ''
+tags: []
+tests: []

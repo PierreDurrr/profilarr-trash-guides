@@ -1,0 +1,5 @@
+name: radarr-PsO
+pattern: (PsO)$
+description: ''
+tags: []
+tests: []

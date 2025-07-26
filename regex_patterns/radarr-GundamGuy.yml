@@ -1,0 +1,5 @@
+name: radarr-GundamGuy
+pattern: \b(GundamGuy)\b
+description: ''
+tags: []
+tests: []

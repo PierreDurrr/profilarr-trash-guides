@@ -1,0 +1,5 @@
+name: sonarr-CAPTCHA
+pattern: -CAPTCHA\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-Not DTS-HD
+pattern: \b(dts[-_. ]?(ma|hd([-_. ]?ma)?|xll))(\b|\d)
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-DragsterPS
+pattern: \b(DragsterPS)\b
+description: ''
+tags: []
+tests: []

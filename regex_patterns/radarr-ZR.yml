@@ -1,0 +1,5 @@
+name: radarr-ZR
+pattern: \b(ZR)\b
+description: ''
+tags: []
+tests: []

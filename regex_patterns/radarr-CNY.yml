@@ -1,0 +1,5 @@
+name: radarr-CNY
+pattern: ^(CNY)$
+description: ''
+tags: []
+tests: []

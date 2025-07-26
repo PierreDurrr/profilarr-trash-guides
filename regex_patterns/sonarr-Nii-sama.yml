@@ -1,0 +1,5 @@
+name: sonarr-Nii-sama
+pattern: \[Nii-sama\]|-Nii-sama\b
+description: ''
+tags: []
+tests: []

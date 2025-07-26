@@ -1,0 +1,5 @@
+name: sonarr-CBB
+pattern: \b(CBB)\b
+description: ''
+tags: []
+tests: []

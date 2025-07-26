@@ -1,0 +1,5 @@
+name: sonarr-Tenshi
+pattern: \[tenshi\]|-tenshi$
+description: ''
+tags: []
+tests: []

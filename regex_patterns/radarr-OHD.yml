@@ -1,0 +1,5 @@
+name: radarr-OHD
+pattern: ^(OHD)$
+description: ''
+tags: []
+tests: []

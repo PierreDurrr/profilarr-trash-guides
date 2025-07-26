@@ -1,0 +1,26 @@
+name: radarr-STAN
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#stan)'
+tags:
+- Source
+conditions:
+- name: radarr-Stan
+  negate: false
+  required: false
+  type: release_title
+  pattern: Stan
+- name: radarr-Stan Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: Stan Rename
+- name: radarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: radarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

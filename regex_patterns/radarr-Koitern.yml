@@ -1,0 +1,5 @@
+name: radarr-Koitern
+pattern: \b(Koitern)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-WTV
+pattern: ^(WTV)$
+description: ''
+tags: []
+tests: []

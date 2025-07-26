@@ -1,5 +1,0 @@
-name: Orphan
-pattern: \(Orphan\)|-Orphan\b
-description: ''
-tags: []
-tests: []

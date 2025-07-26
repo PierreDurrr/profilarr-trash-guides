@@ -1,0 +1,5 @@
+name: radarr-Not FLAC
+pattern: \bFLAC(\b|\d)
+description: ''
+tags: []
+tests: []

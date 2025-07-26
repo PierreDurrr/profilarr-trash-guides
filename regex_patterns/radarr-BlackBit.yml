@@ -1,0 +1,5 @@
+name: radarr-BlackBit
+pattern: ^(BlackBit)$
+description: ''
+tags: []
+tests: []

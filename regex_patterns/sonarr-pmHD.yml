@@ -1,0 +1,5 @@
+name: sonarr-pmHD
+pattern: ^(pmHD)$
+description: ''
+tags: []
+tests: []

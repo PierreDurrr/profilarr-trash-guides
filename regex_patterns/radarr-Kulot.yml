@@ -1,0 +1,5 @@
+name: radarr-Kulot
+pattern: \b(Kulot)\b
+description: ''
+tags: []
+tests: []

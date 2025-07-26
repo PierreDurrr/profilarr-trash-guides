@@ -1,0 +1,61 @@
+name: radarr-HD Bluray Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hd-bluray-tier-02)'
+tags:
+- Release Group
+conditions:
+- name: radarr-BLURAY
+  negate: false
+  required: true
+  type: source
+  source: 9
+- name: radarr-Not REMUX
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: radarr-Not 2160p
+  negate: true
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: radarr-EA
+  negate: false
+  required: false
+  type: release_group
+  pattern: EA
+- name: radarr-HiDt
+  negate: false
+  required: false
+  type: release_group
+  pattern: HiDt
+- name: radarr-HiSD
+  negate: false
+  required: false
+  type: release_group
+  pattern: HiSD
+- name: radarr-iFT
+  negate: false
+  required: false
+  type: release_group
+  pattern: iFT
+- name: radarr-NTb
+  negate: false
+  required: false
+  type: release_group
+  pattern: NTb
+- name: radarr-QOQ
+  negate: false
+  required: false
+  type: release_group
+  pattern: QOQ
+- name: radarr-SA89
+  negate: false
+  required: false
+  type: release_group
+  pattern: SA89
+- name: radarr-sbR
+  negate: false
+  required: false
+  type: release_group
+  pattern: sbR
+tests: []

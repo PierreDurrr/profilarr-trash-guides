@@ -1,0 +1,5 @@
+name: sonarr-mal lu zen
+pattern: \b(mal[ .-]lu[ .-]zen)\b
+description: ''
+tags: []
+tests: []

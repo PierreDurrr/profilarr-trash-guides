@@ -1,0 +1,5 @@
+name: sonarr-FiND
+pattern: ^(FiND)$
+description: ''
+tags: []
+tests: []

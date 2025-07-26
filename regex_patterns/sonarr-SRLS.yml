@@ -1,0 +1,5 @@
+name: sonarr-SRLS
+pattern: \b(SRLS)\b
+description: ''
+tags: []
+tests: []

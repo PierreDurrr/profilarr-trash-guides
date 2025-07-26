@@ -1,0 +1,5 @@
+name: sonarr-BMF
+pattern: ^(BMF)$
+description: ''
+tags: []
+tests: []

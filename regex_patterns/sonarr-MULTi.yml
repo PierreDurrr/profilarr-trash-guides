@@ -1,0 +1,5 @@
+name: sonarr-MULTi
+pattern: \b(MULTi)(\b|\d)
+description: ''
+tags: []
+tests: []

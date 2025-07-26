@@ -1,0 +1,5 @@
+name: sonarr-pyroneko
+pattern: \b(pyroneko)\b
+description: ''
+tags: []
+tests: []

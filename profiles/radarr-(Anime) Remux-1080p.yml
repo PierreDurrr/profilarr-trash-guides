@@ -1,0 +1,123 @@
+name: radarr-(Anime) Remux-1080p
+description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
+  \nAnime Quality Profile that covers:  \n- SDTV, DVD  \n- HDTV 720p, 1080p  \n- WEBDL:\
+  \ 480p, 720, 1080p  \n- Bluray 480p, 576p, 720p, 1080p  \n- Remux 1080p"
+tags: []
+upgradesAllowed: true
+minCustomFormatScore: 100
+upgradeUntilScore: 10000
+minScoreIncrement: 1
+custom_formats:
+- name: radarr-Anime BD Tier 01 (Top SeaDex Muxers)
+  score: 1400
+- name: radarr-Anime BD Tier 02 (SeaDex Muxers)
+  score: 1300
+- name: radarr-Anime BD Tier 03 (SeaDex Muxers)
+  score: 1200
+- name: radarr-Anime BD Tier 04 (SeaDex Muxers)
+  score: 1100
+- name: radarr-Remux Tier 01
+  score: 1050
+- name: radarr-Anime BD Tier 05 (Remuxes)
+  score: 1000
+- name: radarr-Remux Tier 02
+  score: 1000
+- name: radarr-Remux Tier 03
+  score: 950
+- name: radarr-Anime BD Tier 06 (FanSubs)
+  score: 900
+- name: radarr-Anime BD Tier 07 (P2P-Scene)
+  score: 800
+- name: radarr-Anime BD Tier 08 (Mini Encodes)
+  score: 700
+- name: radarr-Anime Web Tier 01 (Muxers)
+  score: 600
+- name: radarr-Anime Web Tier 02 (Top FanSubs)
+  score: 500
+- name: radarr-Anime Web Tier 03 (Official Subs)
+  score: 400
+- name: radarr-WEB Tier 01
+  score: 350
+- name: radarr-Anime Web Tier 04 (Official Subs)
+  score: 300
+- name: radarr-WEB Tier 02
+  score: 250
+- name: radarr-Anime Web Tier 05 (FanSubs)
+  score: 200
+- name: radarr-WEB Tier 03
+  score: 150
+- name: radarr-Anime Web Tier 06 (FanSubs)
+  score: 100
+- name: radarr-VRV
+  score: 10
+- name: radarr-v4
+  score: 4
+- name: radarr-v3
+  score: 3
+- name: radarr-v2
+  score: 2
+- name: radarr-v1
+  score: 1
+- name: radarr-v0
+  score: -51
+- name: radarr-Anime LQ Groups
+  score: -10000
+- name: radarr-Anime Raws
+  score: -10000
+- name: radarr-AV1
+  score: -10000
+- name: radarr-Dubs Only
+  score: -10000
+- name: radarr-VOSTFR
+  score: -10000
+qualities:
+- id: -4
+  name: Remux 1080p
+  description: ''
+  qualities:
+  - id: 10
+    name: Bluray-1080p
+  - id: 8
+    name: Remux-1080p
+- id: -3
+  name: WEB 1080p
+  description: ''
+  qualities:
+  - id: 9
+    name: WEBDL-1080p
+  - id: 11
+    name: WEBRip-1080p
+  - id: 12
+    name: HDTV-1080p
+- id: 13
+  name: Bluray-720p
+- id: -2
+  name: WEB 720p
+  description: ''
+  qualities:
+  - id: 14
+    name: WEBDL-720p
+  - id: 15
+    name: WEBRip-720p
+  - id: 16
+    name: HDTV-720p
+- id: 17
+  name: Bluray-576p
+- id: 18
+  name: Bluray-480p
+- id: -1
+  name: WEB 480p
+  description: ''
+  qualities:
+  - id: 19
+    name: WEBDL-480p
+  - id: 20
+    name: WEBRip-480p
+- id: 22
+  name: DVD
+- id: 24
+  name: SDTV
+upgrade_until:
+  id: -4
+  name: Remux 1080p
+language: original

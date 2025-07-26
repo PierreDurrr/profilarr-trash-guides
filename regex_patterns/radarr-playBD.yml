@@ -1,0 +1,5 @@
+name: radarr-playBD
+pattern: ^(playBD)$
+description: ''
+tags: []
+tests: []

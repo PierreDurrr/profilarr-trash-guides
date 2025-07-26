@@ -1,0 +1,5 @@
+name: sonarr-Not GERMAN
+pattern: \b(GERMAN)$
+description: ''
+tags: []
+tests: []

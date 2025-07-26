@@ -1,0 +1,5 @@
+name: radarr-Chimera
+pattern: \[Chimera\]|-Chimera\b
+description: ''
+tags: []
+tests: []

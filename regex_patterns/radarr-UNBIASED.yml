@@ -1,0 +1,5 @@
+name: radarr-UNBIASED
+pattern: \[UNBIASED\]|-UNBIASED\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-CasStudio
+pattern: ^(CasStudio)$
+description: ''
+tags: []
+tests: []

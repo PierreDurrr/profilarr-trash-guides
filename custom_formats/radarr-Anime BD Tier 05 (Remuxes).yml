@@ -1,0 +1,61 @@
+name: radarr-Anime BD Tier 05 (Remuxes)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-05-remuxes)'
+tags:
+- Release Title
+conditions:
+- name: radarr-Bluray
+  negate: false
+  required: false
+  type: source
+  source: 9
+- name: radarr-DVD
+  negate: false
+  required: false
+  type: source
+  source: 5
+- name: radarr-BluDragon
+  negate: false
+  required: false
+  type: release_title
+  pattern: BluDragon
+- name: radarr-D4C
+  negate: false
+  required: false
+  type: release_title
+  pattern: D4C
+- name: radarr-E.N.D
+  negate: false
+  required: false
+  type: release_title
+  pattern: E.N.D
+- name: radarr-PMR
+  negate: false
+  required: false
+  type: release_title
+  pattern: PMR
+- name: radarr-Raizel
+  negate: false
+  required: false
+  type: release_title
+  pattern: Raizel
+- name: radarr-REVO
+  negate: false
+  required: false
+  type: release_title
+  pattern: REVO
+- name: radarr-SRLS
+  negate: false
+  required: false
+  type: release_title
+  pattern: SRLS
+- name: radarr-TTGA
+  negate: false
+  required: false
+  type: release_title
+  pattern: TTGA
+- name: radarr-VULCAN
+  negate: false
+  required: false
+  type: release_title
+  pattern: VULCAN
+tests: []

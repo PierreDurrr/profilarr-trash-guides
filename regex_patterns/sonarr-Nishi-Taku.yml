@@ -1,0 +1,5 @@
+name: sonarr-Nishi-Taku
+pattern: \b(Nishi-Taku)\b
+description: ''
+tags: []
+tests: []

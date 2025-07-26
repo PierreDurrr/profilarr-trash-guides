@@ -1,0 +1,66 @@
+name: radarr-German Bluray Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-bluray-tier-01)'
+tags:
+- Quality Modifier
+conditions:
+- name: radarr-ZeroTwo
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo
+- name: radarr-ZeroTwo Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo Aliases
+- name: radarr-TSCC
+  negate: false
+  required: false
+  type: release_group
+  pattern: TSCC
+- name: radarr-TvR
+  negate: false
+  required: false
+  type: release_group
+  pattern: TvR
+- name: radarr-NIMA4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: NIMA4K
+- name: radarr-TVS
+  negate: false
+  required: false
+  type: release_group
+  pattern: TVS
+- name: radarr-PXL
+  negate: false
+  required: false
+  type: release_group
+  pattern: PXL
+- name: radarr-CNY
+  negate: false
+  required: false
+  type: release_group
+  pattern: CNY
+- name: radarr-WeebPinn
+  negate: false
+  required: false
+  type: release_group
+  pattern: WeebPinn
+- name: radarr-MAMA
+  negate: false
+  required: false
+  type: release_group
+  pattern: MAMA
+- name: radarr-Bluray
+  negate: false
+  required: true
+  type: source
+  source: 9
+- name: radarr-Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+tests: []

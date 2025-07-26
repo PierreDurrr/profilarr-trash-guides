@@ -1,0 +1,5 @@
+name: sonarr-ABBiE
+pattern: ^(ABBiE)$
+description: ''
+tags: []
+tests: []

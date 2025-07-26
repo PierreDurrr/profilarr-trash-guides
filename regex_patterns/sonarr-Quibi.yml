@@ -1,0 +1,5 @@
+name: sonarr-Quibi
+pattern: \b(qibi|quibi)\b
+description: ''
+tags: []
+tests: []

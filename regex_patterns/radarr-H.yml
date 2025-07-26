@@ -1,0 +1,5 @@
+name: radarr-H
+pattern: ^(HERC|HiggsBoson|HiRoSHiMa|HYBRiS|HyDe)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-iFT
+pattern: ^(iFT)$
+description: ''
+tags: []
+tests: []

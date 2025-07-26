@@ -1,0 +1,5 @@
+name: sonarr-BTW
+pattern: ^(BTW)$
+description: ''
+tags: []
+tests: []

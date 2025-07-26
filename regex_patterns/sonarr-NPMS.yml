@@ -1,0 +1,5 @@
+name: sonarr-NPMS
+pattern: ^(NPMS)$
+description: ''
+tags: []
+tests: []

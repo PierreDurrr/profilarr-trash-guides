@@ -1,0 +1,5 @@
+name: sonarr-Matsya
+pattern: \b(Matsya)\b
+description: ''
+tags: []
+tests: []

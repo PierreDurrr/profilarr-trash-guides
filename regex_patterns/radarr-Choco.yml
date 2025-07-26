@@ -1,0 +1,5 @@
+name: radarr-Choco
+pattern: ^(Choco)$
+description: ''
+tags: []
+tests: []

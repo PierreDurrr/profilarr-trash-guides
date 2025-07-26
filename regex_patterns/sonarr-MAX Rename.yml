@@ -1,0 +1,5 @@
+name: sonarr-MAX Rename
+pattern: \[(MAX)\b|\b(MAX)\]
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-Alt
+pattern: \[Alt\]|-Alt\b
+description: ''
+tags: []
+tests: []

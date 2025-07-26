@@ -1,0 +1,5 @@
+name: radarr-SPHD
+pattern: ^(SPHD)$
+description: ''
+tags: []
+tests: []

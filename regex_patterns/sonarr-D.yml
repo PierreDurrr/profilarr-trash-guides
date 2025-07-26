@@ -1,0 +1,5 @@
+name: sonarr-D
+pattern: ^(D4KiD|DEAL|DiEBEX|DUPLI|DUSS)$
+description: ''
+tags: []
+tests: []

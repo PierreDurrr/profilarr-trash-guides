@@ -1,0 +1,5 @@
+name: radarr-BYNDR
+pattern: ^(BYNDR)$
+description: ''
+tags: []
+tests: []

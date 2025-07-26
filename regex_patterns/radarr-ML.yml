@@ -1,0 +1,5 @@
+name: radarr-ML
+pattern: \b(ML)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-LoliHouse
+pattern: \b(LoliHouse)\b
+description: ''
+tags: []
+tests: []

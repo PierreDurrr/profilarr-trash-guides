@@ -1,0 +1,5 @@
+name: radarr-TTGA
+pattern: \b(TTGA)\b
+description: ''
+tags: []
+tests: []

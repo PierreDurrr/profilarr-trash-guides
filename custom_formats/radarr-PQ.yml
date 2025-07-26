@@ -1,0 +1,36 @@
+name: radarr-PQ
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pq)'
+tags:
+- Release Title
+conditions:
+- name: radarr-PQ
+  negate: false
+  required: true
+  type: release_title
+  pattern: PQ
+- name: radarr-Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV
+- name: radarr-Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10+
+- name: radarr-Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10
+- name: radarr-Not HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HLG
+- name: radarr-Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not SDR
+tests: []

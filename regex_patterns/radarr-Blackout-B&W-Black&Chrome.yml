@@ -1,0 +1,5 @@
+name: radarr-Blackout-B&W-Black&Chrome
+pattern: (?<=\b[12]\d{3}\b).*\b((B(lack)?[ ._-]?(out|(and|[n&])[ ._-]?(W(hite)?|Chrome))))\b(?!$)
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-USD
+pattern: \[USD\]|-USD\b
+description: ''
+tags: []
+tests: []

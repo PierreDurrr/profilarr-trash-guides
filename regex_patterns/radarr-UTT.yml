@@ -1,0 +1,5 @@
+name: radarr-UTT
+pattern: ^(UTT)$
+description: ''
+tags: []
+tests: []

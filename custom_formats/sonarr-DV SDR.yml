@@ -1,0 +1,21 @@
+name: sonarr-DV SDR
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#dv-sdr)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-DV SDR
+  negate: false
+  required: true
+  type: release_title
+  pattern: DV SDR
+- name: sonarr-Not DV HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV HDR10
+- name: sonarr-Not DV HLG
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV HLG
+tests: []

@@ -1,0 +1,11 @@
+name: radarr-Theatrical Cut
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#theatrical-cut)'
+tags:
+- Release Title
+conditions:
+- name: radarr-Theatrical
+  negate: false
+  required: true
+  type: release_title
+  pattern: Theatrical
+tests: []

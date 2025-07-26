@@ -1,0 +1,5 @@
+name: sonarr-RiiR
+pattern: ^(RiiR)$
+description: ''
+tags: []
+tests: []

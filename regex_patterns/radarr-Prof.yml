@@ -1,0 +1,5 @@
+name: radarr-Prof
+pattern: \[Prof\]|-Prof\b
+description: ''
+tags: []
+tests: []

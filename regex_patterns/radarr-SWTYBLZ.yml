@@ -1,0 +1,5 @@
+name: radarr-SWTYBLZ
+pattern: \b(SWTYBLZ)\b
+description: ''
+tags: []
+tests: []

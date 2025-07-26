@@ -1,0 +1,5 @@
+name: radarr-NEO
+pattern: ^(NEO)$
+description: ''
+tags: []
+tests: []

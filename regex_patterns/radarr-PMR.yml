@@ -1,0 +1,5 @@
+name: radarr-PMR
+pattern: ^(?=.*\b(PMR)\b)(?=.*\b(Remux)\b)
+description: ''
+tags: []
+tests: []

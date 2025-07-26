@@ -1,0 +1,51 @@
+name: radarr-FR UHD Bluray Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-uhd-bluray-tier-02)'
+tags:
+- Source
+conditions:
+- name: radarr-DUSTiN
+  negate: false
+  required: false
+  type: release_group
+  pattern: DUSTiN
+- name: radarr-FCK
+  negate: false
+  required: false
+  type: release_group
+  pattern: FCK
+- name: radarr-FrIeNdS
+  negate: false
+  required: false
+  type: release_group
+  pattern: FrIeNdS
+- name: radarr-QUALiTY
+  negate: false
+  required: false
+  type: release_group
+  pattern: QUALiTY
+- name: radarr-2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: radarr-Not REMUX
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: radarr-Not SDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not SDR
+- name: radarr-Not WEBDL
+  negate: true
+  required: true
+  type: source
+  source: 7
+- name: radarr-Not WEBRIP
+  negate: true
+  required: true
+  type: source
+  source: 8
+tests: []

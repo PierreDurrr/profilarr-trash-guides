@@ -1,0 +1,5 @@
+name: sonarr-Legion
+pattern: \[Legion\]|-Legion\b
+description: ''
+tags: []
+tests: []

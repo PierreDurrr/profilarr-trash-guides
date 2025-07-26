@@ -1,0 +1,5 @@
+name: sonarr-JETIX
+pattern: ^(JETIX)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-neoHEVC
+pattern: \b(neoHEVC)\b
+description: ''
+tags: []
+tests: []

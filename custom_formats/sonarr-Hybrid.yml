@@ -1,0 +1,26 @@
+name: sonarr-Hybrid
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#hybrid)'
+tags:
+- Source
+conditions:
+- name: sonarr-Hybrid
+  negate: false
+  required: false
+  type: release_title
+  pattern: Hybrid
+- name: sonarr-Not Hybrid Release Group
+  negate: true
+  required: true
+  type: release_group
+  pattern: Not Hybrid Release Group
+- name: sonarr-Remux
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: sonarr-Bluray
+  negate: false
+  required: false
+  type: source
+  source: 6
+tests: []

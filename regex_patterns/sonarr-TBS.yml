@@ -1,0 +1,5 @@
+name: sonarr-TBS
+pattern: ^(TBS)$
+description: ''
+tags: []
+tests: []

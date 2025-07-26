@@ -1,0 +1,5 @@
+name: radarr-Stan Rename
+pattern: \[(STAN)\b|\b(STAN)\]
+description: ''
+tags: []
+tests: []

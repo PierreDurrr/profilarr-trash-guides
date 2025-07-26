@@ -1,0 +1,5 @@
+name: radarr-CyC
+pattern: \b(CyC)\b
+description: ''
+tags: []
+tests: []

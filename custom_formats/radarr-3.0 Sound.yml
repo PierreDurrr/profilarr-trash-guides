@@ -1,0 +1,31 @@
+name: radarr-3.0 Sound
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#30-sound)'
+tags:
+- Release Title
+conditions:
+- name: radarr-3.0ch
+  negate: false
+  required: true
+  type: release_title
+  pattern: 3.0ch
+- name: radarr-Not Mono
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Mono
+- name: radarr-Not Stereo
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Stereo
+- name: radarr-Not 4.0ch
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 4.0ch
+- name: radarr-Not High Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not High Channel Count
+tests: []

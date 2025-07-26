@@ -1,0 +1,21 @@
+name: sonarr-SDR
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#sdr)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: sonarr-HDR Formats
+  negate: true
+  required: false
+  type: release_title
+  pattern: HDR Formats
+- name: sonarr-SDR
+  negate: false
+  required: false
+  type: release_title
+  pattern: SDR
+tests: []

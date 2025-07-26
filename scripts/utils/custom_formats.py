@@ -33,7 +33,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
     conditions = []
     for spec in input_json.get("specifications", []):
         condition = {
-            "name": get_file_name(spec.get("name", "")),
+            "name": get_file_name(service, spec.get("name", "")),
             "negate": spec.get("negate", False),
             "required": spec.get("required", False),
             "type": IMPLEMENTATION_TO_TYPE_MAPPING.get(
@@ -63,7 +63,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
     # Compose YAML structure
     name = input_json.get("name", "")
     yml_data = {
-        "name": get_file_name(name),
+        "name": get_file_name(service, name),
         "description": f"""[Custom format from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service.capitalize()}-collection-of-custom-formats/#{file_name})
 
 {markdownify(input_json.get('description', ''))}""".strip(),
@@ -80,7 +80,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
     #     yml_data["metadata"] = {"includeInRename": include_in_rename}
 
     # Output path
-    output_path = os.path.join(output_dir, f"{get_file_name(name)}.yml")
+    output_path = os.path.join(output_dir, f"{get_file_name(service, name)}.yml")
     with open(output_path, "w", encoding="utf-8") as f:
         yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
     print(f"Generated: {output_path}")

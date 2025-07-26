@@ -1,0 +1,5 @@
+name: sonarr-MBA
+pattern: ^(MBA)$
+description: ''
+tags: []
+tests: []

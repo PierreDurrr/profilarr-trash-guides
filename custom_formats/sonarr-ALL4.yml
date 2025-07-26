@@ -1,0 +1,21 @@
+name: sonarr-ALL4
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#all4)'
+tags:
+- Source
+conditions:
+- name: sonarr-ALL4
+  negate: false
+  required: true
+  type: release_title
+  pattern: ALL4
+- name: sonarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: sonarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

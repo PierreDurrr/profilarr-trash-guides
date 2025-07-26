@@ -1,0 +1,5 @@
+name: radarr-ORARBG
+pattern: \b(ORARBG)\b
+description: ''
+tags: []
+tests: []

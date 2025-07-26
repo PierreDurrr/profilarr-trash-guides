@@ -1,0 +1,5 @@
+name: radarr-DNL
+pattern: ^(DNL)$
+description: ''
+tags: []
+tests: []

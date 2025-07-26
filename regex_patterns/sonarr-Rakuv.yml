@@ -1,0 +1,5 @@
+name: sonarr-Rakuv
+pattern: -Rakuv\b
+description: ''
+tags: []
+tests: []

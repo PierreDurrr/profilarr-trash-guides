@@ -1,0 +1,5 @@
+name: radarr-aro
+pattern: \b(aro)\b
+description: ''
+tags: []
+tests: []

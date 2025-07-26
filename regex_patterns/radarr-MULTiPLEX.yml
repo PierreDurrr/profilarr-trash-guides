@@ -1,0 +1,5 @@
+name: radarr-MULTiPLEX
+pattern: (MULTiPLEX)$
+description: ''
+tags: []
+tests: []

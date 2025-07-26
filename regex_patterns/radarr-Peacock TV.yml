@@ -1,0 +1,5 @@
+name: radarr-Peacock TV
+pattern: \b(pcok|peacock)\b
+description: ''
+tags: []
+tests: []

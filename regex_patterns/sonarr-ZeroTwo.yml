@@ -1,0 +1,5 @@
+name: sonarr-ZeroTwo
+pattern: ^(ZeroTwo)$
+description: ''
+tags: []
+tests: []

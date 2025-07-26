@@ -1,0 +1,31 @@
+name: radarr-UHD Bluray Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uhd-bluray-tier-02)'
+tags:
+- Release Group
+conditions:
+- name: radarr-Not REMUX
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: radarr-Not WEBDL
+  negate: true
+  required: true
+  type: source
+  source: 7
+- name: radarr-Not WEBRIP
+  negate: true
+  required: true
+  type: source
+  source: 8
+- name: radarr-2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: radarr-HQMUX
+  negate: false
+  required: false
+  type: release_group
+  pattern: HQMUX
+tests: []

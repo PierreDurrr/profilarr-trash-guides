@@ -1,0 +1,5 @@
+name: sonarr-Raws-Maji
+pattern: \b(Raws-Maji)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-BDHD
+pattern: ^(BDHD)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-PmP
+pattern: ^(PmP)$
+description: ''
+tags: []
+tests: []

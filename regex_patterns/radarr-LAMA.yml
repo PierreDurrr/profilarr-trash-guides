@@ -1,0 +1,5 @@
+name: radarr-LAMA
+pattern: ^(LAMA)$
+description: ''
+tags: []
+tests: []

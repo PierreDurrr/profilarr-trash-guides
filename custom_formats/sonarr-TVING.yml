@@ -1,0 +1,26 @@
+name: sonarr-TVING
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#tving)'
+tags:
+- Source
+conditions:
+- name: sonarr-TVING
+  negate: false
+  required: false
+  type: release_title
+  pattern: TVING
+- name: sonarr-TVING Rename
+  negate: false
+  required: false
+  type: release_title
+  pattern: TVING Rename
+- name: sonarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: sonarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

@@ -1,0 +1,21 @@
+name: radarr-PCOK
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pcok)'
+tags:
+- Source
+conditions:
+- name: radarr-Peacock TV
+  negate: false
+  required: true
+  type: release_title
+  pattern: Peacock TV
+- name: radarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: radarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-TyrellCorp
+pattern: ^(TyrellCorp)$
+description: ''
+tags: []
+tests: []

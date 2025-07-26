@@ -1,0 +1,5 @@
+name: radarr-Anitsu
+pattern: \b(Anitsu)\b
+description: ''
+tags: []
+tests: []

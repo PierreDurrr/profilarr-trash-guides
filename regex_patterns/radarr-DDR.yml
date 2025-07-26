@@ -1,0 +1,5 @@
+name: radarr-DDR
+pattern: ^(DDR)$
+description: ''
+tags: []
+tests: []

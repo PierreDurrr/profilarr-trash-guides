@@ -1,0 +1,5 @@
+name: radarr-GHD
+pattern: ^(GHD)$
+description: ''
+tags: []
+tests: []

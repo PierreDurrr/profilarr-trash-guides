@@ -1,0 +1,5 @@
+name: sonarr-DameDesuYo
+pattern: \b(DameDesuYo)\b
+description: ''
+tags: []
+tests: []

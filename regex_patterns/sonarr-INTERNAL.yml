@@ -1,0 +1,5 @@
+name: sonarr-INTERNAL
+pattern: \b(INTERNAL)\b
+description: ''
+tags: []
+tests: []

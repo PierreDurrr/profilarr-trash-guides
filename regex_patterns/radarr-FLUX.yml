@@ -1,0 +1,5 @@
+name: radarr-FLUX
+pattern: ^(FLUX)$
+description: ''
+tags: []
+tests: []

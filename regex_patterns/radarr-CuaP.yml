@@ -1,0 +1,5 @@
+name: radarr-CuaP
+pattern: \b(CuaP)\b
+description: ''
+tags: []
+tests: []

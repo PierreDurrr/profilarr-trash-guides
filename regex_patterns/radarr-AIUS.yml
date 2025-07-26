@@ -1,0 +1,5 @@
+name: radarr-AIUS
+pattern: \b(AIUS)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-CNY
+pattern: ^(CNY)$
+description: ''
+tags: []
+tests: []

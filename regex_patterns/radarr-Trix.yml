@@ -1,0 +1,5 @@
+name: radarr-Trix
+pattern: \[Trix\]|-Trix\b
+description: ''
+tags: []
+tests: []

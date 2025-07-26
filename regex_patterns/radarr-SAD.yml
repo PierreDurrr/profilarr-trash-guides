@@ -1,0 +1,5 @@
+name: radarr-SAD
+pattern: \[SAD\]|-SAD\b
+description: ''
+tags: []
+tests: []

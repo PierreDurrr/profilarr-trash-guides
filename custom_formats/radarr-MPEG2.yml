@@ -1,0 +1,11 @@
+name: radarr-MPEG2
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#mpeg2)'
+tags:
+- Release Title
+conditions:
+- name: radarr-MPEG2
+  negate: false
+  required: true
+  type: release_title
+  pattern: MPEG2
+tests: []

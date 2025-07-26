@@ -1,0 +1,5 @@
+name: radarr-nHD
+pattern: ^(nHD)$
+description: ''
+tags: []
+tests: []

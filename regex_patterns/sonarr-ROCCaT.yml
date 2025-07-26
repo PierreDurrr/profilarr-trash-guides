@@ -1,0 +1,5 @@
+name: sonarr-ROCCaT
+pattern: ^(ROCCaT)$
+description: ''
+tags: []
+tests: []

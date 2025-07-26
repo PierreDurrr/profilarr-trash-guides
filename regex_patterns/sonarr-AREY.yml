@@ -1,0 +1,5 @@
+name: sonarr-AREY
+pattern: \b(AREY)\b
+description: ''
+tags: []
+tests: []

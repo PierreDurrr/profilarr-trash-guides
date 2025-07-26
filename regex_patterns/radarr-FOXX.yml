@@ -1,0 +1,5 @@
+name: radarr-FOXX
+pattern: ^(FOXX)$
+description: ''
+tags: []
+tests: []

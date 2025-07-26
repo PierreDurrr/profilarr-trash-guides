@@ -1,0 +1,5 @@
+name: radarr-Pikari-Teshima
+pattern: \b(Pikari[ .-]?Teshima)\b
+description: ''
+tags: []
+tests: []

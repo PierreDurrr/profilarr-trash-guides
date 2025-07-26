@@ -1,0 +1,5 @@
+name: sonarr-JacobSwaggedUp
+pattern: \b(JacobSwaggedUp)\b
+description: ''
+tags: []
+tests: []

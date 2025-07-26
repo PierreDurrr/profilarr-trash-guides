@@ -1,0 +1,5 @@
+name: radarr-Tsundere-Raws
+pattern: \b(Tsundere[ .-]?Raws)\b
+description: ''
+tags: []
+tests: []

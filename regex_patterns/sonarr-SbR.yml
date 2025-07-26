@@ -1,0 +1,5 @@
+name: sonarr-SbR
+pattern: ^(SbR)$
+description: ''
+tags: []
+tests: []

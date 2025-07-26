@@ -1,5 +1,0 @@
-name: Not GERMAN
-pattern: \b(GERMAN)\b
-description: ''
-tags: []
-tests: []

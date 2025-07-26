@@ -1,0 +1,5 @@
+name: radarr-CMRG
+pattern: ^(CMRG)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-SAUERKRAUT
+pattern: ^(SAUERKRAUT)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,31 @@
+name: sonarr-German Bluray Tier 03
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-bluray-tier-03)'
+tags:
+- Source
+conditions:
+- name: sonarr-RobertDeNiro
+  negate: false
+  required: false
+  type: release_group
+  pattern: RobertDeNiro
+- name: sonarr-HQC
+  negate: false
+  required: false
+  type: release_group
+  pattern: HQC
+- name: sonarr-HDSource
+  negate: false
+  required: false
+  type: release_group
+  pattern: HDSource
+- name: sonarr-Bluray
+  negate: false
+  required: true
+  type: source
+  source: 6
+- name: sonarr-Not REMUX
+  negate: true
+  required: true
+  type: source
+  source: 7
+tests: []

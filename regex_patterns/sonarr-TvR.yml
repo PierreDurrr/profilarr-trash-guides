@@ -1,0 +1,5 @@
+name: sonarr-TvR
+pattern: ^(TvR)$
+description: ''
+tags: []
+tests: []

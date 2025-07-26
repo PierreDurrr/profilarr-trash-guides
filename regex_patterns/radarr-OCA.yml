@@ -1,0 +1,5 @@
+name: radarr-OCA
+pattern: ^(OCA)$
+description: ''
+tags: []
+tests: []

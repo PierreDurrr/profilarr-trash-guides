@@ -1,0 +1,5 @@
+name: radarr-RedBlade
+pattern: \b(RedBlade)\b
+description: ''
+tags: []
+tests: []

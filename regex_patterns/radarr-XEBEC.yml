@@ -1,0 +1,5 @@
+name: radarr-XEBEC
+pattern: ^(XEBEC|4KBEC|CEBEX)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-USD
+pattern: \[USD\]|-USD\b
+description: ''
+tags: []
+tests: []

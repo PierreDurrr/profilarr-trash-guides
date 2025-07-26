@@ -1,0 +1,5 @@
+name: sonarr-PL
+pattern: ^(PL)$
+description: ''
+tags: []
+tests: []

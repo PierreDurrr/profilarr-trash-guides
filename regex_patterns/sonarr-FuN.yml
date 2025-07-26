@@ -1,0 +1,5 @@
+name: sonarr-FuN
+pattern: ^(FuN)$
+description: ''
+tags: []
+tests: []

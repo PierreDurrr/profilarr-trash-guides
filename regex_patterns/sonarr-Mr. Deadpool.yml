@@ -1,0 +1,5 @@
+name: sonarr-Mr. Deadpool
+pattern: \b(Mr\.Deadpool)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-RiPER
+pattern: ^(RiPER)$
+description: ''
+tags: []
+tests: []

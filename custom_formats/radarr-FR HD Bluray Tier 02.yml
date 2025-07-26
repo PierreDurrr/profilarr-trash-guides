@@ -1,0 +1,66 @@
+name: radarr-FR HD Bluray Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-hd-bluray-tier-02)'
+tags:
+- Release Group
+conditions:
+- name: radarr-BLURAY
+  negate: false
+  required: true
+  type: source
+  source: 9
+- name: radarr-Not Remux
+  negate: true
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: radarr-Not 2160p
+  negate: true
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: radarr-HDForever
+  negate: false
+  required: false
+  type: release_group
+  pattern: HDForever
+- name: radarr-HeavyWeight
+  negate: false
+  required: false
+  type: release_group
+  pattern: HeavyWeight
+- name: radarr-MARBLECAKE
+  negate: false
+  required: false
+  type: release_group
+  pattern: MARBLECAKE
+- name: radarr-MYSTERiON
+  negate: false
+  required: false
+  type: release_group
+  pattern: MYSTERiON
+- name: radarr-NoNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: NoNE
+- name: radarr-ONLY
+  negate: false
+  required: false
+  type: release_group
+  pattern: ONLY
+- name: radarr-ONLYMOViE
+  negate: false
+  required: false
+  type: release_group
+  pattern: ONLYMOViE
+- name: radarr-TkHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: TkHD
+- name: radarr-UTT
+  negate: false
+  required: false
+  type: release_group
+  pattern: UTT
+tests: []

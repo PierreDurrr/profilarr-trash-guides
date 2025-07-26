@@ -1,0 +1,5 @@
+name: sonarr-FORMBA
+pattern: ^(FORMBA)$
+description: ''
+tags: []
+tests: []

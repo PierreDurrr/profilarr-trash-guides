@@ -1,0 +1,5 @@
+name: radarr-BiTOR
+pattern: ^(BiTOR)$
+description: ''
+tags: []
+tests: []

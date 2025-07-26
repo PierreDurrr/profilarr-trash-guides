@@ -1,0 +1,5 @@
+name: sonarr-H
+pattern: ^(HERC|HiggsBoson|HiRoSHiMa|HYBRiS|HyDe)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-IssouCorp
+pattern: \b(IssouCorp)\b
+description: ''
+tags: []
+tests: []

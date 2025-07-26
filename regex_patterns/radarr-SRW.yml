@@ -1,0 +1,5 @@
+name: radarr-SRW
+pattern: \b(SRW)\b
+description: ''
+tags: []
+tests: []

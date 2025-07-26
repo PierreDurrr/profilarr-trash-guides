@@ -1,0 +1,5 @@
+name: radarr-AROMA
+pattern: ^(AROMA)$
+description: ''
+tags: []
+tests: []

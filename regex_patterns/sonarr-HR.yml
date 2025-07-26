@@ -1,0 +1,5 @@
+name: sonarr-HR
+pattern: \[HR\]|-HR\b
+description: ''
+tags: []
+tests: []

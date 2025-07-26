@@ -1,0 +1,5 @@
+name: sonarr-smol
+pattern: \[smol\]|-smol\b
+description: ''
+tags: []
+tests: []

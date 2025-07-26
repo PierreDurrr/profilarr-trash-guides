@@ -1,0 +1,5 @@
+name: radarr-beAst
+pattern: ^(beAst)$
+description: ''
+tags: []
+tests: []

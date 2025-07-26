@@ -1,0 +1,5 @@
+name: sonarr-Pixel
+pattern: \[Pixel\]|-Pixel\b
+description: ''
+tags: []
+tests: []

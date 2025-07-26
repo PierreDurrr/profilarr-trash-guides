@@ -1,0 +1,5 @@
+name: sonarr-RG
+pattern: ^(RG)$
+description: ''
+tags: []
+tests: []

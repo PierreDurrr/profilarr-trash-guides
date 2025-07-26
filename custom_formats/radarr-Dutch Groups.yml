@@ -1,0 +1,11 @@
+name: radarr-Dutch Groups
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dutch-groups)'
+tags:
+- Release Title
+conditions:
+- name: radarr-Dutch Groups
+  negate: false
+  required: true
+  type: release_title
+  pattern: Dutch Groups
+tests: []

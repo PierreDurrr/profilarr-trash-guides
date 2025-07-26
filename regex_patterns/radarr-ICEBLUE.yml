@@ -1,0 +1,5 @@
+name: radarr-ICEBLUE
+pattern: \b(ICEBLUE)\b
+description: ''
+tags: []
+tests: []

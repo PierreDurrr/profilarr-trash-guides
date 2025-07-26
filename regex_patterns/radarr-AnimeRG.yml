@@ -1,0 +1,5 @@
+name: radarr-AnimeRG
+pattern: \b(AnimeRG)\b
+description: ''
+tags: []
+tests: []

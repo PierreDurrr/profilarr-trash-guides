@@ -1,0 +1,5 @@
+name: sonarr-HAXE
+pattern: ^(HAXE)$
+description: ''
+tags: []
+tests: []

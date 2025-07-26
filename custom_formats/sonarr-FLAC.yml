@@ -1,0 +1,41 @@
+name: sonarr-FLAC
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#flac)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-FLAC
+  negate: false
+  required: true
+  type: release_title
+  pattern: FLAC
+- name: sonarr-Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+- name: sonarr-Not AAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not AAC
+- name: sonarr-Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: sonarr-Not TrueHD-ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+- name: sonarr-Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic Dolby Digital
+- name: 'sonarr-Not Dolby Digital Plus '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Dolby Digital Plus '
+tests: []

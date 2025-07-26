@@ -1,0 +1,5 @@
+name: sonarr-EXTREME
+pattern: ^(EXTREME)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-alfaHD
+pattern: ^(alfaHD.*)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-Chihiro
+pattern: \[Chihiro\]|-Chihiro\b
+description: ''
+tags: []
+tests: []

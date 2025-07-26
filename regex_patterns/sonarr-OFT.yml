@@ -1,0 +1,5 @@
+name: sonarr-OFT
+pattern: ^(OFT)$
+description: ''
+tags: []
+tests: []

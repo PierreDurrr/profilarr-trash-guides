@@ -1,0 +1,5 @@
+name: radarr-TvR
+pattern: ^(TvR)$
+description: ''
+tags: []
+tests: []

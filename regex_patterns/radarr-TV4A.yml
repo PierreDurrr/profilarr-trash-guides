@@ -1,0 +1,5 @@
+name: radarr-TV4A
+pattern: ^(TV4A)$
+description: ''
+tags: []
+tests: []

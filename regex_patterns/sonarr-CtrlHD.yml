@@ -1,0 +1,5 @@
+name: sonarr-CtrlHD
+pattern: ^(CtrlHD)$
+description: ''
+tags: []
+tests: []

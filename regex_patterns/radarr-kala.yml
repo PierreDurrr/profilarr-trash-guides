@@ -1,0 +1,5 @@
+name: radarr-kala
+pattern: (kala)$
+description: ''
+tags: []
+tests: []

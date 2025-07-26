@@ -1,0 +1,5 @@
+name: radarr-Movies Anywhere
+pattern: (?<!dts[ .-]?hd[ .-]?)\bma\b(?=.*\bweb[ ._-]?(dl|rip)\b)
+description: ''
+tags: []
+tests: []

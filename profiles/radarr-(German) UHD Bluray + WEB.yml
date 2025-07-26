@@ -1,0 +1,124 @@
+name: radarr-(German) UHD Bluray + WEB
+description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
+  \nGerman Quality Profile that covers:  \n- WEBDL: 2160p  \n- Bluray: 2160p"
+tags: []
+upgradesAllowed: true
+minCustomFormatScore: 0
+upgradeUntilScore: 35000
+minScoreIncrement: 1
+custom_formats:
+- name: radarr-German DL
+  score: 11000
+- name: radarr-German DL (undefined)
+  score: 11000
+- name: radarr-German
+  score: 10000
+- name: radarr-German 2160p Booster
+  score: 9000
+- name: radarr-German Bluray Tier 01
+  score: 2900
+- name: radarr-German Bluray Tier 02
+  score: 2650
+- name: radarr-German Bluray Tier 03
+  score: 2300
+- name: radarr-German Web Tier 01
+  score: 2100
+- name: radarr-German Web Tier 02
+  score: 1900
+- name: radarr-German Web Tier 03
+  score: 1800
+- name: radarr-UHD Bluray Tier 01
+  score: 1800
+- name: radarr-UHD Bluray Tier 02
+  score: 1750
+- name: radarr-German Scene
+  score: 1700
+- name: radarr-UHD Bluray Tier 03
+  score: 1700
+- name: radarr-WEB Tier 01
+  score: 1700
+- name: radarr-WEB Tier 02
+  score: 1650
+- name: radarr-WEB Tier 03
+  score: 1600
+- name: radarr-DV
+  score: 1500
+- name: radarr-DV HDR10
+  score: 1500
+- name: radarr-DV HDR10+
+  score: 1500
+- name: radarr-DV HLG
+  score: 1500
+- name: radarr-DV SDR
+  score: 1500
+- name: radarr-German 1080p Booster
+  score: 650
+- name: radarr-HDR10+
+  score: 600
+- name: radarr-HDR
+  score: 500
+- name: radarr-HDR (undefined)
+  score: 500
+- name: radarr-HDR10
+  score: 500
+- name: radarr-HLG
+  score: 500
+- name: radarr-PQ
+  score: 500
+- name: radarr-2160p
+  score: 100
+- name: radarr-1080p
+  score: 50
+- name: radarr-CRiT
+  score: 20
+- name: radarr-MA
+  score: 20
+- name: radarr-BCORE
+  score: 15
+- name: radarr-Repack3
+  score: 7
+- name: radarr-Repack2
+  score: 6
+- name: radarr-720p
+  score: 5
+- name: radarr-Repack-Proper
+  score: 5
+- name: radarr-3D
+  score: -35000
+- name: radarr-AV1
+  score: -35000
+- name: radarr-BR-DISK
+  score: -35000
+- name: radarr-Extras
+  score: -35000
+- name: radarr-German LQ
+  score: -35000
+- name: radarr-German LQ (release title)
+  score: -35000
+- name: radarr-German Microsized
+  score: -35000
+- name: radarr-Line-Mic Dubbed
+  score: -35000
+- name: radarr-LQ
+  score: -35000
+- name: radarr-LQ (Release Title)
+  score: -35000
+- name: radarr-Not German or English
+  score: -35000
+- name: radarr-Upscaled
+  score: -35000
+qualities:
+- id: -1
+  name: Merged QPs
+  description: ''
+  qualities:
+  - id: 6
+    name: WEBRip-2160p
+  - id: 5
+    name: WEBDL-2160p
+  - id: 4
+    name: Bluray-2160p
+upgrade_until:
+  id: -1
+  name: Merged QPs
+language: any

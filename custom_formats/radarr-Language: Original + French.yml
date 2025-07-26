@@ -1,0 +1,21 @@
+name: 'radarr-Language: Original + French'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-original-plus-french)'
+tags:
+- Release Title
+conditions:
+- name: radarr-Original Language
+  negate: false
+  required: true
+  type: language
+  language: -2
+- name: radarr-French Language
+  negate: false
+  required: true
+  type: language
+  language: 2
+- name: radarr-MULTi
+  negate: false
+  required: true
+  type: release_title
+  pattern: MULTi
+tests: []

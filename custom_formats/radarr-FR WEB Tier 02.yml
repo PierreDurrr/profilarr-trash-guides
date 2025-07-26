@@ -1,0 +1,66 @@
+name: radarr-FR WEB Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-web-tier-02)'
+tags:
+- Release Group
+conditions:
+- name: radarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: radarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+- name: radarr-ALLDAYiN
+  negate: false
+  required: false
+  type: release_group
+  pattern: ALLDAYiN
+- name: radarr-ARK01
+  negate: false
+  required: false
+  type: release_group
+  pattern: ARK01
+- name: radarr-HeavyWeight
+  negate: false
+  required: false
+  type: release_group
+  pattern: HeavyWeight
+- name: radarr-NEO
+  negate: false
+  required: false
+  type: release_group
+  pattern: NEO
+- name: radarr-NoNe
+  negate: false
+  required: false
+  type: release_group
+  pattern: NoNe
+- name: radarr-ONLYMOViE
+  negate: false
+  required: false
+  type: release_group
+  pattern: ONLYMOViE
+- name: radarr-POTO
+  negate: false
+  required: false
+  type: release_group
+  pattern: POTO
+- name: radarr-Slay3R
+  negate: false
+  required: false
+  type: release_group
+  pattern: Slay3R
+- name: radarr-TkHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: TkHD
+- name: radarr-WaCkS
+  negate: false
+  required: false
+  type: release_group
+  pattern: WaCkS
+tests: []

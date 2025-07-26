@@ -1,0 +1,5 @@
+name: sonarr-GTF
+pattern: ^(GTF)$
+description: ''
+tags: []
+tests: []

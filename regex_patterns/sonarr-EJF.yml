@@ -1,0 +1,5 @@
+name: sonarr-EJF
+pattern: \b(EJF)\b
+description: ''
+tags: []
+tests: []

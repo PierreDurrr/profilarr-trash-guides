@@ -1,0 +1,5 @@
+name: radarr-BTM
+pattern: ^(BTM)$
+description: ''
+tags: []
+tests: []

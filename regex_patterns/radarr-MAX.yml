@@ -1,0 +1,5 @@
+name: radarr-MAX
+pattern: ^(MAX)$
+description: ''
+tags: []
+tests: []

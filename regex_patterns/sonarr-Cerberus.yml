@@ -1,0 +1,5 @@
+name: sonarr-Cerberus
+pattern: \[Cerberus\]|-Cerberus\b
+description: ''
+tags: []
+tests: []

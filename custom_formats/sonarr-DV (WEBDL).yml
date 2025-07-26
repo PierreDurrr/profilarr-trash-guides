@@ -1,0 +1,36 @@
+name: sonarr-DV (WEBDL)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#dv-webdl)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-Dolby Vision
+  negate: false
+  required: true
+  type: release_title
+  pattern: Dolby Vision
+- name: sonarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: sonarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 4
+- name: sonarr-Not RlsGrp
+  negate: true
+  required: true
+  type: release_group
+  pattern: Not RlsGrp
+- name: sonarr-Not HDR
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR
+- name: sonarr-Not Hulu
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Hulu
+tests: []

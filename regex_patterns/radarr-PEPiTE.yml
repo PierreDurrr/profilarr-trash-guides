@@ -1,0 +1,5 @@
+name: radarr-PEPiTE
+pattern: ^(PEPiTE)$
+description: ''
+tags: []
+tests: []

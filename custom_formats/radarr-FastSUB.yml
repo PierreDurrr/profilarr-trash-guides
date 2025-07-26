@@ -1,0 +1,11 @@
+name: radarr-FastSUB
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#fastsub)'
+tags:
+- Release Title
+conditions:
+- name: radarr-FastSUB
+  negate: false
+  required: true
+  type: release_title
+  pattern: FastSUB
+tests: []

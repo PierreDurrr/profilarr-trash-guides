@@ -1,0 +1,5 @@
+name: radarr-TANOSHii
+pattern: \b(TANOSHii)\b
+description: ''
+tags: []
+tests: []

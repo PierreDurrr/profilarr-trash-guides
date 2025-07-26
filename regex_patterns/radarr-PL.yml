@@ -1,0 +1,5 @@
+name: radarr-PL
+pattern: (PL)$
+description: ''
+tags: []
+tests: []

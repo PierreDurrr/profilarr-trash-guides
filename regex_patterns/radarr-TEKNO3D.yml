@@ -1,0 +1,5 @@
+name: radarr-TEKNO3D
+pattern: \b(TEKNO3D)\b
+description: ''
+tags: []
+tests: []

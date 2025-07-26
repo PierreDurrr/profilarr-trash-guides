@@ -1,0 +1,5 @@
+name: radarr-FW
+pattern: ^(FW)$
+description: ''
+tags: []
+tests: []

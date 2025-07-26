@@ -1,0 +1,5 @@
+name: radarr-TOA
+pattern: ^(TOA)$
+description: ''
+tags: []
+tests: []

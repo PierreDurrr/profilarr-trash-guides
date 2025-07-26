@@ -1,0 +1,5 @@
+name: sonarr-Crunchyroll
+pattern: \b(C(runchy)?[ .-]?R(oll)?)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-T4H
+pattern: ^(T4H)$
+description: ''
+tags: []
+tests: []

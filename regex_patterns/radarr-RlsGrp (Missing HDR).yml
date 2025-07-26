@@ -1,0 +1,5 @@
+name: radarr-RlsGrp (Missing HDR)
+pattern: \b(FraMeSToR|HQMUX|SiCFoI)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-IMAX
+pattern: \b((?<!NON[ ._-])IMAX)\b
+description: ''
+tags: []
+tests: []

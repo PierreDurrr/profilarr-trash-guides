@@ -1,0 +1,5 @@
+name: radarr-AnimeDynastyEN
+pattern: \b(AnimeDynastyEN)\b
+description: ''
+tags: []
+tests: []

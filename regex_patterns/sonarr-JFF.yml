@@ -1,0 +1,5 @@
+name: sonarr-JFF
+pattern: ^(JFF)$
+description: ''
+tags: []
+tests: []

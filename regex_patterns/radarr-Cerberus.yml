@@ -1,0 +1,5 @@
+name: radarr-Cerberus
+pattern: \[Cerberus\]|-Cerberus\b
+description: ''
+tags: []
+tests: []

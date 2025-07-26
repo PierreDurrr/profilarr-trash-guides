@@ -1,0 +1,5 @@
+name: sonarr-Peacock TV
+pattern: \b(pcok|Peacock TV)\b
+description: ''
+tags: []
+tests: []

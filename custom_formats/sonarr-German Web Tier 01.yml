@@ -1,0 +1,81 @@
+name: sonarr-German Web Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-web-tier-01)'
+tags:
+- Source
+conditions:
+- name: sonarr-ZeroTwo
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo
+- name: sonarr-ZeroTwo Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo Aliases
+- name: sonarr-TSCC
+  negate: false
+  required: false
+  type: release_group
+  pattern: TSCC
+- name: sonarr-TvR
+  negate: false
+  required: false
+  type: release_group
+  pattern: TvR
+- name: sonarr-NIMA4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: NIMA4K
+- name: sonarr-TVS
+  negate: false
+  required: false
+  type: release_group
+  pattern: TVS
+- name: sonarr-PXL
+  negate: false
+  required: false
+  type: release_group
+  pattern: PXL
+- name: sonarr-QfG
+  negate: false
+  required: false
+  type: release_group
+  pattern: QfG
+- name: sonarr-CNY
+  negate: false
+  required: false
+  type: release_group
+  pattern: CNY
+- name: sonarr-WeebPinn
+  negate: false
+  required: false
+  type: release_group
+  pattern: WeebPinn
+- name: sonarr-MEDiATHEK
+  negate: false
+  required: false
+  type: release_group
+  pattern: MEDiATHEK
+- name: sonarr-RiiR
+  negate: false
+  required: false
+  type: release_group
+  pattern: RiiR
+- name: sonarr-RiiR Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: RiiR Aliases
+- name: sonarr-WebDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: sonarr-WebRip
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

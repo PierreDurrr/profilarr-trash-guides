@@ -1,0 +1,5 @@
+name: sonarr-Videoland
+pattern: \b(vdl|Videoland)\b
+description: ''
+tags: []
+tests: []

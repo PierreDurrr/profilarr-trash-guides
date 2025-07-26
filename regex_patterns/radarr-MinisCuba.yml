@@ -1,0 +1,5 @@
+name: radarr-MinisCuba
+pattern: \b(MinisCuba)\b
+description: ''
+tags: []
+tests: []

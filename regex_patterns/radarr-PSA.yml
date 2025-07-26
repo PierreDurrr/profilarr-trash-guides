@@ -1,0 +1,5 @@
+name: radarr-PSA
+pattern: ^(PSA)$
+description: ''
+tags: []
+tests: []

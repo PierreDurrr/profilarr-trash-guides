@@ -1,0 +1,5 @@
+name: sonarr-Prof
+pattern: \[Prof\]|-Prof\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-HDS
+pattern: ^(HDS)$
+description: ''
+tags: []
+tests: []

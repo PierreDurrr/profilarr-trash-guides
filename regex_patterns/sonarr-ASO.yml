@@ -1,0 +1,5 @@
+name: sonarr-ASO
+pattern: \b(ASO)\b
+description: ''
+tags: []
+tests: []

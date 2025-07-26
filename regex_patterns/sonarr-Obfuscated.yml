@@ -1,0 +1,5 @@
+name: sonarr-Obfuscated
+pattern: -Obfuscated\b
+description: ''
+tags: []
+tests: []

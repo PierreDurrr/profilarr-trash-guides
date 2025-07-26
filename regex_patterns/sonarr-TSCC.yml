@@ -1,0 +1,5 @@
+name: sonarr-TSCC
+pattern: ^(TSCC)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-HiQVE
+pattern: ^(HiQVE)$
+description: ''
+tags: []
+tests: []

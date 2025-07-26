@@ -1,0 +1,21 @@
+name: radarr-German 1080p Booster
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-1080p-booster)'
+tags:
+- Resolution
+conditions:
+- name: radarr-German
+  negate: false
+  required: true
+  type: language
+  language: 4
+- name: radarr-Original Language
+  negate: false
+  required: true
+  type: language
+  language: -2
+- name: radarr-1080p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 1080p
+tests: []

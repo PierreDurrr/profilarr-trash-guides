@@ -1,0 +1,5 @@
+name: radarr-Seicher-Raws
+pattern: Seicher[ ._-]?(Raws)
+description: ''
+tags: []
+tests: []

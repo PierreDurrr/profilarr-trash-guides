@@ -1,0 +1,5 @@
+name: radarr-FanSUB
+pattern: \b(FanSUB)\b
+description: ''
+tags: []
+tests: []

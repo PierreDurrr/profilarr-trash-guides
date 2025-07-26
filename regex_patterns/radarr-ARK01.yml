@@ -1,0 +1,5 @@
+name: radarr-ARK01
+pattern: ^(ARK01)$
+description: ''
+tags: []
+tests: []

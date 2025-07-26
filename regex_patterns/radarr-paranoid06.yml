@@ -1,0 +1,5 @@
+name: radarr-paranoid06
+pattern: ^(paranoid06)$
+description: ''
+tags: []
+tests: []

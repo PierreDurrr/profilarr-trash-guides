@@ -1,0 +1,5 @@
+name: sonarr-VRV
+pattern: \b(VRV)\b
+description: ''
+tags: []
+tests: []

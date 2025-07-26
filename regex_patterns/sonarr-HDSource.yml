@@ -1,0 +1,5 @@
+name: sonarr-HDSource
+pattern: ^(HDSource)$
+description: ''
+tags: []
+tests: []

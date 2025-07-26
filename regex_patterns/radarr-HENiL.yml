@@ -1,0 +1,5 @@
+name: radarr-HENiL
+pattern: \b(HENiL)\b
+description: ''
+tags: []
+tests: []

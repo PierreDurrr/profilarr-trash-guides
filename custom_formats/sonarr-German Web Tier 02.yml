@@ -1,0 +1,51 @@
+name: sonarr-German Web Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-web-tier-02)'
+tags:
+- Source
+conditions:
+- name: sonarr-VECTOR
+  negate: false
+  required: false
+  type: release_group
+  pattern: VECTOR
+- name: sonarr-MULTiPLEX
+  negate: false
+  required: false
+  type: release_group
+  pattern: MULTiPLEX
+- name: sonarr-SiXTYNiNE
+  negate: false
+  required: false
+  type: release_group
+  pattern: SiXTYNiNE
+- name: sonarr-Oergel
+  negate: false
+  required: false
+  type: release_group
+  pattern: Oergel
+- name: sonarr-4SF
+  negate: false
+  required: false
+  type: release_group
+  pattern: 4SF
+- name: sonarr-4SF Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: 4SF Aliases
+- name: sonarr-ABJ
+  negate: false
+  required: false
+  type: release_group
+  pattern: ABJ
+- name: sonarr-WebDL
+  negate: false
+  required: false
+  type: source
+  source: 3
+- name: sonarr-WebRip
+  negate: false
+  required: false
+  type: source
+  source: 4
+tests: []

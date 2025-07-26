@@ -1,0 +1,5 @@
+name: radarr-TheUpscaler
+pattern: \b(The[ ._-]?Upscaler)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,16 @@
+name: radarr-Line-Mic Dubbed
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#line-mic-dubbed)'
+tags:
+- Release Title
+conditions:
+- name: radarr-Line Dubbed
+  negate: false
+  required: false
+  type: release_title
+  pattern: Line Dubbed
+- name: radarr-Mic Dubbed
+  negate: false
+  required: false
+  type: release_title
+  pattern: Mic Dubbed
+tests: []

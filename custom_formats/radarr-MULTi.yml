@@ -1,0 +1,11 @@
+name: radarr-MULTi
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#multi)'
+tags:
+- Release Title
+conditions:
+- name: radarr-Multi
+  negate: false
+  required: true
+  type: release_title
+  pattern: Multi
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-kala
+pattern: ^(kala)$
+description: ''
+tags: []
+tests: []

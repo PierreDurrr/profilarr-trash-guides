@@ -1,0 +1,5 @@
+name: radarr-kuchikirukia
+pattern: \b(kuchikirukia)\b
+description: ''
+tags: []
+tests: []

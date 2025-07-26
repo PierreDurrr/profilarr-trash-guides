@@ -1,0 +1,5 @@
+name: sonarr-iKaos
+pattern: \b(iKaos)\b
+description: ''
+tags: []
+tests: []

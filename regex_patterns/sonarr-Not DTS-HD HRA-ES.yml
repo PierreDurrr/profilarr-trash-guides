@@ -1,0 +1,5 @@
+name: sonarr-Not DTS-HD HRA-ES
+pattern: dts[-. ]?(es|(hd[. ]?)?(hr|hi))
+description: ''
+tags: []
+tests: []

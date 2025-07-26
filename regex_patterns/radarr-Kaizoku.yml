@@ -1,0 +1,5 @@
+name: radarr-Kaizoku
+pattern: \b(AnimeKaizoku)\b|\[Kaizoku\]|-Kaizoku\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-HollowRoxas
+pattern: \b(HollowRoxas)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-SAD
+pattern: \[SAD\]|-SAD\b
+description: ''
+tags: []
+tests: []

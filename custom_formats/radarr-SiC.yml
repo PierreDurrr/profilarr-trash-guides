@@ -1,0 +1,31 @@
+name: radarr-SiC
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sic)'
+tags:
+- Release Title
+conditions:
+- name: radarr-SiC
+  negate: false
+  required: true
+  type: release_title
+  pattern: SiC
+- name: radarr-2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: radarr-WEBDL
+  negate: false
+  required: true
+  type: source
+  source: 7
+- name: radarr-HDR
+  negate: false
+  required: true
+  type: release_title
+  pattern: HDR
+- name: radarr-DV
+  negate: false
+  required: true
+  type: release_title
+  pattern: DV
+tests: []

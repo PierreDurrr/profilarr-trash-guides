@@ -1,0 +1,5 @@
+name: sonarr-Cleo
+pattern: \[Cleo\]|-Cleo
+description: ''
+tags: []
+tests: []

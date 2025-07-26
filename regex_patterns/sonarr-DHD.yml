@@ -1,0 +1,5 @@
+name: sonarr-DHD
+pattern: \b(DHD)\b
+description: ''
+tags: []
+tests: []

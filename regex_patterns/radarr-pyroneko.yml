@@ -1,0 +1,5 @@
+name: radarr-pyroneko
+pattern: \b(pyroneko)\b
+description: ''
+tags: []
+tests: []

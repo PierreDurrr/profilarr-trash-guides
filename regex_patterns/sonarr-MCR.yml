@@ -1,0 +1,5 @@
+name: sonarr-MCR
+pattern: \b(MCR)\b
+description: ''
+tags: []
+tests: []

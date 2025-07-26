@@ -1,0 +1,5 @@
+name: radarr-SEiN
+pattern: \[SEiN\]|-SEiN\b
+description: ''
+tags: []
+tests: []

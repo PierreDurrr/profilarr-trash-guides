@@ -1,0 +1,5 @@
+name: sonarr-N
+pattern: ^(N0Z00M|NERDHD|NERO|NrZ|NTK)$
+description: ''
+tags: []
+tests: []

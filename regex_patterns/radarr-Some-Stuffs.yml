@@ -1,0 +1,5 @@
+name: radarr-Some-Stuffs
+pattern: \b(Some-Stuffs)\b
+description: ''
+tags: []
+tests: []

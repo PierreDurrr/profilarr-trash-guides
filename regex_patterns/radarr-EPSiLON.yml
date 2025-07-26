@@ -1,0 +1,5 @@
+name: radarr-EPSiLON
+pattern: ^(EPSiLON)$
+description: ''
+tags: []
+tests: []

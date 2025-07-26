@@ -1,0 +1,5 @@
+name: sonarr-MisFiTS
+pattern: ^(MisFiTS)$
+description: ''
+tags: []
+tests: []

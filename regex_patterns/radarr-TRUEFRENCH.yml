@@ -1,0 +1,5 @@
+name: radarr-TRUEFRENCH
+pattern: \b(TRUEFRENCH|VFF)\b
+description: ''
+tags: []
+tests: []

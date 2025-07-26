@@ -1,0 +1,106 @@
+name: sonarr-WEB-2160p
+description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-setup-quality-profiles)\n\
+  \nQuality Profile that covers:  \n- WEBDL: 2160p"
+tags: []
+upgradesAllowed: true
+minCustomFormatScore: 0
+upgradeUntilScore: 10000
+minScoreIncrement: 1
+custom_formats:
+- name: sonarr-WEB Tier 01
+  score: 1700
+- name: sonarr-WEB Tier 02
+  score: 1650
+- name: sonarr-WEB Scene
+  score: 1600
+- name: sonarr-WEB Tier 03
+  score: 1600
+- name: sonarr-DV
+  score: 1500
+- name: sonarr-DV HDR10
+  score: 1500
+- name: sonarr-DV HDR10+
+  score: 1500
+- name: sonarr-DV HLG
+  score: 1500
+- name: sonarr-DV SDR
+  score: 1500
+- name: sonarr-HDR10+
+  score: 600
+- name: sonarr-HDR
+  score: 500
+- name: sonarr-HDR (Undefined)
+  score: 500
+- name: sonarr-HDR10
+  score: 500
+- name: sonarr-HLG
+  score: 500
+- name: sonarr-PQ
+  score: 500
+- name: sonarr-ATVP
+  score: 100
+- name: sonarr-DSNP
+  score: 100
+- name: sonarr-MAX
+  score: 90
+- name: sonarr-HMAX
+  score: 80
+- name: sonarr-AMZN
+  score: 70
+- name: sonarr-NF
+  score: 60
+- name: sonarr-PCOK
+  score: 60
+- name: sonarr-PMTP
+  score: 60
+- name: sonarr-STAN
+  score: 60
+- name: sonarr-CC
+  score: 50
+- name: sonarr-DCU
+  score: 50
+- name: sonarr-HBO
+  score: 50
+- name: sonarr-HULU
+  score: 50
+- name: sonarr-iT
+  score: 50
+- name: sonarr-SHO
+  score: 50
+- name: sonarr-SYFY
+  score: 50
+- name: sonarr-UHD Streaming Boost
+  score: 20
+- name: sonarr-Repack v3
+  score: 7
+- name: sonarr-Repack v2
+  score: 6
+- name: sonarr-Repack-Proper
+  score: 5
+- name: sonarr-UHD Streaming Cut
+  score: -20
+- name: sonarr-AV1
+  score: -10000
+- name: sonarr-BR-DISK
+  score: -10000
+- name: sonarr-Extras
+  score: -10000
+- name: sonarr-LQ
+  score: -10000
+- name: sonarr-LQ (Release Title)
+  score: -10000
+- name: sonarr-x265 (no HDR-DV)
+  score: -10000
+qualities:
+- id: -1
+  name: WEB 2160p
+  description: ''
+  qualities:
+  - id: 5
+    name: WEBDL-2160p
+  - id: 6
+    name: WEBRip-2160p
+upgrade_until:
+  id: -1
+  name: WEB 2160p
+language: any

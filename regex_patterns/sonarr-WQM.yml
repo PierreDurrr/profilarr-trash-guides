@@ -1,0 +1,5 @@
+name: sonarr-WQM
+pattern: ^(WQM)$
+description: ''
+tags: []
+tests: []

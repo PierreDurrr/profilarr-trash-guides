@@ -1,0 +1,5 @@
+name: radarr-Extras
+pattern: (?<=\b[12]\d{3}\b).*\b(Extras|Bonus|Extended[ ._-]Clip)\b
+description: ''
+tags: []
+tests: []

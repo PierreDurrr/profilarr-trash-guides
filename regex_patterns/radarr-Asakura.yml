@@ -1,0 +1,5 @@
+name: radarr-Asakura
+pattern: \[Asakura\]|-Asakura\b
+description: ''
+tags: []
+tests: []

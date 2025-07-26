@@ -1,0 +1,5 @@
+name: radarr-Quetzal
+pattern: \b(Quetzal)\b
+description: ''
+tags: []
+tests: []

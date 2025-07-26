@@ -1,0 +1,61 @@
+name: sonarr-German Bluray Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-bluray-tier-01)'
+tags:
+- Source
+conditions:
+- name: sonarr-ZeroTwo
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo
+- name: sonarr-ZeroTwo Aliases
+  negate: false
+  required: false
+  type: release_group
+  pattern: ZeroTwo Aliases
+- name: sonarr-TSCC
+  negate: false
+  required: false
+  type: release_group
+  pattern: TSCC
+- name: sonarr-TvR
+  negate: false
+  required: false
+  type: release_group
+  pattern: TvR
+- name: sonarr-NIMA4K
+  negate: false
+  required: false
+  type: release_group
+  pattern: NIMA4K
+- name: sonarr-TVS
+  negate: false
+  required: false
+  type: release_group
+  pattern: TVS
+- name: sonarr-PXL
+  negate: false
+  required: false
+  type: release_group
+  pattern: PXL
+- name: sonarr-CNY
+  negate: false
+  required: false
+  type: release_group
+  pattern: CNY
+- name: sonarr-WeebPinn
+  negate: false
+  required: false
+  type: release_group
+  pattern: WeebPinn
+- name: sonarr-Bluray
+  negate: false
+  required: true
+  type: source
+  source: 6
+- name: sonarr-Not REMUX
+  negate: true
+  required: true
+  type: source
+  source: 7
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-FLAC
+pattern: \bFLAC(\b|\d)
+description: ''
+tags: []
+tests: []

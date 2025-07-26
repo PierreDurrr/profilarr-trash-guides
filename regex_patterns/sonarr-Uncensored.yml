@@ -1,0 +1,5 @@
+name: sonarr-Uncensored
+pattern: \b(Uncut|Unrated|Uncensored|AT[-_. ]?X)\b
+description: ''
+tags: []
+tests: []

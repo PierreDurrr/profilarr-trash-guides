@@ -1,0 +1,5 @@
+name: sonarr-iPUNISHER
+pattern: \b(iPUNISHER)\b
+description: ''
+tags: []
+tests: []

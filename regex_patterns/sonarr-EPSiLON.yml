@@ -1,0 +1,5 @@
+name: sonarr-EPSiLON
+pattern: ^(EPSiLON)$
+description: ''
+tags: []
+tests: []

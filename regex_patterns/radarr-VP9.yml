@@ -1,0 +1,5 @@
+name: radarr-VP9
+pattern: \bVP9\b
+description: ''
+tags: []
+tests: []

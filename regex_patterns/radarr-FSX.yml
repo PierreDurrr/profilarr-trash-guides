@@ -1,0 +1,5 @@
+name: radarr-FSX
+pattern: (FSX)$
+description: ''
+tags: []
+tests: []

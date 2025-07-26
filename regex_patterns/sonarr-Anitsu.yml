@@ -1,0 +1,5 @@
+name: sonarr-Anitsu
+pattern: \b(Anitsu)\b
+description: ''
+tags: []
+tests: []

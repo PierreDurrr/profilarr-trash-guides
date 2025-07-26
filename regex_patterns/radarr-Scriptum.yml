@@ -1,0 +1,5 @@
+name: radarr-Scriptum
+pattern: \b(Scriptum)\b
+description: ''
+tags: []
+tests: []

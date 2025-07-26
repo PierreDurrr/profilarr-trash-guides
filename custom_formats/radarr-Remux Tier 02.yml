@@ -1,0 +1,36 @@
+name: radarr-Remux Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#remux-tier-02)'
+tags:
+- Release Group
+conditions:
+- name: radarr-Remux
+  negate: false
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: radarr-NCmt
+  negate: false
+  required: false
+  type: release_group
+  pattern: NCmt
+- name: radarr-playBD
+  negate: false
+  required: false
+  type: release_group
+  pattern: playBD
+- name: radarr-SiCFoI
+  negate: false
+  required: false
+  type: release_group
+  pattern: SiCFoI
+- name: radarr-SURFINBIRD
+  negate: false
+  required: false
+  type: release_group
+  pattern: SURFINBIRD
+- name: radarr-TEPES
+  negate: false
+  required: false
+  type: release_group
+  pattern: TEPES
+tests: []

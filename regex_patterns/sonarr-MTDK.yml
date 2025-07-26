@@ -1,0 +1,5 @@
+name: sonarr-MTDK
+pattern: ^(MTDK)$
+description: ''
+tags: []
+tests: []

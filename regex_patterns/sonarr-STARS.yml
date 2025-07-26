@@ -1,0 +1,5 @@
+name: sonarr-STARS
+pattern: ^(STARS)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,26 @@
+name: radarr-5.1 Surround
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#51-surround)'
+tags:
+- Release Title
+conditions:
+- name: radarr-5.1 Surround
+  negate: false
+  required: true
+  type: release_title
+  pattern: 5.1 Surround
+- name: radarr-6.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: 6.1 Surround
+- name: radarr-Not 7.1 Surround
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not 7.1 Surround
+- name: radarr-Not Low Channel Count
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Low Channel Count
+tests: []

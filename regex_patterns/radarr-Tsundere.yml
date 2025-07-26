@@ -1,0 +1,5 @@
+name: radarr-Tsundere
+pattern: \[Tsundere\]|-Tsundere(?!-)\b
+description: ''
+tags: []
+tests: []

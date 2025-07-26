@@ -1,0 +1,46 @@
+name: sonarr-FR Remux Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-remux-tier-01)'
+tags:
+- Release Group
+conditions:
+- name: sonarr-Remux
+  negate: false
+  required: true
+  type: source
+  source: 7
+- name: sonarr-FtLi
+  negate: false
+  required: false
+  type: release_group
+  pattern: FtLi
+- name: sonarr-Goldenyann
+  negate: false
+  required: false
+  type: release_group
+  pattern: Goldenyann
+- name: sonarr-HDForever
+  negate: false
+  required: false
+  type: release_group
+  pattern: HDForever
+- name: sonarr-HeavyWeight
+  negate: false
+  required: false
+  type: release_group
+  pattern: HeavyWeight
+- name: sonarr-ONLY
+  negate: false
+  required: false
+  type: release_group
+  pattern: ONLY
+- name: sonarr-Psaro
+  negate: false
+  required: false
+  type: release_group
+  pattern: Psaro
+- name: sonarr-TyrellCorp
+  negate: false
+  required: false
+  type: release_group
+  pattern: TyrellCorp
+tests: []

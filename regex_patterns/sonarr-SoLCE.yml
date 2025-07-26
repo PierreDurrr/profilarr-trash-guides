@@ -1,0 +1,5 @@
+name: sonarr-SoLCE
+pattern: \b(SoLCE)\b
+description: ''
+tags: []
+tests: []

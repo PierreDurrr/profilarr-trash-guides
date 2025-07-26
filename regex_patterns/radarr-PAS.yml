@@ -1,0 +1,5 @@
+name: radarr-PAS
+pattern: \b(PAS)\b
+description: ''
+tags: []
+tests: []

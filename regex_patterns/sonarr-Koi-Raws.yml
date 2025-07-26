@@ -1,0 +1,5 @@
+name: sonarr-Koi-Raws
+pattern: Koi[ ._-]?(Raws)
+description: ''
+tags: []
+tests: []

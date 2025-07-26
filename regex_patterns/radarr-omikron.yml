@@ -1,0 +1,5 @@
+name: radarr-omikron
+pattern: (omikron)$
+description: ''
+tags: []
+tests: []

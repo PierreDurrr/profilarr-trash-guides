@@ -1,0 +1,5 @@
+name: sonarr-BlackBit
+pattern: ^(BlackBit)$
+description: ''
+tags: []
+tests: []

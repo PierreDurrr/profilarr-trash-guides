@@ -1,0 +1,5 @@
+name: sonarr-DP
+pattern: \b(DP)\b
+description: ''
+tags: []
+tests: []

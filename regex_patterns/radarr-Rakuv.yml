@@ -1,0 +1,5 @@
+name: radarr-Rakuv
+pattern: -Rakuv\b
+description: ''
+tags: []
+tests: []

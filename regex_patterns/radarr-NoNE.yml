@@ -1,0 +1,5 @@
+name: radarr-NoNE
+pattern: ^(NoNE)$
+description: ''
+tags: []
+tests: []

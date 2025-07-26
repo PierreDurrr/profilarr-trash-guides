@@ -8,15 +8,17 @@ from utils.qualities import QUALITIES
 from utils.strings import get_file_name
 
 
-def collect_profile_formats(trash_score_set, format_items, trash_id_to_scoring_mapping):
+def collect_profile_formats(
+    service, trash_score_name, format_items, trash_id_to_scoring_mapping
+):
     profile_formats = []
     for name, trash_id in format_items.items():
         scoring = trash_id_to_scoring_mapping[trash_id]
-        score = scoring.get(trash_score_set, scoring.get("default", 0))
+        score = scoring.get(trash_score_name, scoring.get("default", 0))
         if score == 0:
             continue
 
-        profile_formats.append({"name": get_file_name(name), "score": score})
+        profile_formats.append({"name": get_file_name(service, name), "score": score})
     return sorted(
         profile_formats,
         key=lambda profile_format: (
@@ -76,7 +78,7 @@ def collect_profile(service, input_json, output_dir, trash_id_to_scoring_mapping
     name = input_json.get("name", "")
     profile_qualities = collect_qualities(input_json.get("items", []))
     yml_data = {
-        "name": get_file_name(name),
+        "name": get_file_name(service, name),
         "description": f"""[Profile from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service}-setup-quality-profiles)
 
 {markdownify(input_json.get('trash_description', ''))}""".strip(),
@@ -86,6 +88,7 @@ def collect_profile(service, input_json, output_dir, trash_id_to_scoring_mapping
         "upgradeUntilScore": input_json.get("cutoffFormatScore", 0),
         "minScoreIncrement": input_json.get("minUpgradeFormatScore", 0),
         "custom_formats": collect_profile_formats(
+            service,
             input_json.get("trash_score_set"),
             input_json.get("formatItems", {}),
             trash_id_to_scoring_mapping,
@@ -96,7 +99,7 @@ def collect_profile(service, input_json, output_dir, trash_id_to_scoring_mapping
     }
 
     # Output path
-    output_path = os.path.join(output_dir, f"{get_file_name(name)}.yml")
+    output_path = os.path.join(output_dir, f"{get_file_name(service, name)}.yml")
     with open(output_path, "w", encoding="utf-8") as f:
         yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
     print(f"Generated: {output_path}")

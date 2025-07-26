@@ -1,0 +1,51 @@
+name: sonarr-FR Anime Tier 01
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-anime-tier-01)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-Darki
+  negate: false
+  required: false
+  type: release_title
+  pattern: Darki
+- name: sonarr-Delivroozzi
+  negate: false
+  required: false
+  type: release_title
+  pattern: Delivroozzi
+- name: sonarr-Fuceo
+  negate: false
+  required: false
+  type: release_title
+  pattern: Fuceo
+- name: sonarr-Good Job! Alexis
+  negate: false
+  required: false
+  type: release_title
+  pattern: Good Job! Alexis
+- name: sonarr-Punisher694
+  negate: false
+  required: false
+  type: release_title
+  pattern: Punisher694
+- name: sonarr-SR-71
+  negate: false
+  required: false
+  type: release_title
+  pattern: SR-71
+- name: sonarr-T3KASHi
+  negate: false
+  required: false
+  type: release_title
+  pattern: T3KASHi
+- name: sonarr-TANOSHii
+  negate: false
+  required: false
+  type: release_title
+  pattern: TANOSHii
+- name: sonarr-Tsundere-Raws
+  negate: false
+  required: false
+  type: release_title
+  pattern: Tsundere-Raws
+tests: []

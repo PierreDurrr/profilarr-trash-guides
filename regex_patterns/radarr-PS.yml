@@ -1,0 +1,5 @@
+name: radarr-PS
+pattern: (PS)$
+description: ''
+tags: []
+tests: []

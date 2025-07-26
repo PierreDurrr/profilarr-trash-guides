@@ -1,0 +1,5 @@
+name: radarr-MisFiTS
+pattern: ^(MisFiTS)$
+description: ''
+tags: []
+tests: []

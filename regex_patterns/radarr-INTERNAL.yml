@@ -1,0 +1,5 @@
+name: radarr-INTERNAL
+pattern: \b(INTERNAL)\b
+description: ''
+tags: []
+tests: []

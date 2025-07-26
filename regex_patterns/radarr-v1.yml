@@ -1,0 +1,5 @@
+name: radarr-v1
+pattern: (\b|\d)(v1)\b
+description: ''
+tags: []
+tests: []

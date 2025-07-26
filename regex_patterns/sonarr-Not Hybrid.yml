@@ -1,0 +1,5 @@
+name: sonarr-Not Hybrid
+pattern: \bhybrid(\b|\d)
+description: ''
+tags: []
+tests: []

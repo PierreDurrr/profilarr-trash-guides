@@ -1,0 +1,5 @@
+name: sonarr-Z
+pattern: ^(ZEST|ZiRCON)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-ASC
+pattern: \b(ASC)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-Pao
+pattern: \[Pao\]|-Pao\b
+description: ''
+tags: []
+tests: []

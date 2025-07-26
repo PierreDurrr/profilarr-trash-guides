@@ -1,0 +1,5 @@
+name: sonarr-Not HLG
+pattern: \b(HLG)\b
+description: ''
+tags: []
+tests: []

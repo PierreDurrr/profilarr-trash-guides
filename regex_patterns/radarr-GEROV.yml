@@ -1,0 +1,5 @@
+name: radarr-GEROV
+pattern: -GEROV\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,31 @@
+name: sonarr-LQ (Release Title)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#lq-release-title)'
+tags:
+- Release Title
+conditions:
+- name: sonarr-BEN THE MEN
+  negate: false
+  required: false
+  type: release_title
+  pattern: BEN THE MEN
+- name: sonarr-BiTOR (2160p)
+  negate: false
+  required: false
+  type: release_title
+  pattern: BiTOR (2160p)
+- name: sonarr-CREATiVE24
+  negate: false
+  required: false
+  type: release_title
+  pattern: CREATiVE24
+- name: sonarr-Feranki1980
+  negate: false
+  required: false
+  type: release_title
+  pattern: Feranki1980
+- name: sonarr-TeeWee
+  negate: false
+  required: false
+  type: release_title
+  pattern: TeeWee
+tests: []

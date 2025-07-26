@@ -1,0 +1,5 @@
+name: radarr-AnimeTR
+pattern: \b(AnimeTR)\b
+description: ''
+tags: []
+tests: []

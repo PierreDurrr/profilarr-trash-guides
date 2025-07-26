@@ -1,0 +1,5 @@
+name: radarr-iAHD
+pattern: \b(iAHD)\b
+description: ''
+tags: []
+tests: []

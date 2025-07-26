@@ -1,0 +1,5 @@
+name: sonarr-Rerip
+pattern: \b(Rerip)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-DON
+pattern: ^(DON)$
+description: ''
+tags: []
+tests: []

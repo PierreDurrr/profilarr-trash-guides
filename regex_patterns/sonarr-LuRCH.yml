@@ -1,0 +1,5 @@
+name: sonarr-LuRCH
+pattern: ^(LuRCH)$
+description: ''
+tags: []
+tests: []

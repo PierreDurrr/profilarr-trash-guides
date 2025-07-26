@@ -1,0 +1,21 @@
+name: radarr-German LQ (release title)
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-lq-release-title)'
+tags:
+- Release Title
+conditions:
+- name: radarr-TVS iTunesHD
+  negate: false
+  required: false
+  type: release_title
+  pattern: TVS iTunesHD
+- name: radarr-Jellyfin-Plex
+  negate: false
+  required: false
+  type: release_title
+  pattern: Jellyfin-Plex
+- name: radarr-Double German Tag
+  negate: false
+  required: false
+  type: release_title
+  pattern: Double German Tag
+tests: []

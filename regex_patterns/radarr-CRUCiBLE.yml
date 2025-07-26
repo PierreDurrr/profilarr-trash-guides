@@ -1,0 +1,5 @@
+name: radarr-CRUCiBLE
+pattern: \[CRUCiBLE\]|-CRUCiBLE\b
+description: ''
+tags: []
+tests: []

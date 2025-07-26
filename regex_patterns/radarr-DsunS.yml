@@ -1,0 +1,5 @@
+name: radarr-DsunS
+pattern: \b(DsunS)\b
+description: ''
+tags: []
+tests: []

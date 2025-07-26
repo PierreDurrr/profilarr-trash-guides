@@ -1,0 +1,5 @@
+name: radarr-LazyRemux
+pattern: \b(LazyRemux)\b
+description: ''
+tags: []
+tests: []

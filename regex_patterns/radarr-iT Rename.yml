@@ -1,0 +1,5 @@
+name: radarr-iT Rename
+pattern: \[(iT)\b|\b(iT)\]
+description: ''
+tags: []
+tests: []

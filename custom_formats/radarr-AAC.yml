@@ -1,0 +1,41 @@
+name: radarr-AAC
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#aac)'
+tags:
+- Release Title
+conditions:
+- name: radarr-AAC
+  negate: false
+  required: true
+  type: release_title
+  pattern: AAC
+- name: radarr-Not DTS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DTS
+- name: 'radarr-Not Dolby Digital Plus '
+  negate: true
+  required: true
+  type: release_title
+  pattern: 'Not Dolby Digital Plus '
+- name: radarr-Not Basic Dolby Digital
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not Basic Dolby Digital
+- name: radarr-Not PCM
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PCM
+- name: radarr-Not FLAC
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not FLAC
+- name: radarr-Not TrueHD-ATMOS
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not TrueHD/ATMOS
+tests: []

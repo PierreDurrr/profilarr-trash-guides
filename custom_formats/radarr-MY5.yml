@@ -1,0 +1,21 @@
+name: radarr-MY5
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#my5)'
+tags:
+- Source
+conditions:
+- name: radarr-My5
+  negate: false
+  required: true
+  type: release_title
+  pattern: My5
+- name: radarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: radarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

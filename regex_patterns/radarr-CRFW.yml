@@ -1,0 +1,5 @@
+name: radarr-CRFW
+pattern: ^(CRFW)$
+description: ''
+tags: []
+tests: []

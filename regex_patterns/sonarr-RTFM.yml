@@ -1,0 +1,5 @@
+name: sonarr-RTFM
+pattern: ^(RTFM)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: sonarr-HONE
+pattern: ^(HONE)$
+description: ''
+tags: []
+tests: []

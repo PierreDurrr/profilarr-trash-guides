@@ -1,0 +1,5 @@
+name: radarr-APEX
+pattern: ^(APEX|PAXA|PEXA|XEPA)$
+description: ''
+tags: []
+tests: []

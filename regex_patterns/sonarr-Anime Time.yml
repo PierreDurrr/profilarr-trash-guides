@@ -1,0 +1,5 @@
+name: sonarr-Anime Time
+pattern: \b(Anime[ .-]?Time)\b
+description: ''
+tags: []
+tests: []

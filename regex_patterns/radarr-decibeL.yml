@@ -1,0 +1,5 @@
+name: radarr-decibeL
+pattern: ^(decibeL)$
+description: ''
+tags: []
+tests: []

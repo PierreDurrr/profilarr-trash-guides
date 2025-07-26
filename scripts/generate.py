@@ -12,7 +12,6 @@ import yaml
 from utils.custom_formats import collect_custom_formats
 from utils.regex_patterns import collect_regex_patterns
 from utils.profiles import collect_profiles
-from utils.files import clean_files
 
 # Prevent aliases from showing up
 yaml.Dumper.ignore_aliases = lambda *args: True
@@ -47,8 +46,7 @@ def main():
     os.makedirs(profiles_dir, exist_ok=True)
     clear_output_dir(profiles_dir)
 
-    # TODO: Support Sonarr
-    for service in ["radarr"]:
+    for service in ["radarr", "sonarr"]:
         trash_custom_formats_dir = os.path.join(input_dir, f"{service}/cf")
         if not os.path.exists(trash_custom_formats_dir):
             print(
@@ -79,8 +77,6 @@ def main():
             profiles_dir,
             trash_id_to_scoring_mapping,
         )
-
-        clean_files([regex_patterns_dir, custom_formats_dir, profiles_dir])
 
 
 if __name__ == "__main__":

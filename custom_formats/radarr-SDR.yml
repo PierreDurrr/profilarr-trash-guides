@@ -1,0 +1,21 @@
+name: radarr-SDR
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sdr)'
+tags:
+- Release Title
+conditions:
+- name: radarr-2160p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 2160p
+- name: radarr-HDR Formats
+  negate: true
+  required: false
+  type: release_title
+  pattern: HDR Formats
+- name: radarr-SDR
+  negate: false
+  required: false
+  type: release_title
+  pattern: SDR
+tests: []

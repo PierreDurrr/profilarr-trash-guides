@@ -1,0 +1,5 @@
+name: sonarr-Raizel
+pattern: \b(Raizel)\b
+description: ''
+tags: []
+tests: []

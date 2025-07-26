@@ -1,0 +1,5 @@
+name: sonarr-ShieldBearer
+pattern: ^(ShieldBearer)$
+description: ''
+tags: []
+tests: []

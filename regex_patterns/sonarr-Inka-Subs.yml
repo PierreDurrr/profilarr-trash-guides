@@ -1,0 +1,5 @@
+name: sonarr-Inka-Subs
+pattern: \b(Inka-Subs)\b
+description: ''
+tags: []
+tests: []

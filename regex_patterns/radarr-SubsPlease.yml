@@ -1,0 +1,5 @@
+name: radarr-SubsPlease
+pattern: \b(SubsPlease)\b
+description: ''
+tags: []
+tests: []

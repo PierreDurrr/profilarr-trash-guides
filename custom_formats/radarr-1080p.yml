@@ -1,0 +1,11 @@
+name: radarr-1080p
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#1080p)'
+tags:
+- Resolution
+conditions:
+- name: radarr-1080p
+  negate: false
+  required: true
+  type: resolution
+  resolution: 1080p
+tests: []

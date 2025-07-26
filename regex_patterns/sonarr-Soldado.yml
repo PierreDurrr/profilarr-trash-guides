@@ -1,0 +1,5 @@
+name: sonarr-Soldado
+pattern: \[Soldado\]|-Soldado\b
+description: ''
+tags: []
+tests: []

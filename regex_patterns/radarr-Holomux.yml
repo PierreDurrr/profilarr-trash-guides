@@ -1,0 +1,5 @@
+name: radarr-Holomux
+pattern: \b(Holomux)\b
+description: ''
+tags: []
+tests: []

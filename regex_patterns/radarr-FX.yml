@@ -1,0 +1,5 @@
+name: radarr-FX
+pattern: ^(FX)$
+description: ''
+tags: []
+tests: []

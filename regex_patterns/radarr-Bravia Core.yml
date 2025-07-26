@@ -1,0 +1,5 @@
+name: radarr-Bravia Core
+pattern: \b(BCORE)\b
+description: ''
+tags: []
+tests: []

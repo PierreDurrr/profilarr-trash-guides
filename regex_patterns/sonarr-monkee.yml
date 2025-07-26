@@ -1,0 +1,5 @@
+name: sonarr-monkee
+pattern: ^(monkee)$
+description: ''
+tags: []
+tests: []

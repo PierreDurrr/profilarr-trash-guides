@@ -1,0 +1,5 @@
+name: radarr-Tenshi
+pattern: \[tenshi\]|-tenshi$
+description: ''
+tags: []
+tests: []

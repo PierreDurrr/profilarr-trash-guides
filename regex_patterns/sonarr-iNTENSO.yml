@@ -1,0 +1,5 @@
+name: sonarr-iNTENSO
+pattern: ^(iNTENSO)$
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-RONiN
+pattern: \b(RONiN)\b
+description: ''
+tags: []
+tests: []

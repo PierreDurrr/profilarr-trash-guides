@@ -1,0 +1,31 @@
+name: radarr-HLG
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hlg)'
+tags:
+- Release Title
+conditions:
+- name: radarr-HLG
+  negate: false
+  required: true
+  type: release_title
+  pattern: HLG
+- name: radarr-Not DV
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not DV
+- name: radarr-Not HDR10+
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10+
+- name: radarr-Not HDR10
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not HDR10
+- name: radarr-Not PQ
+  negate: true
+  required: true
+  type: release_title
+  pattern: Not PQ
+tests: []

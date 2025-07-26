@@ -1,0 +1,5 @@
+name: sonarr-Orphan
+pattern: \[Orphan\]|-Orphan\b
+description: ''
+tags: []
+tests: []

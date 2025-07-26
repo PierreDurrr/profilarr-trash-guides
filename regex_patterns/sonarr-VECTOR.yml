@@ -1,0 +1,5 @@
+name: sonarr-VECTOR
+pattern: ^(VECTOR)$
+description: ''
+tags: []
+tests: []

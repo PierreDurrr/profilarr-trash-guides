@@ -1,0 +1,5 @@
+name: sonarr-PXL
+pattern: ^(PXL)$
+description: ''
+tags: []
+tests: []

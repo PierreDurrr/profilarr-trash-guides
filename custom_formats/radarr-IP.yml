@@ -1,0 +1,21 @@
+name: radarr-IP
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ip)'
+tags:
+- Source
+conditions:
+- name: radarr-BBC iPlayer
+  negate: false
+  required: true
+  type: release_title
+  pattern: BBC iPlayer
+- name: radarr-WEBDL
+  negate: false
+  required: false
+  type: source
+  source: 7
+- name: radarr-WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: 8
+tests: []

@@ -1,0 +1,5 @@
+name: radarr-FUJiSAN
+pattern: \b(FUJiSAN)\b
+description: ''
+tags: []
+tests: []

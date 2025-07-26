@@ -1,0 +1,5 @@
+name: radarr-Matsya
+pattern: \b(Matsya)\b
+description: ''
+tags: []
+tests: []

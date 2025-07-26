@@ -1,0 +1,5 @@
+name: sonarr-EMBER
+pattern: \[EMBER\]|-EMBER\b
+description: ''
+tags: []
+tests: []

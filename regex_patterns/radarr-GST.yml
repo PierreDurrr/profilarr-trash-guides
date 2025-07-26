@@ -1,0 +1,5 @@
+name: radarr-GST
+pattern: \b(GST)\b
+description: ''
+tags: []
+tests: []

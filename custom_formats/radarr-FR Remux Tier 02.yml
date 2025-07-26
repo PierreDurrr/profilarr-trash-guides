@@ -1,0 +1,66 @@
+name: radarr-FR Remux Tier 02
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-remux-tier-02)'
+tags:
+- Release Group
+conditions:
+- name: radarr-Remux
+  negate: false
+  required: true
+  type: quality_modifier
+  qualityModifier: 5
+- name: radarr-BDHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: BDHD
+- name: radarr-FtLi
+  negate: false
+  required: false
+  type: release_group
+  pattern: FtLi
+- name: radarr-Goldenyann
+  negate: false
+  required: false
+  type: release_group
+  pattern: Goldenyann
+- name: radarr-HeavyWeight
+  negate: false
+  required: false
+  type: release_group
+  pattern: HeavyWeight
+- name: radarr-KTM
+  negate: false
+  required: false
+  type: release_group
+  pattern: KTM
+- name: radarr-MARBLECAKE
+  negate: false
+  required: false
+  type: release_group
+  pattern: MARBLECAKE
+- name: radarr-MUSTANG
+  negate: false
+  required: false
+  type: release_group
+  pattern: MUSTANG
+- name: radarr-Obi
+  negate: false
+  required: false
+  type: release_group
+  pattern: Obi
+- name: radarr-PEPiTE
+  negate: false
+  required: false
+  type: release_group
+  pattern: PEPiTE
+- name: radarr-QUEBEC63
+  negate: false
+  required: false
+  type: release_group
+  pattern: QUEBEC63
+- name: radarr-ROMKENT
+  negate: false
+  required: false
+  type: release_group
+  pattern: ROMKENT
+tests: []
