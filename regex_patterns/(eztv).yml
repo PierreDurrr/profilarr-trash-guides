@@ -1,4 +1,4 @@
-name: '[eztv]'
+name: (eztv)
 pattern: \[eztvx?[ ._-]?(io|re|to)?\]
 description: ''
 tags: []

@@ -27,7 +27,7 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
         # Compose YAML structure
         name = spec.get("name", "")
         yml_data = {
-            "name": name,
+            "name": get_file_name(name),
             "pattern": pattern,
             "description": "",
             "tags": [],

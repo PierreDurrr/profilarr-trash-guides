@@ -96,7 +96,7 @@ def collect_profile(service, input_json, output_dir):
     name = input_json.get("name", "")
     trash_id = input_json.get("trash_id", "")
     yml_data = {
-        "name": name,
+        "name": get_file_name(name),
         "description": f"""[Profile from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service}-setup-quality-profiles)
 
 {markdownify(input_json.get('trash_description', ''))}""".strip(),

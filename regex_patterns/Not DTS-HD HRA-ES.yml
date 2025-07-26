@@ -1,4 +1,4 @@
-name: Not DTS-HD HRA/ES
+name: Not DTS-HD HRA-ES
 pattern: dts[-. ]?(es|(hd[. ]?)?(hr|hi))
 description: ''
 tags: []
