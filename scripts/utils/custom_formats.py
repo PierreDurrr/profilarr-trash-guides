@@ -4,6 +4,8 @@ import yaml
 
 from markdownify import markdownify
 
+from utils.strings import get_file_name
+
 IMPLEMENTATION_TO_TAG_MAPPING = {
     "ReleaseTitleSpecification": ["Release Title"],
     "ResolutionSpecification": ["Resolution"],
@@ -77,7 +79,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
     }
 
     # Output path
-    output_path = os.path.join(output_dir, f"{file_name}.yml")
+    output_path = os.path.join(output_dir, f"{get_file_name(name)}.yml")
     with open(output_path, "w", encoding="utf-8") as f:
         yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
     print(f"Generated: {output_path}")

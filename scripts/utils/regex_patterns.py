@@ -2,6 +2,8 @@ import os
 import json
 import yaml
 
+from utils.strings import get_file_name
+
 # TODO: prevent duplicates by only writing unique regex patterns to files
 # In some cases negations will result in a new regex pattern as of now
 
@@ -34,7 +36,7 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
         # Output path
         output_path = os.path.join(
             output_dir,
-            f"{name.replace('/', '-').replace('[', '(').replace(']', ')')}.yml",
+            f"{get_file_name(name)}.yml",
         )
         with open(output_path, "w", encoding="utf-8") as f:
             yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)

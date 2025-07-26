@@ -4,9 +4,7 @@ import yaml
 
 from markdownify import markdownify
 
-
-def get_file_name(profile_name):
-    return profile_name.replace("[", "(").replace("]", ")")
+from utils.strings import get_file_name
 
 
 def find_score_for_custom_format(
