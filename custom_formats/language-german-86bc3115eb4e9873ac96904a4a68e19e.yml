@@ -2,10 +2,9 @@ name: German
 trash_id: 86bc3115eb4e9873ac96904a4a68e19e
 trash_scores:
   default: 10000
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-german)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-german)'
+metadata:
+  includeInRename: true
 tags:
 - Release Title
 conditions:

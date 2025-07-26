@@ -3,10 +3,9 @@ trash_id: c465ccc73923871b3eb1802042331306
 trash_scores:
   default: -10000
   german: -35000
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#line-mic-dubbed)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#line-mic-dubbed)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

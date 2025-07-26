@@ -1,10 +1,9 @@
 name: NF
 trash_id: 170b1d363bd8516fbf3a3eb05d4faff6
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#nf)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#nf)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

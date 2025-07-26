@@ -2,10 +2,9 @@ name: Black and White Editions
 trash_id: cc444569854e9de0b084ab2b8b1532b2
 trash_scores:
   default: -10000
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#black-and-white-editions)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#black-and-white-editions)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

@@ -1,10 +1,9 @@
 name: IP
 trash_id: 6185878161f1e2eef9cd0641a0d09eae
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ip)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ip)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

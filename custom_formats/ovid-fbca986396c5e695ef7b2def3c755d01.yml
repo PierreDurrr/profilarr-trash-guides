@@ -1,10 +1,9 @@
 name: OViD
 trash_id: fbca986396c5e695ef7b2def3c755d01
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ovid)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ovid)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

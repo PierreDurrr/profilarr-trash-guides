@@ -6,10 +6,9 @@ trash_scores:
   sqp-3: 151
   sqp-4: 151
   sqp-5: 151
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#2160p)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#2160p)'
+metadata:
+  includeInRename: false
 tags:
 - Resolution
 conditions:
@@ -17,5 +16,5 @@ conditions:
   negate: false
   required: true
   type: resolution
-  resolution: 2160
+  resolution: 2160p
 tests: []

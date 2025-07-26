@@ -2,10 +2,9 @@ name: Remaster
 trash_id: 570bc9ebecd92723d2d21500f4be314c
 trash_scores:
   default: 25
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#remaster)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#remaster)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

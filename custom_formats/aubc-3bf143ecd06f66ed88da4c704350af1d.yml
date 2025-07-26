@@ -1,10 +1,9 @@
 name: AUBC
 trash_id: 3bf143ecd06f66ed88da4c704350af1d
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#aubc)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#aubc)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

@@ -2,10 +2,9 @@ name: Anime BD Tier 01 (Top SeaDex Muxers)
 trash_id: fb3ccc5d5cc8f77c9055d4cb4561dded
 trash_scores:
   default: 1400
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-01-top-seadex-muxers)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-01-top-seadex-muxers)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

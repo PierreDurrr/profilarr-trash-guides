@@ -3,10 +3,9 @@ trash_id: dc98083864ea246d05a42df0d05f81cc
 trash_scores:
   default: -10000
   german: 0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x265-hd)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x265-hd)'
+metadata:
+  includeInRename: false
 tags:
 - Resolution
 conditions:
@@ -19,5 +18,5 @@ conditions:
   negate: true
   required: true
   type: resolution
-  resolution: 2160
+  resolution: 2160p
 tests: []

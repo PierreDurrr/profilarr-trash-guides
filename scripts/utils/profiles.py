@@ -90,7 +90,7 @@ def collect_profile(service, input_json, output_dir):
         'name': name,
         'description': f"""[Profile from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service}-setup-quality-profiles)
 
-{markdownify(input_json.get('trash_description', ''))}""",
+{markdownify(input_json.get('trash_description', ''))}""".strip(),
         'trash_id': trash_id,
         'tags': [],
         'upgradesAllowed': input_json.get('upgradeAllowed', True),

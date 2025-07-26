@@ -1,10 +1,9 @@
 name: 1.0 Mono
 trash_id: b124be9b146540f8e62f98fe32e49a2a
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#10-mono)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#10-mono)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

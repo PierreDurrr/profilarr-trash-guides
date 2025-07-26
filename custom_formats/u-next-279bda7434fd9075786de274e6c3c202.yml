@@ -1,10 +1,9 @@
 name: U-NEXT
 trash_id: 279bda7434fd9075786de274e6c3c202
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#u-next)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#u-next)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

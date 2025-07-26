@@ -40,7 +40,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         if implementation in ['ReleaseTitleSpecification', 'ReleaseGroupSpecification']:
           condition['pattern'] = spec.get('name', '')
         elif implementation in ['ResolutionSpecification']:
-          condition['resolution'] = spec.get('fields', {}).get('value')
+          condition['resolution'] = f"{spec.get('fields', {}).get('value')}p"
         elif implementation in ['SourceSpecification']:
           condition['source'] = spec.get('fields', {}).get('value')
         elif implementation in ['LanguageSpecification']:
@@ -64,7 +64,10 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         'trash_scores': input_json.get('trash_scores', {}),
         'description': f"""[Custom format from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service.capitalize()}-collection-of-custom-formats/#{file_name})
 
-{markdownify(input_json.get('description', ''))}""",
+{markdownify(input_json.get('description', ''))}""".strip(),
+        'metadata': {
+          'includeInRename': input_json.get('includeCustomFormatWhenRenaming', False),
+        },
         'tags': IMPLEMENTATION_TO_TAG_MAPPING[implementation],
         'conditions': conditions,
         'tests': []

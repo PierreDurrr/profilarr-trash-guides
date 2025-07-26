@@ -4,10 +4,9 @@ trash_scores:
   default: 1600
   anime-radarr: 150
   french-multi-vf: 0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#web-tier-03)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#web-tier-03)'
+metadata:
+  includeInRename: false
 tags:
 - Release Group
 conditions:

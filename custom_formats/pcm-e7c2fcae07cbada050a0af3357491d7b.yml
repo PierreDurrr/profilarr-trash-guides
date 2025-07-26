@@ -6,10 +6,9 @@ trash_scores:
   sqp-1-web-1080p: 0
   sqp-1-2160p: 0
   sqp-1-web-2160p: 0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pcm)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pcm)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

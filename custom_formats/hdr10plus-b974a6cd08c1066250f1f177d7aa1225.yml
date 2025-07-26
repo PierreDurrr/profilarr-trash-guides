@@ -2,10 +2,9 @@ name: HDR10+
 trash_id: b974a6cd08c1066250f1f177d7aa1225
 trash_scores:
   default: 600
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hdr10plus)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hdr10plus)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

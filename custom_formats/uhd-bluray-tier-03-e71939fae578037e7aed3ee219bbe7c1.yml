@@ -7,10 +7,9 @@ trash_scores:
   sqp-2: 2100
   sqp-5: 2100
   french-multi-vf: 0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uhd-bluray-tier-03)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uhd-bluray-tier-03)'
+metadata:
+  includeInRename: false
 tags:
 - Release Group
 conditions:
@@ -33,7 +32,7 @@ conditions:
   negate: false
   required: true
   type: resolution
-  resolution: 2160
+  resolution: 2160p
 - name: BHDStudio
   negate: false
   required: false

@@ -1,10 +1,9 @@
 name: NOW
 trash_id: 3dce1fce9ac06d1349dfbd9186289385
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#now)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#now)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

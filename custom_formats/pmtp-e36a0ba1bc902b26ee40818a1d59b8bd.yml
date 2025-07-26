@@ -1,10 +1,9 @@
 name: PMTP
 trash_id: e36a0ba1bc902b26ee40818a1d59b8bd
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pmtp)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pmtp)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

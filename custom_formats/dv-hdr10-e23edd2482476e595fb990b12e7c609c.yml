@@ -2,10 +2,9 @@ name: DV HDR10
 trash_id: e23edd2482476e595fb990b12e7c609c
 trash_scores:
   default: 1500
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-hdr10)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-hdr10)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

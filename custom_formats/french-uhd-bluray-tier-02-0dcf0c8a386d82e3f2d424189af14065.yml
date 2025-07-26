@@ -5,10 +5,9 @@ trash_scores:
   french-multi-vf: 1750
   french-multi-vo: 1750
   french-vostfr: 0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-uhd-bluray-tier-02)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-uhd-bluray-tier-02)'
+metadata:
+  includeInRename: false
 tags:
 - Source
 conditions:
@@ -36,7 +35,7 @@ conditions:
   negate: false
   required: true
   type: resolution
-  resolution: 2160
+  resolution: 2160p
 - name: Not REMUX
   negate: true
   required: true

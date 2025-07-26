@@ -1,10 +1,9 @@
 name: Hulu
 trash_id: 526d445d4c16214309f0fd2b3be18a89
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hulu)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hulu)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

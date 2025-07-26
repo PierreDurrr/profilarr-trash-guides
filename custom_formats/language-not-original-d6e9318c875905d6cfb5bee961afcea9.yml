@@ -8,10 +8,9 @@ trash_scores:
   french-multi-vf: 0
   french-multi-vo: -10000
   french-vostfr: -10000
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-not-original)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-not-original)'
+metadata:
+  includeInRename: false
 tags:
 - Language
 conditions:

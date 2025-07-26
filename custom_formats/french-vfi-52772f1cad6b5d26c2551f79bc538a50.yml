@@ -1,10 +1,9 @@
 name: VFI
 trash_id: 52772f1cad6b5d26c2551f79bc538a50
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vfi)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vfi)'
+metadata:
+  includeInRename: true
 tags:
 - Release Title
 conditions:

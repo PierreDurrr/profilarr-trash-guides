@@ -3,10 +3,9 @@ trash_id: 25c12f78430a3a23413652cbd1d48d77
 trash_scores:
   default: -10000
   german: -35000
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sdr-no-webdl)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sdr-no-webdl)'
+metadata:
+  includeInRename: false
 tags:
 - Source
 conditions:
@@ -14,7 +13,7 @@ conditions:
   negate: false
   required: true
   type: resolution
-  resolution: 2160
+  resolution: 2160p
 - name: HDR Formats
   negate: true
   required: false

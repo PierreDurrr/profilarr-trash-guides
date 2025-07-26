@@ -7,10 +7,9 @@ trash_scores:
   french-multi-vf: 1500
   french-multi-vo: 1500
   french-vostfr: 0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-scene)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-scene)'
+metadata:
+  includeInRename: false
 tags:
 - Release Group
 conditions:

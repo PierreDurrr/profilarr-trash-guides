@@ -2,10 +2,9 @@ name: German LQ
 trash_id: 263943bc5d99550c68aad0c4278ba1c7
 trash_scores:
   default: -35000
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-lq)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-lq)'
+metadata:
+  includeInRename: false
 tags:
 - Release Group
 conditions:

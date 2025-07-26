@@ -2,10 +2,9 @@ name: German Bluray Tier 03
 trash_id: aee01d40cd1bf4bcded81ee62f0f3659
 trash_scores:
   default: 2300
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-bluray-tier-03)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-bluray-tier-03)'
+metadata:
+  includeInRename: false
 tags:
 - Quality Modifier
 conditions:

@@ -2,10 +2,9 @@ name: German Remux Tier 02
 trash_id: f9cf598d55ce532d63596b060a6db9ee
 trash_scores:
   default: 3900
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-remux-tier-02)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-remux-tier-02)'
+metadata:
+  includeInRename: false
 tags:
 - Quality Modifier
 conditions:

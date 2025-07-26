@@ -2,10 +2,9 @@ name: Anime BD Tier 07 (P2P/Scene)
 trash_id: 1ef101b3a82646b40e0cab7fc92cd896
 trash_scores:
   default: 800
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-07-p2pscene)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-07-p2pscene)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

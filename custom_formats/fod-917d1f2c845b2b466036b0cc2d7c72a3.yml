@@ -1,10 +1,9 @@
 name: FOD
 trash_id: 917d1f2c845b2b466036b0cc2d7c72a3
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#fod)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#fod)'
+metadata:
+  includeInRename: true
 tags:
 - Source
 conditions:

@@ -3,10 +3,9 @@ trash_id: 5c44f52a8714fdd79bb4d98e2673be1f
 trash_scores:
   default: -10000
   german: -35000
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#retags)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#retags)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

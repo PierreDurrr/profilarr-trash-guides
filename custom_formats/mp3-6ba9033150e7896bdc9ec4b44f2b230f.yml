@@ -2,10 +2,9 @@ name: MP3
 trash_id: 6ba9033150e7896bdc9ec4b44f2b230f
 trash_scores:
   default: 500
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#mp3)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#mp3)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

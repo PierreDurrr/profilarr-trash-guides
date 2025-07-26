@@ -1,10 +1,9 @@
 name: VQ
 trash_id: 95aa50f71a01c82354a7a2b385f1c4d8
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vq)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vq)'
+metadata:
+  includeInRename: true
 tags:
 - Release Title
 conditions:

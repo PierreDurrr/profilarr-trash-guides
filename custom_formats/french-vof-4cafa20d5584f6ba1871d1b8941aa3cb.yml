@@ -1,10 +1,9 @@
 name: VOF
 trash_id: 4cafa20d5584f6ba1871d1b8941aa3cb
 trash_scores: {}
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vof)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vof)'
+metadata:
+  includeInRename: true
 tags:
 - Release Title
 conditions:

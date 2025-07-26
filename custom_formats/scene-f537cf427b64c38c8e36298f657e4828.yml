@@ -3,10 +3,9 @@ trash_id: f537cf427b64c38c8e36298f657e4828
 trash_scores:
   default: -10000
   german: 0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#scene)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#scene)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:

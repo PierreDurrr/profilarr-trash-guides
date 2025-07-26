@@ -7,10 +7,9 @@ trash_scores:
   sqp-1-2160p: 1100
   sqp-1-web-2160p: 1100
   french-multi-vf: 0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hd-bluray-tier-01)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hd-bluray-tier-01)'
+metadata:
+  includeInRename: false
 tags:
 - Release Group
 conditions:
@@ -28,7 +27,7 @@ conditions:
   negate: true
   required: true
   type: resolution
-  resolution: 2160
+  resolution: 2160p
 - name: BBQ
   negate: false
   required: false

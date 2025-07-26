@@ -2,10 +2,9 @@ name: SiC
 trash_id: 8cd3ac70db7ac318cf9a0e01333940a4
 trash_scores:
   default: 51
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sic)
-
-
-  '
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sic)'
+metadata:
+  includeInRename: false
 tags:
 - Release Title
 conditions:
@@ -18,7 +17,7 @@ conditions:
   negate: false
   required: true
   type: resolution
-  resolution: 2160
+  resolution: 2160p
 - name: WEBDL
   negate: false
   required: true
