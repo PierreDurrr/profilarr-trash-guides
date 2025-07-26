@@ -10,14 +10,14 @@ upgradeUntilScore: 10000
 minScoreIncrement: 1
 qualities:
 - name: Remux-1080p
-  id: 1
+  id: 8
 - name: Bluray|WEB 2160p
   id: -1
   description: ''
   qualities:
-  - id: 2
+  - id: 5
     name: WEBDL-2160p
-  - id: 3
+  - id: 6
     name: WEBRip-2160p
   - id: 4
     name: Bluray-2160p

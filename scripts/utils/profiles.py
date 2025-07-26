@@ -4,6 +4,7 @@ import yaml
 
 from markdownify import markdownify
 
+from utils.qualities import QUALITIES
 from utils.strings import get_file_name
 
 cache = {}
@@ -64,9 +65,14 @@ def collect_profile_formats(trash_score_set, format_items, output_dir):
     return profile_format
 
 
+def get_quality_id(quality_name):
+    return next(
+        quality["id"] for quality in QUALITIES if quality["name"] == quality_name
+    )
+
+
 def collect_qualities(items):
     qualities = []
-    quality_id = 1
     quality_collection_id = -1
     for item in items:
         if item.get("allowed", False) is False:
@@ -81,11 +87,11 @@ def collect_qualities(items):
             quality["description"] = ""
             quality["qualities"] = []
             for sub_item in item["items"]:
-                quality["qualities"].append({"id": quality_id, "name": sub_item})
-                quality_id += 1
+                quality["qualities"].append(
+                    {"id": get_quality_id(sub_item), "name": sub_item}
+                )
         else:
-            quality["id"] = quality_id
-            quality_id += 1
+            quality["id"] = get_quality_id(item.get("name", ""))
         qualities.append(quality)
 
     return qualities

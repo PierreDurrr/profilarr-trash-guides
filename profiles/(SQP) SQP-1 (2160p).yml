@@ -15,31 +15,31 @@ upgradeUntilScore: 10000
 minScoreIncrement: 1
 qualities:
 - name: Bluray-720p
-  id: 1
+  id: 13
 - name: Bluray|WEB-1080p
   id: -1
   description: ''
   qualities:
-  - id: 2
+  - id: 15
     name: WEBRip-720p
-  - id: 3
+  - id: 14
     name: WEBDL-720p
-  - id: 4
+  - id: 11
     name: WEBRip-1080p
-  - id: 5
+  - id: 9
     name: WEBDL-1080p
-  - id: 6
+  - id: 10
     name: Bluray-1080p
 - name: WEB 2160p
   id: -2
   description: ''
   qualities:
-  - id: 7
+  - id: 5
     name: WEBDL-2160p
-  - id: 8
+  - id: 6
     name: WEBRip-2160p
 - name: Bluray-2160p
-  id: 9
+  id: 4
 custom_formats:
 - name: TrueHD ATMOS
   score: -10000

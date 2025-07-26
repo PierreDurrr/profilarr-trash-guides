@@ -10,50 +10,50 @@ upgradeUntilScore: 10000
 minScoreIncrement: 1
 qualities:
 - name: SDTV
-  id: 1
+  id: 24
 - name: DVD
-  id: 2
+  id: 22
 - name: WEB 480p
   id: -1
   description: ''
   qualities:
-  - id: 3
+  - id: 19
     name: WEBDL-480p
-  - id: 4
+  - id: 20
     name: WEBRip-480p
 - name: Bluray-480p
-  id: 5
+  id: 18
 - name: Bluray-576p
-  id: 6
+  id: 17
 - name: WEB 720p
   id: -2
   description: ''
   qualities:
-  - id: 7
+  - id: 14
     name: WEBDL-720p
-  - id: 8
+  - id: 15
     name: WEBRip-720p
-  - id: 9
+  - id: 16
     name: HDTV-720p
 - name: Bluray-720p
-  id: 10
+  id: 13
 - name: WEB 1080p
   id: -3
   description: ''
   qualities:
-  - id: 11
+  - id: 9
     name: WEBDL-1080p
-  - id: 12
+  - id: 11
     name: WEBRip-1080p
-  - id: 13
+  - id: 12
     name: HDTV-1080p
 - name: Remux 1080p
   id: -4
   description: ''
   qualities:
-  - id: 14
+  - id: 10
     name: Bluray-1080p
-  - id: 15
+  - id: 8
     name: Remux-1080p
 custom_formats:
 - name: Anime BD Tier 01 (Top SeaDex Muxers)

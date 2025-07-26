@@ -18,11 +18,11 @@ qualities:
   id: -1
   description: ''
   qualities:
-  - id: 1
+  - id: 9
     name: WEBDL-1080p
-  - id: 2
+  - id: 11
     name: WEBRip-1080p
-  - id: 3
+  - id: 10
     name: Bluray-1080p
 custom_formats:
 - name: TrueHD ATMOS

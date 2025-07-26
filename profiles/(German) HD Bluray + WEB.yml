@@ -13,17 +13,17 @@ qualities:
   id: -1
   description: ''
   qualities:
-  - id: 1
+  - id: 15
     name: WEBRip-720p
-  - id: 2
+  - id: 14
     name: WEBDL-720p
-  - id: 3
+  - id: 13
     name: Bluray-720p
-  - id: 4
+  - id: 9
     name: WEBDL-1080p
-  - id: 5
+  - id: 11
     name: WEBRip-1080p
-  - id: 6
+  - id: 10
     name: Bluray-1080p
 custom_formats:
 - name: German 1080p Booster

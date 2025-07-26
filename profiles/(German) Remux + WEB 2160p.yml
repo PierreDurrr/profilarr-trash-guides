@@ -12,9 +12,9 @@ qualities:
   id: -1
   description: ''
   qualities:
-  - id: 1
+  - id: 6
     name: WEBRip-2160p
-  - id: 2
+  - id: 5
     name: WEBDL-2160p
   - id: 3
     name: Remux-2160p

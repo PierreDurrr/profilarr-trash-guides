@@ -13,14 +13,14 @@ qualities:
   id: -1
   description: ''
   qualities:
-  - id: 1
+  - id: 9
     name: WEBDL-1080p
-  - id: 2
+  - id: 11
     name: WEBRip-1080p
 - name: Bluray-1080p
-  id: 3
+  id: 10
 - name: Remux-1080p
-  id: 4
+  id: 8
 - name: WEB 2160p
   id: -2
   description: ''
@@ -30,9 +30,9 @@ qualities:
   - id: 6
     name: WEBRip-2160p
 - name: Bluray-2160p
-  id: 7
+  id: 4
 - name: Remux-2160p
-  id: 8
+  id: 3
 custom_formats:
 - name: DV HDR10Plus
   score: 1500

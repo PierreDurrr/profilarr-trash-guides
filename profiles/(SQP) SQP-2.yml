@@ -15,22 +15,22 @@ upgradeUntilScore: 10000
 minScoreIncrement: 1
 qualities:
 - name: Remux-1080p
-  id: 1
+  id: 8
 - name: WEB|Remux|Bluray|2160p
   id: -1
   description: ''
   qualities:
-  - id: 2
+  - id: 9
     name: WEBDL-1080p
-  - id: 3
+  - id: 11
     name: WEBRip-1080p
-  - id: 4
-    name: WEBDL-2160p
   - id: 5
-    name: WEBRip-2160p
+    name: WEBDL-2160p
   - id: 6
+    name: WEBRip-2160p
+  - id: 3
     name: Remux-2160p
-  - id: 7
+  - id: 4
     name: Bluray-2160p
 custom_formats:
 - name: DV HDR10Plus
