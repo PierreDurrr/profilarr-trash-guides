@@ -1,11 +1,12 @@
 name: '[SQP] SQP-4'
-description: 'Profile from TRaSH-Guides.
+description: '[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)
+
 
   This Special Quality Profile is an advanced Quality Profile designed for a specific
-  use case. Before using this Quality Profile please join the <a href="https://trash-guides.info/discord"
-  target="_blank">TRaSH-Guide Discord</a> for more information. Open the #access-to-sqp
-  channel and accept the three simple rules. Any questions related to the SQP should
-  only be asked in the dedicated SQP support channels.'
+  use case. Before using this Quality Profile please join the [TRaSH-Guide Discord](https://trash-guides.info/discord)
+  for more information. Open the #access-to-sqp channel and accept the three simple
+  rules. Any questions related to the SQP should only be asked in the dedicated SQP
+  support channels.'
 trash_id: 013f89e6da27519fe56cf482702a2db9
 tags: []
 upgradesAllowed: true

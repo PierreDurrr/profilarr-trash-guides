@@ -1,4 +1,4 @@
 name: HTSR
 pattern: \b(HTSR|DSNPHS|HS)\b
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

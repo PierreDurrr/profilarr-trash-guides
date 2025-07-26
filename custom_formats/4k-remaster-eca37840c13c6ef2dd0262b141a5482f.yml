@@ -2,9 +2,10 @@ name: 4K Remaster
 trash_id: eca37840c13c6ef2dd0262b141a5482f
 trash_scores:
   default: 25
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#4k-remaster)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#4k-remaster'
+
+  '
 tags:
 - Resolution
 conditions:

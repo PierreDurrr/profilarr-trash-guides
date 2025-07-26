@@ -1,9 +1,10 @@
 name: MY5
 trash_id: eacd2cb6c6d4a93e459df2cec6d7b97a
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#my5)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#my5'
+
+  '
 tags:
 - Source
 conditions:

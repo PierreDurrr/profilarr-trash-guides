@@ -2,6 +2,8 @@ import os
 import json
 import yaml
 
+from markdownify import markdownify
+
 def get_file_name(profile_name):
   return profile_name.replace('[', '(').replace(']', ')')
 
@@ -86,8 +88,9 @@ def collect_profile(service, input_json, output_dir):
     trash_id = input_json.get('trash_id', '')
     yml_data = {
         'name': name,
-        'description': f"""Profile from TRaSH-Guides.
-{input_json.get('trash_description', '')}""",
+        'description': f"""[Profile from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service}-setup-quality-profiles)
+
+{markdownify(input_json.get('trash_description', ''))}""",
         'trash_id': trash_id,
         'tags': [],
         'upgradesAllowed': input_json.get('upgradeAllowed', True),

@@ -2,9 +2,10 @@ name: IMAX Enhanced
 trash_id: 9f6cbff8cfe4ebbc1bde14c7b7bec0de
 trash_scores:
   default: 800
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#imax-enhanced)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#imax-enhanced'
+
+  '
 tags:
 - Release Title
 conditions:

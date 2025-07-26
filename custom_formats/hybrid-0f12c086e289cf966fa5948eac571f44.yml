@@ -2,9 +2,10 @@ name: Hybrid
 trash_id: 0f12c086e289cf966fa5948eac571f44
 trash_scores:
   default: 100
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hybrid)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hybrid'
+
+  '
 tags:
 - Source
 conditions:

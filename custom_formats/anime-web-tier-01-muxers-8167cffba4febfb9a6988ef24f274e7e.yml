@@ -2,9 +2,10 @@ name: Anime Web Tier 01 (Muxers)
 trash_id: 8167cffba4febfb9a6988ef24f274e7e
 trash_scores:
   default: 600
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-01-muxers)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-01-muxers'
+
+  '
 tags:
 - Release Title
 conditions:

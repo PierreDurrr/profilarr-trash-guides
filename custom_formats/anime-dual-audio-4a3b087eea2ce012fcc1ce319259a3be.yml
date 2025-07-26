@@ -1,9 +1,10 @@
 name: Anime Dual Audio
 trash_id: 4a3b087eea2ce012fcc1ce319259a3be
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-dual-audio)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-dual-audio'
+
+  '
 tags:
 - Language
 conditions:

@@ -3,9 +3,10 @@ trash_id: e6886871085226c3da1830830146846c
 trash_scores:
   default: -10000
   german: 0
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#generated-dynamic-hdr)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#generated-dynamic-hdr'
+
+  '
 tags:
 - Source
 conditions:

@@ -2,9 +2,10 @@ name: German 2160p Booster
 trash_id: cc7b1e64e2513a6a271090cdfafaeb55
 trash_scores:
   default: 9000
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-2160p-booster)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-2160p-booster'
+
+  '
 tags:
 - Resolution
 conditions:

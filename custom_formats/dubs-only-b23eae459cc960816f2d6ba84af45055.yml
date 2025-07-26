@@ -2,9 +2,10 @@ name: Dubs Only
 trash_id: b23eae459cc960816f2d6ba84af45055
 trash_scores:
   default: -10000
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dubs-only)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dubs-only'
+
+  '
 tags:
 - Release Title
 conditions:

@@ -1,9 +1,10 @@
 name: Theatrical Cut
 trash_id: e9001909a4c88013a359d0b9920d7bea
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#theatrical-cut)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#theatrical-cut'
+
+  '
 tags:
 - Release Title
 conditions:

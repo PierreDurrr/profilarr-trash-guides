@@ -1,4 +1,4 @@
 name: MA
 pattern: (?<!dts[ .-]?hd[ .-]?)\bma\b(?=.*\bweb[ ._-]?(dl|rip)\b)
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

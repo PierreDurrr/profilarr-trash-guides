@@ -1,9 +1,10 @@
 name: STRP
 trash_id: ab56ccdc473a1f2897c76187ea365be2
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#strp)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#strp'
+
+  '
 tags:
 - Source
 conditions:

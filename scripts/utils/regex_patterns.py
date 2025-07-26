@@ -19,7 +19,7 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
       yml_data = {
           'name': name,
           'pattern': pattern,
-          'description': "Regex pattern from TRaSH-Guides.",
+          'description': "",
           'tags': [],
       }
 

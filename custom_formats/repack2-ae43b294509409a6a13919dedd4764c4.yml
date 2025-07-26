@@ -5,9 +5,10 @@ trash_scores:
   anime-radarr: 2
   french-anime-multi: 2
   french-anime-vostfr: 2
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#repack2)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#repack2'
+
+  '
 tags:
 - Release Title
 conditions:

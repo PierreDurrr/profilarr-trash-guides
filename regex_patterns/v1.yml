@@ -1,4 +1,4 @@
 name: v1
 pattern: (\b|\d)(v1)\b
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

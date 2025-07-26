@@ -2,9 +2,10 @@ name: FR LQ
 trash_id: 48f031e76111f17ea94898f4cdc34fdc
 trash_scores:
   default: -10000
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-lq)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-lq'
+
+  '
 tags:
 - Release Group
 conditions:

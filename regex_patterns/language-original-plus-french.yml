@@ -1,4 +1,4 @@
 name: 'Language: Original + French'
 pattern: \b(MULTi)(\b|\d)
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

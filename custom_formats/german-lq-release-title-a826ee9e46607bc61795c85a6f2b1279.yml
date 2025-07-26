@@ -2,9 +2,10 @@ name: German LQ (release title)
 trash_id: a826ee9e46607bc61795c85a6f2b1279
 trash_scores:
   default: -35000
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-lq-release-title)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-lq-release-title'
+
+  '
 tags:
 - Release Title
 conditions:

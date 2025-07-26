@@ -1,4 +1,4 @@
 name: DD
 pattern: \b(l?)PCM(\b|\d)
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

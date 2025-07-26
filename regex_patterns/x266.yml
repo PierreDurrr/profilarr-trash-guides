@@ -1,4 +1,4 @@
 name: x266
 pattern: '[xh][ ._-]?266|\bVVC(\b|\d)'
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

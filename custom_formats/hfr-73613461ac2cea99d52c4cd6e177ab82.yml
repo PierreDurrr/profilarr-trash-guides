@@ -1,9 +1,10 @@
 name: HFR
 trash_id: 73613461ac2cea99d52c4cd6e177ab82
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hfr)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hfr'
+
+  '
 tags:
 - Release Title
 conditions:

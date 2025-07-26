@@ -2,9 +2,10 @@ name: 720p
 trash_id: b2be17d608fc88818940cd1833b0b24c
 trash_scores:
   default: 5
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#720p)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#720p'
+
+  '
 tags:
 - Resolution
 conditions:

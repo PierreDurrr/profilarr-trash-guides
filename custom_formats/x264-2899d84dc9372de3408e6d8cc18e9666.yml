@@ -5,9 +5,10 @@ trash_scores:
   sqp-3: -10000
   sqp-4: -10000
   sqp-5: -10000
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x264)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x264'
+
+  '
 tags:
 - Quality Modifier
 conditions:

@@ -1,4 +1,4 @@
 name: Not German or English
 pattern: (?i)\bgerman\b
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

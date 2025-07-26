@@ -1,4 +1,4 @@
 name: STAN
 pattern: \[(STAN)\b|\b(STAN)\]
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

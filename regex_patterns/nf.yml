@@ -1,4 +1,4 @@
 name: NF
 pattern: \b(nf|netflix(u?hd)?)\b
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

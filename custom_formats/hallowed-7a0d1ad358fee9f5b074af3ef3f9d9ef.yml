@@ -2,9 +2,10 @@ name: hallowed
 trash_id: 7a0d1ad358fee9f5b074af3ef3f9d9ef
 trash_scores:
   default: 600
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hallowed)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hallowed'
+
+  '
 tags:
 - Release Group
 conditions:

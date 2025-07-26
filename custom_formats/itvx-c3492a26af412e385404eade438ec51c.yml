@@ -1,9 +1,10 @@
 name: ITVX
 trash_id: c3492a26af412e385404eade438ec51c
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#itvx)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#itvx'
+
+  '
 tags:
 - Source
 conditions:

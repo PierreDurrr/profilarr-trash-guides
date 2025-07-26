@@ -1,9 +1,10 @@
 name: HBO
 trash_id: 509e5f41146e278f9eab1ddaceb34515
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hbo)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hbo'
+
+  '
 tags:
 - Source
 conditions:

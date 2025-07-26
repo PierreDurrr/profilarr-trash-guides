@@ -1,9 +1,10 @@
 name: DSNP
 trash_id: 84272245b2988854bfb76a16e60baea5
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dsnp)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dsnp'
+
+  '
 tags:
 - Source
 conditions:

@@ -3,9 +3,10 @@ trash_id: ae9b7c9ebde1f3bd336a8cbd1ec4c5e5
 trash_scores:
   default: -10000
   german: -35000
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#no-rlsgroup)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#no-rlsgroup'
+
+  '
 tags:
 - Release Group
 conditions:

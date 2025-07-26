@@ -2,9 +2,10 @@ name: German Scene
 trash_id: 2d136d4e33082fe573d06b1f237c40dd
 trash_scores:
   default: 1700
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-scene)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-scene'
+
+  '
 tags:
 - Release Group
 conditions:

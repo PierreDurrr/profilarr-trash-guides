@@ -1,4 +1,4 @@
 name: AMZN
 pattern: \b(amzn|amazon(hd)?)\b
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

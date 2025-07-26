@@ -1,4 +1,4 @@
 name: TVING
 pattern: \[(TVING)\b|\b(TVING)\]
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

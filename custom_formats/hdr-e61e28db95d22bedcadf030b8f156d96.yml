@@ -2,9 +2,10 @@ name: HDR
 trash_id: e61e28db95d22bedcadf030b8f156d96
 trash_scores:
   default: 500
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hdr)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hdr'
+
+  '
 tags:
 - Release Title
 conditions:

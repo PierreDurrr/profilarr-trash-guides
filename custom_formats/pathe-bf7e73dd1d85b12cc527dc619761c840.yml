@@ -1,9 +1,10 @@
 name: Pathe
 trash_id: bf7e73dd1d85b12cc527dc619761c840
 trash_scores: {}
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pathe)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pathe'
+
+  '
 tags:
 - Source
 conditions:

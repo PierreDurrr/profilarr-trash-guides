@@ -3,9 +3,10 @@ trash_id: 89dac1be53d5268a7e10a19d3c896826
 trash_scores:
   sqp-1-web-1080p: -175
   sqp-1-web-2160p: -175
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#20-stereo)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#20-stereo'
+
+  '
 tags:
 - Release Title
 conditions:

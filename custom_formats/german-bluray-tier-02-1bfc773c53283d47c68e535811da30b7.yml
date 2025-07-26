@@ -2,9 +2,10 @@ name: German Bluray Tier 02
 trash_id: 1bfc773c53283d47c68e535811da30b7
 trash_scores:
   default: 2650
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-bluray-tier-02)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-bluray-tier-02'
+
+  '
 tags:
 - Quality Modifier
 conditions:

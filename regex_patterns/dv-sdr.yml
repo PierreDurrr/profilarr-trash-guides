@@ -1,4 +1,4 @@
 name: DV SDR
 pattern: \b(DV[ .]HLG)\b
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

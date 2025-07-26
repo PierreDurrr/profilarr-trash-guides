@@ -2,9 +2,10 @@ name: FraMeSToR
 trash_id: ff5bc9e8ce91d46c997ca3ac6994d6f8
 trash_scores:
   default: 101
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#framestor)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#framestor'
+
+  '
 tags:
 - Release Group
 conditions:

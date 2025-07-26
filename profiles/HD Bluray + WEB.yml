@@ -1,7 +1,6 @@
 name: HD Bluray + WEB
-description: 'Profile from TRaSH-Guides.
-
-  Quality Profile that covers:<br>- WEBDL: 1080p<br>- Bluray: 720p, 1080p'
+description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
+  \nQuality Profile that covers:  \n- WEBDL: 1080p  \n- Bluray: 720p, 1080p"
 trash_id: d1d67249d3890e49bc12e275d989a7e9
 tags: []
 upgradesAllowed: true

@@ -1,4 +1,4 @@
 name: German
 pattern: (?=.*(German|Ger))(?=.*(Sub|Multi(ple)?Sub))
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

@@ -2,6 +2,8 @@ import os
 import json
 import yaml
 
+from markdownify import markdownify
+
 IMPLEMENTATION_TO_TAG_MAPPING = {
     'ReleaseTitleSpecification': ['Release Title'],
     'ResolutionSpecification': ['Resolution'],
@@ -60,8 +62,9 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         'name': name,
         'trash_id': trash_id,
         'trash_scores': input_json.get('trash_scores', {}),
-        'description': f"""Custom format from TRaSH-Guides.
-https://trash-guides.info/{service.capitalize()}/{service.capitalize()}-collection-of-custom-formats/#{file_name}""",
+        'description': f"""[Custom format from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service.capitalize()}-collection-of-custom-formats/#{file_name})
+
+{markdownify(input_json.get('description', ''))}""",
         'tags': IMPLEMENTATION_TO_TAG_MAPPING[implementation],
         'conditions': conditions,
         'tests': []

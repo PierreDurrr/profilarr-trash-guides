@@ -7,9 +7,10 @@ trash_scores:
   sqp-1-2160p: 1000
   sqp-1-web-2160p: 1000
   french-multi-vf: 0
-description: 'Custom format from TRaSH-Guides.
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hd-bluray-tier-03)
 
-  https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hd-bluray-tier-03'
+
+  '
 tags:
 - Release Group
 conditions:

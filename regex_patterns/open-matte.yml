@@ -1,4 +1,4 @@
 name: Open Matte
 pattern: \b(Open[ ._-]?Matte)\b
-description: Regex pattern from TRaSH-Guides.
+description: ''
 tags: []

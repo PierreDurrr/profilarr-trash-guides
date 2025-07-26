@@ -1,7 +1,6 @@
 name: Remux + WEB 2160p
-description: 'Profile from TRaSH-Guides.
-
-  Quality Profile that covers:<br>- WEBDL: 2160p<br>- Remux: 2160p'
+description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Radarr/radarr-setup-quality-profiles)\n\
+  \nQuality Profile that covers:  \n- WEBDL: 2160p  \n- Remux: 2160p"
 trash_id: fd161a61e3ab826d3a22d53f935696dd
 tags: []
 upgradesAllowed: true
