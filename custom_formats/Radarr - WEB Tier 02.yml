@@ -1,8 +1,9 @@
 name: Radarr - WEB Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#web-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#web-tier-02)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false
@@ -18,60 +19,60 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: dB
+  pattern: Radarr - dB
 - name: Radarr - Flights
   negate: false
   required: false
   type: release_group
-  pattern: Flights
+  pattern: Radarr - Flights
 - name: Radarr - MiU
   negate: false
   required: false
   type: release_group
-  pattern: MiU
+  pattern: Radarr - MiU
 - name: Radarr - monkee
   negate: false
   required: false
   type: release_group
-  pattern: monkee
+  pattern: Radarr - monkee
 - name: Radarr - MZABI
   negate: false
   required: false
   type: release_group
-  pattern: MZABI
+  pattern: Radarr - MZABI
 - name: Radarr - PHOENiX
   negate: false
   required: false
   type: release_group
-  pattern: PHOENiX
+  pattern: Radarr - PHOENiX
 - name: Radarr - playWEB
   negate: false
   required: false
   type: release_group
-  pattern: playWEB
+  pattern: Radarr - playWEB
 - name: Radarr - RAWR
   negate: false
   required: false
   type: release_group
-  pattern: RAWR
+  pattern: Radarr - RAWR
 - name: Radarr - SbR
   negate: false
   required: false
   type: release_group
-  pattern: SbR
+  pattern: Radarr - SbR
 - name: Radarr - SMURF
   negate: false
   required: false
   type: release_group
-  pattern: SMURF
+  pattern: Radarr - SMURF
 - name: Radarr - TOMMY
   negate: false
   required: false
   type: release_group
-  pattern: TOMMY
+  pattern: Radarr - TOMMY
 - name: Radarr - XEBEC
   negate: false
   required: false
   type: release_group
-  pattern: XEBEC
+  pattern: Radarr - XEBEC
 tests: []

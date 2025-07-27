@@ -1,14 +1,15 @@
 name: Radarr - PMTP
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pmtp)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#pmtp)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Paramount+
   negate: false
   required: true
   type: release_title
-  pattern: Paramount+
+  pattern: Radarr - Paramount+
 - name: Radarr - WEBDL
   negate: false
   required: false

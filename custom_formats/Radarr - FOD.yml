@@ -1,14 +1,15 @@
 name: Radarr - FOD
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#fod)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#fod)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - FOD
   negate: false
   required: true
   type: release_title
-  pattern: FOD
+  pattern: Radarr - FOD
 - name: Radarr - WEBDL
   negate: false
   required: false

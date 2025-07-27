@@ -1,8 +1,9 @@
 name: Radarr - FR Remux Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-remux-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-remux-tier-02)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Quality Modifier
 conditions:
 - name: Radarr - Remux
   negate: false
@@ -13,55 +14,55 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: BDHD
+  pattern: Radarr - BDHD
 - name: Radarr - FtLi
   negate: false
   required: false
   type: release_group
-  pattern: FtLi
+  pattern: Radarr - FtLi
 - name: Radarr - Goldenyann
   negate: false
   required: false
   type: release_group
-  pattern: Goldenyann
+  pattern: Radarr - Goldenyann
 - name: Radarr - HeavyWeight
   negate: false
   required: false
   type: release_group
-  pattern: HeavyWeight
+  pattern: Radarr - HeavyWeight
 - name: Radarr - KTM
   negate: false
   required: false
   type: release_group
-  pattern: KTM
+  pattern: Radarr - KTM
 - name: Radarr - MARBLECAKE
   negate: false
   required: false
   type: release_group
-  pattern: MARBLECAKE
+  pattern: Radarr - MARBLECAKE
 - name: Radarr - MUSTANG
   negate: false
   required: false
   type: release_group
-  pattern: MUSTANG
+  pattern: Radarr - MUSTANG
 - name: Radarr - Obi
   negate: false
   required: false
   type: release_group
-  pattern: Obi
+  pattern: Radarr - Obi
 - name: Radarr - PEPiTE
   negate: false
   required: false
   type: release_group
-  pattern: PEPiTE
+  pattern: Radarr - PEPiTE
 - name: Radarr - QUEBEC63
   negate: false
   required: false
   type: release_group
-  pattern: QUEBEC63
+  pattern: Radarr - QUEBEC63
 - name: Radarr - ROMKENT
   negate: false
   required: false
   type: release_group
-  pattern: ROMKENT
+  pattern: Radarr - ROMKENT
 tests: []

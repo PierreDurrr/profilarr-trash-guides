@@ -1,32 +1,33 @@
 name: Radarr - DV (Disk)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-disk)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#dv-disk)'
 tags:
-- Release Title
 - Radarr
+- Release Group
+- Release Title
 conditions:
 - name: Radarr - FraMeSToR
   negate: false
   required: true
   type: release_group
-  pattern: FraMeSToR
+  pattern: Radarr - FraMeSToR
 - name: Radarr - DV
   negate: false
   required: true
   type: release_title
-  pattern: DV
+  pattern: Radarr - DV
 - name: Radarr - No FANRES
   negate: true
   required: true
   type: release_title
-  pattern: No FANRES
+  pattern: Radarr - No FANRES
 - name: Radarr - Not Hybrid
   negate: true
   required: true
   type: release_title
-  pattern: Not Hybrid
+  pattern: Radarr - Not Hybrid
 - name: Radarr - Not Hybrid Release Group
   negate: true
   required: true
   type: release_title
-  pattern: Not Hybrid Release Group
+  pattern: Radarr - Not Hybrid Release Group
 tests: []

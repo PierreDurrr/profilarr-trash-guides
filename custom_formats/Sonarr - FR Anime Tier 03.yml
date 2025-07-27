@@ -1,72 +1,72 @@
 name: Sonarr - FR Anime Tier 03
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-anime-tier-03)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-anime-tier-03)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - BLV
   negate: false
   required: false
   type: release_title
-  pattern: BLV
+  pattern: Sonarr - BLV
 - name: Sonarr - D3T3R10R1TY
   negate: false
   required: false
   type: release_title
-  pattern: D3T3R10R1TY
+  pattern: Sonarr - D3T3R10R1TY
 - name: Sonarr - Galactic
   negate: false
   required: false
   type: release_title
-  pattern: Galactic
+  pattern: Sonarr - Galactic
 - name: Sonarr - HANAMi
   negate: false
   required: false
   type: release_title
-  pattern: HANAMi
+  pattern: Sonarr - HANAMi
 - name: Sonarr - kazuizui
   negate: false
   required: false
   type: release_title
-  pattern: kazuizui
+  pattern: Sonarr - kazuizui
 - name: Sonarr - KHAYA
   negate: false
   required: false
   type: release_title
-  pattern: KHAYA
+  pattern: Sonarr - KHAYA
 - name: Sonarr - KushEnthusiast
   negate: false
   required: false
   type: release_title
-  pattern: KushEnthusiast
+  pattern: Sonarr - KushEnthusiast
 - name: Sonarr - matheousse
   negate: false
   required: false
   type: release_title
-  pattern: matheousse
+  pattern: Sonarr - matheousse
 - name: Sonarr - Monkey-D.Lulu
   negate: false
   required: false
   type: release_title
-  pattern: Monkey-D.Lulu
+  pattern: Sonarr - Monkey-D.Lulu
 - name: Sonarr - NeoSG
   negate: false
   required: false
   type: release_title
-  pattern: NeoSG
+  pattern: Sonarr - NeoSG
 - name: Sonarr - RONiN
   negate: false
   required: false
   type: release_title
-  pattern: RONiN
+  pattern: Sonarr - RONiN
 - name: Sonarr - TheFantastics
   negate: false
   required: false
   type: release_title
-  pattern: TheFantastics
+  pattern: Sonarr - TheFantastics
 - name: Sonarr - TTN
   negate: false
   required: false
   type: release_title
-  pattern: TTN
+  pattern: Sonarr - TTN
 tests: []

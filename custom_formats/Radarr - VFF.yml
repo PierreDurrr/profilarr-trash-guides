@@ -1,17 +1,17 @@
 name: Radarr - VFF
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vff)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-vff)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - TRUEFRENCH
   negate: false
   required: true
   type: release_title
-  pattern: TRUEFRENCH
+  pattern: Radarr - TRUEFRENCH
 - name: Radarr - Not VF2
   negate: true
   required: true
   type: release_title
-  pattern: Not VF2
+  pattern: Radarr - Not VF2
 tests: []

@@ -1,47 +1,48 @@
 name: Sonarr - HDR
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#hdr)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hdr)'
 tags:
-- Release Title
 - Sonarr
+- Release Group
+- Release Title
 conditions:
 - name: Sonarr - HDR
   negate: false
   required: true
   type: release_title
-  pattern: HDR
+  pattern: Sonarr - HDR
 - name: Sonarr - Not DV
   negate: true
   required: true
   type: release_title
-  pattern: Not DV
+  pattern: Sonarr - Not DV
 - name: Sonarr - Not HDR10
   negate: true
   required: true
   type: release_title
-  pattern: Not HDR10
+  pattern: Sonarr - Not HDR10
 - name: Sonarr - Not HDR10+
   negate: true
   required: true
   type: release_title
-  pattern: Not HDR10+
+  pattern: Sonarr - Not HDR10+
 - name: Sonarr - Not HLG
   negate: true
   required: true
   type: release_title
-  pattern: Not HLG
+  pattern: Sonarr - Not HLG
 - name: Sonarr - Not PQ
   negate: true
   required: true
   type: release_title
-  pattern: Not PQ
+  pattern: Sonarr - Not PQ
 - name: Sonarr - Not RlsGrp (Missing HDR)
   negate: true
   required: true
   type: release_group
-  pattern: Not RlsGrp (Missing HDR)
+  pattern: Sonarr - Not RlsGrp (Missing HDR)
 - name: Sonarr - Not SDR
   negate: true
   required: true
   type: release_title
-  pattern: Not SDR
+  pattern: Sonarr - Not SDR
 tests: []

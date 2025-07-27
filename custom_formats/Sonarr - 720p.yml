@@ -1,8 +1,8 @@
 name: Sonarr - 720p
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#720p)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#720p)'
 tags:
-- Resolution
 - Sonarr
+- Resolution
 conditions:
 - name: Sonarr - 720p
   negate: false

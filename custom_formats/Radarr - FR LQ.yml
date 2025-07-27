@@ -1,27 +1,27 @@
 name: Radarr - FR LQ
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-lq)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-lq)'
 tags:
-- Release Group
 - Radarr
+- Release Group
 conditions:
 - name: Radarr - Ads-Watermarks
   negate: false
   required: false
   type: release_group
-  pattern: Ads/Watermarks
+  pattern: Radarr - Ads-Watermarks
 - name: Radarr - Bad-False releases
   negate: false
   required: false
   type: release_group
-  pattern: Bad/False releases
+  pattern: Radarr - Bad-False releases
 - name: Radarr - DeTAG-ReTAG
   negate: false
   required: false
   type: release_group
-  pattern: DeTAG/ReTAG
+  pattern: Radarr - DeTAG-ReTAG
 - name: Radarr - Other reasons
   negate: false
   required: false
   type: release_group
-  pattern: Other reasons
+  pattern: Radarr - Other reasons
 tests: []

@@ -1,8 +1,11 @@
 name: Radarr - HD Bluray Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hd-bluray-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#hd-bluray-tier-02)'
 tags:
-- Release Group
 - Radarr
+- Resolution
+- Release Group
+- Source
+- Quality Modifier
 conditions:
 - name: Radarr - BLURAY
   negate: false
@@ -23,40 +26,40 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: EA
+  pattern: Radarr - EA
 - name: Radarr - HiDt
   negate: false
   required: false
   type: release_group
-  pattern: HiDt
+  pattern: Radarr - HiDt
 - name: Radarr - HiSD
   negate: false
   required: false
   type: release_group
-  pattern: HiSD
+  pattern: Radarr - HiSD
 - name: Radarr - iFT
   negate: false
   required: false
   type: release_group
-  pattern: iFT
+  pattern: Radarr - iFT
 - name: Radarr - NTb
   negate: false
   required: false
   type: release_group
-  pattern: NTb
+  pattern: Radarr - NTb
 - name: Radarr - QOQ
   negate: false
   required: false
   type: release_group
-  pattern: QOQ
+  pattern: Radarr - QOQ
 - name: Radarr - SA89
   negate: false
   required: false
   type: release_group
-  pattern: SA89
+  pattern: Radarr - SA89
 - name: Radarr - sbR
   negate: false
   required: false
   type: release_group
-  pattern: sbR
+  pattern: Radarr - sbR
 tests: []

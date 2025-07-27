@@ -1,42 +1,42 @@
 name: Radarr - TrueHD ATMOS
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#truehd-atmos)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#truehd-atmos)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - TrueHD
   negate: false
   required: true
   type: release_title
-  pattern: TrueHD
+  pattern: Radarr - TrueHD
 - name: Radarr - ATMOS
   negate: false
   required: true
   type: release_title
-  pattern: ATMOS
+  pattern: Radarr - ATMOS
 - name: Radarr - Not Basic Dolby Digital
   negate: true
   required: true
   type: release_title
-  pattern: Not Basic Dolby Digital
+  pattern: Radarr - Not Basic Dolby Digital
 - name: 'Radarr - Not Dolby Digital Plus '
   negate: true
   required: true
   type: release_title
-  pattern: 'Not Dolby Digital Plus '
+  pattern: 'Radarr - Not Dolby Digital Plus '
 - name: Radarr - Not DTS
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS
+  pattern: Radarr - Not DTS
 - name: Radarr - Not DTS X
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS X
+  pattern: Radarr - Not DTS X
 - name: Radarr - Not FLAC
   negate: true
   required: true
   type: release_title
-  pattern: Not FLAC
+  pattern: Radarr - Not FLAC
 tests: []

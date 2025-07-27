@@ -1,72 +1,72 @@
 name: Radarr - LQ (Release Title)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#lq-release-title)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#lq-release-title)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - 1XBET
   negate: false
   required: false
   type: release_title
-  pattern: 1XBET
+  pattern: Radarr - 1XBET
 - name: Radarr - BEN THE MEN
   negate: false
   required: false
   type: release_title
-  pattern: BEN THE MEN
+  pattern: Radarr - BEN THE MEN
 - name: Radarr - D3US
   negate: false
   required: false
   type: release_title
-  pattern: D3US
+  pattern: Radarr - D3US
 - name: Radarr - EVO (no WEBDL)
   negate: false
   required: false
   type: release_title
-  pattern: EVO (no WEBDL)
+  pattern: Radarr - EVO (no WEBDL)
 - name: Radarr - Feranki1980
   negate: false
   required: false
   type: release_title
-  pattern: Feranki1980
+  pattern: Radarr - Feranki1980
 - name: Radarr - GalaxyRG
   negate: false
   required: false
   type: release_title
-  pattern: GalaxyRG
+  pattern: Radarr - GalaxyRG
 - name: Radarr - jennaortega
   negate: false
   required: false
   type: release_title
-  pattern: jennaortega
+  pattern: Radarr - jennaortega
 - name: Radarr - PiRaTeS (no WEBDL)
   negate: false
   required: false
   type: release_title
-  pattern: PiRaTeS (no WEBDL)
+  pattern: Radarr - PiRaTeS (no WEBDL)
 - name: Radarr - READ NOTE
   negate: false
   required: false
   type: release_title
-  pattern: READ NOTE
+  pattern: Radarr - READ NOTE
 - name: Radarr - SWTYBLZ
   negate: false
   required: false
   type: release_title
-  pattern: SWTYBLZ
+  pattern: Radarr - SWTYBLZ
 - name: Radarr - TeeWee
   negate: false
   required: false
   type: release_title
-  pattern: TeeWee
+  pattern: Radarr - TeeWee
 - name: Radarr - TEKNO3D
   negate: false
   required: false
   type: release_title
-  pattern: TEKNO3D
+  pattern: Radarr - TEKNO3D
 - name: Radarr - Will1869
   negate: false
   required: false
   type: release_title
-  pattern: Will1869
+  pattern: Radarr - Will1869
 tests: []

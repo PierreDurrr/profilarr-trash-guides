@@ -1,19 +1,20 @@
 name: Radarr - Anime Dual Audio
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-dual-audio)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-dual-audio)'
 tags:
-- Language
 - Radarr
+- Release Title
+- Language
 conditions:
 - name: Radarr - Dual Audio
   negate: false
   required: true
   type: release_title
-  pattern: Dual Audio
+  pattern: Radarr - Dual Audio
 - name: Radarr - Not Single Language Only
   negate: true
   required: true
   type: release_title
-  pattern: Not Single Language Only
+  pattern: Radarr - Not Single Language Only
 - name: Radarr - Japanese Language
   negate: false
   required: false

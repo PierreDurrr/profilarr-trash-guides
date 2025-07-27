@@ -1,8 +1,9 @@
 name: Sonarr - Anime Web Tier 04 (Official Subs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-web-tier-04-official-subs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-web-tier-04-official-subs)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -23,60 +24,60 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: BlueLobster
+  pattern: Sonarr - BlueLobster
 - name: Sonarr - Erai-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Erai-Raws
+  pattern: Sonarr - Erai-Raws
 - name: Sonarr - GST
   negate: false
   required: false
   type: release_title
-  pattern: GST
+  pattern: Sonarr - GST
 - name: Sonarr - HorribleRips
   negate: false
   required: false
   type: release_title
-  pattern: HorribleRips
+  pattern: Sonarr - HorribleRips
 - name: Sonarr - HorribleSubs
   negate: false
   required: false
   type: release_title
-  pattern: HorribleSubs
+  pattern: Sonarr - HorribleSubs
 - name: Sonarr - KAN3D2M
   negate: false
   required: false
   type: release_title
-  pattern: KAN3D2M
+  pattern: Sonarr - KAN3D2M
 - name: Sonarr - KiyoshiStar
   negate: false
   required: false
   type: release_title
-  pattern: KiyoshiStar
+  pattern: Sonarr - KiyoshiStar
 - name: Sonarr - Lia
   negate: false
   required: false
   type: release_title
-  pattern: Lia
+  pattern: Sonarr - Lia
 - name: Sonarr - NanDesuKa
   negate: false
   required: false
   type: release_title
-  pattern: NanDesuKa
+  pattern: Sonarr - NanDesuKa
 - name: Sonarr - URANIME
   negate: false
   required: false
   type: release_title
-  pattern: URANIME
+  pattern: Sonarr - URANIME
 - name: Sonarr - VARYG
   negate: false
   required: false
   type: release_title
-  pattern: VARYG
+  pattern: Sonarr - VARYG
 - name: Sonarr - ZigZag
   negate: false
   required: false
   type: release_title
-  pattern: ZigZag
+  pattern: Sonarr - ZigZag
 tests: []

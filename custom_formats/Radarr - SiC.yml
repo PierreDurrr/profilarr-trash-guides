@@ -1,14 +1,16 @@
 name: Radarr - SiC
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sic)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#sic)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
+- Resolution
 conditions:
 - name: Radarr - SiC
   negate: false
   required: true
   type: release_title
-  pattern: SiC
+  pattern: Radarr - SiC
 - name: Radarr - 2160p
   negate: false
   required: true
@@ -23,10 +25,10 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: HDR
+  pattern: Radarr - HDR
 - name: Radarr - DV
   negate: false
   required: true
   type: release_title
-  pattern: DV
+  pattern: Radarr - DV
 tests: []

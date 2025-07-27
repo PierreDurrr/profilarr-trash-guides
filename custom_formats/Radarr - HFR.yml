@@ -1,12 +1,12 @@
 name: Radarr - HFR
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hfr)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#hfr)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - HFR
   negate: false
   required: true
   type: release_title
-  pattern: HFR
+  pattern: Radarr - HFR
 tests: []

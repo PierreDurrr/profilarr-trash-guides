@@ -1,19 +1,20 @@
 name: Sonarr - iT
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#it)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#it)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - iTunes
   negate: false
   required: false
   type: release_title
-  pattern: iTunes
+  pattern: Sonarr - iTunes
 - name: Sonarr - iT Rename
   negate: false
   required: false
   type: release_title
-  pattern: iT Rename
+  pattern: Sonarr - iT Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

@@ -1,14 +1,15 @@
 name: Sonarr - 4OD
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#4od)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#4od)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - 4OD
   negate: false
   required: true
   type: release_title
-  pattern: 4OD
+  pattern: Sonarr - 4OD
 - name: Sonarr - WEBDL
   negate: false
   required: false

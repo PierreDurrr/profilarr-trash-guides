@@ -1,8 +1,9 @@
 name: Radarr - German 2160p Booster
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-2160p-booster)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-2160p-booster)'
 tags:
-- Resolution
 - Radarr
+- Resolution
+- Language
 conditions:
 - name: Radarr - German
   negate: false

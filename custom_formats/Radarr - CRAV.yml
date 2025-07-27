@@ -1,19 +1,20 @@
 name: Radarr - CRAV
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#crav)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#crav)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Crave
   negate: false
   required: false
   type: release_title
-  pattern: Crave
+  pattern: Radarr - Crave
 - name: Radarr - Crave Rename
   negate: false
   required: false
   type: release_title
-  pattern: Crave Rename
+  pattern: Radarr - Crave Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

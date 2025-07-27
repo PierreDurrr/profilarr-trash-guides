@@ -1,8 +1,8 @@
 name: Sonarr - Single Episode
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#single-episode)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#single-episode)'
 tags:
-- Release Type
 - Sonarr
+- Release Type
 conditions:
 - name: Sonarr - Single Episode
   negate: false

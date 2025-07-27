@@ -1,14 +1,15 @@
 name: Radarr - AMZN
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#amzn)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#amzn)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Amazon
   negate: false
   required: true
   type: release_title
-  pattern: Amazon
+  pattern: Radarr - Amazon
 - name: Radarr - WEBDL
   negate: false
   required: false

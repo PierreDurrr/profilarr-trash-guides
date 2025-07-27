@@ -1,44 +1,45 @@
 name: Radarr - German Web Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-web-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-web-tier-02)'
 tags:
-- Source
 - Radarr
+- Release Group
+- Source
 conditions:
 - name: Radarr - VECTOR
   negate: false
   required: false
   type: release_group
-  pattern: VECTOR
+  pattern: Radarr - VECTOR
 - name: Radarr - MULTiPLEX
   negate: false
   required: false
   type: release_group
-  pattern: MULTiPLEX
+  pattern: Radarr - MULTiPLEX
 - name: Radarr - SiXTYNiNE
   negate: false
   required: false
   type: release_group
-  pattern: SiXTYNiNE
+  pattern: Radarr - SiXTYNiNE
 - name: Radarr - Oergel
   negate: false
   required: false
   type: release_group
-  pattern: Oergel
+  pattern: Radarr - Oergel
 - name: Radarr - 4SF
   negate: false
   required: false
   type: release_group
-  pattern: 4SF
+  pattern: Radarr - 4SF
 - name: Radarr - ABJ
   negate: false
   required: false
   type: release_group
-  pattern: ABJ
+  pattern: Radarr - ABJ
 - name: Radarr - paranoid06
   negate: false
   required: false
   type: release_group
-  pattern: paranoid06
+  pattern: Radarr - paranoid06
 - name: Radarr - WebDL
   negate: false
   required: false

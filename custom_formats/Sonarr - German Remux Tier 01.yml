@@ -1,34 +1,35 @@
 name: Sonarr - German Remux Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-remux-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#german-remux-tier-01)'
 tags:
-- Source
 - Sonarr
+- Release Group
+- Source
 conditions:
 - name: Sonarr - TvR
   negate: false
   required: false
   type: release_group
-  pattern: TvR
+  pattern: Sonarr - TvR
 - name: Sonarr - pmHD
   negate: false
   required: false
   type: release_group
-  pattern: pmHD
+  pattern: Sonarr - pmHD
 - name: Sonarr - NIMA4K
   negate: false
   required: false
   type: release_group
-  pattern: NIMA4K
+  pattern: Sonarr - NIMA4K
 - name: Sonarr - QfG
   negate: false
   required: false
   type: release_group
-  pattern: QfG
+  pattern: Sonarr - QfG
 - name: Sonarr - TSCC
   negate: false
   required: false
   type: release_group
-  pattern: TSCC
+  pattern: Sonarr - TSCC
 - name: Sonarr - Remux
   negate: false
   required: true

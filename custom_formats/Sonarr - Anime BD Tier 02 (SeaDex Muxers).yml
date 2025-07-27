@@ -1,8 +1,9 @@
 name: Sonarr - Anime BD Tier 02 (SeaDex Muxers)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-bd-tier-02-seadex-muxers)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-bd-tier-02-seadex-muxers)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Bluray
   negate: false
@@ -23,220 +24,220 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '0x539'
+  pattern: Sonarr - 0x539
 - name: Sonarr - Alt
   negate: false
   required: false
   type: release_title
-  pattern: Alt
+  pattern: Sonarr - Alt
 - name: Sonarr - ARC
   negate: false
   required: false
   type: release_title
-  pattern: ARC
+  pattern: Sonarr - ARC
 - name: Sonarr - Arid
   negate: false
   required: false
   type: release_title
-  pattern: Arid
+  pattern: Sonarr - Arid
 - name: Sonarr - aro
   negate: false
   required: false
   type: release_title
-  pattern: aro
+  pattern: Sonarr - aro
 - name: Sonarr - Baws
   negate: false
   required: false
   type: release_title
-  pattern: Baws
+  pattern: Sonarr - Baws
 - name: Sonarr - BKC
   negate: false
   required: false
   type: release_title
-  pattern: BKC
+  pattern: Sonarr - BKC
 - name: Sonarr - Brrrrrrr
   negate: false
   required: false
   type: release_title
-  pattern: Brrrrrrr
+  pattern: Sonarr - Brrrrrrr
 - name: Sonarr - Chotab
   negate: false
   required: false
   type: release_title
-  pattern: Chotab
+  pattern: Sonarr - Chotab
 - name: Sonarr - Crow
   negate: false
   required: false
   type: release_title
-  pattern: Crow
+  pattern: Sonarr - Crow
 - name: Sonarr - CsS
   negate: false
   required: false
   type: release_title
-  pattern: CsS
+  pattern: Sonarr - CsS
 - name: Sonarr - CUNNY
   negate: false
   required: false
   type: release_title
-  pattern: CUNNY
+  pattern: Sonarr - CUNNY
 - name: Sonarr - Cunnysseur
   negate: false
   required: false
   type: release_title
-  pattern: Cunnysseur
+  pattern: Sonarr - Cunnysseur
 - name: Sonarr - D-Z0N3
   negate: false
   required: false
   type: release_title
-  pattern: D-Z0N3
+  pattern: Sonarr - D-Z0N3
 - name: Sonarr - Dae
   negate: false
   required: false
   type: release_title
-  pattern: Dae
+  pattern: Sonarr - Dae
 - name: Sonarr - Datte13
   negate: false
   required: false
   type: release_title
-  pattern: Datte13
+  pattern: Sonarr - Datte13
 - name: Sonarr - DemiHuman
   negate: false
   required: false
   type: release_title
-  pattern: DemiHuman
+  pattern: Sonarr - DemiHuman
 - name: Sonarr - Drag
   negate: false
   required: false
   type: release_title
-  pattern: Drag
+  pattern: Sonarr - Drag
 - name: Sonarr - FLFL
   negate: false
   required: false
   type: release_title
-  pattern: FLFL
+  pattern: Sonarr - FLFL
 - name: Sonarr - hydes
   negate: false
   required: false
   type: release_title
-  pattern: hydes
+  pattern: Sonarr - hydes
 - name: Sonarr - iKaos
   negate: false
   required: false
   type: release_title
-  pattern: iKaos
+  pattern: Sonarr - iKaos
 - name: Sonarr - JySzE
   negate: false
   required: false
   type: release_title
-  pattern: JySzE
+  pattern: Sonarr - JySzE
 - name: Sonarr - LostYears
   negate: false
   required: false
   type: release_title
-  pattern: LostYears
+  pattern: Sonarr - LostYears
 - name: Sonarr - Lulu
   negate: false
   required: false
   type: release_title
-  pattern: Lulu
+  pattern: Sonarr - Lulu
 - name: Sonarr - Matsya
   negate: false
   required: false
   type: release_title
-  pattern: Matsya
+  pattern: Sonarr - Matsya
 - name: Sonarr - MC
   negate: false
   required: false
   type: release_title
-  pattern: MC
+  pattern: Sonarr - MC
 - name: Sonarr - McBalls
   negate: false
   required: false
   type: release_title
-  pattern: McBalls
+  pattern: Sonarr - McBalls
 - name: Sonarr - Metal
   negate: false
   required: false
   type: release_title
-  pattern: Metal
+  pattern: Sonarr - Metal
 - name: Sonarr - Moxie
   negate: false
   required: false
   type: release_title
-  pattern: Moxie
+  pattern: Sonarr - Moxie
 - name: Sonarr - MTBB
   negate: false
   required: false
   type: release_title
-  pattern: MTBB
+  pattern: Sonarr - MTBB
 - name: Sonarr - Not-Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Not-Vodes
+  pattern: Sonarr - Not-Vodes
 - name: Sonarr - Noyr
   negate: false
   required: false
   type: release_title
-  pattern: Noyr
+  pattern: Sonarr - Noyr
 - name: Sonarr - NSDAB
   negate: false
   required: false
   type: release_title
-  pattern: NSDAB
+  pattern: Sonarr - NSDAB
 - name: Sonarr - Okay-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Okay-Subs
+  pattern: Sonarr - Okay-Subs
 - name: Sonarr - pog42
   negate: false
   required: false
   type: release_title
-  pattern: pog42
+  pattern: Sonarr - pog42
 - name: Sonarr - pyroneko
   negate: false
   required: false
   type: release_title
-  pattern: pyroneko
+  pattern: Sonarr - pyroneko
 - name: Sonarr - RAI
   negate: false
   required: false
   type: release_title
-  pattern: RAI
+  pattern: Sonarr - RAI
 - name: Sonarr - Reza
   negate: false
   required: false
   type: release_title
-  pattern: Reza
+  pattern: Sonarr - Reza
 - name: Sonarr - Shimatta
   negate: false
   required: false
   type: release_title
-  pattern: Shimatta
+  pattern: Sonarr - Shimatta
 - name: Sonarr - Smoke
   negate: false
   required: false
   type: release_title
-  pattern: Smoke
+  pattern: Sonarr - Smoke
 - name: Sonarr - Spirale
   negate: false
   required: false
   type: release_title
-  pattern: Spirale
+  pattern: Sonarr - Spirale
 - name: Sonarr - Thighs
   negate: false
   required: false
   type: release_title
-  pattern: Thighs
+  pattern: Sonarr - Thighs
 - name: Sonarr - UDF
   negate: false
   required: false
   type: release_title
-  pattern: UDF
+  pattern: Sonarr - UDF
 - name: Sonarr - Yuki
   negate: false
   required: false
   type: release_title
-  pattern: Yuki
+  pattern: Sonarr - Yuki
 tests: []

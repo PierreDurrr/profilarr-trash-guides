@@ -1,12 +1,12 @@
 name: Sonarr - FLUX
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#flux)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#flux)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
 conditions:
 - name: Sonarr - FLUX
   negate: false
   required: true
   type: release_group
-  pattern: FLUX
+  pattern: Sonarr - FLUX
 tests: []

@@ -1,62 +1,62 @@
 name: Radarr - FR Anime FanSub
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-anime-fansub)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-anime-fansub)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Anime-Heart
   negate: false
   required: false
   type: release_title
-  pattern: Anime-Heart
+  pattern: Radarr - Anime-Heart
 - name: Radarr - Kaerizaki-Fansub
   negate: false
   required: false
   type: release_title
-  pattern: Kaerizaki-Fansub
+  pattern: Radarr - Kaerizaki-Fansub
 - name: Radarr - Natsumi-no-Sekai
   negate: false
   required: false
   type: release_title
-  pattern: Natsumi-no-Sekai
+  pattern: Radarr - Natsumi-no-Sekai
 - name: Radarr - NekoYu'
   negate: false
   required: false
   type: release_title
-  pattern: NekoYu'
+  pattern: Radarr - NekoYu'
 - name: Radarr - Onii-ChanSub
   negate: false
   required: false
   type: release_title
-  pattern: Onii-ChanSub
+  pattern: Radarr - Onii-ChanSub
 - name: Radarr - Owlolf
   negate: false
   required: false
   type: release_title
-  pattern: Owlolf
+  pattern: Radarr - Owlolf
 - name: Radarr - Pikari-Teshima
   negate: false
   required: false
   type: release_title
-  pattern: Pikari-Teshima
+  pattern: Radarr - Pikari-Teshima
 - name: Radarr - Seimeisen
   negate: false
   required: false
   type: release_title
-  pattern: Seimeisen
+  pattern: Radarr - Seimeisen
 - name: Radarr - Team Arcedo
   negate: false
   required: false
   type: release_title
-  pattern: Team Arcedo
+  pattern: Radarr - Team Arcedo
 - name: Radarr - Yarashii
   negate: false
   required: false
   type: release_title
-  pattern: Yarashii
+  pattern: Radarr - Yarashii
 - name: Radarr - Yangire-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Yangire-Raws
+  pattern: Radarr - Yangire-Raws
 tests: []

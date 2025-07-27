@@ -1,8 +1,9 @@
 name: Sonarr - Anime BD Tier 08 (Mini Encodes)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-bd-tier-08-mini-encodes)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-bd-tier-08-mini-encodes)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Bluray
   negate: false
@@ -23,55 +24,55 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: AkihitoSubs
+  pattern: Sonarr - AkihitoSubs
 - name: Sonarr - Arukoru
   negate: false
   required: false
   type: release_title
-  pattern: Arukoru
+  pattern: Sonarr - Arukoru
 - name: Sonarr - EDGE
   negate: false
   required: false
   type: release_title
-  pattern: EDGE
+  pattern: Sonarr - EDGE
 - name: Sonarr - EMBER
   negate: false
   required: false
   type: release_title
-  pattern: EMBER
+  pattern: Sonarr - EMBER
 - name: Sonarr - GHOST
   negate: false
   required: false
   type: release_title
-  pattern: GHOST
+  pattern: Sonarr - GHOST
 - name: Sonarr - Judas
   negate: false
   required: false
   type: release_title
-  pattern: Judas
+  pattern: Sonarr - Judas
 - name: Sonarr - naiyas
   negate: false
   required: false
   type: release_title
-  pattern: naiyas
+  pattern: Sonarr - naiyas
 - name: Sonarr - Nep_Blanc
   negate: false
   required: false
   type: release_title
-  pattern: Nep_Blanc
+  pattern: Sonarr - Nep_Blanc
 - name: Sonarr - Prof
   negate: false
   required: false
   type: release_title
-  pattern: Prof
+  pattern: Sonarr - Prof
 - name: Sonarr - Shirσ
   negate: false
   required: false
   type: release_title
-  pattern: Shirσ
+  pattern: Sonarr - Shirσ
 - name: Sonarr - YURASAKA
   negate: false
   required: false
   type: release_title
-  pattern: YURASAKA
+  pattern: Sonarr - YURASAKA
 tests: []

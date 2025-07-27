@@ -1,37 +1,37 @@
 name: Radarr - HDR10+ Boost
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hdr10plus-boost)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#hdr10plus-boost)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - HDR10+
   negate: false
   required: true
   type: release_title
-  pattern: HDR10+
+  pattern: Radarr - HDR10+
 - name: Radarr - Not DV HDR10
   negate: true
   required: true
   type: release_title
-  pattern: Not DV HDR10
+  pattern: Radarr - Not DV HDR10
 - name: Radarr - Not PQ
   negate: true
   required: true
   type: release_title
-  pattern: Not PQ
+  pattern: Radarr - Not PQ
 - name: Radarr - Not HLG
   negate: true
   required: true
   type: release_title
-  pattern: Not HLG
+  pattern: Radarr - Not HLG
 - name: Radarr - Not SDR
   negate: true
   required: true
   type: release_title
-  pattern: Not SDR
+  pattern: Radarr - Not SDR
 - name: Radarr - Not DV
   negate: true
   required: true
   type: release_title
-  pattern: Not DV
+  pattern: Radarr - Not DV
 tests: []

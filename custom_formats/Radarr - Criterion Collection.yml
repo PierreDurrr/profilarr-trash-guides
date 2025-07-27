@@ -1,8 +1,10 @@
 name: Radarr - Criterion Collection
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#criterion-collection)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#criterion-collection)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Release Title
+- Source
 conditions:
 - name: Radarr - Bluray
   negate: false
@@ -18,15 +20,15 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Criterion
+  pattern: Radarr - Criterion
 - name: Radarr - CC
   negate: false
   required: false
   type: release_title
-  pattern: CC
+  pattern: Radarr - CC
 - name: Radarr - Not Criterion RlsGrp
   negate: true
   required: true
   type: release_group
-  pattern: Not Criterion RlsGrp
+  pattern: Radarr - Not Criterion RlsGrp
 tests: []

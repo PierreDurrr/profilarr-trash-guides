@@ -1,19 +1,20 @@
 name: Radarr - iT
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#it)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#it)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - iTunes
   negate: false
   required: false
   type: release_title
-  pattern: iTunes
+  pattern: Radarr - iTunes
 - name: Radarr - iT Rename
   negate: false
   required: false
   type: release_title
-  pattern: iT Rename
+  pattern: Radarr - iT Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

@@ -1,19 +1,20 @@
 name: Radarr - ITVX
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#itvx)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#itvx)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - ITVX
   negate: false
   required: false
   type: release_title
-  pattern: ITVX
+  pattern: Radarr - ITVX
 - name: Radarr - ITVX Rename
   negate: false
   required: false
   type: release_title
-  pattern: ITVX Rename
+  pattern: Radarr - ITVX Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

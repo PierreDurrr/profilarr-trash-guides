@@ -1,19 +1,20 @@
 name: Radarr - HBO
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hbo)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#hbo)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - HBO
   negate: false
   required: false
   type: release_title
-  pattern: HBO
+  pattern: Radarr - HBO
 - name: Radarr - HBO Rename
   negate: false
   required: false
   type: release_title
-  pattern: HBO Rename
+  pattern: Radarr - HBO Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

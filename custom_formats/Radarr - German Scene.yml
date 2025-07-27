@@ -1,172 +1,172 @@
 name: Radarr - German Scene
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-scene)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-scene)'
 tags:
-- Release Group
 - Radarr
+- Release Group
 conditions:
 - name: Radarr - DETAiLS
   negate: false
   required: false
   type: release_group
-  pattern: DETAiLS
+  pattern: Radarr - DETAiLS
 - name: Radarr - WAYNE
   negate: false
   required: false
   type: release_group
-  pattern: WAYNE
+  pattern: Radarr - WAYNE
 - name: Radarr - WOMBAT
   negate: false
   required: false
   type: release_group
-  pattern: WOMBAT
+  pattern: Radarr - WOMBAT
 - name: Radarr - SAUERKRAUT
   negate: false
   required: false
   type: release_group
-  pattern: SAUERKRAUT
+  pattern: Radarr - SAUERKRAUT
 - name: Radarr - WvF
   negate: false
   required: false
   type: release_group
-  pattern: WvF
+  pattern: Radarr - WvF
 - name: Radarr - 4KCONNECTiON
   negate: false
   required: false
   type: release_group
-  pattern: 4KCONNECTiON
+  pattern: Radarr - 4KCONNECTiON
 - name: Radarr - STARS
   negate: false
   required: false
   type: release_group
-  pattern: STARS
+  pattern: Radarr - STARS
 - name: Radarr - AWARDS
   negate: false
   required: false
   type: release_group
-  pattern: AWARDS
+  pattern: Radarr - AWARDS
 - name: Radarr - DMPD
   negate: false
   required: false
   type: release_group
-  pattern: DMPD
+  pattern: Radarr - DMPD
 - name: Radarr - EXCiTED
   negate: false
   required: false
   type: release_group
-  pattern: EXCiTED
+  pattern: Radarr - EXCiTED
 - name: Radarr - iNTENTiON
   negate: false
   required: false
   type: release_group
-  pattern: iNTENTiON
+  pattern: Radarr - iNTENTiON
 - name: Radarr - JaJunge
   negate: false
   required: false
   type: release_group
-  pattern: JaJunge
+  pattern: Radarr - JaJunge
 - name: Radarr - MGE
   negate: false
   required: false
   type: release_group
-  pattern: MGE
+  pattern: Radarr - MGE
 - name: Radarr - MisFiTS
   negate: false
   required: false
   type: release_group
-  pattern: MisFiTS
+  pattern: Radarr - MisFiTS
 - name: Radarr - RUBBiSH
   negate: false
   required: false
   type: release_group
-  pattern: RUBBiSH
+  pattern: Radarr - RUBBiSH
 - name: Radarr - RWP
   negate: false
   required: false
   type: release_group
-  pattern: RWP
+  pattern: Radarr - RWP
 - name: Radarr - TMSF
   negate: false
   required: false
   type: release_group
-  pattern: TMSF
+  pattern: Radarr - TMSF
 - name: Radarr - TV4A
   negate: false
   required: false
   type: release_group
-  pattern: TV4A
+  pattern: Radarr - TV4A
 - name: Radarr - HAXE
   negate: false
   required: false
   type: release_group
-  pattern: HAXE
+  pattern: Radarr - HAXE
 - name: Radarr - muhHD
   negate: false
   required: false
   type: release_group
-  pattern: muhHD
+  pattern: Radarr - muhHD
 - name: Radarr - RiLE
   negate: false
   required: false
   type: release_group
-  pattern: RiLE
+  pattern: Radarr - RiLE
 - name: Radarr - W4K
   negate: false
   required: false
   type: release_group
-  pattern: W4K
+  pattern: Radarr - W4K
 - name: Radarr - ENDSTATiON
   negate: false
   required: false
   type: release_group
-  pattern: ENDSTATiON
+  pattern: Radarr - ENDSTATiON
 - name: Radarr - HDARCHiV
   negate: false
   required: false
   type: release_group
-  pattern: HDARCHiV
+  pattern: Radarr - HDARCHiV
 - name: Radarr - PL3X
   negate: false
   required: false
   type: release_group
-  pattern: PL3X
+  pattern: Radarr - PL3X
 - name: Radarr - WATCHABLE
   negate: false
   required: false
   type: release_group
-  pattern: WATCHABLE
+  pattern: Radarr - WATCHABLE
 - name: Radarr - OHD
   negate: false
   required: false
   type: release_group
-  pattern: OHD
+  pattern: Radarr - OHD
 - name: Radarr - ENCOUNTERS
   negate: false
   required: false
   type: release_group
-  pattern: ENCOUNTERS
+  pattern: Radarr - ENCOUNTERS
 - name: Radarr - RSG
   negate: false
   required: false
   type: release_group
-  pattern: RSG
+  pattern: Radarr - RSG
 - name: Radarr - OCA
   negate: false
   required: false
   type: release_group
-  pattern: OCA
+  pattern: Radarr - OCA
 - name: Radarr - UNDERTAKERS
   negate: false
   required: false
   type: release_group
-  pattern: UNDERTAKERS
+  pattern: Radarr - UNDERTAKERS
 - name: Radarr - CDP
   negate: false
   required: false
   type: release_group
-  pattern: CDP
+  pattern: Radarr - CDP
 - name: Radarr - SAViOURHD
   negate: false
   required: false
   type: release_group
-  pattern: SAViOURHD
+  pattern: Radarr - SAViOURHD
 tests: []

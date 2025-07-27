@@ -1,27 +1,27 @@
 name: Radarr - German Microsized
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-microsized)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-microsized)'
 tags:
-- Release Group
 - Radarr
+- Release Group
 conditions:
 - name: Radarr - FuN
   negate: false
   required: false
   type: release_group
-  pattern: FuN
+  pattern: Radarr - FuN
 - name: Radarr - w00t
   negate: false
   required: false
   type: release_group
-  pattern: w00t
+  pattern: Radarr - w00t
 - name: Radarr - GTF
   negate: false
   required: false
   type: release_group
-  pattern: GTF
+  pattern: Radarr - GTF
 - name: Radarr - JellyfinPlex
   negate: false
   required: false
   type: release_group
-  pattern: JellyfinPlex
+  pattern: Radarr - JellyfinPlex
 tests: []

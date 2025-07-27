@@ -1,92 +1,92 @@
 name: Sonarr - Obfuscated
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#obfuscated)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#obfuscated)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - 4P
   negate: false
   required: false
   type: release_title
-  pattern: 4P
+  pattern: Sonarr - 4P
 - name: Sonarr - 4Planet
   negate: false
   required: false
   type: release_title
-  pattern: 4Planet
+  pattern: Sonarr - 4Planet
 - name: Sonarr - AsRequested
   negate: false
   required: false
   type: release_title
-  pattern: AsRequested
+  pattern: Sonarr - AsRequested
 - name: Sonarr - BUYMORE
   negate: false
   required: false
   type: release_title
-  pattern: BUYMORE
+  pattern: Sonarr - BUYMORE
 - name: Sonarr - Chamele0n
   negate: false
   required: false
   type: release_title
-  pattern: Chamele0n
+  pattern: Sonarr - Chamele0n
 - name: Sonarr - GEROV
   negate: false
   required: false
   type: release_title
-  pattern: GEROV
+  pattern: Sonarr - GEROV
 - name: Sonarr - iNC0GNiTO
   negate: false
   required: false
   type: release_title
-  pattern: iNC0GNiTO
+  pattern: Sonarr - iNC0GNiTO
 - name: Sonarr - NZBGeek
   negate: false
   required: false
   type: release_title
-  pattern: NZBGeek
+  pattern: Sonarr - NZBGeek
 - name: Sonarr - Obfuscated
   negate: false
   required: false
   type: release_title
-  pattern: Obfuscated
+  pattern: Sonarr - Obfuscated
 - name: Sonarr - postbot
   negate: false
   required: false
   type: release_title
-  pattern: postbot
+  pattern: Sonarr - postbot
 - name: Sonarr - Rakuv
   negate: false
   required: false
   type: release_title
-  pattern: Rakuv
+  pattern: Sonarr - Rakuv
 - name: Sonarr - Scrambled
   negate: false
   required: false
   type: release_title
-  pattern: Scrambled
+  pattern: Sonarr - Scrambled
 - name: Sonarr - WhiteRev
   negate: false
   required: false
   type: release_title
-  pattern: WhiteRev
+  pattern: Sonarr - WhiteRev
 - name: Sonarr - xpost
   negate: false
   required: false
   type: release_title
-  pattern: xpost
+  pattern: Sonarr - xpost
 - name: Sonarr - WRTEAM
   negate: false
   required: false
   type: release_title
-  pattern: WRTEAM
+  pattern: Sonarr - WRTEAM
 - name: Sonarr - CAPTCHA
   negate: false
   required: false
   type: release_title
-  pattern: CAPTCHA
+  pattern: Sonarr - CAPTCHA
 - name: Sonarr - _nzb
   negate: false
   required: false
   type: release_title
-  pattern: _nzb
+  pattern: Sonarr - _nzb
 tests: []

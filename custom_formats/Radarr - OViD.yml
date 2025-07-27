@@ -1,14 +1,15 @@
 name: Radarr - OViD
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ovid)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#ovid)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - OViD
   negate: false
   required: true
   type: release_title
-  pattern: OViD
+  pattern: Radarr - OViD
 - name: Radarr - WEBDL
   negate: false
   required: false

@@ -1,17 +1,18 @@
 name: Radarr - Opus
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#opus)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#opus)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Release Title
 conditions:
 - name: Radarr - Opus
   negate: false
   required: true
   type: release_title
-  pattern: Opus
+  pattern: Radarr - Opus
 - name: Radarr - Not OPUS Release Group
   negate: true
   required: true
   type: release_group
-  pattern: Not OPUS Release Group
+  pattern: Radarr - Not OPUS Release Group
 tests: []

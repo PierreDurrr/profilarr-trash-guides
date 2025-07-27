@@ -1,8 +1,9 @@
 name: Radarr - WEB Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#web-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#web-tier-01)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false
@@ -18,90 +19,90 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: ABBIE
+  pattern: Radarr - ABBIE
 - name: Radarr - AJP69
   negate: false
   required: false
   type: release_group
-  pattern: AJP69
+  pattern: Radarr - AJP69
 - name: Radarr - APEX
   negate: false
   required: false
   type: release_group
-  pattern: APEX
+  pattern: Radarr - APEX
 - name: Radarr - BLUTONiUM
   negate: false
   required: false
   type: release_group
-  pattern: BLUTONiUM
+  pattern: Radarr - BLUTONiUM
 - name: Radarr - CMRG
   negate: false
   required: false
   type: release_group
-  pattern: CMRG
+  pattern: Radarr - CMRG
 - name: Radarr - CRFW
   negate: false
   required: false
   type: release_group
-  pattern: CRFW
+  pattern: Radarr - CRFW
 - name: Radarr - CRUD
   negate: false
   required: false
   type: release_group
-  pattern: CRUD
+  pattern: Radarr - CRUD
 - name: Radarr - FLUX
   negate: false
   required: false
   type: release_group
-  pattern: FLUX
+  pattern: Radarr - FLUX
 - name: Radarr - GNOME
   negate: false
   required: false
   type: release_group
-  pattern: GNOME
+  pattern: Radarr - GNOME
 - name: Radarr - HONE
   negate: false
   required: false
   type: release_group
-  pattern: HONE
+  pattern: Radarr - HONE
 - name: Radarr - KiNGS
   negate: false
   required: false
   type: release_group
-  pattern: KiNGS
+  pattern: Radarr - KiNGS
 - name: Radarr - Kitsune
   negate: false
   required: false
   type: release_group
-  pattern: Kitsune
+  pattern: Radarr - Kitsune
 - name: Radarr - NOSiViD
   negate: false
   required: false
   type: release_group
-  pattern: NOSiViD
+  pattern: Radarr - NOSiViD
 - name: Radarr - NTb
   negate: false
   required: false
   type: release_group
-  pattern: NTb
+  pattern: Radarr - NTb
 - name: Radarr - NTG
   negate: false
   required: false
   type: release_group
-  pattern: NTG
+  pattern: Radarr - NTG
 - name: Radarr - SiC
   negate: false
   required: false
   type: release_group
-  pattern: SiC
+  pattern: Radarr - SiC
 - name: Radarr - TEPES
   negate: false
   required: false
   type: release_group
-  pattern: TEPES
+  pattern: Radarr - TEPES
 - name: Radarr - ZoroSenpai
   negate: false
   required: false
   type: release_group
-  pattern: ZoroSenpai
+  pattern: Radarr - ZoroSenpai
 tests: []

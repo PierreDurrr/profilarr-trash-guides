@@ -1,42 +1,42 @@
 name: Radarr - Retags
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#retags)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#retags)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - (rartv)
   negate: false
   required: false
   type: release_title
-  pattern: '[rartv]'
+  pattern: Radarr - (rartv)
 - name: Radarr - (rarbg)
   negate: false
   required: false
   type: release_title
-  pattern: '[rarbg]'
+  pattern: Radarr - (rarbg)
 - name: Radarr - (eztv)
   negate: false
   required: false
   type: release_title
-  pattern: '[eztv]'
+  pattern: Radarr - (eztv)
 - name: Radarr - (TGx)
   negate: false
   required: false
   type: release_title
-  pattern: '[TGx]'
+  pattern: Radarr - (TGx)
 - name: Radarr - .VAV
   negate: false
   required: false
   type: release_title
-  pattern: .VAV
+  pattern: Radarr - .VAV
 - name: Radarr - .heb
   negate: false
   required: false
   type: release_title
-  pattern: .heb
+  pattern: Radarr - .heb
 - name: Radarr - ORARBG
   negate: false
   required: false
   type: release_title
-  pattern: ORARBG
+  pattern: Radarr - ORARBG
 tests: []

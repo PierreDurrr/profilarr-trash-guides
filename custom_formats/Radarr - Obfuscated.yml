@@ -1,92 +1,92 @@
 name: Radarr - Obfuscated
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#obfuscated)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#obfuscated)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - 4P
   negate: false
   required: false
   type: release_title
-  pattern: 4P
+  pattern: Radarr - 4P
 - name: Radarr - 4Planet
   negate: false
   required: false
   type: release_title
-  pattern: 4Planet
+  pattern: Radarr - 4Planet
 - name: Radarr - AsRequested
   negate: false
   required: false
   type: release_title
-  pattern: AsRequested
+  pattern: Radarr - AsRequested
 - name: Radarr - BUYMORE
   negate: false
   required: false
   type: release_title
-  pattern: BUYMORE
+  pattern: Radarr - BUYMORE
 - name: Radarr - Chamele0n
   negate: false
   required: false
   type: release_title
-  pattern: Chamele0n
+  pattern: Radarr - Chamele0n
 - name: Radarr - GEROV
   negate: false
   required: false
   type: release_title
-  pattern: GEROV
+  pattern: Radarr - GEROV
 - name: Radarr - iNC0GNiTO
   negate: false
   required: false
   type: release_title
-  pattern: iNC0GNiTO
+  pattern: Radarr - iNC0GNiTO
 - name: Radarr - NZBGeek
   negate: false
   required: false
   type: release_title
-  pattern: NZBGeek
+  pattern: Radarr - NZBGeek
 - name: Radarr - Obfuscated
   negate: false
   required: false
   type: release_title
-  pattern: Obfuscated
+  pattern: Radarr - Obfuscated
 - name: Radarr - postbot
   negate: false
   required: false
   type: release_title
-  pattern: postbot
+  pattern: Radarr - postbot
 - name: Radarr - Rakuv
   negate: false
   required: false
   type: release_title
-  pattern: Rakuv
+  pattern: Radarr - Rakuv
 - name: Radarr - Scrambled
   negate: false
   required: false
   type: release_title
-  pattern: Scrambled
+  pattern: Radarr - Scrambled
 - name: Radarr - WhiteRev
   negate: false
   required: false
   type: release_title
-  pattern: WhiteRev
+  pattern: Radarr - WhiteRev
 - name: Radarr - xpost
   negate: false
   required: false
   type: release_title
-  pattern: xpost
+  pattern: Radarr - xpost
 - name: Radarr - WRTEAM
   negate: false
   required: false
   type: release_title
-  pattern: WRTEAM
+  pattern: Radarr - WRTEAM
 - name: Radarr - CAPTCHA
   negate: false
   required: false
   type: release_title
-  pattern: CAPTCHA
+  pattern: Radarr - CAPTCHA
 - name: Radarr - _nzb
   negate: false
   required: false
   type: release_title
-  pattern: _nzb
+  pattern: Radarr - _nzb
 tests: []

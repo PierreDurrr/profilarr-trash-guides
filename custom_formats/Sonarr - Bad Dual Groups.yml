@@ -1,137 +1,137 @@
 name: Sonarr - Bad Dual Groups
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#bad-dual-groups)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#bad-dual-groups)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
 conditions:
 - name: Sonarr - alfaHD
   negate: false
   required: false
   type: release_group
-  pattern: alfaHD
+  pattern: Sonarr - alfaHD
 - name: Sonarr - BAT
   negate: false
   required: false
   type: release_group
-  pattern: BAT
+  pattern: Sonarr - BAT
 - name: Sonarr - BlackBit
   negate: false
   required: false
   type: release_group
-  pattern: BlackBit
+  pattern: Sonarr - BlackBit
 - name: Sonarr - BNd
   negate: false
   required: false
   type: release_group
-  pattern: BNd
+  pattern: Sonarr - BNd
 - name: Sonarr - C.A.A
   negate: false
   required: false
   type: release_group
-  pattern: C.A.A
+  pattern: Sonarr - C.A.A
 - name: Sonarr - Cory
   negate: false
   required: false
   type: release_group
-  pattern: Cory
+  pattern: Sonarr - Cory
 - name: Sonarr - EXTREME
   negate: false
   required: false
   type: release_group
-  pattern: EXTREME
+  pattern: Sonarr - EXTREME
 - name: Sonarr - FF
   negate: false
   required: false
   type: release_group
-  pattern: FF
+  pattern: Sonarr - FF
 - name: Sonarr - FOXX
   negate: false
   required: false
   type: release_group
-  pattern: FOXX
+  pattern: Sonarr - FOXX
 - name: Sonarr - G4RiS
   negate: false
   required: false
   type: release_group
-  pattern: G4RiS
+  pattern: Sonarr - G4RiS
 - name: Sonarr - GUEIRA
   negate: false
   required: false
   type: release_group
-  pattern: GUEIRA
+  pattern: Sonarr - GUEIRA
 - name: Sonarr - LCD
   negate: false
   required: false
   type: release_group
-  pattern: LCD
+  pattern: Sonarr - LCD
 - name: Sonarr - N3G4N
   negate: false
   required: false
   type: release_group
-  pattern: N3G4N
+  pattern: Sonarr - N3G4N
 - name: Sonarr - PD
   negate: false
   required: false
   type: release_group
-  pattern: PD
+  pattern: Sonarr - PD
 - name: Sonarr - PTHome
   negate: false
   required: false
   type: release_group
-  pattern: PTHome
+  pattern: Sonarr - PTHome
 - name: Sonarr - RiPER
   negate: false
   required: false
   type: release_group
-  pattern: RiPER
+  pattern: Sonarr - RiPER
 - name: Sonarr - RK
   negate: false
   required: false
   type: release_group
-  pattern: RK
+  pattern: Sonarr - RK
 - name: Sonarr - SiGLA
   negate: false
   required: false
   type: release_group
-  pattern: SiGLA
+  pattern: Sonarr - SiGLA
 - name: Sonarr - Tars
   negate: false
   required: false
   type: release_group
-  pattern: Tars
+  pattern: Sonarr - Tars
 - name: Sonarr - tokar86a
   negate: false
   required: false
   type: release_group
-  pattern: tokar86a
+  pattern: Sonarr - tokar86a
 - name: Sonarr - vnlls
   negate: false
   required: false
   type: release_group
-  pattern: vnlls
+  pattern: Sonarr - vnlls
 - name: Sonarr - WTV
   negate: false
   required: false
   type: release_group
-  pattern: WTV
+  pattern: Sonarr - WTV
 - name: Sonarr - Yatogam1
   negate: false
   required: false
   type: release_group
-  pattern: Yatogam1
+  pattern: Sonarr - Yatogam1
 - name: Sonarr - YusukeFLA
   negate: false
   required: false
   type: release_group
-  pattern: YusukeFLA
+  pattern: Sonarr - YusukeFLA
 - name: Sonarr - ZigZag
   negate: false
   required: false
   type: release_group
-  pattern: ZigZag
+  pattern: Sonarr - ZigZag
 - name: Sonarr - ZNM
   negate: false
   required: false
   type: release_group
-  pattern: ZNM
+  pattern: Sonarr - ZNM
 tests: []

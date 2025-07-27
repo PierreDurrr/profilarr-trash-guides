@@ -1,8 +1,9 @@
 name: Sonarr - Anime Web Tier 02 (Top FanSubs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-web-tier-02-top-fansubs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-web-tier-02-top-fansubs)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -23,90 +24,90 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '0x539'
+  pattern: Sonarr - 0x539
 - name: Sonarr - Asakura
   negate: false
   required: false
   type: release_title
-  pattern: Asakura
+  pattern: Sonarr - Asakura
 - name: Sonarr - Cyan
   negate: false
   required: false
   type: release_title
-  pattern: Cyan
+  pattern: Sonarr - Cyan
 - name: Sonarr - Dae
   negate: false
   required: false
   type: release_title
-  pattern: Dae
+  pattern: Sonarr - Dae
 - name: Sonarr - Foxtrot
   negate: false
   required: false
   type: release_title
-  pattern: Foxtrot
+  pattern: Sonarr - Foxtrot
 - name: Sonarr - Gao
   negate: false
   required: false
   type: release_title
-  pattern: Gao
+  pattern: Sonarr - Gao
 - name: Sonarr - GSK_kun
   negate: false
   required: false
   type: release_title
-  pattern: GSK_kun
+  pattern: Sonarr - GSK_kun
 - name: Sonarr - Half-Baked
   negate: false
   required: false
   type: release_title
-  pattern: Half-Baked
+  pattern: Sonarr - Half-Baked
 - name: Sonarr - HatSubs
   negate: false
   required: false
   type: release_title
-  pattern: HatSubs
+  pattern: Sonarr - HatSubs
 - name: Sonarr - MALD
   negate: false
   required: false
   type: release_title
-  pattern: MALD
+  pattern: Sonarr - MALD
 - name: Sonarr - MTBB
   negate: false
   required: false
   type: release_title
-  pattern: MTBB
+  pattern: Sonarr - MTBB
 - name: Sonarr - Not-Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Not-Vodes
+  pattern: Sonarr - Not-Vodes
 - name: Sonarr - Okay-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Okay-Subs
+  pattern: Sonarr - Okay-Subs
 - name: Sonarr - Pizza
   negate: false
   required: false
   type: release_title
-  pattern: Pizza
+  pattern: Sonarr - Pizza
 - name: Sonarr - Reza
   negate: false
   required: false
   type: release_title
-  pattern: Reza
+  pattern: Sonarr - Reza
 - name: Sonarr - Slyfox
   negate: false
   required: false
   type: release_title
-  pattern: Slyfox
+  pattern: Sonarr - Slyfox
 - name: Sonarr - SoLCE
   negate: false
   required: false
   type: release_title
-  pattern: SoLCE
+  pattern: Sonarr - SoLCE
 - name: Sonarr - Tenshi
   negate: false
   required: false
   type: release_title
-  pattern: Tenshi
+  pattern: Sonarr - Tenshi
 tests: []

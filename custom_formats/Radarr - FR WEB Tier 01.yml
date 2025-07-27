@@ -1,8 +1,9 @@
 name: Radarr - FR WEB Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-web-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-web-tier-01)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false
@@ -18,70 +19,70 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: BONBON
+  pattern: Radarr - BONBON
 - name: Radarr - FCK
   negate: false
   required: false
   type: release_group
-  pattern: FCK
+  pattern: Radarr - FCK
 - name: Radarr - FW
   negate: false
   required: false
   type: release_group
-  pattern: FW
+  pattern: Radarr - FW
 - name: Radarr - FoX
   negate: false
   required: false
   type: release_group
-  pattern: FoX
+  pattern: Radarr - FoX
 - name: Radarr - FRATERNiTY
   negate: false
   required: false
   type: release_group
-  pattern: FRATERNiTY
+  pattern: Radarr - FRATERNiTY
 - name: Radarr - FrIeNdS
   negate: false
   required: false
   type: release_group
-  pattern: FrIeNdS
+  pattern: Radarr - FrIeNdS
 - name: Radarr - MOONLY
   negate: false
   required: false
   type: release_group
-  pattern: MOONLY
+  pattern: Radarr - MOONLY
 - name: Radarr - MTDK
   negate: false
   required: false
   type: release_group
-  pattern: MTDK
+  pattern: Radarr - MTDK
 - name: Radarr - PATOPESTO
   negate: false
   required: false
   type: release_group
-  pattern: PATOPESTO
+  pattern: Radarr - PATOPESTO
 - name: Radarr - Psaro
   negate: false
   required: false
   type: release_group
-  pattern: Psaro
+  pattern: Radarr - Psaro
 - name: Radarr - RG
   negate: false
   required: false
   type: release_group
-  pattern: RG
+  pattern: Radarr - RG
 - name: Radarr - SUPPLY
   negate: false
   required: false
   type: release_group
-  pattern: SUPPLY
+  pattern: Radarr - SUPPLY
 - name: Radarr - TFA
   negate: false
   required: false
   type: release_group
-  pattern: TFA
+  pattern: Radarr - TFA
 - name: Radarr - TiNA
   negate: false
   required: false
   type: release_group
-  pattern: TiNA
+  pattern: Radarr - TiNA
 tests: []

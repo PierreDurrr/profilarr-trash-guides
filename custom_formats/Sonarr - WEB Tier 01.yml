@@ -1,109 +1,110 @@
 name: Sonarr - WEB Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#web-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#web-tier-01)'
 tags:
-- Source
 - Sonarr
+- Release Group
+- Source
 conditions:
 - name: Sonarr - ABBiE
   negate: false
   required: false
   type: release_group
-  pattern: ABBiE
+  pattern: Sonarr - ABBiE
 - name: Sonarr - AJP69
   negate: false
   required: false
   type: release_group
-  pattern: AJP69
+  pattern: Sonarr - AJP69
 - name: Sonarr - APEX
   negate: false
   required: false
   type: release_group
-  pattern: APEX
+  pattern: Sonarr - APEX
 - name: Sonarr - CasStudio
   negate: false
   required: false
   type: release_group
-  pattern: CasStudio
+  pattern: Sonarr - CasStudio
 - name: Sonarr - CRFW
   negate: false
   required: false
   type: release_group
-  pattern: CRFW
+  pattern: Sonarr - CRFW
 - name: Sonarr - CtrlHD
   negate: false
   required: false
   type: release_group
-  pattern: CtrlHD
+  pattern: Sonarr - CtrlHD
 - name: Sonarr - FLUX
   negate: false
   required: false
   type: release_group
-  pattern: FLUX
+  pattern: Sonarr - FLUX
 - name: Sonarr - HONE
   negate: false
   required: false
   type: release_group
-  pattern: HONE
+  pattern: Sonarr - HONE
 - name: Sonarr - KiNGS
   negate: false
   required: false
   type: release_group
-  pattern: KiNGS
+  pattern: Sonarr - KiNGS
 - name: Sonarr - Kitsune
   negate: false
   required: false
   type: release_group
-  pattern: Kitsune
+  pattern: Sonarr - Kitsune
 - name: Sonarr - monkee
   negate: false
   required: false
   type: release_group
-  pattern: monkee
+  pattern: Sonarr - monkee
 - name: Sonarr - NOSiViD
   negate: false
   required: false
   type: release_group
-  pattern: NOSiViD
+  pattern: Sonarr - NOSiViD
 - name: Sonarr - NTb
   negate: false
   required: false
   type: release_group
-  pattern: NTb
+  pattern: Sonarr - NTb
 - name: Sonarr - NTG
   negate: false
   required: false
   type: release_group
-  pattern: NTG
+  pattern: Sonarr - NTG
 - name: Sonarr - QOQ
   negate: false
   required: false
   type: release_group
-  pattern: QOQ
+  pattern: Sonarr - QOQ
 - name: Sonarr - RTN
   negate: false
   required: false
   type: release_group
-  pattern: RTN
+  pattern: Sonarr - RTN
 - name: Sonarr - SiC
   negate: false
   required: false
   type: release_group
-  pattern: SiC
+  pattern: Sonarr - SiC
 - name: Sonarr - T6D
   negate: false
   required: false
   type: release_group
-  pattern: T6D
+  pattern: Sonarr - T6D
 - name: Sonarr - TOMMY
   negate: false
   required: false
   type: release_group
-  pattern: TOMMY
+  pattern: Sonarr - TOMMY
 - name: Sonarr - ViSUM
   negate: false
   required: false
   type: release_group
-  pattern: ViSUM
+  pattern: Sonarr - ViSUM
 - name: Sonarr - WEBDL
   negate: false
   required: false

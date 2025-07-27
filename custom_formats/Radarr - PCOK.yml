@@ -1,14 +1,15 @@
 name: Radarr - PCOK
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#pcok)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#pcok)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Peacock TV
   negate: false
   required: true
   type: release_title
-  pattern: Peacock TV
+  pattern: Radarr - Peacock TV
 - name: Radarr - WEBDL
   negate: false
   required: false

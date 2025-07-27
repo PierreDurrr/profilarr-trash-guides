@@ -1,17 +1,17 @@
 name: Radarr - VOSTFR
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vostfr)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-vostfr)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - VOSTFR
   negate: false
   required: false
   type: release_title
-  pattern: VOSTFR
+  pattern: Radarr - VOSTFR
 - name: Radarr - SUBFRENCH
   negate: false
   required: false
   type: release_title
-  pattern: SUBFRENCH
+  pattern: Radarr - SUBFRENCH
 tests: []

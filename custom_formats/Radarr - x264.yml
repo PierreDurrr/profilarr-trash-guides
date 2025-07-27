@@ -1,14 +1,15 @@
 name: Radarr - x264
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x264)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#x264)'
 tags:
-- Quality Modifier
 - Radarr
+- Release Title
+- Quality Modifier
 conditions:
 - name: Radarr - x|h264
   negate: false
   required: true
   type: release_title
-  pattern: x|h264
+  pattern: Radarr - x|h264
 - name: Radarr - Remux
   negate: true
   required: true

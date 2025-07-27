@@ -1,12 +1,12 @@
 name: Radarr - v0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#v0)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#v0)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - v0
   negate: false
   required: true
   type: release_title
-  pattern: v0
+  pattern: Radarr - v0
 tests: []

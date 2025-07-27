@@ -1,32 +1,32 @@
 name: Radarr - Special Edition
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#special-edition)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#special-edition)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Special Edition
   negate: false
   required: true
   type: release_title
-  pattern: Special Edition
+  pattern: Radarr - Special Edition
 - name: Radarr - Not IMAX Edition
   negate: true
   required: true
   type: release_title
-  pattern: Not IMAX Edition
+  pattern: Radarr - Not IMAX Edition
 - name: Radarr - Not Open Matte
   negate: true
   required: true
   type: release_title
-  pattern: Not Open Matte
+  pattern: Radarr - Not Open Matte
 - name: Radarr - Not Theatrical
   negate: true
   required: true
   type: release_title
-  pattern: Not Theatrical
+  pattern: Radarr - Not Theatrical
 - name: Radarr - Not Extended Clip
   negate: true
   required: true
   type: release_title
-  pattern: Not Extended Clip
+  pattern: Radarr - Not Extended Clip
 tests: []

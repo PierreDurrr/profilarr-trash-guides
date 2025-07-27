@@ -1,8 +1,9 @@
 name: Radarr - Anime BD Tier 02 (SeaDex Muxers)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-02-seadex-muxers)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-bd-tier-02-seadex-muxers)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Bluray
   negate: false
@@ -18,220 +19,220 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: '0x539'
+  pattern: Radarr - 0x539
 - name: Radarr - Alt
   negate: false
   required: false
   type: release_title
-  pattern: Alt
+  pattern: Radarr - Alt
 - name: Radarr - ARC
   negate: false
   required: false
   type: release_title
-  pattern: ARC
+  pattern: Radarr - ARC
 - name: Radarr - Arid
   negate: false
   required: false
   type: release_title
-  pattern: Arid
+  pattern: Radarr - Arid
 - name: Radarr - aro
   negate: false
   required: false
   type: release_title
-  pattern: aro
+  pattern: Radarr - aro
 - name: Radarr - Baws
   negate: false
   required: false
   type: release_title
-  pattern: Baws
+  pattern: Radarr - Baws
 - name: Radarr - BKC
   negate: false
   required: false
   type: release_title
-  pattern: BKC
+  pattern: Radarr - BKC
 - name: Radarr - Brrrrrrr
   negate: false
   required: false
   type: release_title
-  pattern: Brrrrrrr
+  pattern: Radarr - Brrrrrrr
 - name: Radarr - Chotab
   negate: false
   required: false
   type: release_title
-  pattern: Chotab
+  pattern: Radarr - Chotab
 - name: Radarr - Crow
   negate: false
   required: false
   type: release_title
-  pattern: Crow
+  pattern: Radarr - Crow
 - name: Radarr - CsS
   negate: false
   required: false
   type: release_title
-  pattern: CsS
+  pattern: Radarr - CsS
 - name: Radarr - CUNNY
   negate: false
   required: false
   type: release_title
-  pattern: CUNNY
+  pattern: Radarr - CUNNY
 - name: Radarr - Cunnysseur
   negate: false
   required: false
   type: release_title
-  pattern: Cunnysseur
+  pattern: Radarr - Cunnysseur
 - name: Radarr - D-Z0N3
   negate: false
   required: false
   type: release_title
-  pattern: D-Z0N3
+  pattern: Radarr - D-Z0N3
 - name: Radarr - Dae
   negate: false
   required: false
   type: release_title
-  pattern: Dae
+  pattern: Radarr - Dae
 - name: Radarr - Datte13
   negate: false
   required: false
   type: release_title
-  pattern: Datte13
+  pattern: Radarr - Datte13
 - name: Radarr - DemiHuman
   negate: false
   required: false
   type: release_title
-  pattern: DemiHuman
+  pattern: Radarr - DemiHuman
 - name: Radarr - Drag
   negate: false
   required: false
   type: release_title
-  pattern: Drag
+  pattern: Radarr - Drag
 - name: Radarr - FLFL
   negate: false
   required: false
   type: release_title
-  pattern: FLFL
+  pattern: Radarr - FLFL
 - name: Radarr - hydes
   negate: false
   required: false
   type: release_title
-  pattern: hydes
+  pattern: Radarr - hydes
 - name: Radarr - iKaos
   negate: false
   required: false
   type: release_title
-  pattern: iKaos
+  pattern: Radarr - iKaos
 - name: Radarr - JySzE
   negate: false
   required: false
   type: release_title
-  pattern: JySzE
+  pattern: Radarr - JySzE
 - name: Radarr - LostYears
   negate: false
   required: false
   type: release_title
-  pattern: LostYears
+  pattern: Radarr - LostYears
 - name: Radarr - Lulu
   negate: false
   required: false
   type: release_title
-  pattern: Lulu
+  pattern: Radarr - Lulu
 - name: Radarr - Matsya
   negate: false
   required: false
   type: release_title
-  pattern: Matsya
+  pattern: Radarr - Matsya
 - name: Radarr - MC
   negate: false
   required: false
   type: release_title
-  pattern: MC
+  pattern: Radarr - MC
 - name: Radarr - McBalls
   negate: false
   required: false
   type: release_title
-  pattern: McBalls
+  pattern: Radarr - McBalls
 - name: Radarr - Metal
   negate: false
   required: false
   type: release_title
-  pattern: Metal
+  pattern: Radarr - Metal
 - name: Radarr - Moxie
   negate: false
   required: false
   type: release_title
-  pattern: Moxie
+  pattern: Radarr - Moxie
 - name: Radarr - MTBB
   negate: false
   required: false
   type: release_title
-  pattern: MTBB
+  pattern: Radarr - MTBB
 - name: Radarr - Not-Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Not-Vodes
+  pattern: Radarr - Not-Vodes
 - name: Radarr - Noyr
   negate: false
   required: false
   type: release_title
-  pattern: Noyr
+  pattern: Radarr - Noyr
 - name: Radarr - NSDAB
   negate: false
   required: false
   type: release_title
-  pattern: NSDAB
+  pattern: Radarr - NSDAB
 - name: Radarr - Okay-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Okay-Subs
+  pattern: Radarr - Okay-Subs
 - name: Radarr - pog42
   negate: false
   required: false
   type: release_title
-  pattern: pog42
+  pattern: Radarr - pog42
 - name: Radarr - pyroneko
   negate: false
   required: false
   type: release_title
-  pattern: pyroneko
+  pattern: Radarr - pyroneko
 - name: Radarr - RAI
   negate: false
   required: false
   type: release_title
-  pattern: RAI
+  pattern: Radarr - RAI
 - name: Radarr - Reza
   negate: false
   required: false
   type: release_title
-  pattern: Reza
+  pattern: Radarr - Reza
 - name: Radarr - Shimatta
   negate: false
   required: false
   type: release_title
-  pattern: Shimatta
+  pattern: Radarr - Shimatta
 - name: Radarr - Smoke
   negate: false
   required: false
   type: release_title
-  pattern: Smoke
+  pattern: Radarr - Smoke
 - name: Radarr - Spirale
   negate: false
   required: false
   type: release_title
-  pattern: Spirale
+  pattern: Radarr - Spirale
 - name: Radarr - Thighs
   negate: false
   required: false
   type: release_title
-  pattern: Thighs
+  pattern: Radarr - Thighs
 - name: Radarr - UDF
   negate: false
   required: false
   type: release_title
-  pattern: UDF
+  pattern: Radarr - UDF
 - name: Radarr - Yuki
   negate: false
   required: false
   type: release_title
-  pattern: Yuki
+  pattern: Radarr - Yuki
 tests: []

@@ -1,27 +1,27 @@
 name: Radarr - 5.1 Surround
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#51-surround)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#51-surround)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - 5.1 Surround
   negate: false
   required: true
   type: release_title
-  pattern: 5.1 Surround
+  pattern: Radarr - 5.1 Surround
 - name: Radarr - 6.1 Surround
   negate: true
   required: true
   type: release_title
-  pattern: 6.1 Surround
+  pattern: Radarr - 6.1 Surround
 - name: Radarr - Not 7.1 Surround
   negate: true
   required: true
   type: release_title
-  pattern: Not 7.1 Surround
+  pattern: Radarr - Not 7.1 Surround
 - name: Radarr - Not Low Channel Count
   negate: true
   required: true
   type: release_title
-  pattern: Not Low Channel Count
+  pattern: Radarr - Not Low Channel Count
 tests: []

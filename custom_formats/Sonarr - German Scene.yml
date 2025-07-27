@@ -1,192 +1,192 @@
 name: Sonarr - German Scene
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-scene)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#german-scene)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
 conditions:
 - name: Sonarr - DETAiLS
   negate: false
   required: false
   type: release_group
-  pattern: DETAiLS
+  pattern: Sonarr - DETAiLS
 - name: Sonarr - WAYNE
   negate: false
   required: false
   type: release_group
-  pattern: WAYNE
+  pattern: Sonarr - WAYNE
 - name: Sonarr - WOMBAT
   negate: false
   required: false
   type: release_group
-  pattern: WOMBAT
+  pattern: Sonarr - WOMBAT
 - name: Sonarr - SAUERKRAUT
   negate: false
   required: false
   type: release_group
-  pattern: SAUERKRAUT
+  pattern: Sonarr - SAUERKRAUT
 - name: Sonarr - WvF
   negate: false
   required: false
   type: release_group
-  pattern: WvF
+  pattern: Sonarr - WvF
 - name: Sonarr - 4KCONNECTiON
   negate: false
   required: false
   type: release_group
-  pattern: 4KCONNECTiON
+  pattern: Sonarr - 4KCONNECTiON
 - name: Sonarr - STARS
   negate: false
   required: false
   type: release_group
-  pattern: STARS
+  pattern: Sonarr - STARS
 - name: Sonarr - AWARDS
   negate: false
   required: false
   type: release_group
-  pattern: AWARDS
+  pattern: Sonarr - AWARDS
 - name: Sonarr - DMPD
   negate: false
   required: false
   type: release_group
-  pattern: DMPD
+  pattern: Sonarr - DMPD
 - name: Sonarr - EXCiTED
   negate: false
   required: false
   type: release_group
-  pattern: EXCiTED
+  pattern: Sonarr - EXCiTED
 - name: Sonarr - iNTENTiON
   negate: false
   required: false
   type: release_group
-  pattern: iNTENTiON
+  pattern: Sonarr - iNTENTiON
 - name: Sonarr - JaJunge
   negate: false
   required: false
   type: release_group
-  pattern: JaJunge
+  pattern: Sonarr - JaJunge
 - name: Sonarr - MGE
   negate: false
   required: false
   type: release_group
-  pattern: MGE
+  pattern: Sonarr - MGE
 - name: Sonarr - MisFiTS
   negate: false
   required: false
   type: release_group
-  pattern: MisFiTS
+  pattern: Sonarr - MisFiTS
 - name: Sonarr - RUBBiSH
   negate: false
   required: false
   type: release_group
-  pattern: RUBBiSH
+  pattern: Sonarr - RUBBiSH
 - name: Sonarr - RWP
   negate: false
   required: false
   type: release_group
-  pattern: RWP
+  pattern: Sonarr - RWP
 - name: Sonarr - TMSF
   negate: false
   required: false
   type: release_group
-  pattern: TMSF
+  pattern: Sonarr - TMSF
 - name: Sonarr - TV4A
   negate: false
   required: false
   type: release_group
-  pattern: TV4A
+  pattern: Sonarr - TV4A
 - name: Sonarr - HAXE
   negate: false
   required: false
   type: release_group
-  pattern: HAXE
+  pattern: Sonarr - HAXE
 - name: Sonarr - muhHD
   negate: false
   required: false
   type: release_group
-  pattern: muhHD
+  pattern: Sonarr - muhHD
 - name: Sonarr - ENDSTATiON
   negate: false
   required: false
   type: release_group
-  pattern: ENDSTATiON
+  pattern: Sonarr - ENDSTATiON
 - name: Sonarr - HDARCHiV
   negate: false
   required: false
   type: release_group
-  pattern: HDARCHiV
+  pattern: Sonarr - HDARCHiV
 - name: Sonarr - PL3X
   negate: false
   required: false
   type: release_group
-  pattern: PL3X
+  pattern: Sonarr - PL3X
 - name: Sonarr - WATCHABLE
   negate: false
   required: false
   type: release_group
-  pattern: WATCHABLE
+  pattern: Sonarr - WATCHABLE
 - name: Sonarr - OHD
   negate: false
   required: false
   type: release_group
-  pattern: OHD
+  pattern: Sonarr - OHD
 - name: Sonarr - ENCOUNTERS
   negate: false
   required: false
   type: release_group
-  pattern: ENCOUNTERS
+  pattern: Sonarr - ENCOUNTERS
 - name: Sonarr - RSG
   negate: false
   required: false
   type: release_group
-  pattern: RSG
+  pattern: Sonarr - RSG
 - name: Sonarr - TVNATiON
   negate: false
   required: false
   type: release_group
-  pattern: TVNATiON
+  pattern: Sonarr - TVNATiON
 - name: Sonarr - FENDT
   negate: false
   required: false
   type: release_group
-  pattern: FENDT
+  pattern: Sonarr - FENDT
 - name: Sonarr - ACED
   negate: false
   required: false
   type: release_group
-  pattern: ACED
+  pattern: Sonarr - ACED
 - name: Sonarr - FKKTV
   negate: false
   required: false
   type: release_group
-  pattern: FKKTV
+  pattern: Sonarr - FKKTV
 - name: Sonarr - euHD
   negate: false
   required: false
   type: release_group
-  pattern: euHD
+  pattern: Sonarr - euHD
 - name: Sonarr - OCA
   negate: false
   required: false
   type: release_group
-  pattern: OCA
+  pattern: Sonarr - OCA
 - name: Sonarr - RIPLEY
   negate: false
   required: false
   type: release_group
-  pattern: RIPLEY
+  pattern: Sonarr - RIPLEY
 - name: Sonarr - GTVG
   negate: false
   required: false
   type: release_group
-  pattern: GTVG
+  pattern: Sonarr - GTVG
 - name: Sonarr - CDP
   negate: false
   required: false
   type: release_group
-  pattern: CDP
+  pattern: Sonarr - CDP
 - name: Sonarr - CDD
   negate: false
   required: false
   type: release_group
-  pattern: CDD
+  pattern: Sonarr - CDD
 tests: []

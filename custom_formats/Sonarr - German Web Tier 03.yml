@@ -1,34 +1,35 @@
 name: Sonarr - German Web Tier 03
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-web-tier-03)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#german-web-tier-03)'
 tags:
-- Source
 - Sonarr
+- Release Group
+- Source
 conditions:
 - name: Sonarr - RobertDeNiro
   negate: false
   required: false
   type: release_group
-  pattern: RobertDeNiro
+  pattern: Sonarr - RobertDeNiro
 - name: Sonarr - BALENCiAGA
   negate: false
   required: false
   type: release_group
-  pattern: BALENCiAGA
+  pattern: Sonarr - BALENCiAGA
 - name: Sonarr - HQC
   negate: false
   required: false
   type: release_group
-  pattern: HQC
+  pattern: Sonarr - HQC
 - name: Sonarr - HDSource
   negate: false
   required: false
   type: release_group
-  pattern: HDSource
+  pattern: Sonarr - HDSource
 - name: Sonarr - iNCEPTION
   negate: false
   required: false
   type: release_group
-  pattern: iNCEPTION
+  pattern: Sonarr - iNCEPTION
 - name: Sonarr - WebDL
   negate: false
   required: false

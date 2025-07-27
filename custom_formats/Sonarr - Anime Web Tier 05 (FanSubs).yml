@@ -1,8 +1,9 @@
 name: Sonarr - Anime Web Tier 05 (FanSubs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-web-tier-05-fansubs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-web-tier-05-fansubs)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -23,30 +24,30 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: 9volt
+  pattern: Sonarr - 9volt
 - name: Sonarr - GJM
   negate: false
   required: false
   type: release_title
-  pattern: GJM
+  pattern: Sonarr - GJM
 - name: Sonarr - Kaleido
   negate: false
   required: false
   type: release_title
-  pattern: Kaleido
+  pattern: Sonarr - Kaleido
 - name: Sonarr - Kantai
   negate: false
   required: false
   type: release_title
-  pattern: Kantai
+  pattern: Sonarr - Kantai
 - name: Sonarr - SobsPlease
   negate: false
   required: false
   type: release_title
-  pattern: SobsPlease
+  pattern: Sonarr - SobsPlease
 - name: Sonarr - Some-Stuffs
   negate: false
   required: false
   type: release_title
-  pattern: Some-Stuffs
+  pattern: Sonarr - Some-Stuffs
 tests: []

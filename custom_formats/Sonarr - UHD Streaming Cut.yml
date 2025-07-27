@@ -1,24 +1,26 @@
 name: Sonarr - UHD Streaming Cut
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#uhd-streaming-cut)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#uhd-streaming-cut)'
 tags:
-- Resolution
 - Sonarr
+- Release Title
+- Source
+- Resolution
 conditions:
 - name: Sonarr - Amazon
   negate: false
   required: false
   type: release_title
-  pattern: Amazon
+  pattern: Sonarr - Amazon
 - name: Sonarr - HBO Max
   negate: false
   required: false
   type: release_title
-  pattern: HBO Max
+  pattern: Sonarr - HBO Max
 - name: Sonarr - Stan
   negate: false
   required: false
   type: release_title
-  pattern: Stan
+  pattern: Sonarr - Stan
 - name: Sonarr - WEBDL
   negate: false
   required: false

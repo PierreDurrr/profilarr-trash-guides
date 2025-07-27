@@ -1,42 +1,42 @@
 name: Sonarr - Dubs Only
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#dubs-only)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#dubs-only)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - Dubbed
   negate: false
   required: false
   type: release_title
-  pattern: Dubbed
+  pattern: Sonarr - Dubbed
 - name: Sonarr - Golumpa
   negate: false
   required: false
   type: release_title
-  pattern: Golumpa
+  pattern: Sonarr - Golumpa
 - name: Sonarr - KaiDubs (Not Dual Audio)
   negate: false
   required: false
   type: release_title
-  pattern: KaiDubs (Not Dual Audio)
+  pattern: Sonarr - KaiDubs (Not Dual Audio)
 - name: Sonarr - KamiFS
   negate: false
   required: false
   type: release_title
-  pattern: KamiFS
+  pattern: Sonarr - KamiFS
 - name: Sonarr - KS (Not Dual Audio)
   negate: false
   required: false
   type: release_title
-  pattern: KS (Not Dual Audio)
+  pattern: Sonarr - KS (Not Dual Audio)
 - name: Sonarr - torenter69
   negate: false
   required: false
   type: release_title
-  pattern: torenter69
+  pattern: Sonarr - torenter69
 - name: Sonarr - Yameii
   negate: false
   required: false
   type: release_title
-  pattern: Yameii
+  pattern: Sonarr - Yameii
 tests: []

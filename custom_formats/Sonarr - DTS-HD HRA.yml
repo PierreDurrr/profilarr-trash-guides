@@ -1,62 +1,62 @@
 name: Sonarr - DTS-HD HRA
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#dts-hd-hra)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#dts-hd-hra)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - DTS-HD HRA
   negate: false
   required: true
   type: release_title
-  pattern: DTS-HD HRA
+  pattern: Sonarr - DTS-HD HRA
 - name: Sonarr - Not TrueHD-ATMOS
   negate: true
   required: true
   type: release_title
-  pattern: Not TrueHD/ATMOS
+  pattern: Sonarr - Not TrueHD-ATMOS
 - name: Sonarr - Not Dolby Digital Plus
   negate: true
   required: true
   type: release_title
-  pattern: Not Dolby Digital Plus
+  pattern: Sonarr - Not Dolby Digital Plus
 - name: Sonarr - Not Basic DTS
   negate: true
   required: true
   type: release_title
-  pattern: Not Basic DTS
+  pattern: Sonarr - Not Basic DTS
 - name: 'Sonarr - Not Basic Dolby Digital '
   negate: true
   required: true
   type: release_title
-  pattern: 'Not Basic Dolby Digital '
+  pattern: 'Sonarr - Not Basic Dolby Digital '
 - name: Sonarr - Not DTS X
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS X
+  pattern: Sonarr - Not DTS X
 - name: Sonarr - Not FLAC
   negate: true
   required: true
   type: release_title
-  pattern: Not FLAC
+  pattern: Sonarr - Not FLAC
 - name: Sonarr - Not AAC
   negate: true
   required: true
   type: release_title
-  pattern: Not AAC
+  pattern: Sonarr - Not AAC
 - name: Sonarr - Not PCM
   negate: true
   required: true
   type: release_title
-  pattern: Not PCM
+  pattern: Sonarr - Not PCM
 - name: Sonarr - Not DTS-ES
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS-ES
+  pattern: Sonarr - Not DTS-ES
 - name: Sonarr - Not 6.1 Surround
   negate: true
   required: true
   type: release_title
-  pattern: Not 6.1 Surround
+  pattern: Sonarr - Not 6.1 Surround
 tests: []

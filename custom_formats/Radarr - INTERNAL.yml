@@ -1,12 +1,12 @@
 name: Radarr - INTERNAL
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#internal)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#internal)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - INTERNAL
   negate: false
   required: false
   type: release_title
-  pattern: INTERNAL
+  pattern: Radarr - INTERNAL
 tests: []

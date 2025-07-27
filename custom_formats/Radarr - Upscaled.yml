@@ -1,32 +1,32 @@
 name: Radarr - Upscaled
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#upscaled)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#upscaled)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - AI Upscales
   negate: false
   required: false
   type: release_title
-  pattern: AI Upscales
+  pattern: Radarr - AI Upscales
 - name: Radarr - AIUS
   negate: false
   required: false
   type: release_title
-  pattern: AIUS
+  pattern: Radarr - AIUS
 - name: Radarr - Regrade
   negate: false
   required: false
   type: release_title
-  pattern: Regrade
+  pattern: Radarr - Regrade
 - name: Radarr - TheUpscaler
   negate: false
   required: false
   type: release_title
-  pattern: TheUpscaler
+  pattern: Radarr - TheUpscaler
 - name: Radarr - Upscaled
   negate: false
   required: false
   type: release_title
-  pattern: Upscaled
+  pattern: Radarr - Upscaled
 tests: []

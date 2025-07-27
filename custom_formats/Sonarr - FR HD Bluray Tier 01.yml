@@ -1,8 +1,10 @@
 name: Sonarr - FR HD Bluray Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-hd-bluray-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-hd-bluray-tier-01)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
+- Source
+- Resolution
 conditions:
 - name: Sonarr - BLURAY
   negate: false
@@ -23,30 +25,30 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: ARK01
+  pattern: Sonarr - ARK01
 - name: Sonarr - BONBON
   negate: false
   required: false
   type: release_group
-  pattern: BONBON
+  pattern: Sonarr - BONBON
 - name: Sonarr - FRATERNiTY
   negate: false
   required: false
   type: release_group
-  pattern: FRATERNiTY
+  pattern: Sonarr - FRATERNiTY
 - name: Sonarr - FTMVHD
   negate: false
   required: false
   type: release_group
-  pattern: FTMVHD
+  pattern: Sonarr - FTMVHD
 - name: Sonarr - HeavyWeight
   negate: false
   required: false
   type: release_group
-  pattern: HeavyWeight
+  pattern: Sonarr - HeavyWeight
 - name: Sonarr - Psaro
   negate: false
   required: false
   type: release_group
-  pattern: Psaro
+  pattern: Sonarr - Psaro
 tests: []

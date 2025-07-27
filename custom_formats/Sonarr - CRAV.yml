@@ -1,19 +1,20 @@
 name: Sonarr - CRAV
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#crav)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#crav)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Crave
   negate: false
   required: false
   type: release_title
-  pattern: Crave
+  pattern: Sonarr - Crave
 - name: Sonarr - Crave Rename
   negate: false
   required: false
   type: release_title
-  pattern: Crave Rename
+  pattern: Sonarr - Crave Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

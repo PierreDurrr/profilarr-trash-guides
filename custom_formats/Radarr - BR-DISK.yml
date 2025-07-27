@@ -1,12 +1,12 @@
 name: Radarr - BR-DISK
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#br-disk)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#br-disk)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - BR-DISK
   negate: false
   required: true
   type: release_title
-  pattern: BR-DISK
+  pattern: Radarr - BR-DISK
 tests: []

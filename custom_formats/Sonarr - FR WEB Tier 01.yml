@@ -1,8 +1,9 @@
 name: Sonarr - FR WEB Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-web-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-web-tier-01)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -18,55 +19,55 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: BONBON
+  pattern: Sonarr - BONBON
 - name: Sonarr - FCK
   negate: false
   required: false
   type: release_group
-  pattern: FCK
+  pattern: Sonarr - FCK
 - name: Sonarr - FW
   negate: false
   required: false
   type: release_group
-  pattern: FW
+  pattern: Sonarr - FW
 - name: Sonarr - FRATERNiTY
   negate: false
   required: false
   type: release_group
-  pattern: FRATERNiTY
+  pattern: Sonarr - FRATERNiTY
 - name: Sonarr - MTDK
   negate: false
   required: false
   type: release_group
-  pattern: MTDK
+  pattern: Sonarr - MTDK
 - name: Sonarr - NoLo
   negate: false
   required: false
   type: release_group
-  pattern: NoLo
+  pattern: Sonarr - NoLo
 - name: Sonarr - PATOPESTO
   negate: false
   required: false
   type: release_group
-  pattern: PATOPESTO
+  pattern: Sonarr - PATOPESTO
 - name: Sonarr - Psaro
   negate: false
   required: false
   type: release_group
-  pattern: Psaro
+  pattern: Sonarr - Psaro
 - name: Sonarr - SUPPLY
   negate: false
   required: false
   type: release_group
-  pattern: SUPPLY
+  pattern: Sonarr - SUPPLY
 - name: Sonarr - TFA
   negate: false
   required: false
   type: release_group
-  pattern: TFA
+  pattern: Sonarr - TFA
 - name: Sonarr - TiNA
   negate: false
   required: false
   type: release_group
-  pattern: TiNA
+  pattern: Sonarr - TiNA
 tests: []

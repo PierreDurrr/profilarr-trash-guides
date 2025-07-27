@@ -1,14 +1,15 @@
 name: Radarr - STRP
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#strp)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#strp)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Star+
   negate: false
   required: true
   type: release_title
-  pattern: Star+
+  pattern: Radarr - Star+
 - name: Radarr - WEBDL
   negate: false
   required: false

@@ -1,8 +1,8 @@
 name: Radarr - 720p
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#720p)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#720p)'
 tags:
-- Resolution
 - Radarr
+- Resolution
 conditions:
 - name: Radarr - 720p
   negate: false

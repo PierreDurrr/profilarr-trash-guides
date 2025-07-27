@@ -1,12 +1,12 @@
 name: Sonarr - VP9
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#vp9)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#vp9)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - VP9
   negate: false
   required: true
   type: release_title
-  pattern: VP9
+  pattern: Sonarr - VP9
 tests: []

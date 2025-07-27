@@ -1,14 +1,15 @@
 name: Radarr - U-NEXT
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#u-next)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#u-next)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - U-NEXT
   negate: false
   required: true
   type: release_title
-  pattern: U-NEXT
+  pattern: Radarr - U-NEXT
 - name: Radarr - WEBDL
   negate: false
   required: false

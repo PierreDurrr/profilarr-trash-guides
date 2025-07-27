@@ -1,19 +1,20 @@
 name: Radarr - MAX
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#max)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#max)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Max
   negate: false
   required: false
   type: release_title
-  pattern: Max
+  pattern: Radarr - Max
 - name: Radarr - MAX Rename
   negate: false
   required: false
   type: release_title
-  pattern: MAX Rename
+  pattern: Radarr - MAX Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

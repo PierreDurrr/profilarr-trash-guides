@@ -1,12 +1,12 @@
 name: Sonarr - HFR
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#hfr)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hfr)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - HFR
   negate: false
   required: true
   type: release_title
-  pattern: HFR
+  pattern: Sonarr - HFR
 tests: []

@@ -1,19 +1,20 @@
 name: Sonarr - NOW
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#now)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#now)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - NOW
   negate: false
   required: false
   type: release_title
-  pattern: NOW
+  pattern: Sonarr - NOW
 - name: Sonarr - NOW Rename
   negate: false
   required: false
   type: release_title
-  pattern: NOW Rename
+  pattern: Sonarr - NOW Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

@@ -1,32 +1,32 @@
 name: Radarr - 2.0 Stereo
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#20-stereo)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#20-stereo)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Stereo
   negate: false
   required: true
   type: release_title
-  pattern: Stereo
+  pattern: Radarr - Stereo
 - name: Radarr - Not 3.0ch
   negate: true
   required: true
   type: release_title
-  pattern: Not 3.0ch
+  pattern: Radarr - Not 3.0ch
 - name: Radarr - Not 4.0ch
   negate: true
   required: true
   type: release_title
-  pattern: Not 4.0ch
+  pattern: Radarr - Not 4.0ch
 - name: Radarr - Not High Channel Count
   negate: true
   required: true
   type: release_title
-  pattern: Not High Channel Count
+  pattern: Radarr - Not High Channel Count
 - name: Radarr - Not Mono
   negate: true
   required: true
   type: release_title
-  pattern: Not Mono
+  pattern: Radarr - Not Mono
 tests: []

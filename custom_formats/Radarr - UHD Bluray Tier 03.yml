@@ -1,8 +1,11 @@
 name: Radarr - UHD Bluray Tier 03
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uhd-bluray-tier-03)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#uhd-bluray-tier-03)'
 tags:
-- Release Group
 - Radarr
+- Resolution
+- Release Group
+- Source
+- Quality Modifier
 conditions:
 - name: Radarr - Not REMUX
   negate: true
@@ -28,30 +31,30 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: BHDStudio
+  pattern: Radarr - BHDStudio
 - name: Radarr - hallowed
   negate: false
   required: false
   type: release_group
-  pattern: hallowed
+  pattern: Radarr - hallowed
 - name: Radarr - HONE
   negate: false
   required: false
   type: release_group
-  pattern: HONE
+  pattern: Radarr - HONE
 - name: Radarr - PTer
   negate: false
   required: false
   type: release_group
-  pattern: PTer
+  pattern: Radarr - PTer
 - name: Radarr - SPHD
   negate: false
   required: false
   type: release_group
-  pattern: SPHD
+  pattern: Radarr - SPHD
 - name: Radarr - WEBDV
   negate: false
   required: false
   type: release_group
-  pattern: WEBDV
+  pattern: Radarr - WEBDV
 tests: []

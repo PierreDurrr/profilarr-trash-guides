@@ -1,72 +1,72 @@
 name: Radarr - FR Anime Tier 03
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-anime-tier-03)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-anime-tier-03)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - BLV
   negate: false
   required: false
   type: release_title
-  pattern: BLV
+  pattern: Radarr - BLV
 - name: Radarr - D3T3R10R1TY
   negate: false
   required: false
   type: release_title
-  pattern: D3T3R10R1TY
+  pattern: Radarr - D3T3R10R1TY
 - name: Radarr - Galactic
   negate: false
   required: false
   type: release_title
-  pattern: Galactic
+  pattern: Radarr - Galactic
 - name: Radarr - HANAMi
   negate: false
   required: false
   type: release_title
-  pattern: HANAMi
+  pattern: Radarr - HANAMi
 - name: Radarr - kazuizui
   negate: false
   required: false
   type: release_title
-  pattern: kazuizui
+  pattern: Radarr - kazuizui
 - name: Radarr - KHAYA
   negate: false
   required: false
   type: release_title
-  pattern: KHAYA
+  pattern: Radarr - KHAYA
 - name: Radarr - KushEnthusiast
   negate: false
   required: false
   type: release_title
-  pattern: KushEnthusiast
+  pattern: Radarr - KushEnthusiast
 - name: Radarr - matheousse
   negate: false
   required: false
   type: release_title
-  pattern: matheousse
+  pattern: Radarr - matheousse
 - name: Radarr - Monkey-D.Lulu
   negate: false
   required: false
   type: release_title
-  pattern: Monkey-D.Lulu
+  pattern: Radarr - Monkey-D.Lulu
 - name: Radarr - NeoSG
   negate: false
   required: false
   type: release_title
-  pattern: NeoSG
+  pattern: Radarr - NeoSG
 - name: Radarr - RONiN
   negate: false
   required: false
   type: release_title
-  pattern: RONiN
+  pattern: Radarr - RONiN
 - name: Radarr - TheFantastics
   negate: false
   required: false
   type: release_title
-  pattern: TheFantastics
+  pattern: Radarr - TheFantastics
 - name: Radarr - TTN
   negate: false
   required: false
   type: release_title
-  pattern: TTN
+  pattern: Radarr - TTN
 tests: []

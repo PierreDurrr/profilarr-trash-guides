@@ -1,8 +1,9 @@
 name: Sonarr - Remux Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#remux-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#remux-tier-02)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
+- Source
 conditions:
 - name: Sonarr - Remux
   negate: false
@@ -13,40 +14,40 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: decibeL
+  pattern: Sonarr - decibeL
 - name: Sonarr - EPSiLON
   negate: false
   required: false
   type: release_group
-  pattern: EPSiLON
+  pattern: Sonarr - EPSiLON
 - name: Sonarr - HiFi
   negate: false
   required: false
   type: release_group
-  pattern: HiFi
+  pattern: Sonarr - HiFi
 - name: Sonarr - KRaLiMaRKo
   negate: false
   required: false
   type: release_group
-  pattern: KRaLiMaRKo
+  pattern: Sonarr - KRaLiMaRKo
 - name: Sonarr - playBD
   negate: false
   required: false
   type: release_group
-  pattern: playBD
+  pattern: Sonarr - playBD
 - name: Sonarr - PTer
   negate: false
   required: false
   type: release_group
-  pattern: PTer
+  pattern: Sonarr - PTer
 - name: Sonarr - SiCFoI
   negate: false
   required: false
   type: release_group
-  pattern: SiCFoI
+  pattern: Sonarr - SiCFoI
 - name: Sonarr - TRiToN
   negate: false
   required: false
   type: release_group
-  pattern: TRiToN
+  pattern: Sonarr - TRiToN
 tests: []

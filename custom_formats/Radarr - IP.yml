@@ -1,14 +1,15 @@
 name: Radarr - IP
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ip)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#ip)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - BBC iPlayer
   negate: false
   required: true
   type: release_title
-  pattern: BBC iPlayer
+  pattern: Radarr - BBC iPlayer
 - name: Radarr - WEBDL
   negate: false
   required: false

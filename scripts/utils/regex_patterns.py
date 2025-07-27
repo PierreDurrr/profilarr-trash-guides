@@ -6,6 +6,7 @@ from utils.strings import get_name
 
 # TODO: prevent duplicates by only writing unique regex patterns to files
 # In some cases negations will result in a new regex pattern as of now
+# NOTE: would need to keep track of all duplicate patterns so that trash_id can still be matched
 
 
 def collect_regex_pattern(service, file_name, input_json, output_dir):

@@ -1,14 +1,15 @@
 name: Radarr - x265 (HD)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x265-hd)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#x265-hd)'
 tags:
-- Resolution
 - Radarr
+- Release Title
+- Resolution
 conditions:
 - name: Radarr - x265-HEVC
   negate: false
   required: true
   type: release_title
-  pattern: x265/HEVC
+  pattern: Radarr - x265-HEVC
 - name: Radarr - Not 2160p
   negate: true
   required: true

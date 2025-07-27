@@ -1,12 +1,12 @@
 name: Radarr - BHDStudio
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#bhdstudio)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#bhdstudio)'
 tags:
-- Release Group
 - Radarr
+- Release Group
 conditions:
 - name: Radarr - BHDStudio
   negate: false
   required: true
   type: release_group
-  pattern: BHDStudio
+  pattern: Radarr - BHDStudio
 tests: []

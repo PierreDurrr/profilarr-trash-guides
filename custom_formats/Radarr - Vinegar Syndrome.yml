@@ -1,22 +1,22 @@
 name: Radarr - Vinegar Syndrome
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#vinegar-syndrome)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#vinegar-syndrome)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Vinegar Syndrome
   negate: false
   required: false
   type: release_title
-  pattern: Vinegar Syndrome
+  pattern: Radarr - Vinegar Syndrome
 - name: Radarr - VS
   negate: false
   required: false
   type: release_title
-  pattern: VS
+  pattern: Radarr - VS
 - name: Radarr - VinSyn
   negate: false
   required: false
   type: release_title
-  pattern: VinSyn
+  pattern: Radarr - VinSyn
 tests: []

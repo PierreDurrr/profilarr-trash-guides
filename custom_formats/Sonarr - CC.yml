@@ -1,19 +1,20 @@
 name: Sonarr - CC
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#cc)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#cc)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Comedy Central
   negate: false
   required: false
   type: release_title
-  pattern: Comedy Central
+  pattern: Sonarr - Comedy Central
 - name: Sonarr - CC Rename
   negate: false
   required: false
   type: release_title
-  pattern: CC Rename
+  pattern: Sonarr - CC Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

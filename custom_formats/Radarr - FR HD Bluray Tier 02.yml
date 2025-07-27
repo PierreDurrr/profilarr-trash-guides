@@ -1,8 +1,11 @@
 name: Radarr - FR HD Bluray Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-hd-bluray-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-hd-bluray-tier-02)'
 tags:
-- Release Group
 - Radarr
+- Resolution
+- Release Group
+- Source
+- Quality Modifier
 conditions:
 - name: Radarr - BLURAY
   negate: false
@@ -23,45 +26,45 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: HDForever
+  pattern: Radarr - HDForever
 - name: Radarr - HeavyWeight
   negate: false
   required: false
   type: release_group
-  pattern: HeavyWeight
+  pattern: Radarr - HeavyWeight
 - name: Radarr - MARBLECAKE
   negate: false
   required: false
   type: release_group
-  pattern: MARBLECAKE
+  pattern: Radarr - MARBLECAKE
 - name: Radarr - MYSTERiON
   negate: false
   required: false
   type: release_group
-  pattern: MYSTERiON
+  pattern: Radarr - MYSTERiON
 - name: Radarr - NoNE
   negate: false
   required: false
   type: release_group
-  pattern: NoNE
+  pattern: Radarr - NoNE
 - name: Radarr - ONLY
   negate: false
   required: false
   type: release_group
-  pattern: ONLY
+  pattern: Radarr - ONLY
 - name: Radarr - ONLYMOViE
   negate: false
   required: false
   type: release_group
-  pattern: ONLYMOViE
+  pattern: Radarr - ONLYMOViE
 - name: Radarr - TkHD
   negate: false
   required: false
   type: release_group
-  pattern: TkHD
+  pattern: Radarr - TkHD
 - name: Radarr - UTT
   negate: false
   required: false
   type: release_group
-  pattern: UTT
+  pattern: Radarr - UTT
 tests: []

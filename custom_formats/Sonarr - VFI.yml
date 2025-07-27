@@ -1,12 +1,12 @@
 name: Sonarr - VFI
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-vfi)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-vfi)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - French International
   negate: false
   required: true
   type: release_title
-  pattern: French International
+  pattern: Sonarr - French International
 tests: []

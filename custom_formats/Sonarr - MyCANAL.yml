@@ -1,8 +1,10 @@
 name: Sonarr - MyCANAL
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-mycanal)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-mycanal)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
+- Release Title
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -18,15 +20,15 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: CANAL+
+  pattern: Sonarr - CANAL+
 - name: Sonarr - MyCANAL
   negate: false
   required: false
   type: release_title
-  pattern: MyCANAL
+  pattern: Sonarr - MyCANAL
 - name: Sonarr - Not MyCanal RlsGrp
   negate: true
   required: true
   type: release_group
-  pattern: Not MyCanal RlsGrp
+  pattern: Sonarr - Not MyCanal RlsGrp
 tests: []

@@ -1,8 +1,9 @@
 name: Sonarr - Anime Web Tier 01 (Muxers)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-web-tier-01-muxers)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-web-tier-01-muxers)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -23,70 +24,70 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Arg0
+  pattern: Sonarr - Arg0
 - name: Sonarr - Arid
   negate: false
   required: false
   type: release_title
-  pattern: Arid
+  pattern: Sonarr - Arid
 - name: Sonarr - Baws
   negate: false
   required: false
   type: release_title
-  pattern: Baws
+  pattern: Sonarr - Baws
 - name: Sonarr - LostYears
   negate: false
   required: false
   type: release_title
-  pattern: LostYears
+  pattern: Sonarr - LostYears
 - name: Sonarr - LYS1TH3A
   negate: false
   required: false
   type: release_title
-  pattern: LYS1TH3A
+  pattern: Sonarr - LYS1TH3A
 - name: Sonarr - McBalls
   negate: false
   required: false
   type: release_title
-  pattern: McBalls
+  pattern: Sonarr - McBalls
 - name: Sonarr - sam
   negate: false
   required: false
   type: release_title
-  pattern: sam
+  pattern: Sonarr - sam
 - name: Sonarr - SCY
   negate: false
   required: false
   type: release_title
-  pattern: SCY
+  pattern: Sonarr - SCY
 - name: Sonarr - Setsugen
   negate: false
   required: false
   type: release_title
-  pattern: Setsugen
+  pattern: Sonarr - Setsugen
 - name: Sonarr - smol
   negate: false
   required: false
   type: release_title
-  pattern: smol
+  pattern: Sonarr - smol
 - name: Sonarr - SoM
   negate: false
   required: false
   type: release_title
-  pattern: SoM
+  pattern: Sonarr - SoM
 - name: Sonarr - Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Vodes
+  pattern: Sonarr - Vodes
 - name: Sonarr - Z4ST1N
   negate: false
   required: false
   type: release_title
-  pattern: Z4ST1N
+  pattern: Sonarr - Z4ST1N
 - name: Sonarr - ZeroBuild
   negate: false
   required: false
   type: release_title
-  pattern: ZeroBuild
+  pattern: Sonarr - ZeroBuild
 tests: []

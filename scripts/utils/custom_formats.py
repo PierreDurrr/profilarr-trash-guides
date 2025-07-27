@@ -7,14 +7,14 @@ from markdownify import markdownify
 from utils.strings import get_name
 
 IMPLEMENTATION_TO_TAG_MAPPING = {
-    "ReleaseTitleSpecification": ["Release Title"],
-    "ResolutionSpecification": ["Resolution"],
-    "SourceSpecification": ["Source"],
-    "LanguageSpecification": ["Language"],
-    "ReleaseGroupSpecification": ["Release Group"],
-    "IndexerFlagSpecification": ["Indexer Flag"],
-    "QualityModifierSpecification": ["Quality Modifier"],
-    "ReleaseTypeSpecification": ["Release Type"],
+    "ReleaseTitleSpecification": "Release Title",
+    "ResolutionSpecification": "Resolution",
+    "SourceSpecification": "Source",
+    "LanguageSpecification": "Language",
+    "ReleaseGroupSpecification": "Release Group",
+    "IndexerFlagSpecification": "Indexer Flag",
+    "QualityModifierSpecification": "Quality Modifier",
+    "ReleaseTypeSpecification": "Release Type",
 }
 
 IMPLEMENTATION_TO_TYPE_MAPPING = {
@@ -28,9 +28,15 @@ IMPLEMENTATION_TO_TYPE_MAPPING = {
     "ReleaseTypeSpecification": "release_type",
 }
 
+SERVICE_TO_TRASH_GUIDES_URL = {
+    "radarr": "https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats",
+    "sonarr": "https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats",
+}
+
 
 def collect_custom_format(service, file_name, input_json, output_dir):
     conditions = []
+    implementation_tags = set()
     for spec in input_json.get("specifications", []):
         condition = {
             "name": get_name(service, spec.get("name", "")),
@@ -42,8 +48,11 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         }
 
         implementation = spec.get("implementation")
+
+        implementation_tags.add(IMPLEMENTATION_TO_TAG_MAPPING[implementation])
+
         if implementation in ["ReleaseTitleSpecification", "ReleaseGroupSpecification"]:
-            condition["pattern"] = spec.get("name", "")
+            condition["pattern"] = get_name(service, spec.get("name", ""))
         elif implementation in ["ResolutionSpecification"]:
             condition["resolution"] = f"{spec.get('fields', {}).get('value')}p"
         elif implementation in ["SourceSpecification"]:
@@ -64,10 +73,10 @@ def collect_custom_format(service, file_name, input_json, output_dir):
     name = input_json.get("name", "")
     yml_data = {
         "name": get_name(service, name),
-        "description": f"""[Custom format from TRaSH-Guides.](https://trash-guides.info/{service.capitalize()}/{service.capitalize()}-collection-of-custom-formats/#{file_name})
+        "description": f"""[Custom format from TRaSH-Guides.]({SERVICE_TO_TRASH_GUIDES_URL[service]}#{file_name})
 
 {markdownify(input_json.get('description', ''))}""".strip(),
-        "tags": [*IMPLEMENTATION_TO_TAG_MAPPING[implementation], service.capitalize()],
+        "tags": [service.capitalize(), *implementation_tags],
         "conditions": conditions,
         "tests": [],
     }

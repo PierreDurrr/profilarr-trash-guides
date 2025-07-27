@@ -1,14 +1,15 @@
 name: Radarr - BCORE
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#bcore)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#bcore)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Bravia Core
   negate: false
   required: true
   type: release_title
-  pattern: Bravia Core
+  pattern: Radarr - Bravia Core
 - name: Radarr - WEBDL
   negate: false
   required: false

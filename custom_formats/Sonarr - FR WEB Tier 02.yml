@@ -1,8 +1,9 @@
 name: Sonarr - FR WEB Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-web-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-web-tier-02)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -18,50 +19,50 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: COLL3CTiF
+  pattern: Sonarr - COLL3CTiF
 - name: Sonarr - FiND
   negate: false
   required: false
   type: release_group
-  pattern: FiND
+  pattern: Sonarr - FiND
 - name: Sonarr - FrIeNdS
   negate: false
   required: false
   type: release_group
-  pattern: FrIeNdS
+  pattern: Sonarr - FrIeNdS
 - name: Sonarr - HeavyWeight
   negate: false
   required: false
   type: release_group
-  pattern: HeavyWeight
+  pattern: Sonarr - HeavyWeight
 - name: Sonarr - NoNe
   negate: false
   required: false
   type: release_group
-  pattern: NoNe
+  pattern: Sonarr - NoNe
 - name: Sonarr - pERsO
   negate: false
   required: false
   type: release_group
-  pattern: pERsO
+  pattern: Sonarr - pERsO
 - name: Sonarr - POTO
   negate: false
   required: false
   type: release_group
-  pattern: POTO
+  pattern: Sonarr - POTO
 - name: Sonarr - RG
   negate: false
   required: false
   type: release_group
-  pattern: RG
+  pattern: Sonarr - RG
 - name: Sonarr - RiPiT
   negate: false
   required: false
   type: release_group
-  pattern: RiPiT
+  pattern: Sonarr - RiPiT
 - name: Sonarr - TAT
   negate: false
   required: false
   type: release_group
-  pattern: TAT
+  pattern: Sonarr - TAT
 tests: []

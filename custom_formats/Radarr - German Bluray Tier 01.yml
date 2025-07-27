@@ -1,59 +1,61 @@
 name: Radarr - German Bluray Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-bluray-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-bluray-tier-01)'
 tags:
-- Quality Modifier
 - Radarr
+- Release Group
+- Source
+- Quality Modifier
 conditions:
 - name: Radarr - ZeroTwo
   negate: false
   required: false
   type: release_group
-  pattern: ZeroTwo
+  pattern: Radarr - ZeroTwo
 - name: Radarr - ZeroTwo Aliases
   negate: false
   required: false
   type: release_group
-  pattern: ZeroTwo Aliases
+  pattern: Radarr - ZeroTwo Aliases
 - name: Radarr - TSCC
   negate: false
   required: false
   type: release_group
-  pattern: TSCC
+  pattern: Radarr - TSCC
 - name: Radarr - TvR
   negate: false
   required: false
   type: release_group
-  pattern: TvR
+  pattern: Radarr - TvR
 - name: Radarr - NIMA4K
   negate: false
   required: false
   type: release_group
-  pattern: NIMA4K
+  pattern: Radarr - NIMA4K
 - name: Radarr - TVS
   negate: false
   required: false
   type: release_group
-  pattern: TVS
+  pattern: Radarr - TVS
 - name: Radarr - PXL
   negate: false
   required: false
   type: release_group
-  pattern: PXL
+  pattern: Radarr - PXL
 - name: Radarr - CNY
   negate: false
   required: false
   type: release_group
-  pattern: CNY
+  pattern: Radarr - CNY
 - name: Radarr - WeebPinn
   negate: false
   required: false
   type: release_group
-  pattern: WeebPinn
+  pattern: Radarr - WeebPinn
 - name: Radarr - MAMA
   negate: false
   required: false
   type: release_group
-  pattern: MAMA
+  pattern: Radarr - MAMA
 - name: Radarr - Bluray
   negate: false
   required: true

@@ -1,27 +1,27 @@
 name: Sonarr - 1.0 Mono
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#10-mono)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#10-mono)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - Mono
   negate: false
   required: true
   type: release_title
-  pattern: Mono
+  pattern: Sonarr - Mono
 - name: Sonarr - Not 3.0ch
   negate: true
   required: true
   type: release_title
-  pattern: Not 3.0ch
+  pattern: Sonarr - Not 3.0ch
 - name: Sonarr - Not 4.0ch
   negate: true
   required: true
   type: release_title
-  pattern: Not 4.0ch
+  pattern: Sonarr - Not 4.0ch
 - name: Sonarr - Not High Channel Count
   negate: true
   required: true
   type: release_title
-  pattern: Not High Channel Count
+  pattern: Sonarr - Not High Channel Count
 tests: []

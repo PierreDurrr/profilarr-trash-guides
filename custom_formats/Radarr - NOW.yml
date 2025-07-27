@@ -1,19 +1,20 @@
 name: Radarr - NOW
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#now)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#now)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - NOW
   negate: false
   required: false
   type: release_title
-  pattern: NOW
+  pattern: Radarr - NOW
 - name: Radarr - NOW Rename
   negate: false
   required: false
   type: release_title
-  pattern: NOW Rename
+  pattern: Radarr - NOW Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

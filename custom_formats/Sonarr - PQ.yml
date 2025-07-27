@@ -1,37 +1,37 @@
 name: Sonarr - PQ
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#pq)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#pq)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - PQ
   negate: false
   required: true
   type: release_title
-  pattern: PQ
+  pattern: Sonarr - PQ
 - name: Sonarr - Not DV
   negate: true
   required: true
   type: release_title
-  pattern: Not DV
+  pattern: Sonarr - Not DV
 - name: Sonarr - Not HDR10
   negate: true
   required: true
   type: release_title
-  pattern: Not HDR10
+  pattern: Sonarr - Not HDR10
 - name: Sonarr - Not HDR10+
   negate: true
   required: true
   type: release_title
-  pattern: Not HDR10+
+  pattern: Sonarr - Not HDR10+
 - name: Sonarr - Not HLG
   negate: true
   required: true
   type: release_title
-  pattern: Not HLG
+  pattern: Sonarr - Not HLG
 - name: Sonarr - Not SDR
   negate: true
   required: true
   type: release_title
-  pattern: Not SDR
+  pattern: Sonarr - Not SDR
 tests: []

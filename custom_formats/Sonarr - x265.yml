@@ -1,14 +1,15 @@
 name: Sonarr - x265
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#x265)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#x265)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - x|h265
   negate: false
   required: true
   type: release_title
-  pattern: x|h265
+  pattern: Sonarr - x|h265
 - name: Sonarr - Not Remux
   negate: true
   required: true

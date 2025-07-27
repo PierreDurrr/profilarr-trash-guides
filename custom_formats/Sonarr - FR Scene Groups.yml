@@ -1,122 +1,122 @@
 name: Sonarr - FR Scene Groups
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-scene)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-scene)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
 conditions:
 - name: 'Sonarr - #'
   negate: false
   required: false
   type: release_group
-  pattern: '#'
+  pattern: 'Sonarr - #'
 - name: Sonarr - A
   negate: false
   required: false
   type: release_group
-  pattern: A
+  pattern: Sonarr - A
 - name: Sonarr - B
   negate: false
   required: false
   type: release_group
-  pattern: B
+  pattern: Sonarr - B
 - name: Sonarr - C
   negate: false
   required: false
   type: release_group
-  pattern: C
+  pattern: Sonarr - C
 - name: Sonarr - D
   negate: false
   required: false
   type: release_group
-  pattern: D
+  pattern: Sonarr - D
 - name: Sonarr - E
   negate: false
   required: false
   type: release_group
-  pattern: E
+  pattern: Sonarr - E
 - name: Sonarr - F
   negate: false
   required: false
   type: release_group
-  pattern: F
+  pattern: Sonarr - F
 - name: Sonarr - G
   negate: false
   required: false
   type: release_group
-  pattern: G
+  pattern: Sonarr - G
 - name: Sonarr - H
   negate: false
   required: false
   type: release_group
-  pattern: H
+  pattern: Sonarr - H
 - name: Sonarr - J
   negate: false
   required: false
   type: release_group
-  pattern: J
+  pattern: Sonarr - J
 - name: Sonarr - K
   negate: false
   required: false
   type: release_group
-  pattern: K
+  pattern: Sonarr - K
 - name: Sonarr - L
   negate: false
   required: false
   type: release_group
-  pattern: L
+  pattern: Sonarr - L
 - name: Sonarr - M
   negate: false
   required: false
   type: release_group
-  pattern: M
+  pattern: Sonarr - M
 - name: Sonarr - N
   negate: false
   required: false
   type: release_group
-  pattern: N
+  pattern: Sonarr - N
 - name: Sonarr - O
   negate: false
   required: false
   type: release_group
-  pattern: O
+  pattern: Sonarr - O
 - name: Sonarr - P
   negate: false
   required: false
   type: release_group
-  pattern: P
+  pattern: Sonarr - P
 - name: Sonarr - R
   negate: false
   required: false
   type: release_group
-  pattern: R
+  pattern: Sonarr - R
 - name: Sonarr - S
   negate: false
   required: false
   type: release_group
-  pattern: S
+  pattern: Sonarr - S
 - name: Sonarr - T
   negate: false
   required: false
   type: release_group
-  pattern: T
+  pattern: Sonarr - T
 - name: Sonarr - U
   negate: false
   required: false
   type: release_group
-  pattern: U
+  pattern: Sonarr - U
 - name: Sonarr - V
   negate: false
   required: false
   type: release_group
-  pattern: V
+  pattern: Sonarr - V
 - name: Sonarr - W
   negate: false
   required: false
   type: release_group
-  pattern: W
+  pattern: Sonarr - W
 - name: Sonarr - Z
   negate: false
   required: false
   type: release_group
-  pattern: Z
+  pattern: Sonarr - Z
 tests: []

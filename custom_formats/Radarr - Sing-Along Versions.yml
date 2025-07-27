@@ -1,12 +1,12 @@
 name: Radarr - Sing-Along Versions
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sing-along-versions)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#sing-along-versions)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Sing-Along
   negate: false
   required: true
   type: release_title
-  pattern: Sing-Along
+  pattern: Radarr - Sing-Along
 tests: []

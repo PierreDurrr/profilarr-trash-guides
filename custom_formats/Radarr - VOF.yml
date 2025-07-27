@@ -1,12 +1,12 @@
 name: Radarr - VOF
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vof)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-vof)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - French Original Version
   negate: false
   required: true
   type: release_title
-  pattern: French Original Version
+  pattern: Radarr - French Original Version
 tests: []

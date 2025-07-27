@@ -1,8 +1,9 @@
 name: Sonarr - FR WEB Tier 03
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-web-tier-03)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-web-tier-03)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -18,45 +19,45 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: ARK01
+  pattern: Sonarr - ARK01
 - name: Sonarr - BraD
   negate: false
   required: false
   type: release_group
-  pattern: BraD
+  pattern: Sonarr - BraD
 - name: Sonarr - dRuIdE
   negate: false
   required: false
   type: release_group
-  pattern: dRuIdE
+  pattern: Sonarr - dRuIdE
 - name: Sonarr - FTMVHD
   negate: false
   required: false
   type: release_group
-  pattern: FTMVHD
+  pattern: Sonarr - FTMVHD
 - name: Sonarr - LAZARUS
   negate: false
   required: false
   type: release_group
-  pattern: LAZARUS
+  pattern: Sonarr - LAZARUS
 - name: Sonarr - MYSTERiON
   negate: false
   required: false
   type: release_group
-  pattern: MYSTERiON
+  pattern: Sonarr - MYSTERiON
 - name: Sonarr - Scaph
   negate: false
   required: false
   type: release_group
-  pattern: Scaph
+  pattern: Sonarr - Scaph
 - name: Sonarr - WaCkS
   negate: false
   required: false
   type: release_group
-  pattern: WaCkS
+  pattern: Sonarr - WaCkS
 - name: Sonarr - WQM
   negate: false
   required: false
   type: release_group
-  pattern: WQM
+  pattern: Sonarr - WQM
 tests: []

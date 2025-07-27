@@ -1,19 +1,20 @@
 name: Sonarr - MAX
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#max)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#max)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Max
   negate: false
   required: false
   type: release_title
-  pattern: Max
+  pattern: Sonarr - Max
 - name: Sonarr - MAX Rename
   negate: false
   required: false
   type: release_title
-  pattern: MAX Rename
+  pattern: Sonarr - MAX Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

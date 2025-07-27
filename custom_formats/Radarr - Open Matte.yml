@@ -1,12 +1,12 @@
 name: Radarr - Open Matte
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#open-matte)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#open-matte)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Open Matte
   negate: false
   required: false
   type: release_title
-  pattern: Open Matte
+  pattern: Radarr - Open Matte
 tests: []

@@ -1,19 +1,20 @@
 name: Sonarr - HBO
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#hbo)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hbo)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - HBO
   negate: false
   required: false
   type: release_title
-  pattern: HBO
+  pattern: Sonarr - HBO
 - name: Sonarr - HBO Rename
   negate: false
   required: false
   type: release_title
-  pattern: HBO Rename
+  pattern: Sonarr - HBO Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

@@ -1,17 +1,17 @@
 name: Radarr - Line-Mic Dubbed
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#line-mic-dubbed)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#line-mic-dubbed)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Line Dubbed
   negate: false
   required: false
   type: release_title
-  pattern: Line Dubbed
+  pattern: Radarr - Line Dubbed
 - name: Radarr - Mic Dubbed
   negate: false
   required: false
   type: release_title
-  pattern: Mic Dubbed
+  pattern: Radarr - Mic Dubbed
 tests: []

@@ -1,54 +1,56 @@
 name: Radarr - Generated Dynamic HDR
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#generated-dynamic-hdr)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#generated-dynamic-hdr)'
 tags:
-- Source
 - Radarr
+- Release Group
+- Release Title
+- Source
 conditions:
 - name: Radarr - BiTOR
   negate: false
   required: false
   type: release_group
-  pattern: BiTOR
+  pattern: Radarr - BiTOR
 - name: Radarr - DepraveD
   negate: false
   required: false
   type: release_group
-  pattern: DepraveD
+  pattern: Radarr - DepraveD
 - name: Radarr - Flights
   negate: false
   required: false
   type: release_group
-  pattern: Flights
+  pattern: Radarr - Flights
 - name: Radarr - SasukeducK
   negate: false
   required: false
   type: release_group
-  pattern: SasukeducK
+  pattern: Radarr - SasukeducK
 - name: Radarr - tarunk9c
   negate: false
   required: false
   type: release_group
-  pattern: tarunk9c
+  pattern: Radarr - tarunk9c
 - name: Radarr - VD0N
   negate: false
   required: false
   type: release_group
-  pattern: VD0N
+  pattern: Radarr - VD0N
 - name: Radarr - VECTOR
   negate: false
   required: false
   type: release_group
-  pattern: VECTOR
+  pattern: Radarr - VECTOR
 - name: Radarr - HDR10+
   negate: false
   required: false
   type: release_title
-  pattern: HDR10+
+  pattern: Radarr - HDR10+
 - name: Radarr - DV
   negate: false
   required: false
   type: release_title
-  pattern: DV
+  pattern: Radarr - DV
 - name: Radarr - Not WEBDL
   negate: true
   required: true

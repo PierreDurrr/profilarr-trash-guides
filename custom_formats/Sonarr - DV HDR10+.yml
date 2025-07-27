@@ -1,22 +1,22 @@
 name: Sonarr - DV HDR10+
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#dv-hdr10plus)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#dv-hdr10plus)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - DV HDR10+
   negate: false
   required: true
   type: release_title
-  pattern: DV HDR10+
+  pattern: Sonarr - DV HDR10+
 - name: Sonarr - Not DV HLG
   negate: true
   required: true
   type: release_title
-  pattern: Not DV HLG
+  pattern: Sonarr - Not DV HLG
 - name: Sonarr - Not DV SDR
   negate: true
   required: true
   type: release_title
-  pattern: Not DV SDR
+  pattern: Sonarr - Not DV SDR
 tests: []

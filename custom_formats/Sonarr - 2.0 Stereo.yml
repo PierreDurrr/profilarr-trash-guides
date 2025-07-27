@@ -1,32 +1,32 @@
 name: Sonarr - 2.0 Stereo
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#20-stereo)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#20-stereo)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - Stereo
   negate: false
   required: true
   type: release_title
-  pattern: Stereo
+  pattern: Sonarr - Stereo
 - name: Sonarr - Not 3.0ch
   negate: true
   required: true
   type: release_title
-  pattern: Not 3.0ch
+  pattern: Sonarr - Not 3.0ch
 - name: Sonarr - Not 4.0ch
   negate: true
   required: true
   type: release_title
-  pattern: Not 4.0ch
+  pattern: Sonarr - Not 4.0ch
 - name: Sonarr - Not High Channel Count
   negate: true
   required: true
   type: release_title
-  pattern: Not High Channel Count
+  pattern: Sonarr - Not High Channel Count
 - name: Sonarr - Not Mono
   negate: true
   required: true
   type: release_title
-  pattern: Not Mono
+  pattern: Sonarr - Not Mono
 tests: []

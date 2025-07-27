@@ -1,8 +1,9 @@
 name: Radarr - Anime BD Tier 06 (FanSubs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-06-fansubs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-bd-tier-06-fansubs)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Bluray
   negate: false
@@ -18,185 +19,185 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Afro
+  pattern: Radarr - Afro
 - name: Radarr - Akai
   negate: false
   required: false
   type: release_title
-  pattern: Akai
+  pattern: Radarr - Akai
 - name: Radarr - Almighty
   negate: false
   required: false
   type: release_title
-  pattern: Almighty
+  pattern: Radarr - Almighty
 - name: Radarr - ANE
   negate: false
   required: false
   type: release_title
-  pattern: ANE
+  pattern: Radarr - ANE
 - name: Radarr - Asenshi
   negate: false
   required: false
   type: release_title
-  pattern: Asenshi
+  pattern: Radarr - Asenshi
 - name: Radarr - BlurayDesuYo
   negate: false
   required: false
   type: release_title
-  pattern: BlurayDesuYo
+  pattern: Radarr - BlurayDesuYo
 - name: Radarr - Bunny-Apocalypse
   negate: false
   required: false
   type: release_title
-  pattern: Bunny-Apocalypse
+  pattern: Radarr - Bunny-Apocalypse
 - name: Radarr - CH
   negate: false
   required: false
   type: release_title
-  pattern: CH
+  pattern: Radarr - CH
 - name: Radarr - EJF
   negate: false
   required: false
   type: release_title
-  pattern: EJF
+  pattern: Radarr - EJF
 - name: Radarr - Exiled-Destiny
   negate: false
   required: false
   type: release_title
-  pattern: Exiled-Destiny
+  pattern: Radarr - Exiled-Destiny
 - name: Radarr - FFF
   negate: false
   required: false
   type: release_title
-  pattern: FFF
+  pattern: Radarr - FFF
 - name: Radarr - Final8
   negate: false
   required: false
   type: release_title
-  pattern: Final8
+  pattern: Radarr - Final8
 - name: Radarr - GS
   negate: false
   required: false
   type: release_title
-  pattern: GS
+  pattern: Radarr - GS
 - name: Radarr - Harunatsu
   negate: false
   required: false
   type: release_title
-  pattern: Harunatsu
+  pattern: Radarr - Harunatsu
 - name: Radarr - Impatience
   negate: false
   required: false
   type: release_title
-  pattern: Impatience
+  pattern: Radarr - Impatience
 - name: Radarr - Inka-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Inka-Subs
+  pattern: Radarr - Inka-Subs
 - name: Radarr - Judgement
   negate: false
   required: false
   type: release_title
-  pattern: Judgement
+  pattern: Radarr - Judgement
 - name: Radarr - Kantai
   negate: false
   required: false
   type: release_title
-  pattern: Kantai
+  pattern: Radarr - Kantai
 - name: Radarr - LCE
   negate: false
   required: false
   type: release_title
-  pattern: LCE
+  pattern: Radarr - LCE
 - name: Radarr - Licca
   negate: false
   required: false
   type: release_title
-  pattern: Licca
+  pattern: Radarr - Licca
 - name: Radarr - Nii-sama
   negate: false
   required: false
   type: release_title
-  pattern: Nii-sama
+  pattern: Radarr - Nii-sama
 - name: Radarr - niizk
   negate: false
   required: false
   type: release_title
-  pattern: niizk
+  pattern: Radarr - niizk
 - name: Radarr - Nishi-Taku
   negate: false
   required: false
   type: release_title
-  pattern: Nishi-Taku
+  pattern: Radarr - Nishi-Taku
 - name: Radarr - OnDeed
   negate: false
   required: false
   type: release_title
-  pattern: OnDeed
+  pattern: Radarr - OnDeed
 - name: Radarr - orz
   negate: false
   required: false
   type: release_title
-  pattern: orz
+  pattern: Radarr - orz
 - name: Radarr - PAS
   negate: false
   required: false
   type: release_title
-  pattern: PAS
+  pattern: Radarr - PAS
 - name: Radarr - peachflavored
   negate: false
   required: false
   type: release_title
-  pattern: peachflavored
+  pattern: Radarr - peachflavored
 - name: Radarr - Saizen
   negate: false
   required: false
   type: release_title
-  pattern: Saizen
+  pattern: Radarr - Saizen
 - name: Radarr - SCP-2223
   negate: false
   required: false
   type: release_title
-  pattern: SCP-2223
+  pattern: Radarr - SCP-2223
 - name: Radarr - SHiN-gx
   negate: false
   required: false
   type: release_title
-  pattern: SHiN-gx
+  pattern: Radarr - SHiN-gx
 - name: Radarr - SmugCat
   negate: false
   required: false
   type: release_title
-  pattern: SmugCat
+  pattern: Radarr - SmugCat
 - name: Radarr - Soldado
   negate: false
   required: false
   type: release_title
-  pattern: Soldado
+  pattern: Radarr - Soldado
 - name: Radarr - Sushi
   negate: false
   required: false
   type: release_title
-  pattern: Sushi
+  pattern: Radarr - Sushi
 - name: Radarr - Vivid
   negate: false
   required: false
   type: release_title
-  pattern: Vivid
+  pattern: Radarr - Vivid
 - name: Radarr - Watashi
   negate: false
   required: false
   type: release_title
-  pattern: Watashi
+  pattern: Radarr - Watashi
 - name: Radarr - Yabai
   negate: false
   required: false
   type: release_title
-  pattern: Yabai
+  pattern: Radarr - Yabai
 - name: Radarr - Zurako
   negate: false
   required: false
   type: release_title
-  pattern: Zurako
+  pattern: Radarr - Zurako
 tests: []

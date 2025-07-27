@@ -1,217 +1,217 @@
 name: Sonarr - German LQ
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#german-lq)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#german-lq)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
 conditions:
 - name: Sonarr - PsO
   negate: false
   required: false
   type: release_group
-  pattern: PsO
+  pattern: Sonarr - PsO
 - name: Sonarr - Cancer58
   negate: false
   required: false
   type: release_group
-  pattern: Cancer58
+  pattern: Sonarr - Cancer58
 - name: Sonarr - Tylor.D
   negate: false
   required: false
   type: release_group
-  pattern: Tylor.D
+  pattern: Sonarr - Tylor.D
 - name: Sonarr - 1XBET
   negate: false
   required: false
   type: release_group
-  pattern: 1XBET
+  pattern: Sonarr - 1XBET
 - name: Sonarr - 2dead
   negate: false
   required: false
   type: release_group
-  pattern: 2dead
+  pattern: Sonarr - 2dead
 - name: Sonarr - HELD
   negate: false
   required: false
   type: release_group
-  pattern: HELD
+  pattern: Sonarr - HELD
 - name: Sonarr - kala
   negate: false
   required: false
   type: release_group
-  pattern: kala
+  pattern: Sonarr - kala
 - name: Sonarr - POE
   negate: false
   required: false
   type: release_group
-  pattern: POE
+  pattern: Sonarr - POE
 - name: Sonarr - SHOWE
   negate: false
   required: false
   type: release_group
-  pattern: SHOWE
+  pattern: Sonarr - SHOWE
 - name: Sonarr - SHOWEHD
   negate: false
   required: false
   type: release_group
-  pattern: SHOWEHD
+  pattern: Sonarr - SHOWEHD
 - name: Sonarr - ORCA88
   negate: false
   required: false
   type: release_group
-  pattern: ORCA88
+  pattern: Sonarr - ORCA88
 - name: Sonarr - LuRCH
   negate: false
   required: false
   type: release_group
-  pattern: LuRCH
+  pattern: Sonarr - LuRCH
 - name: Sonarr - N2D2
   negate: false
   required: false
   type: release_group
-  pattern: N2D2
+  pattern: Sonarr - N2D2
 - name: Sonarr - GETB8
   negate: false
   required: false
   type: release_group
-  pattern: GETB8
+  pattern: Sonarr - GETB8
 - name: Sonarr - TFARC
   negate: false
   required: false
   type: release_group
-  pattern: TFARC
+  pattern: Sonarr - TFARC
 - name: Sonarr - Kristallprinz
   negate: false
   required: false
   type: release_group
-  pattern: Kristallprinz
+  pattern: Sonarr - Kristallprinz
 - name: Sonarr - LAW
   negate: false
   required: false
   type: release_group
-  pattern: LAW
+  pattern: Sonarr - LAW
 - name: Sonarr - CTFOH
   negate: false
   required: false
   type: release_group
-  pattern: CTFOH
+  pattern: Sonarr - CTFOH
 - name: Sonarr - Pendeti
   negate: false
   required: false
   type: release_group
-  pattern: Pendeti
+  pattern: Sonarr - Pendeti
 - name: Sonarr - OJ
   negate: false
   required: false
   type: release_group
-  pattern: OJ
+  pattern: Sonarr - OJ
 - name: Sonarr - PS
   negate: false
   required: false
   type: release_group
-  pattern: PS
+  pattern: Sonarr - PS
 - name: Sonarr - FSX
   negate: false
   required: false
   type: release_group
-  pattern: FSX
+  pattern: Sonarr - FSX
 - name: Sonarr - EMVY
   negate: false
   required: false
   type: release_group
-  pattern: EMVY
+  pattern: Sonarr - EMVY
 - name: Sonarr - ZaidaNulled
   negate: false
   required: false
   type: release_group
-  pattern: ZaidaNulled
+  pattern: Sonarr - ZaidaNulled
 - name: Sonarr - MEGA
   negate: false
   required: false
   type: release_group
-  pattern: MEGA
+  pattern: Sonarr - MEGA
 - name: Sonarr - MBA
   negate: false
   required: false
   type: release_group
-  pattern: MBA
+  pattern: Sonarr - MBA
 - name: Sonarr - FORMBA
   negate: false
   required: false
   type: release_group
-  pattern: FORMBA
+  pattern: Sonarr - FORMBA
 - name: Sonarr - PaZ
   negate: false
   required: false
   type: release_group
-  pattern: PaZ
+  pattern: Sonarr - PaZ
 - name: Sonarr - Whistler
   negate: false
   required: false
   type: release_group
-  pattern: Whistler
+  pattern: Sonarr - Whistler
 - name: Sonarr - omikron
   negate: false
   required: false
   type: release_group
-  pattern: omikron
+  pattern: Sonarr - omikron
 - name: Sonarr - WOTT
   negate: false
   required: false
   type: release_group
-  pattern: WOTT
+  pattern: Sonarr - WOTT
 - name: Sonarr - SunDry
   negate: false
   required: false
   type: release_group
-  pattern: SunDry
+  pattern: Sonarr - SunDry
 - name: Sonarr - PL
   negate: false
   required: false
   type: release_group
-  pattern: PL
+  pattern: Sonarr - PL
 - name: Sonarr - TVARCHiV
   negate: false
   required: false
   type: release_group
-  pattern: TVARCHiV
+  pattern: Sonarr - TVARCHiV
 - name: Sonarr - P73
   negate: false
   required: false
   type: release_group
-  pattern: P73
+  pattern: Sonarr - P73
 - name: Sonarr - LizardSquad
   negate: false
   required: false
   type: release_group
-  pattern: LizardSquad
+  pattern: Sonarr - LizardSquad
 - name: Sonarr - AVTOMAT
   negate: false
   required: false
   type: release_group
-  pattern: AVTOMAT
+  pattern: Sonarr - AVTOMAT
 - name: Sonarr - iSSEYMiYAKE
   negate: false
   required: false
   type: release_group
-  pattern: iSSEYMiYAKE
+  pattern: Sonarr - iSSEYMiYAKE
 - name: Sonarr - TVP
   negate: false
   required: false
   type: release_group
-  pattern: TVP
+  pattern: Sonarr - TVP
 - name: Sonarr - AIDA
   negate: false
   required: false
   type: release_group
-  pattern: AIDA
+  pattern: Sonarr - AIDA
 - name: Sonarr - UTOPiA
   negate: false
   required: false
   type: release_group
-  pattern: UTOPiA
+  pattern: Sonarr - UTOPiA
 - name: Sonarr - FRAGGERS
   negate: false
   required: false
   type: release_group
-  pattern: FRAGGERS
+  pattern: Sonarr - FRAGGERS
 tests: []

@@ -1,17 +1,17 @@
 name: Sonarr - VFQ
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-vfq)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-vfq)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - Canadian French
   negate: false
   required: true
   type: release_title
-  pattern: Canadian French
+  pattern: Sonarr - Canadian French
 - name: Sonarr - Not VF2
   negate: true
   required: true
   type: release_title
-  pattern: Not VF2
+  pattern: Sonarr - Not VF2
 tests: []

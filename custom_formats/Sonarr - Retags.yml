@@ -1,32 +1,32 @@
 name: Sonarr - Retags
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#retags)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#retags)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - .heb
   negate: false
   required: false
   type: release_title
-  pattern: .heb
+  pattern: Sonarr - .heb
 - name: Sonarr - (eztv)
   negate: false
   required: false
   type: release_title
-  pattern: '[eztv]'
+  pattern: Sonarr - (eztv)
 - name: Sonarr - (rarbg)
   negate: false
   required: false
   type: release_title
-  pattern: '[rarbg]'
+  pattern: Sonarr - (rarbg)
 - name: Sonarr - (rartv)
   negate: false
   required: false
   type: release_title
-  pattern: '[rartv]'
+  pattern: Sonarr - (rartv)
 - name: Sonarr - (TGx)
   negate: false
   required: false
   type: release_title
-  pattern: '[TGx]'
+  pattern: Sonarr - (TGx)
 tests: []

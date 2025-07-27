@@ -1,52 +1,52 @@
 name: Radarr - FR Anime Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-anime-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-anime-tier-02)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Aoi-Project
   negate: false
   required: false
   type: release_title
-  pattern: Aoi-Project
+  pattern: Radarr - Aoi-Project
 - name: Radarr - Elecman
   negate: false
   required: false
   type: release_title
-  pattern: Elecman
+  pattern: Radarr - Elecman
 - name: Radarr - FUJiSAN
   negate: false
   required: false
   type: release_title
-  pattern: FUJiSAN
+  pattern: Radarr - FUJiSAN
 - name: Radarr - GundamGuy
   negate: false
   required: false
   type: release_title
-  pattern: GundamGuy
+  pattern: Radarr - GundamGuy
 - name: Radarr - IssouCorp
   negate: false
   required: false
   type: release_title
-  pattern: IssouCorp
+  pattern: Radarr - IssouCorp
 - name: Radarr - KAF
   negate: false
   required: false
   type: release_title
-  pattern: KAF
+  pattern: Radarr - KAF
 - name: Radarr - Nagutos
   negate: false
   required: false
   type: release_title
-  pattern: Nagutos
+  pattern: Radarr - Nagutos
 - name: Radarr - OECUF
   negate: false
   required: false
   type: release_title
-  pattern: OECUF
+  pattern: Radarr - OECUF
 - name: Radarr - XSPITFIRE911
   negate: false
   required: false
   type: release_title
-  pattern: XSPITFIRE911
+  pattern: Radarr - XSPITFIRE911
 tests: []

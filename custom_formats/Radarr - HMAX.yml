@@ -1,19 +1,20 @@
 name: Radarr - HMAX
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#hmax)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#hmax)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - HBO Max
   negate: false
   required: false
   type: release_title
-  pattern: HBO Max
+  pattern: Radarr - HBO Max
 - name: Radarr - HMAX Rename
   negate: false
   required: false
   type: release_title
-  pattern: HMAX Rename
+  pattern: Radarr - HMAX Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

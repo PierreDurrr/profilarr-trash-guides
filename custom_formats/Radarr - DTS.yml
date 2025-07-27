@@ -1,57 +1,57 @@
 name: Radarr - DTS
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dts)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#dts)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Basic DTS
   negate: false
   required: true
   type: release_title
-  pattern: Basic DTS
+  pattern: Radarr - Basic DTS
 - name: Radarr - Not DTS-HD
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS-HD
+  pattern: Radarr - Not DTS-HD
 - name: Radarr - Not DTS-HD HRA-ES
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS-HD HRA/ES
+  pattern: Radarr - Not DTS-HD HRA-ES
 - name: Radarr - Not Dolby Digital Plus
   negate: true
   required: true
   type: release_title
-  pattern: Not Dolby Digital Plus
+  pattern: Radarr - Not Dolby Digital Plus
 - name: Radarr - Not TrueHD-ATMOS
   negate: true
   required: true
   type: release_title
-  pattern: Not TrueHD/ATMOS
+  pattern: Radarr - Not TrueHD-ATMOS
 - name: Radarr - Not Basic Dolby Digital
   negate: true
   required: true
   type: release_title
-  pattern: Not Basic Dolby Digital
+  pattern: Radarr - Not Basic Dolby Digital
 - name: Radarr - Not DTS X
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS X
+  pattern: Radarr - Not DTS X
 - name: Radarr - Not FLAC
   negate: true
   required: true
   type: release_title
-  pattern: Not FLAC
+  pattern: Radarr - Not FLAC
 - name: Radarr - Not AAC
   negate: true
   required: true
   type: release_title
-  pattern: Not AAC
+  pattern: Radarr - Not AAC
 - name: Radarr - Not PCM
   negate: true
   required: true
   type: release_title
-  pattern: Not PCM
+  pattern: Radarr - Not PCM
 tests: []

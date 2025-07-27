@@ -1,22 +1,22 @@
 name: Radarr - Repack-Proper
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#repack-proper)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#repack-proper)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Repack
   negate: false
   required: false
   type: release_title
-  pattern: Repack
+  pattern: Radarr - Repack
 - name: Radarr - Proper
   negate: false
   required: false
   type: release_title
-  pattern: Proper
+  pattern: Radarr - Proper
 - name: Radarr - Rerip
   negate: false
   required: false
   type: release_title
-  pattern: Rerip
+  pattern: Radarr - Rerip
 tests: []

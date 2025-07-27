@@ -1,14 +1,15 @@
 name: Radarr - NF
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#nf)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#nf)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Netflix
   negate: false
   required: true
   type: release_title
-  pattern: Netflix
+  pattern: Radarr - Netflix
 - name: Radarr - WEBDL
   negate: false
   required: false

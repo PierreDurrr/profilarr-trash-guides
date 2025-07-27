@@ -1,62 +1,62 @@
 name: Sonarr - FR Anime FanSub
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#french-anime-fansub)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#french-anime-fansub)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - Anime-Heart
   negate: false
   required: false
   type: release_title
-  pattern: Anime-Heart
+  pattern: Sonarr - Anime-Heart
 - name: Sonarr - Kaerizaki-Fansub
   negate: false
   required: false
   type: release_title
-  pattern: Kaerizaki-Fansub
+  pattern: Sonarr - Kaerizaki-Fansub
 - name: Sonarr - Natsumi-no-Sekai
   negate: false
   required: false
   type: release_title
-  pattern: Natsumi-no-Sekai
+  pattern: Sonarr - Natsumi-no-Sekai
 - name: Sonarr - NekoYu'
   negate: false
   required: false
   type: release_title
-  pattern: NekoYu'
+  pattern: Sonarr - NekoYu'
 - name: Sonarr - Onii-ChanSub
   negate: false
   required: false
   type: release_title
-  pattern: Onii-ChanSub
+  pattern: Sonarr - Onii-ChanSub
 - name: Sonarr - Owlolf
   negate: false
   required: false
   type: release_title
-  pattern: Owlolf
+  pattern: Sonarr - Owlolf
 - name: Sonarr - Pikari-Teshima
   negate: false
   required: false
   type: release_title
-  pattern: Pikari-Teshima
+  pattern: Sonarr - Pikari-Teshima
 - name: Sonarr - Seimeisen
   negate: false
   required: false
   type: release_title
-  pattern: Seimeisen
+  pattern: Sonarr - Seimeisen
 - name: Sonarr - Team Arcedo
   negate: false
   required: false
   type: release_title
-  pattern: Team Arcedo
+  pattern: Sonarr - Team Arcedo
 - name: Sonarr - Yarashii
   negate: false
   required: false
   type: release_title
-  pattern: Yarashii
+  pattern: Sonarr - Yarashii
 - name: Sonarr - Yangire-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Yangire-Raws
+  pattern: Sonarr - Yangire-Raws
 tests: []

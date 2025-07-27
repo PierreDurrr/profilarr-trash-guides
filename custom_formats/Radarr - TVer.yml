@@ -1,14 +1,15 @@
 name: Radarr - TVer
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#tver)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#tver)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - TVer
   negate: false
   required: true
   type: release_title
-  pattern: TVer
+  pattern: Radarr - TVer
 - name: Radarr - WEBDL
   negate: false
   required: false

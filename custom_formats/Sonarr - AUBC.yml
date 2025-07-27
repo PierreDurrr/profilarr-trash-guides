@@ -1,14 +1,15 @@
 name: Sonarr - AUBC
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#aubc)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#aubc)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - AUBC
   negate: false
   required: true
   type: release_title
-  pattern: AUBC
+  pattern: Sonarr - AUBC
 - name: Sonarr - WEBDL
   negate: false
   required: false

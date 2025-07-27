@@ -1,14 +1,15 @@
 name: Radarr - DSNP
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dsnp)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#dsnp)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Disney+
   negate: false
   required: true
   type: release_title
-  pattern: Disney+
+  pattern: Radarr - Disney+
 - name: Radarr - WEBDL
   negate: false
   required: false

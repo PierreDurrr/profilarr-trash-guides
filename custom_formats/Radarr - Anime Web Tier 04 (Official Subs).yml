@@ -1,8 +1,9 @@
 name: Radarr - Anime Web Tier 04 (Official Subs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-04-official-subs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-web-tier-04-official-subs)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false
@@ -18,60 +19,60 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: BlueLobster
+  pattern: Radarr - BlueLobster
 - name: Radarr - Erai-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Erai-Raws
+  pattern: Radarr - Erai-Raws
 - name: Radarr - GST
   negate: false
   required: false
   type: release_title
-  pattern: GST
+  pattern: Radarr - GST
 - name: Radarr - HorribleRips
   negate: false
   required: false
   type: release_title
-  pattern: HorribleRips
+  pattern: Radarr - HorribleRips
 - name: Radarr - HorribleSubs
   negate: false
   required: false
   type: release_title
-  pattern: HorribleSubs
+  pattern: Radarr - HorribleSubs
 - name: Radarr - KAN3D2M
   negate: false
   required: false
   type: release_title
-  pattern: KAN3D2M
+  pattern: Radarr - KAN3D2M
 - name: Radarr - KiyoshiStar
   negate: false
   required: false
   type: release_title
-  pattern: KiyoshiStar
+  pattern: Radarr - KiyoshiStar
 - name: Radarr - Lia
   negate: false
   required: false
   type: release_title
-  pattern: Lia
+  pattern: Radarr - Lia
 - name: Radarr - NanDesuKa
   negate: false
   required: false
   type: release_title
-  pattern: NanDesuKa
+  pattern: Radarr - NanDesuKa
 - name: Radarr - URANIME
   negate: false
   required: false
   type: release_title
-  pattern: URANIME
+  pattern: Radarr - URANIME
 - name: Radarr - VARYG
   negate: false
   required: false
   type: release_title
-  pattern: VARYG
+  pattern: Radarr - VARYG
 - name: Radarr - ZigZag
   negate: false
   required: false
   type: release_title
-  pattern: ZigZag
+  pattern: Radarr - ZigZag
 tests: []

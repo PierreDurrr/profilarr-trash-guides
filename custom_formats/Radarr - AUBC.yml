@@ -1,14 +1,15 @@
 name: Radarr - AUBC
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#aubc)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#aubc)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - AUBC
   negate: false
   required: true
   type: release_title
-  pattern: AUBC
+  pattern: Radarr - AUBC
 - name: Radarr - WEBDL
   negate: false
   required: false

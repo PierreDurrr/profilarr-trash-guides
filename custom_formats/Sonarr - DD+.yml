@@ -1,37 +1,37 @@
 name: Sonarr - DD+
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#ddplus)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#ddplus)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - Dolby Digital Plus
   negate: false
   required: true
   type: release_title
-  pattern: Dolby Digital Plus
+  pattern: Sonarr - Dolby Digital Plus
 - name: Sonarr - Not TrueHD-ATMOS
   negate: true
   required: true
   type: release_title
-  pattern: Not TrueHD/ATMOS
+  pattern: Sonarr - Not TrueHD-ATMOS
 - name: Sonarr - Not DTS
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS
+  pattern: Sonarr - Not DTS
 - name: Sonarr - Not FLAC
   negate: true
   required: true
   type: release_title
-  pattern: Not FLAC
+  pattern: Sonarr - Not FLAC
 - name: Sonarr - Not AAC
   negate: true
   required: true
   type: release_title
-  pattern: Not AAC
+  pattern: Sonarr - Not AAC
 - name: Sonarr - Not PCM
   negate: true
   required: true
   type: release_title
-  pattern: Not PCM
+  pattern: Sonarr - Not PCM
 tests: []

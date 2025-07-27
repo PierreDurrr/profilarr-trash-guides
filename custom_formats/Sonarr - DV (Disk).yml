@@ -1,32 +1,33 @@
 name: Sonarr - DV (Disk)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#dv-disk)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#dv-disk)'
 tags:
-- Release Title
 - Sonarr
+- Release Group
+- Release Title
 conditions:
 - name: Sonarr - FraMeSToR
   negate: false
   required: true
   type: release_group
-  pattern: FraMeSToR
+  pattern: Sonarr - FraMeSToR
 - name: Sonarr - DV
   negate: false
   required: true
   type: release_title
-  pattern: DV
+  pattern: Sonarr - DV
 - name: Sonarr - No FANRES
   negate: true
   required: true
   type: release_title
-  pattern: No FANRES
+  pattern: Sonarr - No FANRES
 - name: Sonarr - Not Hybrid
   negate: true
   required: true
   type: release_title
-  pattern: Not Hybrid
+  pattern: Sonarr - Not Hybrid
 - name: Sonarr - Not Hybrid Release Group
   negate: true
   required: true
   type: release_title
-  pattern: Not Hybrid Release Group
+  pattern: Sonarr - Not Hybrid Release Group
 tests: []

@@ -1,8 +1,9 @@
 name: Radarr - Anime Web Tier 06 (FanSubs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-06-fansubs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-web-tier-06-fansubs)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false
@@ -18,30 +19,30 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Asenshi
+  pattern: Radarr - Asenshi
 - name: Radarr - Chihiro
   negate: false
   required: false
   type: release_title
-  pattern: Chihiro
+  pattern: Radarr - Chihiro
 - name: Radarr - Commie
   negate: false
   required: false
   type: release_title
-  pattern: Commie
+  pattern: Radarr - Commie
 - name: Radarr - DameDesuYo
   negate: false
   required: false
   type: release_title
-  pattern: DameDesuYo
+  pattern: Radarr - DameDesuYo
 - name: Radarr - Doki
   negate: false
   required: false
   type: release_title
-  pattern: Doki
+  pattern: Radarr - Doki
 - name: Radarr - Tsundere
   negate: false
   required: false
   type: release_title
-  pattern: Tsundere
+  pattern: Radarr - Tsundere
 tests: []

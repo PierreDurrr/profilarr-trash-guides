@@ -1,12 +1,12 @@
 name: Radarr - Uncensored
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uncensored)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#uncensored)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Uncensored
   negate: false
   required: true
   type: release_title
-  pattern: Uncensored
+  pattern: Radarr - Uncensored
 tests: []

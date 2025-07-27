@@ -1,8 +1,9 @@
 name: Sonarr - Anime BD Tier 01 (Top SeaDex Muxers)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-bd-tier-01-top-seadex-muxers)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-bd-tier-01-top-seadex-muxers)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Bluray
   negate: false
@@ -23,60 +24,60 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Aergia
+  pattern: Sonarr - Aergia
 - name: Sonarr - Arg0
   negate: false
   required: false
   type: release_title
-  pattern: Arg0
+  pattern: Sonarr - Arg0
 - name: Sonarr - Legion
   negate: false
   required: false
   type: release_title
-  pattern: Legion
+  pattern: Sonarr - Legion
 - name: Sonarr - LYS1TH3A
   negate: false
   required: false
   type: release_title
-  pattern: LYS1TH3A
+  pattern: Sonarr - LYS1TH3A
 - name: Sonarr - OZR
   negate: false
   required: false
   type: release_title
-  pattern: OZR
+  pattern: Sonarr - OZR
 - name: Sonarr - sam
   negate: false
   required: false
   type: release_title
-  pattern: sam
+  pattern: Sonarr - sam
 - name: Sonarr - SCY
   negate: false
   required: false
   type: release_title
-  pattern: SCY
+  pattern: Sonarr - SCY
 - name: Sonarr - smol
   negate: false
   required: false
   type: release_title
-  pattern: smol
+  pattern: Sonarr - smol
 - name: Sonarr - SoM
   negate: false
   required: false
   type: release_title
-  pattern: SoM
+  pattern: Sonarr - SoM
 - name: Sonarr - Vanilla
   negate: false
   required: false
   type: release_title
-  pattern: Vanilla
+  pattern: Sonarr - Vanilla
 - name: Sonarr - Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Vodes
+  pattern: Sonarr - Vodes
 - name: Sonarr - ZeroBuild
   negate: false
   required: false
   type: release_title
-  pattern: ZeroBuild
+  pattern: Sonarr - ZeroBuild
 tests: []

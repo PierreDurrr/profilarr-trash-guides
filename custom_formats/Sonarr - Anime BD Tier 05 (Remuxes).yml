@@ -1,8 +1,9 @@
 name: Sonarr - Anime BD Tier 05 (Remuxes)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-bd-tier-05-remuxes)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-bd-tier-05-remuxes)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Bluray
   negate: false
@@ -23,45 +24,45 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: BluDragon
+  pattern: Sonarr - BluDragon
 - name: Sonarr - D4C
   negate: false
   required: false
   type: release_title
-  pattern: D4C
+  pattern: Sonarr - D4C
 - name: Sonarr - E.N.D
   negate: false
   required: false
   type: release_title
-  pattern: E.N.D
+  pattern: Sonarr - E.N.D
 - name: Sonarr - PMR
   negate: false
   required: false
   type: release_title
-  pattern: PMR
+  pattern: Sonarr - PMR
 - name: Sonarr - Raizel
   negate: false
   required: false
   type: release_title
-  pattern: Raizel
+  pattern: Sonarr - Raizel
 - name: Sonarr - REVO
   negate: false
   required: false
   type: release_title
-  pattern: REVO
+  pattern: Sonarr - REVO
 - name: Sonarr - SRLS
   negate: false
   required: false
   type: release_title
-  pattern: SRLS
+  pattern: Sonarr - SRLS
 - name: Sonarr - TTGA
   negate: false
   required: false
   type: release_title
-  pattern: TTGA
+  pattern: Sonarr - TTGA
 - name: Sonarr - VULCAN
   negate: false
   required: false
   type: release_title
-  pattern: VULCAN
+  pattern: Sonarr - VULCAN
 tests: []

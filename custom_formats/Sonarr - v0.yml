@@ -1,12 +1,12 @@
 name: Sonarr - v0
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#v0)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#v0)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - v0
   negate: false
   required: true
   type: release_title
-  pattern: v0
+  pattern: Sonarr - v0
 tests: []

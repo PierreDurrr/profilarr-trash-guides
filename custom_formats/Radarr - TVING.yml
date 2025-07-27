@@ -1,19 +1,20 @@
 name: Radarr - TVING
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#tving)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#tving)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - TVING
   negate: false
   required: false
   type: release_title
-  pattern: TVING
+  pattern: Radarr - TVING
 - name: Radarr - TVING Rename
   negate: false
   required: false
   type: release_title
-  pattern: TVING Rename
+  pattern: Radarr - TVING Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

@@ -1,14 +1,15 @@
 name: Radarr - HTSR
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#htsr)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#htsr)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Hotstar
   negate: false
   required: true
   type: release_title
-  pattern: Hotstar
+  pattern: Radarr - Hotstar
 - name: Radarr - WEBDL
   negate: false
   required: false

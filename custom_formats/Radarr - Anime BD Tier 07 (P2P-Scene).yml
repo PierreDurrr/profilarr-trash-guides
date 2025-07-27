@@ -1,8 +1,9 @@
 name: Radarr - Anime BD Tier 07 (P2P-Scene)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-07-p2pscene)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-bd-tier-07-p2pscene)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Bluray
   negate: false
@@ -18,90 +19,90 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: A-L
+  pattern: Radarr - A-L
 - name: Radarr - ANiHLS
   negate: false
   required: false
   type: release_title
-  pattern: ANiHLS
+  pattern: Radarr - ANiHLS
 - name: Radarr - CBM
   negate: false
   required: false
   type: release_title
-  pattern: CBM
+  pattern: Radarr - CBM
 - name: Radarr - DHD
   negate: false
   required: false
   type: release_title
-  pattern: DHD
+  pattern: Radarr - DHD
 - name: Radarr - DragsterPS
   negate: false
   required: false
   type: release_title
-  pattern: DragsterPS
+  pattern: Radarr - DragsterPS
 - name: Radarr - HAiKU
   negate: false
   required: false
   type: release_title
-  pattern: HAiKU
+  pattern: Radarr - HAiKU
 - name: Radarr - Hark0N
   negate: false
   required: false
   type: release_title
-  pattern: Hark0N
+  pattern: Radarr - Hark0N
 - name: Radarr - iAHD
   negate: false
   required: false
   type: release_title
-  pattern: iAHD
+  pattern: Radarr - iAHD
 - name: Radarr - inid4c
   negate: false
   required: false
   type: release_title
-  pattern: inid4c
+  pattern: Radarr - inid4c
 - name: Radarr - KiyoshiStar
   negate: false
   required: false
   type: release_title
-  pattern: KiyoshiStar
+  pattern: Radarr - KiyoshiStar
 - name: Radarr - MCR
   negate: false
   required: false
   type: release_title
-  pattern: MCR
+  pattern: Radarr - MCR
 - name: Radarr - NPC
   negate: false
   required: false
   type: release_title
-  pattern: NPC
+  pattern: Radarr - NPC
 - name: Radarr - RedBlade
   negate: false
   required: false
   type: release_title
-  pattern: RedBlade
+  pattern: Radarr - RedBlade
 - name: Radarr - RH
   negate: false
   required: false
   type: release_title
-  pattern: RH
+  pattern: Radarr - RH
 - name: Radarr - SEV
   negate: false
   required: false
   type: release_title
-  pattern: SEV
+  pattern: Radarr - SEV
 - name: Radarr - STRiFE
   negate: false
   required: false
   type: release_title
-  pattern: STRiFE
+  pattern: Radarr - STRiFE
 - name: Radarr - TENEIGHTY
   negate: false
   required: false
   type: release_title
-  pattern: TENEIGHTY
+  pattern: Radarr - TENEIGHTY
 - name: Radarr - WaLMaRT
   negate: false
   required: false
   type: release_title
-  pattern: WaLMaRT
+  pattern: Radarr - WaLMaRT
 tests: []

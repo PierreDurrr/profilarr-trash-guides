@@ -1,8 +1,9 @@
 name: Radarr - Anime BD Tier 08 (Mini Encodes)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-bd-tier-08-mini-encodes)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-bd-tier-08-mini-encodes)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - Bluray
   negate: false
@@ -18,55 +19,55 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: AkihitoSubs
+  pattern: Radarr - AkihitoSubs
 - name: Radarr - Arukoru
   negate: false
   required: false
   type: release_title
-  pattern: Arukoru
+  pattern: Radarr - Arukoru
 - name: Radarr - EDGE
   negate: false
   required: false
   type: release_title
-  pattern: EDGE
+  pattern: Radarr - EDGE
 - name: Radarr - EMBER
   negate: false
   required: false
   type: release_title
-  pattern: EMBER
+  pattern: Radarr - EMBER
 - name: Radarr - GHOST
   negate: false
   required: false
   type: release_title
-  pattern: GHOST
+  pattern: Radarr - GHOST
 - name: Radarr - Judas
   negate: false
   required: false
   type: release_title
-  pattern: Judas
+  pattern: Radarr - Judas
 - name: Radarr - naiyas
   negate: false
   required: false
   type: release_title
-  pattern: naiyas
+  pattern: Radarr - naiyas
 - name: Radarr - Nep_Blanc
   negate: false
   required: false
   type: release_title
-  pattern: Nep_Blanc
+  pattern: Radarr - Nep_Blanc
 - name: Radarr - Prof
   negate: false
   required: false
   type: release_title
-  pattern: Prof
+  pattern: Radarr - Prof
 - name: Radarr - Shirσ
   negate: false
   required: false
   type: release_title
-  pattern: Shirσ
+  pattern: Radarr - Shirσ
 - name: Radarr - YURASAKA
   negate: false
   required: false
   type: release_title
-  pattern: YURASAKA
+  pattern: Radarr - YURASAKA
 tests: []

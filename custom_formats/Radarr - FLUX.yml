@@ -1,12 +1,12 @@
 name: Radarr - FLUX
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#flux)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#flux)'
 tags:
-- Release Group
 - Radarr
+- Release Group
 conditions:
 - name: Radarr - FLUX
   negate: false
   required: true
   type: release_group
-  pattern: FLUX
+  pattern: Radarr - FLUX
 tests: []

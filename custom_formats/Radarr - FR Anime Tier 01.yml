@@ -1,52 +1,52 @@
 name: Radarr - FR Anime Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-anime-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-anime-tier-01)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Darki
   negate: false
   required: false
   type: release_title
-  pattern: Darki
+  pattern: Radarr - Darki
 - name: Radarr - Delivroozzi
   negate: false
   required: false
   type: release_title
-  pattern: Delivroozzi
+  pattern: Radarr - Delivroozzi
 - name: Radarr - Fuceo
   negate: false
   required: false
   type: release_title
-  pattern: Fuceo
+  pattern: Radarr - Fuceo
 - name: Radarr - Good Job! Alexis
   negate: false
   required: false
   type: release_title
-  pattern: Good Job! Alexis
+  pattern: Radarr - Good Job! Alexis
 - name: Radarr - Punisher694
   negate: false
   required: false
   type: release_title
-  pattern: Punisher694
+  pattern: Radarr - Punisher694
 - name: Radarr - SR-71
   negate: false
   required: false
   type: release_title
-  pattern: SR-71
+  pattern: Radarr - SR-71
 - name: Radarr - T3KASHi
   negate: false
   required: false
   type: release_title
-  pattern: T3KASHi
+  pattern: Radarr - T3KASHi
 - name: Radarr - TANOSHii
   negate: false
   required: false
   type: release_title
-  pattern: TANOSHii
+  pattern: Radarr - TANOSHii
 - name: Radarr - Tsundere-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Tsundere-Raws
+  pattern: Radarr - Tsundere-Raws
 tests: []

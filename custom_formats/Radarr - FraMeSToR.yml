@@ -1,12 +1,12 @@
 name: Radarr - FraMeSToR
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#framestor)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#framestor)'
 tags:
-- Release Group
 - Radarr
+- Release Group
 conditions:
 - name: Radarr - FraMeSToR
   negate: false
   required: true
   type: release_group
-  pattern: FraMeSToR
+  pattern: Radarr - FraMeSToR
 tests: []

@@ -1,8 +1,9 @@
 name: Sonarr - Anime BD Tier 03 (SeaDex Muxers)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-bd-tier-03-seadex-muxers)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-bd-tier-03-seadex-muxers)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Bluray
   negate: false
@@ -23,185 +24,185 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: AC
+  pattern: Sonarr - AC
 - name: Sonarr - ASC
   negate: false
   required: false
   type: release_title
-  pattern: ASC
+  pattern: Sonarr - ASC
 - name: Sonarr - AssMix
   negate: false
   required: false
   type: release_title
-  pattern: AssMix
+  pattern: Sonarr - AssMix
 - name: Sonarr - Ayashii
   negate: false
   required: false
   type: release_title
-  pattern: Ayashii
+  pattern: Sonarr - Ayashii
 - name: Sonarr - B00BA
   negate: false
   required: false
   type: release_title
-  pattern: B00BA
+  pattern: Sonarr - B00BA
 - name: Sonarr - CBT
   negate: false
   required: false
   type: release_title
-  pattern: CBT
+  pattern: Sonarr - CBT
 - name: Sonarr - CRUCiBLE
   negate: false
   required: false
   type: release_title
-  pattern: CRUCiBLE
+  pattern: Sonarr - CRUCiBLE
 - name: Sonarr - CTR
   negate: false
   required: false
   type: release_title
-  pattern: CTR
+  pattern: Sonarr - CTR
 - name: Sonarr - CyC
   negate: false
   required: false
   type: release_title
-  pattern: CyC
+  pattern: Sonarr - CyC
 - name: Sonarr - Dekinai
   negate: false
   required: false
   type: release_title
-  pattern: Dekinai
+  pattern: Sonarr - Dekinai
 - name: Sonarr - EXP
   negate: false
   required: false
   type: release_title
-  pattern: EXP
+  pattern: Sonarr - EXP
 - name: Sonarr - Flugel
   negate: false
   required: false
   type: release_title
-  pattern: Flugel
+  pattern: Sonarr - Flugel
 - name: Sonarr - Galator
   negate: false
   required: false
   type: release_title
-  pattern: Galator
+  pattern: Sonarr - Galator
 - name: Sonarr - GSK_kun
   negate: false
   required: false
   type: release_title
-  pattern: GSK_kun
+  pattern: Sonarr - GSK_kun
 - name: Sonarr - Holomux
   negate: false
   required: false
   type: release_title
-  pattern: Holomux
+  pattern: Sonarr - Holomux
 - name: Sonarr - IK
   negate: false
   required: false
   type: release_title
-  pattern: IK
+  pattern: Sonarr - IK
 - name: Sonarr - Kaizoku
   negate: false
   required: false
   type: release_title
-  pattern: Kaizoku
+  pattern: Sonarr - Kaizoku
 - name: Sonarr - Kametsu
   negate: false
   required: false
   type: release_title
-  pattern: Kametsu
+  pattern: Sonarr - Kametsu
 - name: Sonarr - KH
   negate: false
   required: false
   type: release_title
-  pattern: KH
+  pattern: Sonarr - KH
 - name: Sonarr - kuchikirukia
   negate: false
   required: false
   type: release_title
-  pattern: kuchikirukia
+  pattern: Sonarr - kuchikirukia
 - name: Sonarr - LazyRemux
   negate: false
   required: false
   type: release_title
-  pattern: LazyRemux
+  pattern: Sonarr - LazyRemux
 - name: Sonarr - MK
   negate: false
   required: false
   type: release_title
-  pattern: MK
+  pattern: Sonarr - MK
 - name: Sonarr - Mysteria
   negate: false
   required: false
   type: release_title
-  pattern: Mysteria
+  pattern: Sonarr - Mysteria
 - name: Sonarr - NAN0
   negate: false
   required: false
   type: release_title
-  pattern: NAN0
+  pattern: Sonarr - NAN0
 - name: Sonarr - Netaro
   negate: false
   required: false
   type: release_title
-  pattern: Netaro
+  pattern: Sonarr - Netaro
 - name: Sonarr - Pn8
   negate: false
   required: false
   type: release_title
-  pattern: Pn8
+  pattern: Sonarr - Pn8
 - name: Sonarr - Pookie
   negate: false
   required: false
   type: release_title
-  pattern: Pookie
+  pattern: Sonarr - Pookie
 - name: Sonarr - Quetzal
   negate: false
   required: false
   type: release_title
-  pattern: Quetzal
+  pattern: Sonarr - Quetzal
 - name: Sonarr - Rasetsu
   negate: false
   required: false
   type: release_title
-  pattern: Rasetsu
+  pattern: Sonarr - Rasetsu
 - name: Sonarr - Senjou
   negate: false
   required: false
   type: release_title
-  pattern: Senjou
+  pattern: Sonarr - Senjou
 - name: Sonarr - ShowY
   negate: false
   required: false
   type: release_title
-  pattern: ShowY
+  pattern: Sonarr - ShowY
 - name: Sonarr - WBDP
   negate: false
   required: false
   type: release_title
-  pattern: WBDP
+  pattern: Sonarr - WBDP
 - name: Sonarr - WSE
   negate: false
   required: false
   type: release_title
-  pattern: WSE
+  pattern: Sonarr - WSE
 - name: Sonarr - Yoghurt
   negate: false
   required: false
   type: release_title
-  pattern: Yoghurt
+  pattern: Sonarr - Yoghurt
 - name: Sonarr - YURI
   negate: false
   required: false
   type: release_title
-  pattern: YURI
+  pattern: Sonarr - YURI
 - name: Sonarr - ZOIO
   negate: false
   required: false
   type: release_title
-  pattern: ZOIO
+  pattern: Sonarr - ZOIO
 - name: Sonarr - ZR
   negate: false
   required: false
   type: release_title
-  pattern: ZR
+  pattern: Sonarr - ZR
 tests: []

@@ -1,8 +1,9 @@
 name: Radarr - Anime Web Tier 03 (Official Subs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-03-official-subs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-web-tier-03-official-subs)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false
@@ -18,15 +19,15 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: SubsPlease
+  pattern: Radarr - SubsPlease
 - name: Radarr - SubsPlus+
   negate: false
   required: false
   type: release_title
-  pattern: SubsPlus+
+  pattern: Radarr - SubsPlus+
 - name: Radarr - ZR
   negate: false
   required: false
   type: release_title
-  pattern: ZR
+  pattern: Radarr - ZR
 tests: []

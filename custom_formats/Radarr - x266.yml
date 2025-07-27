@@ -1,14 +1,15 @@
 name: Radarr - x266
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#x266)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#x266)'
 tags:
-- Quality Modifier
 - Radarr
+- Release Title
+- Quality Modifier
 conditions:
 - name: Radarr - x|h266
   negate: false
   required: true
   type: release_title
-  pattern: x|h266
+  pattern: Radarr - x|h266
 - name: Radarr - Not Remux
   negate: true
   required: true

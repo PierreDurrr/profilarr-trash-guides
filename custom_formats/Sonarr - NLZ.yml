@@ -1,14 +1,15 @@
 name: Sonarr - NLZ
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#nlz)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#nlz)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - NLZiet
   negate: false
   required: true
   type: release_title
-  pattern: NLZiet
+  pattern: Sonarr - NLZiet
 - name: Sonarr - WEBDL
   negate: false
   required: false

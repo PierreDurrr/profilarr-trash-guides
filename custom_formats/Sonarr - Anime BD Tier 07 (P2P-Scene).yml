@@ -1,8 +1,9 @@
 name: Sonarr - Anime BD Tier 07 (P2P-Scene)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-bd-tier-07-p2pscene)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-bd-tier-07-p2pscene)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Bluray
   negate: false
@@ -23,90 +24,90 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: A-L
+  pattern: Sonarr - A-L
 - name: Sonarr - ANiHLS
   negate: false
   required: false
   type: release_title
-  pattern: ANiHLS
+  pattern: Sonarr - ANiHLS
 - name: Sonarr - CBM
   negate: false
   required: false
   type: release_title
-  pattern: CBM
+  pattern: Sonarr - CBM
 - name: Sonarr - DHD
   negate: false
   required: false
   type: release_title
-  pattern: DHD
+  pattern: Sonarr - DHD
 - name: Sonarr - DragsterPS
   negate: false
   required: false
   type: release_title
-  pattern: DragsterPS
+  pattern: Sonarr - DragsterPS
 - name: Sonarr - HAiKU
   negate: false
   required: false
   type: release_title
-  pattern: HAiKU
+  pattern: Sonarr - HAiKU
 - name: Sonarr - Hark0N
   negate: false
   required: false
   type: release_title
-  pattern: Hark0N
+  pattern: Sonarr - Hark0N
 - name: Sonarr - iAHD
   negate: false
   required: false
   type: release_title
-  pattern: iAHD
+  pattern: Sonarr - iAHD
 - name: Sonarr - inid4c
   negate: false
   required: false
   type: release_title
-  pattern: inid4c
+  pattern: Sonarr - inid4c
 - name: Sonarr - KiyoshiStar
   negate: false
   required: false
   type: release_title
-  pattern: KiyoshiStar
+  pattern: Sonarr - KiyoshiStar
 - name: Sonarr - MCR
   negate: false
   required: false
   type: release_title
-  pattern: MCR
+  pattern: Sonarr - MCR
 - name: Sonarr - NPC
   negate: false
   required: false
   type: release_title
-  pattern: NPC
+  pattern: Sonarr - NPC
 - name: Sonarr - RedBlade
   negate: false
   required: false
   type: release_title
-  pattern: RedBlade
+  pattern: Sonarr - RedBlade
 - name: Sonarr - RH
   negate: false
   required: false
   type: release_title
-  pattern: RH
+  pattern: Sonarr - RH
 - name: Sonarr - SEV
   negate: false
   required: false
   type: release_title
-  pattern: SEV
+  pattern: Sonarr - SEV
 - name: Sonarr - STRiFE
   negate: false
   required: false
   type: release_title
-  pattern: STRiFE
+  pattern: Sonarr - STRiFE
 - name: Sonarr - TENEIGHTY
   negate: false
   required: false
   type: release_title
-  pattern: TENEIGHTY
+  pattern: Sonarr - TENEIGHTY
 - name: Sonarr - WaLMaRT
   negate: false
   required: false
   type: release_title
-  pattern: WaLMaRT
+  pattern: Sonarr - WaLMaRT
 tests: []

@@ -1,12 +1,12 @@
 name: Radarr - VFI
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#french-vfi)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-vfi)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - French International
   negate: false
   required: true
   type: release_title
-  pattern: French International
+  pattern: Radarr - French International
 tests: []

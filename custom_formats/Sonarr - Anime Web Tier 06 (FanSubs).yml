@@ -1,8 +1,9 @@
 name: Sonarr - Anime Web Tier 06 (FanSubs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-web-tier-06-fansubs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-web-tier-06-fansubs)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false
@@ -23,30 +24,30 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Asenshi
+  pattern: Sonarr - Asenshi
 - name: Sonarr - Chihiro
   negate: false
   required: false
   type: release_title
-  pattern: Chihiro
+  pattern: Sonarr - Chihiro
 - name: Sonarr - Commie
   negate: false
   required: false
   type: release_title
-  pattern: Commie
+  pattern: Sonarr - Commie
 - name: Sonarr - DameDesuYo
   negate: false
   required: false
   type: release_title
-  pattern: DameDesuYo
+  pattern: Sonarr - DameDesuYo
 - name: Sonarr - Doki
   negate: false
   required: false
   type: release_title
-  pattern: Doki
+  pattern: Sonarr - Doki
 - name: Sonarr - Tsundere
   negate: false
   required: false
   type: release_title
-  pattern: Tsundere
+  pattern: Sonarr - Tsundere
 tests: []

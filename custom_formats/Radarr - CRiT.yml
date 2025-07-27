@@ -1,14 +1,16 @@
 name: Radarr - CRiT
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#crit)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#crit)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Release Title
+- Source
 conditions:
 - name: Radarr - CRiT
   negate: false
   required: true
   type: release_title
-  pattern: CRiT
+  pattern: Radarr - CRiT
 - name: Radarr - WEBDL
   negate: false
   required: false
@@ -23,5 +25,5 @@ conditions:
   negate: true
   required: true
   type: release_group
-  pattern: Not Criterion RlsGrp
+  pattern: Radarr - Not Criterion RlsGrp
 tests: []

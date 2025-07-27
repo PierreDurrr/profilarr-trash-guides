@@ -1,8 +1,9 @@
 name: Radarr - WEB Tier 03
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#web-tier-03)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#web-tier-03)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false
@@ -18,40 +19,40 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: BYNDR
+  pattern: Radarr - BYNDR
 - name: Radarr - GNOMiSSiON
   negate: false
   required: false
   type: release_group
-  pattern: GNOMiSSiON
+  pattern: Radarr - GNOMiSSiON
 - name: Radarr - NINJACENTRAL
   negate: false
   required: false
   type: release_group
-  pattern: NINJACENTRAL
+  pattern: Radarr - NINJACENTRAL
 - name: Radarr - NPMS
   negate: false
   required: false
   type: release_group
-  pattern: NPMS
+  pattern: Radarr - NPMS
 - name: Radarr - ROCCaT
   negate: false
   required: false
   type: release_group
-  pattern: ROCCaT
+  pattern: Radarr - ROCCaT
 - name: Radarr - SiGMA
   negate: false
   required: false
   type: release_group
-  pattern: SiGMA
+  pattern: Radarr - SiGMA
 - name: Radarr - SLiGNOME
   negate: false
   required: false
   type: release_group
-  pattern: SLiGNOME
+  pattern: Radarr - SLiGNOME
 - name: Radarr - SwAgLaNdEr
   negate: false
   required: false
   type: release_group
-  pattern: SwAgLaNdEr
+  pattern: Radarr - SwAgLaNdEr
 tests: []

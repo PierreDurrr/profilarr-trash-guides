@@ -1,12 +1,12 @@
 name: Radarr - MA
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#ma)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#ma)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - Movies Anywhere
   negate: false
   required: true
   type: release_title
-  pattern: Movies Anywhere
+  pattern: Radarr - Movies Anywhere
 tests: []

@@ -1,14 +1,15 @@
 name: Sonarr - FOD
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#fod)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#fod)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - FOD
   negate: false
   required: true
   type: release_title
-  pattern: FOD
+  pattern: Sonarr - FOD
 - name: Sonarr - WEBDL
   negate: false
   required: false

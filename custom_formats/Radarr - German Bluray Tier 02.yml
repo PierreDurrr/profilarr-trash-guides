@@ -1,39 +1,41 @@
 name: Radarr - German Bluray Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-bluray-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-bluray-tier-02)'
 tags:
-- Quality Modifier
 - Radarr
+- Release Group
+- Source
+- Quality Modifier
 conditions:
 - name: Radarr - VECTOR
   negate: false
   required: false
   type: release_group
-  pattern: VECTOR
+  pattern: Radarr - VECTOR
 - name: Radarr - MULTiPLEX
   negate: false
   required: false
   type: release_group
-  pattern: MULTiPLEX
+  pattern: Radarr - MULTiPLEX
 - name: Radarr - SiXTYNiNE
   negate: false
   required: false
   type: release_group
-  pattern: SiXTYNiNE
+  pattern: Radarr - SiXTYNiNE
 - name: Radarr - Oergel
   negate: false
   required: false
   type: release_group
-  pattern: Oergel
+  pattern: Radarr - Oergel
 - name: Radarr - ABJ
   negate: false
   required: false
   type: release_group
-  pattern: ABJ
+  pattern: Radarr - ABJ
 - name: Radarr - paranoid06
   negate: false
   required: false
   type: release_group
-  pattern: paranoid06
+  pattern: Radarr - paranoid06
 - name: Radarr - Bluray
   negate: false
   required: true

@@ -1,8 +1,9 @@
 name: Sonarr - Anime BD Tier 04 (SeaDex Muxers)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#anime-bd-tier-04-seadex-muxers)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-bd-tier-04-seadex-muxers)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Bluray
   negate: false
@@ -23,220 +24,220 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: 9volt
+  pattern: Sonarr - 9volt
 - name: Sonarr - AOmundson
   negate: false
   required: false
   type: release_title
-  pattern: AOmundson
+  pattern: Sonarr - AOmundson
 - name: Sonarr - Asakura
   negate: false
   required: false
   type: release_title
-  pattern: Asakura
+  pattern: Sonarr - Asakura
 - name: Sonarr - ASO
   negate: false
   required: false
   type: release_title
-  pattern: ASO
+  pattern: Sonarr - ASO
 - name: Sonarr - Bolshevik
   negate: false
   required: false
   type: release_title
-  pattern: Bolshevik
+  pattern: Sonarr - Bolshevik
 - name: Sonarr - Bulldog
   negate: false
   required: false
   type: release_title
-  pattern: Bulldog
+  pattern: Sonarr - Bulldog
 - name: Sonarr - Cait-Sidhe
   negate: false
   required: false
   type: release_title
-  pattern: Cait-Sidhe
+  pattern: Sonarr - Cait-Sidhe
 - name: Sonarr - Chihiro
   negate: false
   required: false
   type: release_title
-  pattern: Chihiro
+  pattern: Sonarr - Chihiro
 - name: Sonarr - Chimera
   negate: false
   required: false
   type: release_title
-  pattern: Chimera
+  pattern: Sonarr - Chimera
 - name: Sonarr - CoalGirls
   negate: false
   required: false
   type: release_title
-  pattern: CoalGirls
+  pattern: Sonarr - CoalGirls
 - name: Sonarr - Commie
   negate: false
   required: false
   type: release_title
-  pattern: Commie
+  pattern: Sonarr - Commie
 - name: Sonarr - D3
   negate: false
   required: false
   type: release_title
-  pattern: D3
+  pattern: Sonarr - D3
 - name: Sonarr - Davinci
   negate: false
   required: false
   type: release_title
-  pattern: Davinci
+  pattern: Sonarr - Davinci
 - name: Sonarr - deanzel
   negate: false
   required: false
   type: release_title
-  pattern: deanzel
+  pattern: Sonarr - deanzel
 - name: Sonarr - Doki
   negate: false
   required: false
   type: release_title
-  pattern: Doki
+  pattern: Sonarr - Doki
 - name: Sonarr - Dragon-Releases
   negate: false
   required: false
   type: release_title
-  pattern: Dragon-Releases
+  pattern: Sonarr - Dragon-Releases
 - name: Sonarr - Foxtrot
   negate: false
   required: false
   type: release_title
-  pattern: Foxtrot
+  pattern: Sonarr - Foxtrot
 - name: Sonarr - GHS
   negate: false
   required: false
   type: release_title
-  pattern: GHS
+  pattern: Sonarr - GHS
 - name: Sonarr - HaiveMind
   negate: false
   required: false
   type: release_title
-  pattern: HaiveMind
+  pattern: Sonarr - HaiveMind
 - name: Sonarr - hchcsen
   negate: false
   required: false
   type: release_title
-  pattern: hchcsen
+  pattern: Sonarr - hchcsen
 - name: Sonarr - Iznjie Biznjie
   negate: false
   required: false
   type: release_title
-  pattern: Iznjie Biznjie
+  pattern: Sonarr - Iznjie Biznjie
 - name: Sonarr - Kaleido
   negate: false
   required: false
   type: release_title
-  pattern: Kaleido
+  pattern: Sonarr - Kaleido
 - name: Sonarr - karios
   negate: false
   required: false
   type: release_title
-  pattern: karios
+  pattern: Sonarr - karios
 - name: Sonarr - kBaraka
   negate: false
   required: false
   type: release_title
-  pattern: kBaraka
+  pattern: Sonarr - kBaraka
 - name: Sonarr - kmplx
   negate: false
   required: false
   type: release_title
-  pattern: kmplx
+  pattern: Sonarr - kmplx
 - name: Sonarr - Koitern
   negate: false
   required: false
   type: release_title
-  pattern: Koitern
+  pattern: Sonarr - Koitern
 - name: Sonarr - Koten_Gars
   negate: false
   required: false
   type: release_title
-  pattern: Koten_Gars
+  pattern: Sonarr - Koten_Gars
 - name: Sonarr - Kulot
   negate: false
   required: false
   type: release_title
-  pattern: Kulot
+  pattern: Sonarr - Kulot
 - name: Sonarr - Lia
   negate: false
   required: false
   type: release_title
-  pattern: Lia
+  pattern: Sonarr - Lia
 - name: Sonarr - MCLR
   negate: false
   required: false
   type: release_title
-  pattern: MCLR
+  pattern: Sonarr - MCLR
 - name: Sonarr - mottoj
   negate: false
   required: false
   type: release_title
-  pattern: mottoj
+  pattern: Sonarr - mottoj
 - name: Sonarr - NH
   negate: false
   required: false
   type: release_title
-  pattern: NH
+  pattern: Sonarr - NH
 - name: Sonarr - NTRM
   negate: false
   required: false
   type: release_title
-  pattern: NTRM
+  pattern: Sonarr - NTRM
 - name: Sonarr - Orphan
   negate: false
   required: false
   type: release_title
-  pattern: Orphan
+  pattern: Sonarr - Orphan
 - name: Sonarr - RMX
   negate: false
   required: false
   type: release_title
-  pattern: RMX
+  pattern: Sonarr - RMX
 - name: Sonarr - SallySubs
   negate: false
   required: false
   type: release_title
-  pattern: SallySubs
+  pattern: Sonarr - SallySubs
 - name: Sonarr - Scriptum
   negate: false
   required: false
   type: release_title
-  pattern: Scriptum
+  pattern: Sonarr - Scriptum
 - name: Sonarr - ShadyCrab
   negate: false
   required: false
   type: release_title
-  pattern: ShadyCrab
+  pattern: Sonarr - ShadyCrab
 - name: Sonarr - SNSbu
   negate: false
   required: false
   type: release_title
-  pattern: SNSbu
+  pattern: Sonarr - SNSbu
 - name: Sonarr - SOLA
   negate: false
   required: false
   type: release_title
-  pattern: SOLA
+  pattern: Sonarr - SOLA
 - name: Sonarr - THORA
   negate: false
   required: false
   type: release_title
-  pattern: THORA
+  pattern: Sonarr - THORA
 - name: Sonarr - Tsundere
   negate: false
   required: false
   type: release_title
-  pattern: Tsundere
+  pattern: Sonarr - Tsundere
 - name: Sonarr - UWU
   negate: false
   required: false
   type: release_title
-  pattern: UWU
+  pattern: Sonarr - UWU
 - name: Sonarr - xPearse
   negate: false
   required: false
   type: release_title
-  pattern: xPearse
+  pattern: Sonarr - xPearse
 tests: []

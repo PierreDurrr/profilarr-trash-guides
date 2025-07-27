@@ -1,8 +1,10 @@
 name: Sonarr - HD Bluray Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#hd-bluray-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hd-bluray-tier-01)'
 tags:
-- Release Group
 - Sonarr
+- Release Group
+- Source
+- Resolution
 conditions:
 - name: Sonarr - BLURAY
   negate: false
@@ -23,30 +25,30 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Chotab
+  pattern: Sonarr - Chotab
 - name: Sonarr - CtrlHD
   negate: false
   required: false
   type: release_group
-  pattern: CtrlHD
+  pattern: Sonarr - CtrlHD
 - name: Sonarr - DON
   negate: false
   required: false
   type: release_group
-  pattern: DON
+  pattern: Sonarr - DON
 - name: Sonarr - EbP
   negate: false
   required: false
   type: release_group
-  pattern: EbP
+  pattern: Sonarr - EbP
 - name: Sonarr - NTb
   negate: false
   required: false
   type: release_group
-  pattern: NTb
+  pattern: Sonarr - NTb
 - name: Sonarr - PTer
   negate: false
   required: false
   type: release_group
-  pattern: PTer
+  pattern: Sonarr - PTer
 tests: []

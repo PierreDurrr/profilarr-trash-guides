@@ -1,8 +1,9 @@
 name: Radarr - Anime Web Tier 05 (FanSubs)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#anime-web-tier-05-fansubs)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-web-tier-05-fansubs)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false
@@ -18,30 +19,30 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: 9volt
+  pattern: Radarr - 9volt
 - name: Radarr - GJM
   negate: false
   required: false
   type: release_title
-  pattern: GJM
+  pattern: Radarr - GJM
 - name: Radarr - Kaleido
   negate: false
   required: false
   type: release_title
-  pattern: Kaleido
+  pattern: Radarr - Kaleido
 - name: Radarr - Kantai
   negate: false
   required: false
   type: release_title
-  pattern: Kantai
+  pattern: Radarr - Kantai
 - name: Radarr - SobsPlease
   negate: false
   required: false
   type: release_title
-  pattern: SobsPlease
+  pattern: Radarr - SobsPlease
 - name: Radarr - Some-Stuffs
   negate: false
   required: false
   type: release_title
-  pattern: Some-Stuffs
+  pattern: Radarr - Some-Stuffs
 tests: []

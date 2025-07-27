@@ -1,14 +1,15 @@
 name: Sonarr - STRP
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#strp)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#strp)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Star+
   negate: false
   required: true
   type: release_title
-  pattern: Star+
+  pattern: Sonarr - Star+
 - name: Sonarr - WEBDL
   negate: false
   required: false

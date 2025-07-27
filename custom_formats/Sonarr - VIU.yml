@@ -1,19 +1,20 @@
 name: Sonarr - VIU
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#viu)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#viu)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - VIU
   negate: false
   required: false
   type: release_title
-  pattern: VIU
+  pattern: Sonarr - VIU
 - name: Sonarr - VIU Rename
   negate: false
   required: false
   type: release_title
-  pattern: VIU Rename
+  pattern: Sonarr - VIU Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

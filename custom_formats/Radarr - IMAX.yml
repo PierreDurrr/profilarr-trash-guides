@@ -1,17 +1,17 @@
 name: Radarr - IMAX
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#imax)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#imax)'
 tags:
-- Release Title
 - Radarr
+- Release Title
 conditions:
 - name: Radarr - IMAX
   negate: false
   required: true
   type: release_title
-  pattern: IMAX
+  pattern: Radarr - IMAX
 - name: 'Radarr - NOT: IMAX Enhanced'
   negate: true
   required: true
   type: release_title
-  pattern: 'NOT: IMAX Enhanced'
+  pattern: 'Radarr - NOT: IMAX Enhanced'
 tests: []

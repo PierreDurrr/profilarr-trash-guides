@@ -1,14 +1,15 @@
 name: Sonarr - OViD
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#ovid)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#ovid)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - OViD
   negate: false
   required: true
   type: release_title
-  pattern: OViD
+  pattern: Sonarr - OViD
 - name: Sonarr - WEBDL
   negate: false
   required: false

@@ -1,8 +1,9 @@
 name: Radarr - German
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#language-german)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#language-german)'
 tags:
-- Release Title
 - Radarr
+- Release Title
+- Language
 conditions:
 - name: Radarr - German
   negate: false
@@ -18,15 +19,15 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: DL
+  pattern: Radarr - DL
 - name: Radarr - ML
   negate: true
   required: true
   type: release_title
-  pattern: ML
+  pattern: Radarr - ML
 - name: Radarr - Not Subbed
   negate: true
   required: true
   type: release_title
-  pattern: Not Subbed
+  pattern: Radarr - Not Subbed
 tests: []

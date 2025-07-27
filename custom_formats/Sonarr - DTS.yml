@@ -1,57 +1,57 @@
 name: Sonarr - DTS
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#dts)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#dts)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - Basic DTS
   negate: false
   required: true
   type: release_title
-  pattern: Basic DTS
+  pattern: Sonarr - Basic DTS
 - name: Sonarr - Not DTS-HD
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS-HD
+  pattern: Sonarr - Not DTS-HD
 - name: Sonarr - Not DTS-HD HRA-ES
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS-HD HRA/ES
+  pattern: Sonarr - Not DTS-HD HRA-ES
 - name: Sonarr - Not Dolby Digital Plus
   negate: true
   required: true
   type: release_title
-  pattern: Not Dolby Digital Plus
+  pattern: Sonarr - Not Dolby Digital Plus
 - name: Sonarr - Not TrueHD-ATMOS
   negate: true
   required: true
   type: release_title
-  pattern: Not TrueHD/ATMOS
+  pattern: Sonarr - Not TrueHD-ATMOS
 - name: Sonarr - Not Basic Dolby Digital
   negate: true
   required: true
   type: release_title
-  pattern: Not Basic Dolby Digital
+  pattern: Sonarr - Not Basic Dolby Digital
 - name: Sonarr - Not DTS X
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS X
+  pattern: Sonarr - Not DTS X
 - name: Sonarr - Not FLAC
   negate: true
   required: true
   type: release_title
-  pattern: Not FLAC
+  pattern: Sonarr - Not FLAC
 - name: Sonarr - Not AAC
   negate: true
   required: true
   type: release_title
-  pattern: Not AAC
+  pattern: Sonarr - Not AAC
 - name: Sonarr - Not PCM
   negate: true
   required: true
   type: release_title
-  pattern: Not PCM
+  pattern: Sonarr - Not PCM
 tests: []

@@ -1,32 +1,32 @@
 name: Sonarr - HLG
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#hlg)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hlg)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - HLG
   negate: false
   required: true
   type: release_title
-  pattern: HLG
+  pattern: Sonarr - HLG
 - name: Sonarr - Not DV
   negate: true
   required: true
   type: release_title
-  pattern: Not DV
+  pattern: Sonarr - Not DV
 - name: Sonarr - Not HDR10+
   negate: true
   required: true
   type: release_title
-  pattern: Not HDR10+
+  pattern: Sonarr - Not HDR10+
 - name: Sonarr - Not HDR10
   negate: true
   required: true
   type: release_title
-  pattern: Not HDR10
+  pattern: Sonarr - Not HDR10
 - name: Sonarr - Not PQ
   negate: true
   required: true
   type: release_title
-  pattern: Not PQ
+  pattern: Sonarr - Not PQ
 tests: []

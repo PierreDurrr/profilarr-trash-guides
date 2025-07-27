@@ -1,14 +1,16 @@
 name: Radarr - DV (WEBDL)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#dv-webdl)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#dv-webdl)'
 tags:
-- Release Title
 - Radarr
+- Release Group
+- Release Title
+- Source
 conditions:
 - name: Radarr - Dolby Vision
   negate: false
   required: true
   type: release_title
-  pattern: Dolby Vision
+  pattern: Radarr - Dolby Vision
 - name: Radarr - WEBDL
   negate: false
   required: false
@@ -23,15 +25,15 @@ conditions:
   negate: true
   required: true
   type: release_group
-  pattern: Not RlsGrp
+  pattern: Radarr - Not RlsGrp
 - name: Radarr - Not HDR
   negate: true
   required: true
   type: release_title
-  pattern: Not HDR
+  pattern: Radarr - Not HDR
 - name: Radarr - Not Hulu
   negate: true
   required: true
   type: release_title
-  pattern: Not Hulu
+  pattern: Radarr - Not Hulu
 tests: []

@@ -1,8 +1,11 @@
 name: Radarr - UHD Bluray Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#uhd-bluray-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#uhd-bluray-tier-02)'
 tags:
-- Release Group
 - Radarr
+- Resolution
+- Release Group
+- Source
+- Quality Modifier
 conditions:
 - name: Radarr - Not REMUX
   negate: true
@@ -28,5 +31,5 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: HQMUX
+  pattern: Radarr - HQMUX
 tests: []

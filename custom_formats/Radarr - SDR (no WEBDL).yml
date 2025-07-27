@@ -1,8 +1,10 @@
 name: Radarr - SDR (no WEBDL)
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#sdr-no-webdl)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#sdr-no-webdl)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
+- Resolution
 conditions:
 - name: Radarr - 2160p
   negate: false
@@ -13,12 +15,12 @@ conditions:
   negate: true
   required: false
   type: release_title
-  pattern: HDR Formats
+  pattern: Radarr - HDR Formats
 - name: Radarr - SDR
   negate: false
   required: false
   type: release_title
-  pattern: SDR
+  pattern: Radarr - SDR
 - name: Radarr - Not WEBDL
   negate: true
   required: true

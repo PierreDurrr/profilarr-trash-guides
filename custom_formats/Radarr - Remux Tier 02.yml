@@ -1,8 +1,9 @@
 name: Radarr - Remux Tier 02
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#remux-tier-02)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#remux-tier-02)'
 tags:
-- Release Group
 - Radarr
+- Release Group
+- Quality Modifier
 conditions:
 - name: Radarr - Remux
   negate: false
@@ -13,25 +14,25 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: NCmt
+  pattern: Radarr - NCmt
 - name: Radarr - playBD
   negate: false
   required: false
   type: release_group
-  pattern: playBD
+  pattern: Radarr - playBD
 - name: Radarr - SiCFoI
   negate: false
   required: false
   type: release_group
-  pattern: SiCFoI
+  pattern: Radarr - SiCFoI
 - name: Radarr - SURFINBIRD
   negate: false
   required: false
   type: release_group
-  pattern: SURFINBIRD
+  pattern: Radarr - SURFINBIRD
 - name: Radarr - TEPES
   negate: false
   required: false
   type: release_group
-  pattern: TEPES
+  pattern: Radarr - TEPES
 tests: []

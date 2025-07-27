@@ -1,14 +1,15 @@
 name: Sonarr - QIBI
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#qibi)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#qibi)'
 tags:
-- Source
 - Sonarr
+- Release Title
+- Source
 conditions:
 - name: Sonarr - Quibi
   negate: false
   required: true
   type: release_title
-  pattern: Quibi
+  pattern: Sonarr - Quibi
 - name: Sonarr - WEBDL
   negate: false
   required: false

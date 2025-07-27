@@ -1,8 +1,9 @@
 name: 'Sonarr - Language: Original + French'
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#language-original-plus-french)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#language-original-plus-french)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
+- Language
 conditions:
 - name: Sonarr - Original Language
   negate: false
@@ -18,5 +19,5 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: MULTi
+  pattern: Sonarr - MULTi
 tests: []

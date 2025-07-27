@@ -1,32 +1,32 @@
 name: Sonarr - Upscaled
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#upscaled)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#upscaled)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - AI Upscales
   negate: false
   required: false
   type: release_title
-  pattern: AI Upscales
+  pattern: Sonarr - AI Upscales
 - name: Sonarr - AIUS
   negate: false
   required: false
   type: release_title
-  pattern: AIUS
+  pattern: Sonarr - AIUS
 - name: Sonarr - Regrade
   negate: false
   required: false
   type: release_title
-  pattern: Regrade
+  pattern: Sonarr - Regrade
 - name: Sonarr - TheUpscaler
   negate: false
   required: false
   type: release_title
-  pattern: TheUpscaler
+  pattern: Sonarr - TheUpscaler
 - name: Sonarr - Upscaled
   negate: false
   required: false
   type: release_title
-  pattern: Upscaled
+  pattern: Sonarr - Upscaled
 tests: []

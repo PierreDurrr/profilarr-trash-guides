@@ -1,79 +1,80 @@
 name: Radarr - German Web Tier 01
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#german-web-tier-01)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-web-tier-01)'
 tags:
-- Source
 - Radarr
+- Release Group
+- Source
 conditions:
 - name: Radarr - ZeroTwo
   negate: false
   required: false
   type: release_group
-  pattern: ZeroTwo
+  pattern: Radarr - ZeroTwo
 - name: Radarr - ZeroTwo Aliases
   negate: false
   required: false
   type: release_group
-  pattern: ZeroTwo Aliases
+  pattern: Radarr - ZeroTwo Aliases
 - name: Radarr - TSCC
   negate: false
   required: false
   type: release_group
-  pattern: TSCC
+  pattern: Radarr - TSCC
 - name: Radarr - TvR
   negate: false
   required: false
   type: release_group
-  pattern: TvR
+  pattern: Radarr - TvR
 - name: Radarr - NIMA4K
   negate: false
   required: false
   type: release_group
-  pattern: NIMA4K
+  pattern: Radarr - NIMA4K
 - name: Radarr - TVS
   negate: false
   required: false
   type: release_group
-  pattern: TVS
+  pattern: Radarr - TVS
 - name: Radarr - D02KU
   negate: false
   required: false
   type: release_group
-  pattern: D02KU
+  pattern: Radarr - D02KU
 - name: Radarr - PXL
   negate: false
   required: false
   type: release_group
-  pattern: PXL
+  pattern: Radarr - PXL
 - name: Radarr - QfG
   negate: false
   required: false
   type: release_group
-  pattern: QfG
+  pattern: Radarr - QfG
 - name: Radarr - CNY
   negate: false
   required: false
   type: release_group
-  pattern: CNY
+  pattern: Radarr - CNY
 - name: Radarr - WeebPinn
   negate: false
   required: false
   type: release_group
-  pattern: WeebPinn
+  pattern: Radarr - WeebPinn
 - name: Radarr - MEDiATHEK
   negate: false
   required: false
   type: release_group
-  pattern: MEDiATHEK
+  pattern: Radarr - MEDiATHEK
 - name: Radarr - RiiR
   negate: false
   required: false
   type: release_group
-  pattern: RiiR
+  pattern: Radarr - RiiR
 - name: Radarr - RiiR Aliases
   negate: false
   required: false
   type: release_group
-  pattern: RiiR Aliases
+  pattern: Radarr - RiiR Aliases
 - name: Radarr - WebDL
   negate: false
   required: false

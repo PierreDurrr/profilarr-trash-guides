@@ -1,14 +1,15 @@
 name: Radarr - MY5
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats/#my5)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#my5)'
 tags:
-- Source
 - Radarr
+- Release Title
+- Source
 conditions:
 - name: Radarr - My5
   negate: false
   required: true
   type: release_title
-  pattern: My5
+  pattern: Radarr - My5
 - name: Radarr - WEBDL
   negate: false
   required: false

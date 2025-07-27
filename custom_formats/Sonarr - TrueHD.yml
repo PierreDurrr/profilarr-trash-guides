@@ -1,37 +1,37 @@
 name: Sonarr - TrueHD
-description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/Sonarr-collection-of-custom-formats/#truehd)'
+description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#truehd)'
 tags:
-- Release Title
 - Sonarr
+- Release Title
 conditions:
 - name: Sonarr - TrueHD
   negate: false
   required: true
   type: release_title
-  pattern: TrueHD
+  pattern: Sonarr - TrueHD
 - name: Sonarr - ATMOS
   negate: true
   required: true
   type: release_title
-  pattern: ATMOS
+  pattern: Sonarr - ATMOS
 - name: Sonarr - Not Dolby Digital Plus
   negate: true
   required: true
   type: release_title
-  pattern: Not Dolby Digital Plus
+  pattern: Sonarr - Not Dolby Digital Plus
 - name: Sonarr - Not DTS
   negate: true
   required: true
   type: release_title
-  pattern: Not DTS
+  pattern: Sonarr - Not DTS
 - name: Sonarr - Not FLAC
   negate: true
   required: true
   type: release_title
-  pattern: Not FLAC
+  pattern: Sonarr - Not FLAC
 - name: Sonarr - Not Basic Dolby Digital
   negate: true
   required: true
   type: release_title
-  pattern: Not Basic Dolby Digital
+  pattern: Sonarr - Not Basic Dolby Digital
 tests: []
