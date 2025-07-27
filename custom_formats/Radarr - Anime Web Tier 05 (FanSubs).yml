@@ -2,19 +2,19 @@ name: Radarr - Anime Web Tier 05 (FanSubs)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-web-tier-05-fansubs)'
 tags:
 - Radarr
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Radarr - WEBDL
   negate: false
   required: false
   type: source
-  source: 7
+  source: web_dl
 - name: Radarr - WEBRIP
   negate: false
   required: false
   type: source
-  source: 8
+  source: webrip
 - name: Radarr - 9volt
   negate: false
   required: false

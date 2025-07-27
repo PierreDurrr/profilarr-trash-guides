@@ -2,8 +2,8 @@ name: Sonarr - German Web Tier 02
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#german-web-tier-02)'
 tags:
 - Sonarr
-- Release Group
 - Source
+- Release Group
 conditions:
 - name: Sonarr - VECTOR
   negate: false
@@ -44,10 +44,10 @@ conditions:
   negate: false
   required: false
   type: source
-  source: 3
+  source: web_dl
 - name: Sonarr - WebRip
   negate: false
   required: false
   type: source
-  source: 4
+  source: webrip
 tests: []

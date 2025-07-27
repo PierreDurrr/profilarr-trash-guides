@@ -2,19 +2,19 @@ name: Radarr - Anime Web Tier 01 (Muxers)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-web-tier-01-muxers)'
 tags:
 - Radarr
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Radarr - WEBDL
   negate: false
   required: false
   type: source
-  source: 7
+  source: web_dl
 - name: Radarr - WEBRIP
   negate: false
   required: false
   type: source
-  source: 8
+  source: webrip
 - name: Radarr - Arg0
   negate: false
   required: false

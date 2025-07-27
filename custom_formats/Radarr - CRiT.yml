@@ -3,8 +3,8 @@ description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radar
 tags:
 - Radarr
 - Release Group
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Radarr - CRiT
   negate: false
@@ -15,12 +15,12 @@ conditions:
   negate: false
   required: false
   type: source
-  source: 7
+  source: web_dl
 - name: Radarr - WEBRIP
   negate: false
   required: false
   type: source
-  source: 8
+  source: webrip
 - name: Radarr - Not Criterion RlsGrp
   negate: true
   required: true

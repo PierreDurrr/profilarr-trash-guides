@@ -2,9 +2,9 @@ name: Sonarr - HDR (undefined)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hdr-undefined)'
 tags:
 - Sonarr
+- Resolution
 - Release Group
 - Release Title
-- Resolution
 conditions:
 - name: Sonarr - RlsGrp (Missing HDR)
   negate: false

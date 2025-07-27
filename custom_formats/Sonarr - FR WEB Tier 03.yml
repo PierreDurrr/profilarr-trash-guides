@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: source
-  source: 3
+  source: web_dl
 - name: Sonarr - WEBRIP
   negate: false
   required: false
   type: source
-  source: 4
+  source: webrip
 - name: Sonarr - ARK01
   negate: false
   required: false

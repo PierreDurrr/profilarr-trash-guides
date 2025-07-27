@@ -4,6 +4,7 @@ import yaml
 
 from markdownify import markdownify
 
+from utils.source import SOURCE_MAPPING
 from utils.strings import get_name
 
 IMPLEMENTATION_TO_TAG_MAPPING = {
@@ -56,7 +57,9 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         elif implementation in ["ResolutionSpecification"]:
             condition["resolution"] = f"{spec.get('fields', {}).get('value')}p"
         elif implementation in ["SourceSpecification"]:
-            condition["source"] = spec.get("fields", {}).get("value")
+            condition["source"] = SOURCE_MAPPING[service][
+                spec.get("fields", {}).get("value")
+            ]
         elif implementation in ["LanguageSpecification"]:
             # TODO: exceptLanguage
             condition["language"] = spec.get("fields", {}).get("value")

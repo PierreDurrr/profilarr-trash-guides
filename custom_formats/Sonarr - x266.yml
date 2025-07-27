@@ -2,8 +2,8 @@ name: Sonarr - x266
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#x266)'
 tags:
 - Sonarr
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Sonarr - x|h266
   negate: false
@@ -14,5 +14,5 @@ conditions:
   negate: true
   required: true
   type: source
-  source: 7
+  source: blurayraw
 tests: []

@@ -2,8 +2,8 @@ name: Radarr - STAN
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#stan)'
 tags:
 - Radarr
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Radarr - Stan
   negate: false
@@ -19,10 +19,10 @@ conditions:
   negate: false
   required: false
   type: source
-  source: 7
+  source: web_dl
 - name: Radarr - WEBRIP
   negate: false
   required: false
   type: source
-  source: 8
+  source: webrip
 tests: []

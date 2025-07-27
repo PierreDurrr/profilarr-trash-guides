@@ -2,9 +2,9 @@ name: Radarr - SiC
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#sic)'
 tags:
 - Radarr
-- Release Title
-- Source
 - Resolution
+- Source
+- Release Title
 conditions:
 - name: Radarr - SiC
   negate: false
@@ -20,7 +20,7 @@ conditions:
   negate: false
   required: true
   type: source
-  source: 7
+  source: web_dl
 - name: Radarr - HDR
   negate: false
   required: true

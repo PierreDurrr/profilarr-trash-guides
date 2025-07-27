@@ -2,8 +2,8 @@ name: Sonarr - German Bluray Tier 01
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#german-bluray-tier-01)'
 tags:
 - Sonarr
-- Release Group
 - Source
+- Release Group
 conditions:
 - name: Sonarr - ZeroTwo
   negate: false
@@ -54,10 +54,10 @@ conditions:
   negate: false
   required: true
   type: source
-  source: 6
+  source: bluray
 - name: Sonarr - Not REMUX
   negate: true
   required: true
   type: source
-  source: 7
+  source: blurayraw
 tests: []

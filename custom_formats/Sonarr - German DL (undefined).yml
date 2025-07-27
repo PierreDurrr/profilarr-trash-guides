@@ -2,8 +2,8 @@ name: Sonarr - German DL (undefined)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#language-german-dl-undefined)'
 tags:
 - Sonarr
-- Release Title
 - Language
+- Release Title
 conditions:
 - name: Sonarr - NOT Original Language
   negate: true

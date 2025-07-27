@@ -1,0 +1,22 @@
+SOURCE_MAPPING = {
+    "radarr": {
+        1: "cam",
+        2: "telesync",
+        3: "telecine",
+        4: "workprint",
+        5: "dvd",
+        6: "tv",
+        7: "web_dl",
+        8: "webrip",
+        9: "bluray",
+    },
+    "sonarr": {
+        1: "television",
+        2: "televisionraw",
+        3: "web_dl",
+        4: "webrip",
+        5: "dvd",
+        6: "bluray",
+        7: "blurayraw",
+    },
+}

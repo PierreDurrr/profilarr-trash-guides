@@ -2,24 +2,24 @@ name: Sonarr - Anime BD Tier 01 (Top SeaDex Muxers)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-bd-tier-01-top-seadex-muxers)'
 tags:
 - Sonarr
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Sonarr - Bluray
   negate: false
   required: false
   type: source
-  source: 6
+  source: bluray
 - name: Sonarr - Bluray Remux
   negate: false
   required: false
   type: source
-  source: 7
+  source: blurayraw
 - name: Sonarr - DVD
   negate: false
   required: false
   type: source
-  source: 5
+  source: dvd
 - name: Sonarr - Aergia
   negate: false
   required: false

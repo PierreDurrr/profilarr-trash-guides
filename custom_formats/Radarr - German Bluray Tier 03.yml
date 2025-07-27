@@ -2,8 +2,8 @@ name: Radarr - German Bluray Tier 03
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-bluray-tier-03)'
 tags:
 - Radarr
-- Release Group
 - Source
+- Release Group
 - Quality Modifier
 conditions:
 - name: Radarr - RobertDeNiro
@@ -45,7 +45,7 @@ conditions:
   negate: false
   required: true
   type: source
-  source: 9
+  source: bluray
 - name: Radarr - Not Remux
   negate: true
   required: true

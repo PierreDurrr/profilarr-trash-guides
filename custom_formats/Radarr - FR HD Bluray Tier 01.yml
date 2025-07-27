@@ -2,8 +2,8 @@ name: Radarr - FR HD Bluray Tier 01
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-hd-bluray-tier-01)'
 tags:
 - Radarr
-- Resolution
 - Release Group
+- Resolution
 - Source
 - Quality Modifier
 conditions:
@@ -11,7 +11,7 @@ conditions:
   negate: false
   required: true
   type: source
-  source: 9
+  source: bluray
 - name: Radarr - Not Remux
   negate: true
   required: true

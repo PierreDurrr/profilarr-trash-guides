@@ -2,8 +2,8 @@ name: Radarr - German
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#language-german)'
 tags:
 - Radarr
-- Release Title
 - Language
+- Release Title
 conditions:
 - name: Radarr - German
   negate: false

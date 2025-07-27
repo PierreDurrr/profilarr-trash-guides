@@ -2,19 +2,19 @@ name: Radarr - Anime BD Tier 05 (Remuxes)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-bd-tier-05-remuxes)'
 tags:
 - Radarr
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Radarr - Bluray
   negate: false
   required: false
   type: source
-  source: 9
+  source: bluray
 - name: Radarr - DVD
   negate: false
   required: false
   type: source
-  source: 5
+  source: dvd
 - name: Radarr - BluDragon
   negate: false
   required: false

@@ -2,8 +2,8 @@ name: Radarr - x264
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#x264)'
 tags:
 - Radarr
-- Release Title
 - Quality Modifier
+- Release Title
 conditions:
 - name: Radarr - x|h264
   negate: false

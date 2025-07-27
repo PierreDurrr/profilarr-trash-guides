@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: source
-  source: 7
+  source: blurayraw
 - name: Sonarr - decibeL
   negate: false
   required: false

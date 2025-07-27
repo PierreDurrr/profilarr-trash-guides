@@ -2,9 +2,9 @@ name: Sonarr - Hybrid
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hybrid)'
 tags:
 - Sonarr
+- Source
 - Release Group
 - Release Title
-- Source
 conditions:
 - name: Sonarr - Hybrid
   negate: false
@@ -20,10 +20,10 @@ conditions:
   negate: false
   required: false
   type: source
-  source: 7
+  source: blurayraw
 - name: Sonarr - Bluray
   negate: false
   required: false
   type: source
-  source: 6
+  source: bluray
 tests: []

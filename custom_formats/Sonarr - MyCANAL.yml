@@ -3,19 +3,19 @@ description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonar
 tags:
 - Sonarr
 - Release Group
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Sonarr - WEBDL
   negate: false
   required: false
   type: source
-  source: 3
+  source: web_dl
 - name: Sonarr - WEBRIP
   negate: false
   required: false
   type: source
-  source: 4
+  source: webrip
 - name: Sonarr - CANAL+
   negate: false
   required: false

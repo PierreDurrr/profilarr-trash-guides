@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: source
-  source: 7
+  source: blurayraw
 - name: Sonarr - FtLi
   negate: false
   required: false

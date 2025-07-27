@@ -2,8 +2,8 @@ name: Sonarr - German
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#language-german)'
 tags:
 - Sonarr
-- Release Title
 - Language
+- Release Title
 conditions:
 - name: Sonarr - German
   negate: false

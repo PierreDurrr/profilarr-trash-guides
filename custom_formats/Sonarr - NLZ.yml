@@ -2,8 +2,8 @@ name: Sonarr - NLZ
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#nlz)'
 tags:
 - Sonarr
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Sonarr - NLZiet
   negate: false
@@ -14,10 +14,10 @@ conditions:
   negate: false
   required: false
   type: source
-  source: 3
+  source: web_dl
 - name: Sonarr - WEBRIP
   negate: false
   required: false
   type: source
-  source: 4
+  source: webrip
 tests: []

@@ -2,8 +2,8 @@ name: Sonarr - x265 (HD)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#x265-hd)'
 tags:
 - Sonarr
-- Release Title
 - Resolution
+- Release Title
 conditions:
 - name: Sonarr - x265-HEVC
   negate: false

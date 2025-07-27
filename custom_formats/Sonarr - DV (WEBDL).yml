@@ -3,8 +3,8 @@ description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonar
 tags:
 - Sonarr
 - Release Group
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Sonarr - Dolby Vision
   negate: false
@@ -15,12 +15,12 @@ conditions:
   negate: false
   required: false
   type: source
-  source: 3
+  source: web_dl
 - name: Sonarr - WEBRIP
   negate: false
   required: false
   type: source
-  source: 4
+  source: webrip
 - name: Sonarr - Not RlsGrp
   negate: true
   required: true

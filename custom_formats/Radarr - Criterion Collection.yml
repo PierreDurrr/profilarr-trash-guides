@@ -3,19 +3,19 @@ description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radar
 tags:
 - Radarr
 - Release Group
-- Release Title
 - Source
+- Release Title
 conditions:
 - name: Radarr - Bluray
   negate: false
   required: false
   type: source
-  source: 9
+  source: bluray
 - name: Radarr - DVD
   negate: false
   required: false
   type: source
-  source: 5
+  source: dvd
 - name: Radarr - Criterion
   negate: false
   required: false

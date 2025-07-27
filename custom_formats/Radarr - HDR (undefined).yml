@@ -2,9 +2,9 @@ name: Radarr - HDR (undefined)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#hdr-undefined)'
 tags:
 - Radarr
+- Resolution
 - Release Group
 - Release Title
-- Resolution
 conditions:
 - name: Radarr - RlsGrp (Missing HDR)
   negate: false

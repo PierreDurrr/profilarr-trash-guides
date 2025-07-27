@@ -3,19 +3,19 @@ description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonar
 tags:
 - Sonarr
 - Release Group
-- Source
 - Resolution
+- Source
 conditions:
 - name: Sonarr - BLURAY
   negate: false
   required: true
   type: source
-  source: 6
+  source: bluray
 - name: Sonarr - Not REMUX
   negate: true
   required: true
   type: source
-  source: 7
+  source: blurayraw
 - name: Sonarr - Not 2160p
   negate: true
   required: true
