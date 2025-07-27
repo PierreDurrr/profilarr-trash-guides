@@ -1,5 +1,0 @@
-name: Radarr - Not PQ
-pattern: \b(PQ)\b
-description: ''
-tags: []
-tests: []

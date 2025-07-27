@@ -29,5 +29,5 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not Subbed
+  pattern: Sonarr - Subbed
 tests: []

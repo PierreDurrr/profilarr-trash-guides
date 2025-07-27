@@ -13,10 +13,10 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not INFLATE-DEFLATE
+  pattern: Radarr - INFLATE-DEFLATE
 - name: Radarr - Not GERMAN
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not GERMAN
+  pattern: Radarr - GERMAN
 tests: []

@@ -13,5 +13,5 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not 4K Remaster
+  pattern: Sonarr - 4K Remaster
 tests: []

@@ -14,7 +14,7 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not HDR-DV
+  pattern: Sonarr - HDR-DV
 - name: Sonarr - Not 2160p
   negate: true
   required: true

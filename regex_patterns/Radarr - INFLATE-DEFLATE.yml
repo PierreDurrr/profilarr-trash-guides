@@ -1,0 +1,5 @@
+name: Radarr - INFLATE-DEFLATE
+pattern: \b(INFLATE|DEFLATE)\b
+description: ''
+tags: []
+tests: []

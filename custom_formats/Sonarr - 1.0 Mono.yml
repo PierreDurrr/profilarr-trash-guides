@@ -13,15 +13,15 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not 3.0ch
+  pattern: Sonarr - 3.0ch
 - name: Sonarr - Not 4.0ch
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not 4.0ch
+  pattern: Sonarr - 4.0ch
 - name: Sonarr - Not High Channel Count
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not High Channel Count
+  pattern: Sonarr - High Channel Count
 tests: []

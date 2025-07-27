@@ -14,7 +14,7 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not Single Language Only
+  pattern: Sonarr - Single Language Only
 - name: Sonarr - Japanese Language
   negate: false
   required: false

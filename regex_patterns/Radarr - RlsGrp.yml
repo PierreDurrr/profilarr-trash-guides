@@ -1,0 +1,5 @@
+name: Radarr - RlsGrp
+pattern: \b(Flights)\b
+description: ''
+tags: []
+tests: []

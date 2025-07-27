@@ -1,5 +1,0 @@
-name: Radarr - Not Basic DTS
-pattern: DTS[ .]?[1-9]
-description: ''
-tags: []
-tests: []

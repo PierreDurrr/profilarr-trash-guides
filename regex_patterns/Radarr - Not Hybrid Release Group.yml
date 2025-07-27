@@ -1,5 +1,0 @@
-name: Radarr - Not Hybrid Release Group
-pattern: \b(HYBRID)\b
-description: ''
-tags: []
-tests: []

@@ -24,10 +24,10 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not Hybrid
+  pattern: Sonarr - Hybrid
 - name: Sonarr - Not Hybrid Release Group
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not Hybrid Release Group
+  pattern: Sonarr - Hybrid Release Group
 tests: []

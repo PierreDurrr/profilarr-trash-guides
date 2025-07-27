@@ -14,35 +14,35 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not DV
+  pattern: Sonarr - DV
 - name: Sonarr - Not HDR10
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not HDR10
+  pattern: Sonarr - HDR10
 - name: Sonarr - Not HDR10+
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not HDR10+
+  pattern: Sonarr - HDR10+
 - name: Sonarr - Not HLG
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not HLG
+  pattern: Sonarr - HLG
 - name: Sonarr - Not PQ
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not PQ
+  pattern: Sonarr - PQ
 - name: Sonarr - Not RlsGrp (Missing HDR)
   negate: true
   required: true
   type: release_group
-  pattern: Sonarr - Not RlsGrp (Missing HDR)
+  pattern: Sonarr - RlsGrp (Missing HDR)
 - name: Sonarr - Not SDR
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not SDR
+  pattern: Sonarr - SDR
 tests: []

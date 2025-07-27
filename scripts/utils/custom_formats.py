@@ -9,7 +9,7 @@ from utils.mappings.indexer_flags import INDEXER_FLAG_MAPPING
 from utils.mappings.release_type import RELEASE_TYPE_MAPPING
 from utils.mappings.quality_modifiers import QUALITY_MODIFIER_MAPPING
 from utils.mappings.source import SOURCE_MAPPING
-from utils.strings import get_name
+from utils.strings import get_name, get_regex_pattern_name
 
 IMPLEMENTATION_TO_TAG_MAPPING = {
     "ReleaseTitleSpecification": "Release Title",
@@ -57,7 +57,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         implementation_tags.add(IMPLEMENTATION_TO_TAG_MAPPING[implementation])
 
         if implementation in ["ReleaseTitleSpecification", "ReleaseGroupSpecification"]:
-            condition["pattern"] = get_name(service, spec.get("name", ""))
+            condition["pattern"] = get_regex_pattern_name(service, spec.get("name", ""))
         elif implementation in ["ResolutionSpecification"]:
             condition["resolution"] = f"{spec.get('fields', {}).get('value')}p"
         elif implementation in ["SourceSpecification"]:
@@ -120,7 +120,7 @@ def collect_custom_formats(
 ):
     trash_id_to_scoring_mapping = {}
     for root, _, files in os.walk(input_dir):
-        for filename in files:
+        for filename in sorted(files):
             if not filename.endswith(".json"):
                 continue
 

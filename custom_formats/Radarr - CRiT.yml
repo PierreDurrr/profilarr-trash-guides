@@ -25,5 +25,5 @@ conditions:
   negate: true
   required: true
   type: release_group
-  pattern: Radarr - Not Criterion RlsGrp
+  pattern: Radarr - Criterion RlsGrp
 tests: []

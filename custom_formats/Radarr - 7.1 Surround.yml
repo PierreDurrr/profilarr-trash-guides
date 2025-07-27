@@ -23,5 +23,5 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Low Channel Count
+  pattern: Radarr - Low Channel Count
 tests: []

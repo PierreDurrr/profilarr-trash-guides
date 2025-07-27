@@ -1,5 +1,0 @@
-name: Radarr - Not VF2
-pattern: \b(VF2|(VF(F|Q)[ .]VF(F|Q)))\b
-description: ''
-tags: []
-tests: []

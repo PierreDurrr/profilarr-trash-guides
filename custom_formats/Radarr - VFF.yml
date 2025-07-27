@@ -13,5 +13,5 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not VF2
+  pattern: Radarr - VF2
 tests: []

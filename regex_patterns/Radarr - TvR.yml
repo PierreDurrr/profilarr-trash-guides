@@ -1,5 +1,5 @@
 name: Radarr - TvR
-pattern: (TvR)$
+pattern: ^(TvR)$
 description: ''
 tags: []
 tests: []

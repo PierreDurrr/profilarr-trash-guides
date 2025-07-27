@@ -1,5 +1,5 @@
 name: Sonarr - SDR
-pattern: \bSDR\b
+pattern: \bSDR(\b|\d)
 description: ''
 tags: []
 tests: []

@@ -13,10 +13,10 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not DV HDR10
+  pattern: Sonarr - DV HDR10
 - name: Sonarr - Not DV HLG
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not DV HLG
+  pattern: Sonarr - DV HLG
 tests: []

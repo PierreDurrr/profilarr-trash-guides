@@ -8,3 +8,7 @@ def get_name(service, profile_name):
         .replace("Atmos", "ATMOS")
     )
     return f"{service.capitalize()} - {safe_profile_name}"
+
+
+def get_regex_pattern_name(service, regex_pattern_name):
+    return get_name(service, regex_pattern_name).replace("Not ", "")

@@ -1,5 +1,5 @@
 name: Radarr - 1XBET
-pattern: \b(1XBET)\b
+pattern: (1XBET)$
 description: ''
 tags: []
 tests: []

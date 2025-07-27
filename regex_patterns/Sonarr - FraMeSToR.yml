@@ -1,5 +1,5 @@
 name: Sonarr - FraMeSToR
-pattern: ^(FraMeSToR)$
+pattern: \b(FraMeSToR)\b
 description: ''
 tags: []
 tests: []

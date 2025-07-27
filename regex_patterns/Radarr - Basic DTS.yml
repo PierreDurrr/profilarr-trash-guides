@@ -1,5 +1,5 @@
 name: Radarr - Basic DTS
-pattern: \bDTS(\b|\d)
+pattern: DTS[ .]?[1-9]
 description: ''
 tags: []
 tests: []

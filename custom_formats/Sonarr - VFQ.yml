@@ -13,5 +13,5 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not VF2
+  pattern: Sonarr - VF2
 tests: []

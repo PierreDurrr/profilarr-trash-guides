@@ -14,5 +14,5 @@ conditions:
   negate: true
   required: true
   type: release_group
-  pattern: Radarr - Not OPUS Release Group
+  pattern: Radarr - OPUS Release Group
 tests: []

@@ -1,5 +1,0 @@
-name: Sonarr - Not DV SDR
-pattern: \b(DV[ .]SDR)\b
-description: ''
-tags: []
-tests: []

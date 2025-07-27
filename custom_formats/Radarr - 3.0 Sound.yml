@@ -13,20 +13,20 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Mono
+  pattern: Radarr - Mono
 - name: Radarr - Not Stereo
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Stereo
+  pattern: Radarr - Stereo
 - name: Radarr - Not 4.0ch
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not 4.0ch
+  pattern: Radarr - 4.0ch
 - name: Radarr - Not High Channel Count
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not High Channel Count
+  pattern: Radarr - High Channel Count
 tests: []

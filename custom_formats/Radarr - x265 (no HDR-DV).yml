@@ -14,7 +14,7 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not HDR-DV
+  pattern: Radarr - HDR-DV
 - name: Radarr - Not 2160p
   negate: true
   required: true

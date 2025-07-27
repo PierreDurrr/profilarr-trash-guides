@@ -1,5 +1,5 @@
 name: Sonarr - Chotab
-pattern: ^(Chotab)$
+pattern: \b(Chotab)\b
 description: ''
 tags: []
 tests: []

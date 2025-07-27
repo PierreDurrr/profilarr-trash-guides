@@ -13,5 +13,5 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not 4K Remaster
+  pattern: Radarr - 4K Remaster
 tests: []

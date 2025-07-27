@@ -18,10 +18,10 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not 7.1 Surround
+  pattern: Radarr - 7.1 Surround
 - name: Radarr - Not Low Channel Count
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Low Channel Count
+  pattern: Radarr - Low Channel Count
 tests: []

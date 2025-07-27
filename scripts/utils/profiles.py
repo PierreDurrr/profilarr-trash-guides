@@ -112,7 +112,7 @@ def collect_profiles(
     trash_id_to_scoring_mapping,
 ):
     for root, _, files in os.walk(input_dir):
-        for filename in files:
+        for filename in sorted(files):
             if not filename.endswith(".json"):
                 continue
 

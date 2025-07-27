@@ -19,5 +19,5 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not German in Title
+  pattern: Radarr - German in Title
 tests: []

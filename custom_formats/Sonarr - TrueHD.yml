@@ -18,20 +18,20 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not Dolby Digital Plus
+  pattern: Sonarr - Dolby Digital Plus
 - name: Sonarr - Not DTS
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not DTS
+  pattern: Sonarr - DTS
 - name: Sonarr - Not FLAC
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not FLAC
+  pattern: Sonarr - FLAC
 - name: Sonarr - Not Basic Dolby Digital
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not Basic Dolby Digital
+  pattern: Sonarr - Basic Dolby Digital
 tests: []

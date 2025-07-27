@@ -13,20 +13,20 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not IMAX Edition
+  pattern: Radarr - IMAX Edition
 - name: Radarr - Not Open Matte
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Open Matte
+  pattern: Radarr - Open Matte
 - name: Radarr - Not Theatrical
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Theatrical
+  pattern: Radarr - Theatrical
 - name: Radarr - Not Extended Clip
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Extended Clip
+  pattern: Radarr - Extended Clip
 tests: []

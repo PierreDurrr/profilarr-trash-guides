@@ -1,5 +1,5 @@
 name: Radarr - SiC
-pattern: ^(SiC)$
+pattern: \bSiC\b
 description: ''
 tags: []
 tests: []

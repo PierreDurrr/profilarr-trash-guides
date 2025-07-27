@@ -14,5 +14,5 @@ conditions:
   negate: true
   required: true
   type: release_group
-  pattern: Sonarr - Not OPUS Release Group
+  pattern: Sonarr - OPUS Release Group
 tests: []

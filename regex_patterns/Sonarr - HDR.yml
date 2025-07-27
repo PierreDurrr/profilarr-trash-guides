@@ -1,5 +1,5 @@
 name: Sonarr - HDR
-pattern: \b(HDR)\b
+pattern: \bHDR(\b|\d)
 description: ''
 tags: []
 tests: []

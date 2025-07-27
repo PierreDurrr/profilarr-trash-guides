@@ -24,10 +24,10 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Hybrid
+  pattern: Radarr - Hybrid
 - name: Radarr - Not Hybrid Release Group
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not Hybrid Release Group
+  pattern: Radarr - Hybrid Release Group
 tests: []

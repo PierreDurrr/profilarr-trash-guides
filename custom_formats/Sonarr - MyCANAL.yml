@@ -30,5 +30,5 @@ conditions:
   negate: true
   required: true
   type: release_group
-  pattern: Sonarr - Not MyCanal RlsGrp
+  pattern: Sonarr - MyCanal RlsGrp
 tests: []

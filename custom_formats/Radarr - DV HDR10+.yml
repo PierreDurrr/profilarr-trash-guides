@@ -13,10 +13,10 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not DV HLG
+  pattern: Radarr - DV HLG
 - name: Radarr - Not DV SDR
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Not DV SDR
+  pattern: Radarr - DV SDR
 tests: []

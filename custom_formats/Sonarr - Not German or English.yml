@@ -19,5 +19,5 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not German in Title
+  pattern: Sonarr - German in Title
 tests: []

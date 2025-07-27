@@ -1,5 +1,0 @@
-name: Sonarr - Not DTS-ES
-pattern: dts.?es
-description: ''
-tags: []
-tests: []

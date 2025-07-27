@@ -13,10 +13,10 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not INFLATE-DEFLATE
+  pattern: Sonarr - INFLATE-DEFLATE
 - name: Sonarr - Not GERMAN
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Not GERMAN
+  pattern: Sonarr - GERMAN
 tests: []
