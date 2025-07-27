@@ -1,0 +1,36 @@
+name: Generate
+
+on:
+  workflow_dispatch: # Manually trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13.5"
+
+      - name: Install dependencies
+        run: pip install uv
+
+      - name: Clone secondary repository
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "Github Actions"
+          git clone https://github.com/TRaSH-Guides/Guides.git TRaSH-Guides
+
+      - name: Run Python script
+        run: |
+          uv run scripts/generate.py TRaSH-Guides/docs/json .
+
+      - name: Check for changes
+        run: |
+          git add regex_patterns/ custom_formats/ profiles/
+          git commit -m "Automated update from GitHub Actions" || echo "No changes to commit"
+          git push
