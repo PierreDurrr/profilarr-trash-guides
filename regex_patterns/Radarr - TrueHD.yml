@@ -1,5 +1,5 @@
 name: Radarr - TrueHD
-pattern: True[ .-]?HD|W4NK3R|HQMUX
+pattern: True[ .-]?HD
 description: ''
 tags: []
 tests: []

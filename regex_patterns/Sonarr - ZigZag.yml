@@ -1,5 +1,5 @@
 name: Sonarr - ZigZag
-pattern: ^(ZigZag)$
+pattern: "\\[ZigZag\\]|-ZigZab\b"
 description: ''
 tags: []
 tests: []

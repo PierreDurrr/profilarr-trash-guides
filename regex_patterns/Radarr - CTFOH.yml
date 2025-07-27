@@ -1,5 +1,5 @@
 name: Radarr - CTFOH
-pattern: ^(CTFOH)$
+pattern: (CTFOH)$
 description: ''
 tags: []
 tests: []
