@@ -1,5 +1,7 @@
 name: FunArts
 pattern: \b(FunArts)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

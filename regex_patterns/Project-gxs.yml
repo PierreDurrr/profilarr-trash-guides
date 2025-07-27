@@ -1,5 +1,7 @@
 name: Project-gxs
 pattern: \b(Project-gxs)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

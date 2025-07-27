@@ -1,5 +1,6 @@
 name: Radarr - VRV
 pattern: \b(vrv)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

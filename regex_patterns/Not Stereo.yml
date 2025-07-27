@@ -1,5 +1,9 @@
 name: Not Stereo
 pattern: (?<!repac)[^0-9]2[ .]0\b|\bStereo\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

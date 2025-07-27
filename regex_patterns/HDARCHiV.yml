@@ -1,5 +1,7 @@
 name: HDARCHiV
 pattern: ^(HDARCHiV)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

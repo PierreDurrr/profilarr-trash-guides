@@ -1,5 +1,7 @@
 name: DTS-HD HRA
 pattern: dts[-. ]?(hd[. ]?)?(hra?|hi\b)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

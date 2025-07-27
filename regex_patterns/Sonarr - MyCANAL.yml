@@ -1,5 +1,6 @@
 name: Sonarr - MyCANAL
 pattern: \b(MyCANAL)\b
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

@@ -1,5 +1,8 @@
 name: smol
 pattern: \[smol\]|-smol\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

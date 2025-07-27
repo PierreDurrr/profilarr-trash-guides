@@ -1,5 +1,7 @@
 name: MCR
 pattern: \b(MCR)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

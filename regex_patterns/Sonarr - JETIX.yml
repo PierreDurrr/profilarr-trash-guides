@@ -1,5 +1,6 @@
 name: Sonarr - JETIX
 pattern: ^(JETIX)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

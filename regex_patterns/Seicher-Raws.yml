@@ -1,5 +1,7 @@
 name: Seicher-Raws
 pattern: Seicher[ ._-]?(Raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

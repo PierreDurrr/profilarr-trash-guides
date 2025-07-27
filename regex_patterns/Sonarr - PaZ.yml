@@ -1,5 +1,6 @@
 name: Sonarr - PaZ
 pattern: ^(PaZ)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

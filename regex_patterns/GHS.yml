@@ -1,5 +1,7 @@
 name: GHS
 pattern: \b(GHS)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

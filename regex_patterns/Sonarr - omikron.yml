@@ -1,5 +1,6 @@
 name: Sonarr - omikron
 pattern: ^(omikron)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

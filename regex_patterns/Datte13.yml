@@ -1,5 +1,7 @@
 name: Datte13
 pattern: \b(Datte13)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

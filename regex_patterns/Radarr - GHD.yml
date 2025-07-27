@@ -1,5 +1,6 @@
 name: Radarr - GHD
 pattern: ^(GHD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

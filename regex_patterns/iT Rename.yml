@@ -1,5 +1,7 @@
 name: iT Rename
 pattern: \[(iT)\b|\b(iT)\]
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

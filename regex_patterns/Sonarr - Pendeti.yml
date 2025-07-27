@@ -1,5 +1,6 @@
 name: Sonarr - Pendeti
 pattern: ^(Pendeti)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

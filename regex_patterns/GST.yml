@@ -1,5 +1,7 @@
 name: GST
 pattern: \b(GST)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

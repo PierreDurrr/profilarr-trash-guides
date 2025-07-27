@@ -1,5 +1,6 @@
 name: Sonarr - MEGA
 pattern: ^(MEGA)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

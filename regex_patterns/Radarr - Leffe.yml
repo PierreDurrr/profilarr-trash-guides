@@ -1,5 +1,6 @@
 name: Radarr - Leffe
 pattern: ^(Leffe)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

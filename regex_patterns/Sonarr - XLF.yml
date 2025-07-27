@@ -1,5 +1,6 @@
 name: Sonarr - XLF
 pattern: ^(XLF)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

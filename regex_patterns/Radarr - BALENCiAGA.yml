@@ -1,5 +1,6 @@
 name: Radarr - BALENCiAGA
 pattern: (BALENCiAGA)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

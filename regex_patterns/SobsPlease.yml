@@ -1,5 +1,7 @@
 name: SobsPlease
 pattern: \b(SobsPlease)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

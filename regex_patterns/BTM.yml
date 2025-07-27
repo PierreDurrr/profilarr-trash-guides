@@ -1,5 +1,7 @@
 name: BTM
 pattern: ^(BTM)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

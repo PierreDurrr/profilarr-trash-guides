@@ -1,5 +1,6 @@
 name: Radarr - SumVision
 pattern: ^(SumVision)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

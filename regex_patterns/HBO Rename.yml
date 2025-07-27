@@ -1,5 +1,7 @@
 name: HBO Rename
 pattern: \[(HBO)\b|\b(HBO)\]
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,9 @@
 name: NIMA4K
 pattern: ^(NIMA4K)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

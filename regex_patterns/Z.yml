@@ -1,5 +1,7 @@
 name: Z
 pattern: ^(ZEST|ZiRCON)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

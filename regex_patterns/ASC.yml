@@ -1,5 +1,7 @@
 name: ASC
 pattern: \b(ASC)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

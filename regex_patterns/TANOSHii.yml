@@ -1,5 +1,7 @@
 name: TANOSHii
 pattern: \b(TANOSHii)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

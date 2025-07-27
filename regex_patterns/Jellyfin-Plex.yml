@@ -1,5 +1,7 @@
 name: Jellyfin-Plex
 pattern: Jellyfin-Plex$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

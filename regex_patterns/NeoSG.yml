@@ -1,5 +1,7 @@
 name: NeoSG
 pattern: \b(NeoSG)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - HELD
 pattern: (HELD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

@@ -1,5 +1,7 @@
 name: UTOPiA
 pattern: ^(UTOPiA)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

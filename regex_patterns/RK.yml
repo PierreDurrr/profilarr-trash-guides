@@ -1,5 +1,7 @@
 name: RK
 pattern: ^(RK)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

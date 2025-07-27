@@ -1,5 +1,8 @@
 name: Commie
 pattern: \b(Commie)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

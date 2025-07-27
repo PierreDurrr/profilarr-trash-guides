@@ -1,5 +1,7 @@
 name: MULTi
 pattern: \b(MULTi)(\b|\d)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

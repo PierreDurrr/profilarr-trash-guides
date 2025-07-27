@@ -1,5 +1,6 @@
 name: Radarr - EMVY
 pattern: (EMVY)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

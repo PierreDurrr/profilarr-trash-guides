@@ -1,5 +1,7 @@
 name: NOW Rename
 pattern: \[(NOW)\b|\b(NOW)\]
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

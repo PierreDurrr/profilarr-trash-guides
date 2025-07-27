@@ -1,5 +1,7 @@
 name: OCA
 pattern: ^(OCA)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

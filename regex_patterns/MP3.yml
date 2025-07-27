@@ -1,5 +1,7 @@
 name: MP3
 pattern: mp3
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

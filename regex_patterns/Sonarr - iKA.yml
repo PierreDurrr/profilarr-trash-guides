@@ -1,5 +1,6 @@
 name: Sonarr - iKA
 pattern: ^(iKA)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - Vinegar Syndrome
 pattern: \b(Vinegar[ ._-]Syndrome)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

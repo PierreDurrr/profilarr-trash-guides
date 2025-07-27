@@ -1,5 +1,6 @@
 name: Radarr - ORCA88
 pattern: (ORCA88)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

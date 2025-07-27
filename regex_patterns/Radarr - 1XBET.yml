@@ -1,5 +1,6 @@
 name: Radarr - 1XBET
 pattern: (1XBET)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

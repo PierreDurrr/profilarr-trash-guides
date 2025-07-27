@@ -1,5 +1,7 @@
 name: Repack
 pattern: \b(Repack)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

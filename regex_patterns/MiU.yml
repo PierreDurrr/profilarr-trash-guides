@@ -1,5 +1,7 @@
 name: MiU
 pattern: ^(MiU)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

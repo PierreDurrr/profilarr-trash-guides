@@ -1,5 +1,7 @@
 name: VIU
 pattern: \b(viu)\b[ ._-]web[ ._-]?(dl|rip)?\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

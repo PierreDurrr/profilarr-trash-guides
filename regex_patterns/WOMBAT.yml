@@ -1,5 +1,7 @@
 name: WOMBAT
 pattern: ^(WOMBAT)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

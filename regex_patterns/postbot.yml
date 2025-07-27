@@ -1,5 +1,7 @@
 name: postbot
 pattern: -postbot\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

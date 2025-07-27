@@ -1,5 +1,7 @@
 name: iNC0GNiTO
 pattern: -iNC0GNiTO\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

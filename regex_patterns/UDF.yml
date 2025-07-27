@@ -1,5 +1,7 @@
 name: UDF
 pattern: \b(UDF)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

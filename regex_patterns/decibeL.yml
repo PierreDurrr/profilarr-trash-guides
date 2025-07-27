@@ -1,5 +1,7 @@
 name: decibeL
 pattern: ^(decibeL)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

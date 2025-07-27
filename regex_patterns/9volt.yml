@@ -1,5 +1,8 @@
 name: 9volt
 pattern: \b(9volt)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

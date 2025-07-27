@@ -1,5 +1,6 @@
 name: Radarr - N
 pattern: ^(NERDHD|NERO|NrZ|NTK)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

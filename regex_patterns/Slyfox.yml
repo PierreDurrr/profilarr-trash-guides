@@ -1,5 +1,7 @@
 name: Slyfox
 pattern: \b(Slyfox)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

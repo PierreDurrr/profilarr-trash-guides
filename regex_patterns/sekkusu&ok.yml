@@ -1,5 +1,7 @@
 name: sekkusu&ok
 pattern: \b(sekkusu&ok)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

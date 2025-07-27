@@ -1,5 +1,7 @@
 name: BlackLuster
 pattern: \b(BlackLuster)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

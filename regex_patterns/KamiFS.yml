@@ -1,5 +1,7 @@
 name: KamiFS
 pattern: \b(KamiFS)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

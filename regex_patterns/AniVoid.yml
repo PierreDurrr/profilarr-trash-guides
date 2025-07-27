@@ -1,5 +1,7 @@
 name: AniVoid
 pattern: \b(AniVoid)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,8 @@
 name: Not RlsGrp (Missing HDR)
 pattern: \b(FraMeSToR|HQMUX|SiCFoI)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

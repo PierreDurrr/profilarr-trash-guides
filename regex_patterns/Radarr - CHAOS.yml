@@ -1,5 +1,6 @@
 name: Radarr - CHAOS
 pattern: ^(CHAOS)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

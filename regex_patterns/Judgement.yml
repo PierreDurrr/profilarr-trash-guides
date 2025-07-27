@@ -1,5 +1,7 @@
 name: Judgement
 pattern: \[Judgment\]|-Judgment\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

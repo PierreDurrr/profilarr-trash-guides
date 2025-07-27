@@ -1,5 +1,7 @@
 name: Belgian French
 pattern: \b(VFB)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

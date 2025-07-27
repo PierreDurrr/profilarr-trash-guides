@@ -1,5 +1,7 @@
 name: ASO
 pattern: \b(ASO)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

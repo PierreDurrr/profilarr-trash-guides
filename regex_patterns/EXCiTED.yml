@@ -1,5 +1,7 @@
 name: EXCiTED
 pattern: ^(EXCiTED)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

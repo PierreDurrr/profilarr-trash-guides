@@ -1,5 +1,7 @@
 name: AIUS
 pattern: \b(AIUS)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

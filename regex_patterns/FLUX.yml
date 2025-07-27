@@ -1,5 +1,8 @@
 name: FLUX
 pattern: ^(FLUX)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

@@ -1,5 +1,8 @@
 name: FRATERNiTY
 pattern: ^(FRATERNiTY)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

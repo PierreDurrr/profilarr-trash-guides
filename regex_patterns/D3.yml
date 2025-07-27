@@ -1,5 +1,7 @@
 name: D3
 pattern: \b(D3)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

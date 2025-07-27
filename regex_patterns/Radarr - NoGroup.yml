@@ -1,5 +1,6 @@
 name: Radarr - NoGroup
 pattern: NoGr(ou)?p
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

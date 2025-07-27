@@ -1,5 +1,7 @@
 name: CBM
 pattern: \b(CBM)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

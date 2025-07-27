@@ -1,5 +1,8 @@
 name: DL
 pattern: (?<!WEB[-_. ]?)\b(DL)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: iKaos
 pattern: \b(iKaos)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

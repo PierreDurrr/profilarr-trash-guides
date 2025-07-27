@@ -1,5 +1,6 @@
 name: Sonarr - INFLATE-DEFLATE
 pattern: \b(INFLATE|DEFLATE[)\]]?)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

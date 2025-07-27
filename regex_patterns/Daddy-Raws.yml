@@ -1,5 +1,7 @@
 name: Daddy-Raws
 pattern: Daddy[ ._-]?(Raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

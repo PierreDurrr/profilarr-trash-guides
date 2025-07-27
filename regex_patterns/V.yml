@@ -1,5 +1,7 @@
 name: V
 pattern: ^(VENUE|VFC|VoMiT)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

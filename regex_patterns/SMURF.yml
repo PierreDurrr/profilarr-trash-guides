@@ -1,5 +1,7 @@
 name: SMURF
 pattern: ^(SMURF)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

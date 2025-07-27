@@ -1,5 +1,7 @@
 name: NH
 pattern: \b(NH)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

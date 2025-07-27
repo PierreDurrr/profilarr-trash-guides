@@ -1,5 +1,6 @@
 name: Radarr - HDTime
 pattern: ^(HDTime)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

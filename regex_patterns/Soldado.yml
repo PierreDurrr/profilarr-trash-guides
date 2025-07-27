@@ -1,5 +1,7 @@
 name: Soldado
 pattern: \[Soldado\]|-Soldado\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

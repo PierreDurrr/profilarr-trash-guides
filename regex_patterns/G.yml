@@ -1,5 +1,7 @@
 name: G
 pattern: ^(GHOULS|GiMBAP|GLiMMER|Goatlove)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

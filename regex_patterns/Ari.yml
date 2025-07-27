@@ -1,5 +1,7 @@
 name: Ari
 pattern: \[Ari\]|-Ari\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

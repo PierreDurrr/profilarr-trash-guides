@@ -1,5 +1,7 @@
 name: Mites
 pattern: \b(Mites)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

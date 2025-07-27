@@ -1,5 +1,7 @@
 name: Metal
 pattern: \[Metal\]|-Metal\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

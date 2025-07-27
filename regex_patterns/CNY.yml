@@ -1,5 +1,8 @@
 name: CNY
 pattern: ^(CNY)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

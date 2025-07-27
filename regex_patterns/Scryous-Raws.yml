@@ -1,5 +1,7 @@
 name: Scryous-Raws
 pattern: Scryous[ ._-]?(Raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

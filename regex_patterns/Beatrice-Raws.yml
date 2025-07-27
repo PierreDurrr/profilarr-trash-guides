@@ -1,5 +1,7 @@
 name: Beatrice-Raws
 pattern: Beatrice[ ._-]?(Raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

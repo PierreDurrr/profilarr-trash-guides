@@ -1,5 +1,7 @@
 name: SNSbu
 pattern: \b(SNSbu)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

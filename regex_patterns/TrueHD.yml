@@ -1,5 +1,10 @@
 name: TrueHD
 pattern: True[ .-]?HD
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

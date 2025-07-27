@@ -1,5 +1,7 @@
 name: Nagutos
 pattern: \b(Nagutos)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

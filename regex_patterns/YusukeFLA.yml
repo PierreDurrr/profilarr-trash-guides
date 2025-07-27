@@ -1,5 +1,7 @@
 name: YusukeFLA
 pattern: ^(YusukeFLA)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

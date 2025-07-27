@@ -1,5 +1,7 @@
 name: Dae
 pattern: \b(Dae)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

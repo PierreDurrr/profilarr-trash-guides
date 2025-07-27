@@ -1,5 +1,6 @@
 name: Radarr - MTeam
 pattern: ^(MTeam|MT)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

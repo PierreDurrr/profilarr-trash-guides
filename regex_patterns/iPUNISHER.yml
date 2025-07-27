@@ -1,5 +1,7 @@
 name: iPUNISHER
 pattern: \b(iPUNISHER)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

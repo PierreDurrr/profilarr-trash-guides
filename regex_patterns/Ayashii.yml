@@ -1,5 +1,7 @@
 name: Ayashii
 pattern: \[Ayashii\]|-Ayashii\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

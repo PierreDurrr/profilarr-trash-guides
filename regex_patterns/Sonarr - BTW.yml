@@ -1,5 +1,6 @@
 name: Sonarr - BTW
 pattern: ^(BTW)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

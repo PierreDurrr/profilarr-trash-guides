@@ -1,5 +1,7 @@
 name: Shirσ
 pattern: \b(Shirσ)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Sonarr - PsO
 pattern: ^(PsO)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

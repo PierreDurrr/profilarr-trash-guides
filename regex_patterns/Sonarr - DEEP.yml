@@ -1,5 +1,6 @@
 name: Sonarr - DEEP
 pattern: ^(DEEP)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

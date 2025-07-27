@@ -6,5 +6,7 @@ pattern: ^(?!.*\b((?<!HD[._ -]|HD)DVD|BDRip|720p|MKV|XviD|WMV|d3g|(BD)?REMUX|^(?
   ]?DVD)))|3D[-_. ]?BD|BR[-_. ]?DISK|Full[-_. ]?Blu[-_. ]?ray|^((?=.*((BD|UHD)[-_.
   ]?(25|50|66|100|ISO)))))))).*
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

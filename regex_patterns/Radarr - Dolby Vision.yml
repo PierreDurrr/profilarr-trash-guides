@@ -1,5 +1,6 @@
 name: Radarr - Dolby Vision
 pattern: \b(dv|dovi|dolby[ .]?V(ision)?)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

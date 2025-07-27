@@ -1,5 +1,8 @@
 name: Doki
 pattern: \[Doki\]|-Doki\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

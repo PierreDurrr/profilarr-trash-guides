@@ -1,5 +1,6 @@
 name: Radarr - VS
 pattern: \b(V-S)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

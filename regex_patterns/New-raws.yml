@@ -1,5 +1,7 @@
 name: New-raws
 pattern: New[ ._-]?(raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - mHD
 pattern: ^(mHD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

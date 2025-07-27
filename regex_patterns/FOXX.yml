@@ -1,5 +1,7 @@
 name: FOXX
 pattern: ^(FOXX)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

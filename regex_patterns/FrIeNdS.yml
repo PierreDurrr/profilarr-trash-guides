@@ -1,5 +1,7 @@
 name: FrIeNdS
 pattern: ^(FrIeNdS)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: POTO
 pattern: ^(POTO)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

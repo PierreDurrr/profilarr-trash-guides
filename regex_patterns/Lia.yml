@@ -1,5 +1,8 @@
 name: Lia
 pattern: \[Lia\]|-Lia\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: DON
 pattern: ^(DON)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Sonarr - END
 pattern: ^(END)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

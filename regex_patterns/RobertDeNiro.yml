@@ -1,5 +1,8 @@
 name: RobertDeNiro
 pattern: ^(RobertDeNiro)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

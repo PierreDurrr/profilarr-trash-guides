@@ -1,5 +1,7 @@
 name: Kirion
 pattern: \b(Kirion)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - ABJ
 pattern: (ABJ)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

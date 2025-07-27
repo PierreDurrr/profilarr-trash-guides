@@ -1,5 +1,8 @@
 name: SoM
 pattern: \[SoM\]|-SoM\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

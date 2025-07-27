@@ -1,5 +1,8 @@
 name: Kaleido
 pattern: \b(Kaleido)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: Kawaiika-Raws
 pattern: Kawaiika[ ._-]?(Raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

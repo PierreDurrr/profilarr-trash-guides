@@ -1,5 +1,7 @@
 name: Saizen
 pattern: \b(Saizen)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

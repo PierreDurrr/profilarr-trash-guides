@@ -1,5 +1,7 @@
 name: DB
 pattern: \[DB\]
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

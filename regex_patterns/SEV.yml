@@ -1,5 +1,7 @@
 name: SEV
 pattern: \b(SEV)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

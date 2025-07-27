@@ -1,5 +1,7 @@
 name: Punisher694
 pattern: \b(Punisher694)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,8 @@
 name: VECTOR
 pattern: ^(VECTOR)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

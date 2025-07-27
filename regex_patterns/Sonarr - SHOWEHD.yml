@@ -1,5 +1,6 @@
 name: Sonarr - SHOWEHD
 pattern: ^(SHOWEHD)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

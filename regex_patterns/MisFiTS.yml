@@ -1,5 +1,7 @@
 name: MisFiTS
 pattern: ^(MisFiTS)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

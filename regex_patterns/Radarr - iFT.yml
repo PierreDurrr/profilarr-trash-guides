@@ -1,5 +1,6 @@
 name: Radarr - iFT
 pattern: ^(iFT)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

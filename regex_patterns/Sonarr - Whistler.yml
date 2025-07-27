@@ -1,5 +1,6 @@
 name: Sonarr - Whistler
 pattern: ^(Whistler)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

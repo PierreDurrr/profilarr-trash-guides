@@ -1,5 +1,6 @@
 name: Radarr - Will1869
 pattern: \b(Will1869)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

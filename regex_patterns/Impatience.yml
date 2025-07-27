@@ -1,5 +1,7 @@
 name: Impatience
 pattern: \[Impatience\]|-Impatience\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

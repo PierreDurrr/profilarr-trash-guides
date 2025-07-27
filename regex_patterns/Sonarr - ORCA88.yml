@@ -1,5 +1,6 @@
 name: Sonarr - ORCA88
 pattern: ^(ORCA88)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

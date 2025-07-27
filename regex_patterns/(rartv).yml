@@ -1,5 +1,7 @@
 name: (rartv)
 pattern: \[rartv\]
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

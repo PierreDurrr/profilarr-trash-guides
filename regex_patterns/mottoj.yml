@@ -1,5 +1,7 @@
 name: mottoj
 pattern: \b(mottoj)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Sonarr - BALENCiAGA
 pattern: ^(BALENCiAGA)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

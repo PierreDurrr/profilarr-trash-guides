@@ -1,5 +1,6 @@
 name: Radarr - PEPiTE
 pattern: ^(PEPiTE)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

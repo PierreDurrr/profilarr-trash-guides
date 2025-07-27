@@ -1,5 +1,7 @@
 name: HANAMi
 pattern: \b(HANAMi)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

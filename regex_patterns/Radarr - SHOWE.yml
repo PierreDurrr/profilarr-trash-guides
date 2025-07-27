@@ -1,5 +1,6 @@
 name: Radarr - SHOWE
 pattern: (SHOWE)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

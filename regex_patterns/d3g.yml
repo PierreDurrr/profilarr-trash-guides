@@ -1,5 +1,7 @@
 name: d3g
 pattern: ^(d3g)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

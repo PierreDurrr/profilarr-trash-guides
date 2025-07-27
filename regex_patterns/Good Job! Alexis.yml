@@ -1,5 +1,7 @@
 name: Good Job! Alexis
 pattern: \b(Good[ .-]?(Job|Rip|Sub)!?[ .-]?Alexis)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

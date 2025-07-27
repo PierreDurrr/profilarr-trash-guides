@@ -1,5 +1,7 @@
 name: GUEIRA
 pattern: ^(GUEIRA)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

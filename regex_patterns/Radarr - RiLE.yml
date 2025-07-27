@@ -1,5 +1,6 @@
 name: Radarr - RiLE
 pattern: ^(RiLE)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

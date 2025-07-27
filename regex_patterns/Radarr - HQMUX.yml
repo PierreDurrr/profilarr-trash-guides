@@ -1,5 +1,6 @@
 name: Radarr - HQMUX
 pattern: ^(HQMUX)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

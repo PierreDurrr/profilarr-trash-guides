@@ -1,5 +1,7 @@
 name: Crow
 pattern: \[Crow\]|-Crow\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: Rakuv
 pattern: -Rakuv\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

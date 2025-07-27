@@ -1,5 +1,6 @@
 name: Radarr - aXXo
 pattern: ^(aXXo)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

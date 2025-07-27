@@ -1,5 +1,6 @@
 name: Sonarr - Peacock TV
 pattern: \b(pcok|Peacock TV)\b
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

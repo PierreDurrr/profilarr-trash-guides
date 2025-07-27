@@ -1,5 +1,7 @@
 name: TeeWee
 pattern: \b(TeeWee)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

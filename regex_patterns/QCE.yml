@@ -1,5 +1,7 @@
 name: QCE
 pattern: \b(QCE)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

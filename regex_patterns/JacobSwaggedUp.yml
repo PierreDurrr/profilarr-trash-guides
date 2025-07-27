@@ -1,5 +1,7 @@
 name: JacobSwaggedUp
 pattern: \b(JacobSwaggedUp)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

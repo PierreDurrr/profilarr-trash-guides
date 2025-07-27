@@ -1,5 +1,6 @@
 name: Radarr - pmHD
 pattern: (pmHD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

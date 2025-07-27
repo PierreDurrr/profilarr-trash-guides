@@ -1,5 +1,7 @@
 name: '#'
 pattern: ^(4FR)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

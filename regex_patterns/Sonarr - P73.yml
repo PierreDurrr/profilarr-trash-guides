@@ -1,5 +1,6 @@
 name: Sonarr - P73
 pattern: ^(P73)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

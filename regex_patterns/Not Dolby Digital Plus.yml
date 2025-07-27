@@ -1,5 +1,16 @@
 name: Not Dolby Digital Plus
 pattern: \bDD[P+](?!A)|\b(e[-_. ]?ac-?3)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

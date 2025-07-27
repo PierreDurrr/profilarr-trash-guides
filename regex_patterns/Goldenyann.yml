@@ -1,5 +1,7 @@
 name: Goldenyann
 pattern: ^(Goldenyann)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

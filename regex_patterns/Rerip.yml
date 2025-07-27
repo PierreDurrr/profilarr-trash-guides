@@ -1,5 +1,7 @@
 name: Rerip
 pattern: \b(Rerip)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

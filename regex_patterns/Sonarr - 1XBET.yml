@@ -1,5 +1,6 @@
 name: Sonarr - 1XBET
 pattern: ^(1XBET)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

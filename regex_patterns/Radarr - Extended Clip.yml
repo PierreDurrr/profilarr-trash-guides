@@ -1,5 +1,6 @@
 name: Radarr - Extended Clip
 pattern: \b(Extended[ ._-]Clip)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

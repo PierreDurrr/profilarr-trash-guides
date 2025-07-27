@@ -1,5 +1,6 @@
 name: Sonarr - PL
 pattern: ^(PL)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

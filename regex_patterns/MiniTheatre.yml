@@ -1,5 +1,7 @@
 name: MiniTheatre
 pattern: \b(MiniTheatre)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

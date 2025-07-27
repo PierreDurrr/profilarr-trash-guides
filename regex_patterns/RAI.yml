@@ -1,5 +1,7 @@
 name: RAI
 pattern: \b(RAI)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: niizk
 pattern: \b(niizk)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

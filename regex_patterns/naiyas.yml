@@ -1,5 +1,7 @@
 name: naiyas
 pattern: \[naiyas\]|-naiyas\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

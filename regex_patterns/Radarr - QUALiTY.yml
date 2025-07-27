@@ -1,5 +1,6 @@
 name: Radarr - QUALiTY
 pattern: ^(QUALiTY)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

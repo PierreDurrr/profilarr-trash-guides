@@ -1,5 +1,6 @@
 name: Radarr - SPHD
 pattern: ^(SPHD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

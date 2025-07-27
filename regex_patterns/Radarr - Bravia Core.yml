@@ -1,5 +1,6 @@
 name: Radarr - Bravia Core
 pattern: \b(BCORE)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

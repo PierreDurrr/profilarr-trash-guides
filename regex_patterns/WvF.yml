@@ -1,5 +1,7 @@
 name: WvF
 pattern: ^(WvF)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

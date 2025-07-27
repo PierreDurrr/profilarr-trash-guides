@@ -1,5 +1,6 @@
 name: Radarr - MoC
 pattern: \b(MoC)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

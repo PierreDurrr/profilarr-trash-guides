@@ -1,5 +1,6 @@
 name: Sonarr - P
 pattern: ^(PANZeR|PATHECROUTE|Penrose|PHoQUE|PiNKPANTERS|PKPTRS|PRiDEHD|PROPJOE|PURE|PUREWASTEOFBW)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

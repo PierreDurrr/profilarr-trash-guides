@@ -1,5 +1,8 @@
 name: Asenshi
 pattern: \b(Asenshi)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

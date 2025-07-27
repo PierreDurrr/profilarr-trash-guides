@@ -1,5 +1,7 @@
 name: J
 pattern: ^(JMT|JoKeR|JUSTICELEAGUE)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

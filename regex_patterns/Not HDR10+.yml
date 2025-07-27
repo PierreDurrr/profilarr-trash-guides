@@ -1,5 +1,12 @@
 name: Not HDR10+
 pattern: \bHDR10(\+|P(lus)?\b)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

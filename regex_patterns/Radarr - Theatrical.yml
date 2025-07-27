@@ -1,5 +1,6 @@
 name: Radarr - Theatrical
 pattern: Theatrical
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

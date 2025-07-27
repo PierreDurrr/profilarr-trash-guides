@@ -1,5 +1,8 @@
 name: CtrlHD
 pattern: ^(CtrlHD)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

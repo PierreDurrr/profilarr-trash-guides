@@ -1,5 +1,7 @@
 name: (TGx)
 pattern: \[TGx\]
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

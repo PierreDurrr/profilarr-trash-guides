@@ -1,5 +1,6 @@
 name: Radarr - LAW
 pattern: (LAW)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

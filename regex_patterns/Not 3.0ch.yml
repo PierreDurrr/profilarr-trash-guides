@@ -1,5 +1,10 @@
 name: Not 3.0ch
 pattern: '[^0-9]3[ .]0\b'
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

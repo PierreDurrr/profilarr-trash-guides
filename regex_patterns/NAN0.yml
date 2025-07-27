@@ -1,5 +1,7 @@
 name: NAN0
 pattern: (?<=remux).*\b(NAN0)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

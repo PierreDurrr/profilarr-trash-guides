@@ -1,5 +1,7 @@
 name: VOSTFR
 pattern: \b(VOST.*?FR(E|A)?)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

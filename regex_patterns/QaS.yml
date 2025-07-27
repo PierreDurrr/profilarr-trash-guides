@@ -1,5 +1,7 @@
 name: QaS
 pattern: \b(QAS)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: TOMMY
 pattern: ^(TOMMY)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

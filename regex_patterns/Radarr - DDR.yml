@@ -1,5 +1,6 @@
 name: Radarr - DDR
 pattern: ^(DDR)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

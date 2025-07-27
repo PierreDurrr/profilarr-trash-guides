@@ -1,5 +1,7 @@
 name: Hotstar
 pattern: \b(HTSR|DSNPHS|HS)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

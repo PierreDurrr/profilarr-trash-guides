@@ -1,5 +1,7 @@
 name: DETAiLS
 pattern: ^(DETAiLS)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

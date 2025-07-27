@@ -1,5 +1,7 @@
 name: DMPD
 pattern: ^(DMPD)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

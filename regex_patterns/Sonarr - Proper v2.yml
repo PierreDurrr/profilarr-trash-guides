@@ -1,5 +1,6 @@
 name: Sonarr - Proper v2
 pattern: \b(proper2)\b
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

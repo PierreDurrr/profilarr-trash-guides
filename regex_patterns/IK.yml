@@ -1,5 +1,7 @@
 name: IK
 pattern: \b(IK)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

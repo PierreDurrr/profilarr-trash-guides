@@ -1,5 +1,7 @@
 name: youshikibi
 pattern: \b(youshikibi)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

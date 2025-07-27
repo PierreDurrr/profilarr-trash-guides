@@ -1,5 +1,6 @@
 name: Sonarr - DRACULA
 pattern: ^(DRACULA)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

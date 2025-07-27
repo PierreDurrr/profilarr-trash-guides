@@ -1,5 +1,7 @@
 name: Chotab
 pattern: \b(Chotab)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

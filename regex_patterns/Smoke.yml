@@ -1,5 +1,7 @@
 name: Smoke
 pattern: \[Smoke\]|-Smoke\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

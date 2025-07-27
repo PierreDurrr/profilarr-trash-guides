@@ -1,5 +1,7 @@
 name: Cory
 pattern: ^(Cory)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

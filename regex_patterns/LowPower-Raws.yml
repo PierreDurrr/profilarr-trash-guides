@@ -1,5 +1,7 @@
 name: LowPower-Raws
 pattern: LowPower[ ._-]?(Raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

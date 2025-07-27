@@ -1,5 +1,9 @@
 name: TvR
 pattern: ^(TvR)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

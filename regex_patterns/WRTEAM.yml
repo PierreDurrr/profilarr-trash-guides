@@ -1,5 +1,7 @@
 name: WRTEAM
 pattern: -WRTEAM\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: No Parsed Group
 pattern: .
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

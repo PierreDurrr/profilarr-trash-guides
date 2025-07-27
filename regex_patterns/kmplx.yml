@@ -1,5 +1,7 @@
 name: kmplx
 pattern: \b(kmplx)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

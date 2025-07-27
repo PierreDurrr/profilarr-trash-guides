@@ -1,5 +1,7 @@
 name: TTN
 pattern: \b(TTN)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

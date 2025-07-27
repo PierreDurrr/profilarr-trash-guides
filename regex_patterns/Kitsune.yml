@@ -1,5 +1,7 @@
 name: Kitsune
 pattern: ^(Kitsune)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

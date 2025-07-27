@@ -1,5 +1,6 @@
 name: Radarr - LizardSquad
 pattern: (LizardSquad)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

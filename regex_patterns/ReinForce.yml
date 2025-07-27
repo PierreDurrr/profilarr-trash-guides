@@ -1,5 +1,7 @@
 name: ReinForce
 pattern: \b(ReinForce)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

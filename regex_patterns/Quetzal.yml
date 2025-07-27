@@ -1,5 +1,7 @@
 name: Quetzal
 pattern: \b(Quetzal)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

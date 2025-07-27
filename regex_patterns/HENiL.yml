@@ -1,5 +1,7 @@
 name: HENiL
 pattern: \b(HENiL)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

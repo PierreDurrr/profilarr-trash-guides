@@ -1,5 +1,6 @@
 name: Radarr - Oergel
 pattern: (Oergel)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

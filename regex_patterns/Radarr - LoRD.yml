@@ -1,5 +1,6 @@
 name: Radarr - LoRD
 pattern: ^(LoRD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

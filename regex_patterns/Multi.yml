@@ -1,5 +1,7 @@
 name: Multi
 pattern: \b(Multi)(?![ ._-]?sub(s)?)(\b|\d)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

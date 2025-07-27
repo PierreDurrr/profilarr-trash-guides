@@ -1,5 +1,6 @@
 name: Radarr - TDD
 pattern: ^(TDD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

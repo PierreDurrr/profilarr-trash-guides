@@ -1,5 +1,7 @@
 name: mdcx
 pattern: \b(mdcx)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

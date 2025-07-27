@@ -1,5 +1,7 @@
 name: MinisCuba
 pattern: \b(MinisCuba)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

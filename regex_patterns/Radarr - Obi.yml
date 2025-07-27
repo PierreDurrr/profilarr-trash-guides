@@ -1,5 +1,6 @@
 name: Radarr - Obi
 pattern: ^(Obi)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

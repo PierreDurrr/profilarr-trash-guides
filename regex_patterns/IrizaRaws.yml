@@ -1,5 +1,7 @@
 name: IrizaRaws
 pattern: Iriza[ ._-]?(Raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: Animesubs
 pattern: \b(Animesubs)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,8 @@
 name: Chihiro
 pattern: \[Chihiro\]|-Chihiro\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

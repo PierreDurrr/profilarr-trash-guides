@@ -1,5 +1,7 @@
 name: BMF
 pattern: ^(BMF)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

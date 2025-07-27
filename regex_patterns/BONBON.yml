@@ -1,5 +1,8 @@
 name: BONBON
 pattern: ^(BONBON)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: Matsya
 pattern: \b(Matsya)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

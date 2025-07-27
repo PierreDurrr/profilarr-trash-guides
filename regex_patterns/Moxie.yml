@@ -1,5 +1,7 @@
 name: Moxie
 pattern: \[Moxie\]|-Moxie\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

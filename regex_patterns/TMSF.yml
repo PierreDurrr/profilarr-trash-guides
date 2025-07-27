@@ -1,5 +1,7 @@
 name: TMSF
 pattern: ^(TMSF)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: NOSiViD
 pattern: ^(NOSiViD)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

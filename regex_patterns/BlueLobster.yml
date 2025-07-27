@@ -1,5 +1,7 @@
 name: BlueLobster
 pattern: \b(BlueLobster)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

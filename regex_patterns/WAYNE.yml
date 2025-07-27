@@ -1,5 +1,7 @@
 name: WAYNE
 pattern: ^(WAYNE)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

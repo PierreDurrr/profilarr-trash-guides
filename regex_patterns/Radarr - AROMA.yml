@@ -1,5 +1,6 @@
 name: Radarr - AROMA
 pattern: ^(AROMA)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

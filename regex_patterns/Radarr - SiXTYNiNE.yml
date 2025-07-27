@@ -1,5 +1,6 @@
 name: Radarr - SiXTYNiNE
 pattern: (SiXTYNiNE)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

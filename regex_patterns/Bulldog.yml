@@ -1,5 +1,7 @@
 name: Bulldog
 pattern: \[Bulldog\]|-Bulldog\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

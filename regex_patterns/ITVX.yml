@@ -1,5 +1,7 @@
 name: ITVX
 pattern: \b(ITVX?)\b[ ._-]web[ ._-]?(dl|rip)?\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

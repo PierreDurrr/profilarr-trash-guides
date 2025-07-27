@@ -1,5 +1,7 @@
 name: MeGusta
 pattern: ^(MeGusta)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

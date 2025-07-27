@@ -1,5 +1,7 @@
 name: hi10p
 pattern: hi10p
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

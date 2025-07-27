@@ -1,5 +1,7 @@
 name: NINJACENTRAL
 pattern: ^(NINJACENTRAL)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

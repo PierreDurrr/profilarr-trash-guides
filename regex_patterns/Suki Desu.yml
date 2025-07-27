@@ -1,5 +1,7 @@
 name: Suki Desu
 pattern: \[Suki[ .-]?Desu\]|-Suki[ .-]?Desu\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

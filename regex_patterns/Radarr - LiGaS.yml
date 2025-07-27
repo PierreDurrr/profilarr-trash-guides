@@ -1,5 +1,6 @@
 name: Radarr - LiGaS
 pattern: ^(LiGaS)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

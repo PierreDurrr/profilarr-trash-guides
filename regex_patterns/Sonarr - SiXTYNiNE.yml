@@ -1,5 +1,6 @@
 name: Sonarr - SiXTYNiNE
 pattern: ^(SiXTYNiNE)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

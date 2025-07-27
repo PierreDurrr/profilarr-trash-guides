@@ -1,5 +1,7 @@
 name: TOPKEK
 pattern: \b(TOPKEK)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

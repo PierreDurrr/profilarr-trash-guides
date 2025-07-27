@@ -1,5 +1,7 @@
 name: TEPES
 pattern: ^(TEPES)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

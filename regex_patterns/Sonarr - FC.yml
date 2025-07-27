@@ -1,5 +1,6 @@
 name: Sonarr - FC
 pattern: ^(FC)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

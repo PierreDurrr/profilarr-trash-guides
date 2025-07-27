@@ -1,5 +1,6 @@
 name: Sonarr - kala
 pattern: ^(kala)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

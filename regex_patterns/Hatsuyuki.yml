@@ -1,5 +1,7 @@
 name: Hatsuyuki
 pattern: \[Hatsuyuki\]|-Hatsuyuki\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

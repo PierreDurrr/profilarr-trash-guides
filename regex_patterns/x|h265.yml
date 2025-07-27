@@ -1,5 +1,9 @@
 name: x|h265
 pattern: '[xh][ ._-]?265|\bHEVC(\b|\d)'
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

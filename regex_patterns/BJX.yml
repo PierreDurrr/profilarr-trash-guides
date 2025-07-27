@@ -1,5 +1,7 @@
 name: BJX
 pattern: \b(BJX)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

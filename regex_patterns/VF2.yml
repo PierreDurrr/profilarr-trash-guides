@@ -1,5 +1,7 @@
 name: VF2
 pattern: \b(VF2)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

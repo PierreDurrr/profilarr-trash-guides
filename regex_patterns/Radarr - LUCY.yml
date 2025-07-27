@@ -1,5 +1,6 @@
 name: Radarr - LUCY
 pattern: ^(LUCY)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

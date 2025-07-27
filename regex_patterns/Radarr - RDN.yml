@@ -1,5 +1,6 @@
 name: Radarr - RDN
 pattern: ^(RDN)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

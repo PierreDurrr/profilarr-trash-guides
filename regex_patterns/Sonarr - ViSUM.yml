@@ -1,5 +1,6 @@
 name: Sonarr - ViSUM
 pattern: ^(ViSUM)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

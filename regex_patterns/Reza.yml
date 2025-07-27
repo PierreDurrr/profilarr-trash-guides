@@ -1,5 +1,8 @@
 name: Reza
 pattern: \b(Reza)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

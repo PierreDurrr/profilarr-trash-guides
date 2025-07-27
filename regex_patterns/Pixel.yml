@@ -1,5 +1,7 @@
 name: Pixel
 pattern: \[Pixel\]|-Pixel\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

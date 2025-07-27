@@ -1,5 +1,7 @@
 name: DepraveD
 pattern: ^(DepraveD)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

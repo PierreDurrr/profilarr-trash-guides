@@ -1,5 +1,7 @@
 name: SbR
 pattern: ^(SbR)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

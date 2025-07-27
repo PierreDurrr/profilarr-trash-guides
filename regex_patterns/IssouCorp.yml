@@ -1,5 +1,7 @@
 name: IssouCorp
 pattern: \b(IssouCorp)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

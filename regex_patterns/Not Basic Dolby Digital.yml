@@ -1,5 +1,19 @@
 name: Not Basic Dolby Digital
 pattern: \bDD[^a-z+]|(?<!e-)\b(ac-?3)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

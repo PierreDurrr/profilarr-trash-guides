@@ -1,5 +1,7 @@
 name: Judas
 pattern: \[Judas\]|-Judas
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

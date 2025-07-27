@@ -1,5 +1,7 @@
 name: Chamele0n
 pattern: -Chamele0n\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

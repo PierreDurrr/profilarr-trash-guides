@@ -1,5 +1,7 @@
 name: Uncensored
 pattern: \b(Uncut|Unrated|Uncensored|AT[-_. ]?X)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

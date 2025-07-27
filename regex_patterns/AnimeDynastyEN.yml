@@ -1,5 +1,7 @@
 name: AnimeDynastyEN
 pattern: \b(AnimeDynastyEN)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

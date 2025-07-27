@@ -1,5 +1,6 @@
 name: Radarr - EDPH
 pattern: ^(EDPH)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

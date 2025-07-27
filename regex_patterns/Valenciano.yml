@@ -1,5 +1,7 @@
 name: Valenciano
 pattern: \b(Valenciano)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

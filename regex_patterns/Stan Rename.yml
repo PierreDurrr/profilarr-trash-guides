@@ -1,5 +1,7 @@
 name: Stan Rename
 pattern: \[(STAN)\b|\b(STAN)\]
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

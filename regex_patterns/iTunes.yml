@@ -1,5 +1,7 @@
 name: iTunes
 pattern: \b(it|itunes)\b(?=[ ._-]web[ ._-]?(dl|rip)\b)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

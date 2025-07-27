@@ -1,5 +1,7 @@
 name: AceAres
 pattern: \b(AceAres)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

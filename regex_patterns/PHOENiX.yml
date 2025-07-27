@@ -1,5 +1,7 @@
 name: PHOENiX
 pattern: ^(PHOENiX)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

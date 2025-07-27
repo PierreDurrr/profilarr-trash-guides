@@ -1,5 +1,9 @@
 name: TSCC
 pattern: ^(TSCC)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

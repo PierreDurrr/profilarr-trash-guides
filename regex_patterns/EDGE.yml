@@ -1,5 +1,7 @@
 name: EDGE
 pattern: \[EDGE\]|-EDGE\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

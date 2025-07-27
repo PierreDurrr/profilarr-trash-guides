@@ -1,5 +1,6 @@
 name: Sonarr - AUViO
 pattern: \b(AUVIO)\b
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

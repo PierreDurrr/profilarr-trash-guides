@@ -1,5 +1,13 @@
 name: PQ
 pattern: \b(PQ)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

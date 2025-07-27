@@ -1,5 +1,7 @@
 name: Raizel
 pattern: \b(Raizel)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - Tylor.D
 pattern: (Tylor\.D)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

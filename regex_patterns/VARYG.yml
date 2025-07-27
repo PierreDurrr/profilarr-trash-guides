@@ -1,5 +1,7 @@
 name: VARYG
 pattern: \b(VARYG)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

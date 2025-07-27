@@ -1,5 +1,7 @@
 name: BlackBit
 pattern: ^(BlackBit)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

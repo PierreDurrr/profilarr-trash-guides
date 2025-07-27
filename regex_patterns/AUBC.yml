@@ -1,5 +1,7 @@
 name: AUBC
 pattern: \b(AUBC)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

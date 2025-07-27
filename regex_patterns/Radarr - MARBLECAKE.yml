@@ -1,5 +1,6 @@
 name: Radarr - MARBLECAKE
 pattern: ^(MARBLECAKE)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

@@ -1,5 +1,6 @@
 name: Sonarr - Tylor.D
 pattern: ^(Tylor\.D)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

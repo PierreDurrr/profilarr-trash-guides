@@ -1,5 +1,6 @@
 name: Radarr - FaNGDiNG0
 pattern: ^(FaNGDiNG0)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

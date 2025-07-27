@@ -1,5 +1,7 @@
 name: BLUTONiUM
 pattern: ^(BLUTONiUM)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

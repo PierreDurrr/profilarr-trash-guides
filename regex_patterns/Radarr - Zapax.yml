@@ -1,5 +1,6 @@
 name: Radarr - Zapax
 pattern: ^(Zapax)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

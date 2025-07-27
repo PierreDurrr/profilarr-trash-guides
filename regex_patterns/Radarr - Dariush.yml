@@ -1,5 +1,6 @@
 name: Radarr - Dariush
 pattern: ^(Dariush)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

@@ -1,5 +1,6 @@
 name: Sonarr - Cinefeel
 pattern: ^(Cinefeel)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

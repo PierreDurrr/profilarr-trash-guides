@@ -1,5 +1,8 @@
 name: MTBB
 pattern: \b(MTBB)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

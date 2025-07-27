@@ -1,5 +1,7 @@
 name: Yuki
 pattern: \[Yuki\]|-Yuki\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

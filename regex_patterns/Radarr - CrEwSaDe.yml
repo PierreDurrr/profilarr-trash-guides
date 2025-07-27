@@ -1,5 +1,6 @@
 name: Radarr - CrEwSaDe
 pattern: ^(CrEwSaDe)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - 3L
 pattern: ^(3L)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

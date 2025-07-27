@@ -1,5 +1,6 @@
 name: Sonarr - SYFY
 pattern: \b(SYFY)\b
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

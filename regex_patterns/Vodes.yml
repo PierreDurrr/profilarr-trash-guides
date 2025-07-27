@@ -1,5 +1,8 @@
 name: Vodes
 pattern: \[Vodes\]|(?<!Not)-Vodes\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - SWTYBLZ
 pattern: \b(SWTYBLZ)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

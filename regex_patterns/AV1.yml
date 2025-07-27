@@ -1,5 +1,7 @@
 name: AV1
 pattern: \bAV1\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

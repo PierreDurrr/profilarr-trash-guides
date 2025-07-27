@@ -1,5 +1,7 @@
 name: CyC
 pattern: \b(CyC)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

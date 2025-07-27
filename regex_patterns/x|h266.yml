@@ -1,5 +1,7 @@
 name: x|h266
 pattern: '[xh][ ._-]?266|\bVVC(\b|\d)'
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

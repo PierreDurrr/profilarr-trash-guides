@@ -1,5 +1,8 @@
 name: NTb
 pattern: ^(NTb)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

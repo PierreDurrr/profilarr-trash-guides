@@ -1,5 +1,7 @@
 name: Dekinai
 pattern: \[Dekinai\]|-Dekinai\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: LCE
 pattern: \b(LCE)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

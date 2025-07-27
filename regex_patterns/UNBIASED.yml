@@ -1,5 +1,7 @@
 name: UNBIASED
 pattern: \[UNBIASED\]|-UNBIASED\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

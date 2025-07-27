@@ -1,5 +1,6 @@
 name: Radarr - CHD
 pattern: ^(CHD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

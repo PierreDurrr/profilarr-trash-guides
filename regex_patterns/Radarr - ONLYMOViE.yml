@@ -1,5 +1,6 @@
 name: Radarr - ONLYMOViE
 pattern: ^(ONLYMOViE)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

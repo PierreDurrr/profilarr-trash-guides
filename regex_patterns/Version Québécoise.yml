@@ -1,5 +1,7 @@
 name: Version Québécoise
 pattern: \b(VQ)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

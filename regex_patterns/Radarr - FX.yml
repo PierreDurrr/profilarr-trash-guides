@@ -1,5 +1,6 @@
 name: Radarr - FX
 pattern: ^(FX)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

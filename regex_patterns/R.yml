@@ -1,5 +1,7 @@
 name: R
 pattern: ^(ROUGH|RUDE|Ryotox)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

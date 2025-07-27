@@ -1,5 +1,7 @@
 name: Moozzi2
 pattern: \b(Moozzi2)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

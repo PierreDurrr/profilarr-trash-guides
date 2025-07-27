@@ -1,5 +1,7 @@
 name: SasukeducK
 pattern: ^(SasukeducK)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

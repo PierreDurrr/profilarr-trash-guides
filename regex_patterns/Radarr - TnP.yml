@@ -1,5 +1,6 @@
 name: Radarr - TnP
 pattern: ^(TnP)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

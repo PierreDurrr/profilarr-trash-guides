@@ -1,5 +1,6 @@
 name: Sonarr - iJP
 pattern: ^(iJP)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

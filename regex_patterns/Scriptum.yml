@@ -1,5 +1,7 @@
 name: Scriptum
 pattern: \b(Scriptum)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

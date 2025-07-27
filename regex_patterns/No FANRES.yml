@@ -1,5 +1,7 @@
 name: No FANRES
 pattern: \b(FANRES)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

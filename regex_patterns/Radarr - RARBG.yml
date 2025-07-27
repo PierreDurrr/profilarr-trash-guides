@@ -1,5 +1,6 @@
 name: Radarr - RARBG
 pattern: ^(RARBG)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

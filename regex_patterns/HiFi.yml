@@ -1,5 +1,7 @@
 name: HiFi
 pattern: ^(HiFi)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

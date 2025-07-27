@@ -1,5 +1,6 @@
 name: Sonarr - dRuIdE
 pattern: ^(dRuIdE)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

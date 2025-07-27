@@ -1,5 +1,7 @@
 name: Man.K
 pattern: \b(Man\.K)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

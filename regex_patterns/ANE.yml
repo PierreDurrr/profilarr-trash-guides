@@ -1,5 +1,7 @@
 name: ANE
 pattern: \[ANE\]|-ANE$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

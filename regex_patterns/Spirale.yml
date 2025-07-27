@@ -1,5 +1,7 @@
 name: Spirale
 pattern: \b(Spirale)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

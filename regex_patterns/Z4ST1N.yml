@@ -1,5 +1,7 @@
 name: Z4ST1N
 pattern: \b(Z4ST1N)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

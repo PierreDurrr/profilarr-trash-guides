@@ -1,5 +1,12 @@
 name: Not HLG
 pattern: \b(HLG)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

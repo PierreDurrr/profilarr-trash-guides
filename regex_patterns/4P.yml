@@ -1,5 +1,7 @@
 name: 4P
 pattern: -4P\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

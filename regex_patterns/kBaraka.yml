@@ -1,5 +1,7 @@
 name: kBaraka
 pattern: \b(kBaraka)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

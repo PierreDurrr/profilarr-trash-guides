@@ -1,5 +1,6 @@
 name: Radarr - WEBDV
 pattern: ^(WEBDV)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

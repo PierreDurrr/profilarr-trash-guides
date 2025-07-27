@@ -1,5 +1,6 @@
 name: Sonarr - FiND
 pattern: ^(FiND)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

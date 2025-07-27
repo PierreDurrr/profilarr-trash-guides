@@ -1,5 +1,8 @@
 name: LYS1TH3A
 pattern: \b(LYS1TH3A)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

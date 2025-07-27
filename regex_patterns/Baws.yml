@@ -1,5 +1,8 @@
 name: Baws
 pattern: \b(Baws)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

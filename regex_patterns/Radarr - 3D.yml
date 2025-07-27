@@ -1,5 +1,6 @@
 name: Radarr - 3D
 pattern: (?<=\b[12]\d{3}\b).*\b(3d|sbs|half[ .-]ou|half[ .-]sbs)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

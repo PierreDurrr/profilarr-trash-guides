@@ -1,5 +1,6 @@
 name: Radarr - EPiC
 pattern: ^(EPiC)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

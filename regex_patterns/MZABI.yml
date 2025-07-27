@@ -1,5 +1,7 @@
 name: MZABI
 pattern: ^(MZABI)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

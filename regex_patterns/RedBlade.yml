@@ -1,5 +1,7 @@
 name: RedBlade
 pattern: \b(RedBlade)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

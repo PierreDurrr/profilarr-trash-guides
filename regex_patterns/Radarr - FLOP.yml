@@ -1,5 +1,6 @@
 name: Radarr - FLOP
 pattern: ^(FLOP)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

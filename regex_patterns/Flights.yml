@@ -1,5 +1,7 @@
 name: Flights
 pattern: ^(Flights)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - COLLECTiVE
 pattern: ^(COLLECTiVE)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

@@ -1,5 +1,7 @@
 name: KC
 pattern: ^(KC)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

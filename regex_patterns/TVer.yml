@@ -1,5 +1,7 @@
 name: TVer
 pattern: \b(tver)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

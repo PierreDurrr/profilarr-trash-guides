@@ -1,5 +1,7 @@
 name: RiPER
 pattern: ^(RiPER)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

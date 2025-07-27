@@ -1,5 +1,7 @@
 name: SOLA
 pattern: \[SOLA\]|-SOLA\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

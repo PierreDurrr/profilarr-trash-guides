@@ -1,5 +1,6 @@
 name: Sonarr - CiT
 pattern: ^(CiT)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

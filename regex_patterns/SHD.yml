@@ -1,5 +1,7 @@
 name: SHD
 pattern: ^(SHD)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

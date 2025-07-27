@@ -1,5 +1,7 @@
 name: SRW
 pattern: \b(SRW)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

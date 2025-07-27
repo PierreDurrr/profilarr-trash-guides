@@ -1,5 +1,7 @@
 name: MALD
 pattern: \b(MALD)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

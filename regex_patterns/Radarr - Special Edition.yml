@@ -1,5 +1,6 @@
 name: Radarr - Special Edition
 pattern: (?<!^|{)\b(extended|uncut|directors|special|unrated|uncensored|cut|version|edition)(\b|\d)
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

@@ -1,5 +1,7 @@
 name: CMRG
 pattern: ^(CMRG)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

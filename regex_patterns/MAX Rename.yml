@@ -1,5 +1,7 @@
 name: MAX Rename
 pattern: \[(MAX)\b|\b(MAX)\]
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

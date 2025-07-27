@@ -1,5 +1,6 @@
 name: Sonarr - pERsO
 pattern: ^(pERsO)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

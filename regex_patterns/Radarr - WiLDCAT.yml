@@ -1,5 +1,6 @@
 name: Radarr - WiLDCAT
 pattern: ^(WiLDCAT)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

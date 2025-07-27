@@ -1,5 +1,6 @@
 name: Radarr - Sicario
 pattern: ^(Sicario)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

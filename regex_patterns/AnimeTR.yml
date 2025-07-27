@@ -1,5 +1,7 @@
 name: AnimeTR
 pattern: \b(AnimeTR)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

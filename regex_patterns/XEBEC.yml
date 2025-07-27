@@ -1,5 +1,7 @@
 name: XEBEC
 pattern: ^(XEBEC|4KBEC|CEBEX)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: WaCkS
 pattern: ^(WaCkS)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

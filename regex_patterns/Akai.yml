@@ -1,5 +1,7 @@
 name: Akai
 pattern: \[Akai\]|-Akai\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

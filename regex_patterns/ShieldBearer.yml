@@ -1,5 +1,7 @@
 name: ShieldBearer
 pattern: ^(ShieldBearer)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: Pandoratv-Raws
 pattern: Pandoratv[ ._-]?(Raws)
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

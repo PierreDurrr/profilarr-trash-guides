@@ -1,5 +1,6 @@
 name: Radarr - ZaidaNulled
 pattern: (ZaidaNulled)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

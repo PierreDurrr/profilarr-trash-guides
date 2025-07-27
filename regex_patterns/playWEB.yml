@@ -1,5 +1,7 @@
 name: playWEB
 pattern: ^(playWEB)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,6 @@
 name: Radarr - UNFIrED
 pattern: ^(UNFIrED)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

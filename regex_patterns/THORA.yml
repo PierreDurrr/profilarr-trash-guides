@@ -1,5 +1,7 @@
 name: THORA
 pattern: \b(THORA)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

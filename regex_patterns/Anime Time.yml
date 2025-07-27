@@ -1,5 +1,7 @@
 name: Anime Time
 pattern: \b(Anime[ .-]?Time)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

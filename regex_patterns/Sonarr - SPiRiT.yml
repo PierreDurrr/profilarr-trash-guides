@@ -1,5 +1,6 @@
 name: Sonarr - SPiRiT
 pattern: ^(SPiRiT)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

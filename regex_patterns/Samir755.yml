@@ -1,5 +1,7 @@
 name: Samir755
 pattern: \b(Samir755)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

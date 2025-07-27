@@ -1,5 +1,7 @@
 name: vnlls
 pattern: ^(vnlls)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

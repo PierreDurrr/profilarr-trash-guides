@@ -1,5 +1,7 @@
 name: BLV
 pattern: \b(BLV)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

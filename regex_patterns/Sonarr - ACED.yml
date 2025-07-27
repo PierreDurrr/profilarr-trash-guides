@@ -1,5 +1,6 @@
 name: Sonarr - ACED
 pattern: ^(ACED)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

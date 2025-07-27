@@ -1,5 +1,16 @@
 name: Not DV
 pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

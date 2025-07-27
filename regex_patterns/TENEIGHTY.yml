@@ -1,5 +1,7 @@
 name: TENEIGHTY
 pattern: \b(TENEIGHTY)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: EJF
 pattern: \b(EJF)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

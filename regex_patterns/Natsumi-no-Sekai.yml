@@ -1,5 +1,7 @@
 name: Natsumi-no-Sekai
 pattern: \b(Natsumi[ .-]?no[ .-]?Sekai)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

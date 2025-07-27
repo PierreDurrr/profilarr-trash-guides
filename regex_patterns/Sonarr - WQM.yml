@@ -1,5 +1,6 @@
 name: Sonarr - WQM
 pattern: ^(WQM)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

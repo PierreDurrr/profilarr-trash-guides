@@ -1,5 +1,7 @@
 name: RG
 pattern: ^(RG)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

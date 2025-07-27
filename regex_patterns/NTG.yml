@@ -1,5 +1,7 @@
 name: NTG
 pattern: ^(NTG)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

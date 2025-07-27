@@ -1,5 +1,8 @@
 name: McBalls
 pattern: \b(McBalls)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: RH
 pattern: \b(RH)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

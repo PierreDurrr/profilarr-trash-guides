@@ -1,5 +1,8 @@
 name: ZeroTwo
 pattern: ^(ZeroTwo)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
 tests: []

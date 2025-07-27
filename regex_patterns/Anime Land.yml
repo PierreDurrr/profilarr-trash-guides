@@ -1,5 +1,7 @@
 name: Anime Land
 pattern: \b(Anime[ .-]?Land)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

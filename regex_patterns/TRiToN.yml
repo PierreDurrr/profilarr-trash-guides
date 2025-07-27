@@ -1,5 +1,7 @@
 name: TRiToN
 pattern: ^(TRiToN)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

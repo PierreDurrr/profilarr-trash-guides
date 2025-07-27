@@ -1,5 +1,7 @@
 name: HAiKU
 pattern: \b(HAiKU)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

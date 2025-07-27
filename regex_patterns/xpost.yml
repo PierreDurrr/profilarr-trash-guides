@@ -1,5 +1,7 @@
 name: xpost
 pattern: -xpost\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

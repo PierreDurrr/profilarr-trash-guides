@@ -1,5 +1,7 @@
 name: KRaLiMaRKo
 pattern: ^(KRaLiMaRKo)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

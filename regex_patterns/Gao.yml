@@ -1,5 +1,7 @@
 name: Gao
 pattern: \[Gao\]|-Gao\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

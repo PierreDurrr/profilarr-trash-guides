@@ -1,5 +1,6 @@
 name: Radarr - CC
 pattern: \b(CC)\b
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

@@ -1,5 +1,7 @@
 name: CRUCiBLE
 pattern: \[CRUCiBLE\]|-CRUCiBLE\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

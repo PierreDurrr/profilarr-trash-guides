@@ -1,5 +1,7 @@
 name: Kanjouteki
 pattern: \b(Kanjouteki)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

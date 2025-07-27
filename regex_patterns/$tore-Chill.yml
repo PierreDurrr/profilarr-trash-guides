@@ -1,5 +1,7 @@
 name: $tore-Chill
 pattern: \b(\$tore-Chill)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

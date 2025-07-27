@@ -1,5 +1,6 @@
 name: Radarr - HDWinG
 pattern: ^(HDWinG)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

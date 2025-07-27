@@ -1,5 +1,7 @@
 name: Kametsu
 pattern: \b(Kametsu)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

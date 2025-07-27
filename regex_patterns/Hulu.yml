@@ -1,5 +1,9 @@
 name: Hulu
 pattern: \b(hulu)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+- Sonarr
 tests: []

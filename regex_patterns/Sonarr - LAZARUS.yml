@@ -1,5 +1,6 @@
 name: Sonarr - LAZARUS
 pattern: ^(LAZARUS)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

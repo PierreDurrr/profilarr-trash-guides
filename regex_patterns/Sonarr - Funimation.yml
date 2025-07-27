@@ -1,5 +1,6 @@
 name: Sonarr - Funimation
 pattern: \b(FUNi(mation)?)\b
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

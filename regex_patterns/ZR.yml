@@ -1,5 +1,7 @@
 name: ZR
 pattern: \b(ZR)\b|-ZR-
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

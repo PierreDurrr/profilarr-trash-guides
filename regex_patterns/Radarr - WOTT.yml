@@ -1,5 +1,6 @@
 name: Radarr - WOTT
 pattern: (WOTT)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

@@ -1,5 +1,7 @@
 name: Nokou
 pattern: \b(Nokou)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

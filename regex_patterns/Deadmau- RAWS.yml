@@ -1,5 +1,7 @@
 name: Deadmau- RAWS
 pattern: \b(Deadmau[ .-]?[ .-]?RAWS)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

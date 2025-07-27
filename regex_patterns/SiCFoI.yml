@@ -1,5 +1,7 @@
 name: SiCFoI
 pattern: ^(SiCFoI)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

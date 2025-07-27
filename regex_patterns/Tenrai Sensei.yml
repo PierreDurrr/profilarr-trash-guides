@@ -1,5 +1,7 @@
 name: Tenrai Sensei
 pattern: \b(Tenrai[ .-]?Sensei)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

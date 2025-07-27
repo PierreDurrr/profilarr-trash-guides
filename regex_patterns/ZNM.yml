@@ -1,5 +1,7 @@
 name: ZNM
 pattern: ^(ZNM)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

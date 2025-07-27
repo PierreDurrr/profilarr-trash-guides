@@ -1,5 +1,6 @@
 name: Radarr - SUNSCREEN
 pattern: ^(SUNSCREEN)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

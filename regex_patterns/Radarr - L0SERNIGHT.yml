@@ -1,5 +1,6 @@
 name: Radarr - L0SERNIGHT
 pattern: ^(L0SERNIGHT)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

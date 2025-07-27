@@ -1,5 +1,7 @@
 name: NoobSubs
 pattern: \b(N[eo][wo]b[ ._-]?Subs)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

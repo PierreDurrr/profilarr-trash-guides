@@ -1,5 +1,7 @@
 name: monkee
 pattern: ^(monkee)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: Exiled-Destiny
 pattern: \b(Exiled-Destiny|E-D)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

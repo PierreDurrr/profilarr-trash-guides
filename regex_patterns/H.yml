@@ -1,5 +1,7 @@
 name: H
 pattern: ^(HERC|HiggsBoson|HiRoSHiMa|HYBRiS|HyDe)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

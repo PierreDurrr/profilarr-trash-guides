@@ -1,5 +1,6 @@
 name: Sonarr - CHX
 pattern: ^(CHX)$
 description: ''
-tags: []
+tags:
+- Sonarr
 tests: []

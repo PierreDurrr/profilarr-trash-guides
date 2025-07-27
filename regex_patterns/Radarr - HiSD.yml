@@ -1,5 +1,6 @@
 name: Radarr - HiSD
 pattern: ^(HiSD)$
 description: ''
-tags: []
+tags:
+- Radarr
 tests: []

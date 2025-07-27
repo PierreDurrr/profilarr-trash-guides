@@ -1,5 +1,7 @@
 name: MYSTERiON
 pattern: ^(MYSTERiON)$
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

@@ -1,5 +1,7 @@
 name: FFF
 pattern: \b(FFF)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

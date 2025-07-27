@@ -1,5 +1,7 @@
 name: ASW
 pattern: \b(ASW)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

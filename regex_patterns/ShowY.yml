@@ -1,5 +1,7 @@
 name: ShowY
 pattern: \b(ShowY)\b
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []

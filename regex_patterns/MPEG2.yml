@@ -1,5 +1,7 @@
 name: MPEG2
 pattern: MPEG[-.]?2
 description: ''
-tags: []
+tags:
+- Radarr
+- Sonarr
 tests: []
