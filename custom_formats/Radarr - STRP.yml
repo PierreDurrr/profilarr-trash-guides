@@ -2,8 +2,8 @@ name: Radarr - STRP
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#strp)'
 tags:
 - Radarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Radarr - Star+
   negate: false

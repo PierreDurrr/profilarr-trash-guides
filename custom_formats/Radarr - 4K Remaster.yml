@@ -2,8 +2,8 @@ name: Radarr - 4K Remaster
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#4k-remaster)'
 tags:
 - Radarr
-- Resolution
 - Release Title
+- Resolution
 conditions:
 - name: Radarr - Remaster
   negate: false

@@ -9,12 +9,12 @@ conditions:
   negate: true
   required: true
   type: language
-  language: 1
+  language: english
 - name: Sonarr - Not German Language
   negate: true
   required: true
   type: language
-  language: 4
+  language: german
 - name: Sonarr - Not German in Title
   negate: true
   required: true

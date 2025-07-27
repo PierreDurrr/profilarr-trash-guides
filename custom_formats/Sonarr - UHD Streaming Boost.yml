@@ -2,9 +2,9 @@ name: Sonarr - UHD Streaming Boost
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#uhd-streaming-boost)'
 tags:
 - Sonarr
+- Release Title
 - Resolution
 - Source
-- Release Title
 conditions:
 - name: Sonarr - Peacock TV
   negate: false

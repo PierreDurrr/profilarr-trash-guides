@@ -2,8 +2,8 @@ name: Sonarr - HMAX
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hmax)'
 tags:
 - Sonarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Sonarr - HBO Max
   negate: false

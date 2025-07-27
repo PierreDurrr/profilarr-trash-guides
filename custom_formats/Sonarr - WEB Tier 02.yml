@@ -2,8 +2,8 @@ name: Sonarr - WEB Tier 02
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#web-tier-02)'
 tags:
 - Sonarr
-- Source
 - Release Group
+- Source
 conditions:
 - name: Sonarr - 3cTWeB
   negate: false

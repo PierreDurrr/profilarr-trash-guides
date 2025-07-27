@@ -2,8 +2,8 @@ name: Sonarr - HBO
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#hbo)'
 tags:
 - Sonarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Sonarr - HBO
   negate: false

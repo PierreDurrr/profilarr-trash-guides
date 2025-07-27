@@ -2,8 +2,8 @@ name: Radarr - IP
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#ip)'
 tags:
 - Radarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Radarr - BBC iPlayer
   negate: false

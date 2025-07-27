@@ -2,8 +2,8 @@ name: Radarr - German Web Tier 02
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-web-tier-02)'
 tags:
 - Radarr
-- Source
 - Release Group
+- Source
 conditions:
 - name: Radarr - VECTOR
   negate: false

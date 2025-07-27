@@ -4,7 +4,7 @@ import yaml
 
 from markdownify import markdownify
 
-from utils.qualities import QUALITIES
+from utils.mappings.qualities import QUALITIES
 from utils.strings import get_name
 
 

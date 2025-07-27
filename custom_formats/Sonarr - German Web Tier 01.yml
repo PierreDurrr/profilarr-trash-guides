@@ -2,8 +2,8 @@ name: Sonarr - German Web Tier 01
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#german-web-tier-01)'
 tags:
 - Sonarr
-- Source
 - Release Group
+- Source
 conditions:
 - name: Sonarr - ZeroTwo
   negate: false

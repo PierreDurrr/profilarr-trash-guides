@@ -2,8 +2,8 @@ name: Radarr - DSNP
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#dsnp)'
 tags:
 - Radarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Radarr - Disney+
   negate: false

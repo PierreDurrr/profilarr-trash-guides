@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: false
   type: indexer_flag
-  flag: 1
+  flag: freeleech
 tests: []

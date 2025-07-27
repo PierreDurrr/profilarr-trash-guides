@@ -8,10 +8,10 @@ conditions:
   negate: false
   required: true
   type: language
-  language: 4
+  language: german
 - name: Radarr - Original Language
   negate: false
   required: true
   type: language
-  language: -2
+  language: original
 tests: []

@@ -2,8 +2,8 @@ name: Radarr - Anime BD Tier 08 (Mini Encodes)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-bd-tier-08-mini-encodes)'
 tags:
 - Radarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Radarr - Bluray
   negate: false

@@ -2,8 +2,8 @@ name: Sonarr - DSNP
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#dsnp)'
 tags:
 - Sonarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Sonarr - Disney+
   negate: false

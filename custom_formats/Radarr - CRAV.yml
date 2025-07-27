@@ -2,8 +2,8 @@ name: Radarr - CRAV
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#crav)'
 tags:
 - Radarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Radarr - Crave
   negate: false

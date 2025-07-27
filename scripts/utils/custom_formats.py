@@ -4,7 +4,11 @@ import yaml
 
 from markdownify import markdownify
 
-from utils.source import SOURCE_MAPPING
+from utils.mappings.languages import LANGUAGE_MAPPING
+from utils.mappings.indexer_flags import INDEXER_FLAG_MAPPING
+from utils.mappings.release_type import RELEASE_TYPE_MAPPING
+from utils.mappings.quality_modifiers import QUALITY_MODIFIER_MAPPING
+from utils.mappings.source import SOURCE_MAPPING
 from utils.strings import get_name
 
 IMPLEMENTATION_TO_TAG_MAPPING = {
@@ -62,13 +66,21 @@ def collect_custom_format(service, file_name, input_json, output_dir):
             ]
         elif implementation in ["LanguageSpecification"]:
             # TODO: exceptLanguage
-            condition["language"] = spec.get("fields", {}).get("value")
+            condition["language"] = LANGUAGE_MAPPING[service][
+                spec.get("fields", {}).get("value")
+            ]
         elif implementation in ["IndexerFlagSpecification"]:
-            condition["flag"] = spec.get("fields", {}).get("value")
+            condition["flag"] = INDEXER_FLAG_MAPPING[service][
+                spec.get("fields", {}).get("value")
+            ]
         elif implementation in ["QualityModifierSpecification"]:
-            condition["qualityModifier"] = spec.get("fields", {}).get("value")
+            condition["qualityModifier"] = QUALITY_MODIFIER_MAPPING[service][
+                spec.get("fields", {}).get("value")
+            ]
         elif implementation in ["ReleaseTypeSpecification"]:
-            condition["releaseType"] = spec.get("fields", {}).get("value")
+            condition["releaseType"] = RELEASE_TYPE_MAPPING[service][
+                spec.get("fields", {}).get("value")
+            ]
 
         conditions.append(condition)
 
@@ -79,7 +91,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         "description": f"""[Custom format from TRaSH-Guides.]({SERVICE_TO_TRASH_GUIDES_URL[service]}#{file_name})
 
 {markdownify(input_json.get('description', ''))}""".strip(),
-        "tags": [service.capitalize(), *implementation_tags],
+        "tags": [service.capitalize(), *sorted(implementation_tags)],
         "conditions": conditions,
         "tests": [],
     }

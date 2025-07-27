@@ -2,8 +2,8 @@ name: Sonarr - Anime Web Tier 02 (Top FanSubs)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#anime-web-tier-02-top-fansubs)'
 tags:
 - Sonarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false

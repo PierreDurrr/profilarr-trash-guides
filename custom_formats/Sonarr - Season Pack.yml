@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: false
   type: release_type
-  releaseType: 3
+  releaseType: season_pack
 tests: []

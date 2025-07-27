@@ -2,8 +2,8 @@ name: Sonarr - B-Global
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#bglobal)'
 tags:
 - Sonarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Sonarr - WEBDL
   negate: false

@@ -2,10 +2,10 @@ name: Radarr - HD Bluray Tier 02
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#hd-bluray-tier-02)'
 tags:
 - Radarr
+- Quality Modifier
 - Release Group
 - Resolution
 - Source
-- Quality Modifier
 conditions:
 - name: Radarr - BLURAY
   negate: false
@@ -16,7 +16,7 @@ conditions:
   negate: true
   required: true
   type: quality_modifier
-  qualityModifier: 5
+  qualityModifier: remux
 - name: Radarr - Not 2160p
   negate: true
   required: true

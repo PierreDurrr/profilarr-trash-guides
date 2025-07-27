@@ -2,9 +2,9 @@ name: Radarr - SDR (no WEBDL)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#sdr-no-webdl)'
 tags:
 - Radarr
+- Release Title
 - Resolution
 - Source
-- Release Title
 conditions:
 - name: Radarr - 2160p
   negate: false

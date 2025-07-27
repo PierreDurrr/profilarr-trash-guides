@@ -2,16 +2,16 @@ name: Radarr - UHD Bluray Tier 01
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#uhd-bluray-tier-01)'
 tags:
 - Radarr
+- Quality Modifier
 - Release Group
 - Resolution
 - Source
-- Quality Modifier
 conditions:
 - name: Radarr - Not REMUX
   negate: true
   required: true
   type: quality_modifier
-  qualityModifier: 5
+  qualityModifier: remux
 - name: Radarr - Not WEBDL
   negate: true
   required: true

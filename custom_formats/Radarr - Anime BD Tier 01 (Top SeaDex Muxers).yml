@@ -2,8 +2,8 @@ name: Radarr - Anime BD Tier 01 (Top SeaDex Muxers)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-bd-tier-01-top-seadex-muxers)'
 tags:
 - Radarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Radarr - Bluray
   negate: false

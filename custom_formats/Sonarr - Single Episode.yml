@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: false
   type: release_type
-  releaseType: 1
+  releaseType: single_episode
 tests: []

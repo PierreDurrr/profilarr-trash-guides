@@ -2,8 +2,8 @@ name: Radarr - Anime Web Tier 02 (Top FanSubs)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-web-tier-02-top-fansubs)'
 tags:
 - Radarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Radarr - WEBDL
   negate: false

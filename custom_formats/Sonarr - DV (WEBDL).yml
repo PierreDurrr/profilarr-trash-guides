@@ -3,8 +3,8 @@ description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonar
 tags:
 - Sonarr
 - Release Group
-- Source
 - Release Title
+- Source
 conditions:
 - name: Sonarr - Dolby Vision
   negate: false

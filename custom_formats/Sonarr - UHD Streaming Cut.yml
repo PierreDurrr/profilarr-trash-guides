@@ -2,9 +2,9 @@ name: Sonarr - UHD Streaming Cut
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-collection-of-custom-formats#uhd-streaming-cut)'
 tags:
 - Sonarr
+- Release Title
 - Resolution
 - Source
-- Release Title
 conditions:
 - name: Sonarr - Amazon
   negate: false

@@ -2,8 +2,8 @@ name: Radarr - Anime BD Tier 07 (P2P-Scene)
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#anime-bd-tier-07-p2pscene)'
 tags:
 - Radarr
-- Source
 - Release Title
+- Source
 conditions:
 - name: Radarr - Bluray
   negate: false

@@ -19,15 +19,15 @@ conditions:
   negate: false
   required: false
   type: language
-  language: 8
+  language: japanese
 - name: Radarr - Chinese Language
   negate: false
   required: false
   type: language
-  language: 10
+  language: chinese
 - name: Radarr - Korean Language
   negate: false
   required: false
   type: language
-  language: 21
+  language: korean
 tests: []

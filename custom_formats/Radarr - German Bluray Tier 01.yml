@@ -2,9 +2,9 @@ name: Radarr - German Bluray Tier 01
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#german-bluray-tier-01)'
 tags:
 - Radarr
-- Source
-- Release Group
 - Quality Modifier
+- Release Group
+- Source
 conditions:
 - name: Radarr - ZeroTwo
   negate: false
@@ -65,5 +65,5 @@ conditions:
   negate: true
   required: true
   type: quality_modifier
-  qualityModifier: 5
+  qualityModifier: remux
 tests: []

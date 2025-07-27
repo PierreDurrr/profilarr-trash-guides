@@ -14,5 +14,5 @@ conditions:
   negate: true
   required: true
   type: quality_modifier
-  qualityModifier: 5
+  qualityModifier: remux
 tests: []

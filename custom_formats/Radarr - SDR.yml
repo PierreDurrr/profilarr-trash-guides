@@ -2,8 +2,8 @@ name: Radarr - SDR
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#sdr)'
 tags:
 - Radarr
-- Resolution
 - Release Title
+- Resolution
 conditions:
 - name: Radarr - 2160p
   negate: false

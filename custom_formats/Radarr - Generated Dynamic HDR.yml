@@ -2,9 +2,9 @@ name: Radarr - Generated Dynamic HDR
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#generated-dynamic-hdr)'
 tags:
 - Radarr
-- Source
 - Release Group
 - Release Title
+- Source
 conditions:
 - name: Radarr - BiTOR
   negate: false

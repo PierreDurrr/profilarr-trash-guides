@@ -2,14 +2,14 @@ name: Radarr - FR Remux Tier 02
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#french-remux-tier-02)'
 tags:
 - Radarr
-- Release Group
 - Quality Modifier
+- Release Group
 conditions:
 - name: Radarr - Remux
   negate: false
   required: true
   type: quality_modifier
-  qualityModifier: 5
+  qualityModifier: remux
 - name: Radarr - BDHD
   negate: false
   required: false
