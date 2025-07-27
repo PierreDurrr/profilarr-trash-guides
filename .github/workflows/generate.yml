@@ -2,7 +2,7 @@ name: Generate
 
 on:
   schedule:
-    - cron: "7 31 * * *"
+    - cron: "31 7 * * *"
   workflow_dispatch:
 
 jobs:
