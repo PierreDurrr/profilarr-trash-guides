@@ -1,7 +1,9 @@
 name: Generate
 
 on:
-  workflow_dispatch: # Manually trigger
+  schedule:
+    - cron: "7 31 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
