@@ -81,6 +81,9 @@ def collect_custom_format(service, file_name, input_json, output_dir):
             condition["releaseType"] = RELEASE_TYPE_MAPPING[service][
                 spec.get("fields", {}).get("value")
             ]
+        else:
+            print(f"Unrecognised implementation ({implementation}), skipping for now.")
+            continue
 
         conditions.append(condition)
 
