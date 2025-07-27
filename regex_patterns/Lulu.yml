@@ -1,0 +1,5 @@
+name: Lulu
+pattern: \[Lulu\]|-Lulu\b
+description: ''
+tags: []
+tests: []

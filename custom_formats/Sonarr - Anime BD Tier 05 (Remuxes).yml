@@ -24,42 +24,42 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - BluDragon
+  pattern: BluDragon
 - name: Sonarr - D4C
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - D4C
+  pattern: D4C
 - name: Sonarr - E.N.D
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - E.N.D
+  pattern: E.N.D
 - name: Sonarr - PMR
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - PMR
+  pattern: PMR
 - name: Sonarr - Raizel
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Raizel
+  pattern: Raizel
 - name: Sonarr - REVO
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - REVO
+  pattern: REVO
 - name: Sonarr - SRLS
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SRLS
+  pattern: SRLS
 - name: Sonarr - TTGA
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TTGA
+  pattern: TTGA
 - name: Sonarr - VULCAN
   negate: false
   required: false

@@ -19,15 +19,15 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - DL
+  pattern: DL
 - name: Radarr - ML
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - ML
+  pattern: ML
 - name: Radarr - Not Subbed
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Subbed
+  pattern: Not Subbed
 tests: []

@@ -46,20 +46,20 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NTb
+  pattern: NTb
 - name: Radarr - QOQ
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - QOQ
+  pattern: QOQ
 - name: Radarr - SA89
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SA89
+  pattern: SA89
 - name: Radarr - sbR
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - sbR
+  pattern: sbR
 tests: []

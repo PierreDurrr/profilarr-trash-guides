@@ -24,90 +24,90 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - A-L
+  pattern: A-L
 - name: Sonarr - ANiHLS
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ANiHLS
+  pattern: ANiHLS
 - name: Sonarr - CBM
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - CBM
+  pattern: CBM
 - name: Sonarr - DHD
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - DHD
+  pattern: DHD
 - name: Sonarr - DragsterPS
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - DragsterPS
+  pattern: DragsterPS
 - name: Sonarr - HAiKU
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - HAiKU
+  pattern: HAiKU
 - name: Sonarr - Hark0N
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Hark0N
+  pattern: Hark0N
 - name: Sonarr - iAHD
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - iAHD
+  pattern: iAHD
 - name: Sonarr - inid4c
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - inid4c
+  pattern: inid4c
 - name: Sonarr - KiyoshiStar
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - KiyoshiStar
+  pattern: KiyoshiStar
 - name: Sonarr - MCR
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - MCR
+  pattern: MCR
 - name: Sonarr - NPC
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - NPC
+  pattern: NPC
 - name: Sonarr - RedBlade
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - RedBlade
+  pattern: RedBlade
 - name: Sonarr - RH
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - RH
+  pattern: RH
 - name: Sonarr - SEV
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SEV
+  pattern: SEV
 - name: Sonarr - STRiFE
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - STRiFE
+  pattern: STRiFE
 - name: Sonarr - TENEIGHTY
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TENEIGHTY
+  pattern: TENEIGHTY
 - name: Sonarr - WaLMaRT
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - WaLMaRT
+  pattern: WaLMaRT
 tests: []

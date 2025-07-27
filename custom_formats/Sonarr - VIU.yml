@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - VIU
+  pattern: VIU
 - name: Sonarr - VIU Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - VIU Rename
+  pattern: VIU Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

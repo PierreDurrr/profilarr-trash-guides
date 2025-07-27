@@ -1,5 +1,0 @@
-name: Sonarr - Galator
-pattern: \b(Galator)\b
-description: ''
-tags: []
-tests: []

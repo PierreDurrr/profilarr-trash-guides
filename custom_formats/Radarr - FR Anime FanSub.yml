@@ -8,55 +8,55 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Anime-Heart
+  pattern: Anime-Heart
 - name: Radarr - Kaerizaki-Fansub
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Kaerizaki-Fansub
+  pattern: Kaerizaki-Fansub
 - name: Radarr - Natsumi-no-Sekai
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Natsumi-no-Sekai
+  pattern: Natsumi-no-Sekai
 - name: Radarr - NekoYu'
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NekoYu'
+  pattern: NekoYu'
 - name: Radarr - Onii-ChanSub
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Onii-ChanSub
+  pattern: Onii-ChanSub
 - name: Radarr - Owlolf
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Owlolf
+  pattern: Owlolf
 - name: Radarr - Pikari-Teshima
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Pikari-Teshima
+  pattern: Pikari-Teshima
 - name: Radarr - Seimeisen
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Seimeisen
+  pattern: Seimeisen
 - name: Radarr - Team Arcedo
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Team Arcedo
+  pattern: Team Arcedo
 - name: Radarr - Yarashii
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Yarashii
+  pattern: Yarashii
 - name: Radarr - Yangire-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Yangire-Raws
+  pattern: Yangire-Raws
 tests: []

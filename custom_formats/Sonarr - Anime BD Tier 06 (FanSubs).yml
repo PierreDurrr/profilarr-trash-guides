@@ -24,185 +24,185 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Afro
+  pattern: Afro
 - name: Sonarr - Akai
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Akai
+  pattern: Akai
 - name: Sonarr - Almighty
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Almighty
+  pattern: Almighty
 - name: Sonarr - ANE
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ANE
+  pattern: ANE
 - name: Sonarr - Asenshi
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Asenshi
+  pattern: Asenshi
 - name: Sonarr - BlurayDesuYo
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - BlurayDesuYo
+  pattern: BlurayDesuYo
 - name: Sonarr - Bunny-Apocalypse
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Bunny-Apocalypse
+  pattern: Bunny-Apocalypse
 - name: Sonarr - CH
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - CH
+  pattern: CH
 - name: Sonarr - EJF
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - EJF
+  pattern: EJF
 - name: Sonarr - Exiled-Destiny
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Exiled-Destiny
+  pattern: Exiled-Destiny
 - name: Sonarr - FFF
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - FFF
+  pattern: FFF
 - name: Sonarr - Final8
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Final8
+  pattern: Final8
 - name: Sonarr - GS
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - GS
+  pattern: GS
 - name: Sonarr - Harunatsu
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Harunatsu
+  pattern: Harunatsu
 - name: Sonarr - Impatience
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Impatience
+  pattern: Impatience
 - name: Sonarr - Inka-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Inka-Subs
+  pattern: Inka-Subs
 - name: Sonarr - Judgement
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Judgement
+  pattern: Judgement
 - name: Sonarr - Kantai
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Kantai
+  pattern: Kantai
 - name: Sonarr - LCE
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - LCE
+  pattern: LCE
 - name: Sonarr - Licca
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Licca
+  pattern: Licca
 - name: Sonarr - Nii-sama
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Nii-sama
+  pattern: Nii-sama
 - name: Sonarr - niizk
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - niizk
+  pattern: niizk
 - name: Sonarr - Nishi-Taku
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Nishi-Taku
+  pattern: Nishi-Taku
 - name: Sonarr - OnDeed
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - OnDeed
+  pattern: OnDeed
 - name: Sonarr - orz
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - orz
+  pattern: orz
 - name: Sonarr - PAS
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - PAS
+  pattern: PAS
 - name: Sonarr - peachflavored
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - peachflavored
+  pattern: peachflavored
 - name: Sonarr - Saizen
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Saizen
+  pattern: Saizen
 - name: Sonarr - SCP-2223
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SCP-2223
+  pattern: SCP-2223
 - name: Sonarr - SHiN-gx
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SHiN-gx
+  pattern: SHiN-gx
 - name: Sonarr - SmugCat
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SmugCat
+  pattern: SmugCat
 - name: Sonarr - Soldado
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Soldado
+  pattern: Soldado
 - name: Sonarr - Sushi
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Sushi
+  pattern: Sushi
 - name: Sonarr - Vivid
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Vivid
+  pattern: Vivid
 - name: Sonarr - Watashi
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Watashi
+  pattern: Watashi
 - name: Sonarr - Yabai
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Yabai
+  pattern: Yabai
 - name: Sonarr - Zurako
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Zurako
+  pattern: Zurako
 tests: []

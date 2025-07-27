@@ -24,70 +24,70 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Arg0
+  pattern: Arg0
 - name: Sonarr - Arid
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Arid
+  pattern: Arid
 - name: Sonarr - Baws
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Baws
+  pattern: Baws
 - name: Sonarr - LostYears
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - LostYears
+  pattern: LostYears
 - name: Sonarr - LYS1TH3A
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - LYS1TH3A
+  pattern: LYS1TH3A
 - name: Sonarr - McBalls
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - McBalls
+  pattern: McBalls
 - name: Sonarr - sam
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - sam
+  pattern: sam
 - name: Sonarr - SCY
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SCY
+  pattern: SCY
 - name: Sonarr - Setsugen
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Setsugen
+  pattern: Setsugen
 - name: Sonarr - smol
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - smol
+  pattern: smol
 - name: Sonarr - SoM
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SoM
+  pattern: SoM
 - name: Sonarr - Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Vodes
+  pattern: Vodes
 - name: Sonarr - Z4ST1N
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Z4ST1N
+  pattern: Z4ST1N
 - name: Sonarr - ZeroBuild
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ZeroBuild
+  pattern: ZeroBuild
 tests: []

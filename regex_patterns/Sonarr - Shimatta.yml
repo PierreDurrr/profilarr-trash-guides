@@ -1,5 +1,0 @@
-name: Sonarr - Shimatta
-pattern: \b(Shimatta)\b
-description: ''
-tags: []
-tests: []

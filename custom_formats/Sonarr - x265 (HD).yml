@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - x265-HEVC
+  pattern: x|h265
 - name: Sonarr - Not 2160p
   negate: true
   required: true

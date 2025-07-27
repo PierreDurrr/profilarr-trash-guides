@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - INTERNAL
+  pattern: INTERNAL
 tests: []

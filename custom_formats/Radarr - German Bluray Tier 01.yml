@@ -10,7 +10,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ZeroTwo
+  pattern: ZeroTwo
 - name: Radarr - ZeroTwo Aliases
   negate: false
   required: false
@@ -20,37 +20,37 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TSCC
+  pattern: TSCC
 - name: Radarr - TvR
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TvR
+  pattern: TvR
 - name: Radarr - NIMA4K
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NIMA4K
+  pattern: NIMA4K
 - name: Radarr - TVS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TVS
+  pattern: TVS
 - name: Radarr - PXL
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PXL
+  pattern: PXL
 - name: Radarr - CNY
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - CNY
+  pattern: CNY
 - name: Radarr - WeebPinn
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - WeebPinn
+  pattern: WeebPinn
 - name: Radarr - MAMA
   negate: false
   required: false

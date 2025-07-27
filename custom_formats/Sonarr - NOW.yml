@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - NOW
+  pattern: NOW
 - name: Sonarr - NOW Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - NOW Rename
+  pattern: NOW Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

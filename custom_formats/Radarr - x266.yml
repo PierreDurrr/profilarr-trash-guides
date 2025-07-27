@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - x|h266
+  pattern: x|h266
 - name: Radarr - Not Remux
   negate: true
   required: true

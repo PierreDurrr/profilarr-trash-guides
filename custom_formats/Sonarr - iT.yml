@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - iTunes
+  pattern: iTunes
 - name: Sonarr - iT Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - iT Rename
+  pattern: iT Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

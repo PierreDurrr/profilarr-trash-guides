@@ -1,5 +1,0 @@
-name: Radarr - TTN
-pattern: \b(TTN)\b
-description: ''
-tags: []
-tests: []

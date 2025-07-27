@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ITVX
+  pattern: ITVX
 - name: Radarr - ITVX Rename
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ITVX Rename
+  pattern: ITVX Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

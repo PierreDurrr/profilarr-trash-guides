@@ -14,7 +14,7 @@ conditions:
   negate: true
   required: false
   type: release_title
-  pattern: Radarr - HDR Formats
+  pattern: HDR Formats
 - name: Radarr - SDR
   negate: false
   required: false

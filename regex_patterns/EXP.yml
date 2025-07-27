@@ -1,0 +1,5 @@
+name: EXP
+pattern: \[EXP\]|-EXP\b
+description: ''
+tags: []
+tests: []

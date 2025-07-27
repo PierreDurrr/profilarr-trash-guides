@@ -1,5 +1,0 @@
-name: Radarr - KamiFS
-pattern: \b(KamiFS)\b
-description: ''
-tags: []
-tests: []

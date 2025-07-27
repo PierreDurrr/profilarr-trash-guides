@@ -1,5 +1,0 @@
-name: Sonarr - Hulu
-pattern: \b(hulu)\b
-description: ''
-tags: []
-tests: []

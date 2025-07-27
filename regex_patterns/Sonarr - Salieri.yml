@@ -1,5 +1,0 @@
-name: Sonarr - Salieri
-pattern: \b(Salieri)\b
-description: ''
-tags: []
-tests: []

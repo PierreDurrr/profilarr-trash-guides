@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Stan
+  pattern: Stan
 - name: Radarr - Stan Rename
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Stan Rename
+  pattern: Stan Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

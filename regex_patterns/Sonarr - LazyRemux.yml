@@ -1,5 +1,0 @@
-name: Sonarr - LazyRemux
-pattern: \b(LazyRemux)\b
-description: ''
-tags: []
-tests: []

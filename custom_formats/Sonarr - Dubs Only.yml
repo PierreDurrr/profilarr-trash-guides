@@ -8,35 +8,35 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Dubbed
+  pattern: Dubbed
 - name: Sonarr - Golumpa
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Golumpa
+  pattern: Golumpa
 - name: Sonarr - KaiDubs (Not Dual Audio)
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - KaiDubs (Dual Audio)
+  pattern: KaiDubs (Not Dual Audio)
 - name: Sonarr - KamiFS
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - KamiFS
+  pattern: KamiFS
 - name: Sonarr - KS (Not Dual Audio)
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - KS (Dual Audio)
+  pattern: KS (Not Dual Audio)
 - name: Sonarr - torenter69
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - torenter69
+  pattern: torenter69
 - name: Sonarr - Yameii
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Yameii
+  pattern: Yameii
 tests: []

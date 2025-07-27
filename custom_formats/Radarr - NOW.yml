@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NOW
+  pattern: NOW
 - name: Radarr - NOW Rename
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NOW Rename
+  pattern: NOW Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

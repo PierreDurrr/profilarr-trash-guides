@@ -8,65 +8,65 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - BLV
+  pattern: BLV
 - name: Radarr - D3T3R10R1TY
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - D3T3R10R1TY
+  pattern: D3T3R10R1TY
 - name: Radarr - Galactic
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Galactic
+  pattern: Galactic
 - name: Radarr - HANAMi
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - HANAMi
+  pattern: HANAMi
 - name: Radarr - kazuizui
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - kazuizui
+  pattern: kazuizui
 - name: Radarr - KHAYA
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KHAYA
+  pattern: KHAYA
 - name: Radarr - KushEnthusiast
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KushEnthusiast
+  pattern: KushEnthusiast
 - name: Radarr - matheousse
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - matheousse
+  pattern: matheousse
 - name: Radarr - Monkey-D.Lulu
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Monkey-D.Lulu
+  pattern: Monkey-D.Lulu
 - name: Radarr - NeoSG
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NeoSG
+  pattern: NeoSG
 - name: Radarr - RONiN
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - RONiN
+  pattern: RONiN
 - name: Radarr - TheFantastics
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - TheFantastics
+  pattern: TheFantastics
 - name: Radarr - TTN
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - TTN
+  pattern: TTN
 tests: []

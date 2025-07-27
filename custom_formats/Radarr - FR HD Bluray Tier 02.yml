@@ -26,12 +26,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HDForever
+  pattern: HDForever
 - name: Radarr - HeavyWeight
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HeavyWeight
+  pattern: HeavyWeight
 - name: Radarr - MARBLECAKE
   negate: false
   required: false
@@ -41,7 +41,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - MYSTERiON
+  pattern: MYSTERiON
 - name: Radarr - NoNE
   negate: false
   required: false
@@ -51,7 +51,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ONLY
+  pattern: ONLY
 - name: Radarr - ONLYMOViE
   negate: false
   required: false

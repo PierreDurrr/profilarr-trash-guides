@@ -1,5 +1,0 @@
-name: Radarr - GST
-pattern: \b(GST)\b
-description: ''
-tags: []
-tests: []

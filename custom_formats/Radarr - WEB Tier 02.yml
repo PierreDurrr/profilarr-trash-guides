@@ -19,60 +19,60 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - dB
+  pattern: dB
 - name: Radarr - Flights
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Flights
+  pattern: Flights
 - name: Radarr - MiU
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - MiU
+  pattern: MiU
 - name: Radarr - monkee
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - monkee
+  pattern: monkee
 - name: Radarr - MZABI
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - MZABI
+  pattern: MZABI
 - name: Radarr - PHOENiX
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PHOENiX
+  pattern: PHOENiX
 - name: Radarr - playWEB
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - playWEB
+  pattern: playWEB
 - name: Radarr - RAWR
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - RAWR
+  pattern: RAWR
 - name: Radarr - SbR
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SbR
+  pattern: SbR
 - name: Radarr - SMURF
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SMURF
+  pattern: SMURF
 - name: Radarr - TOMMY
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TOMMY
+  pattern: TOMMY
 - name: Radarr - XEBEC
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - XEBEC
+  pattern: XEBEC
 tests: []

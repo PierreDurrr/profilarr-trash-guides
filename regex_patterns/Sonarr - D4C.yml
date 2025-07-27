@@ -1,5 +1,0 @@
-name: Sonarr - D4C
-pattern: \b(D4C)\b
-description: ''
-tags: []
-tests: []

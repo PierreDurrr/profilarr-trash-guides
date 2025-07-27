@@ -1,5 +1,0 @@
-name: Radarr - Fish
-pattern: \b((Baked|Dead|Space)Fish)\b
-description: ''
-tags: []
-tests: []

@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - AUBC
+  pattern: AUBC
 - name: Sonarr - WEBDL
   negate: false
   required: false

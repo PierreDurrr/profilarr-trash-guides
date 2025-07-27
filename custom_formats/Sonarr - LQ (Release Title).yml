@@ -8,7 +8,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - BEN THE MEN
+  pattern: BEN THE MEN
 - name: Sonarr - BiTOR (2160p)
   negate: false
   required: false
@@ -23,10 +23,10 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Feranki1980
+  pattern: Feranki1980
 - name: Sonarr - TeeWee
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TeeWee
+  pattern: TeeWee
 tests: []

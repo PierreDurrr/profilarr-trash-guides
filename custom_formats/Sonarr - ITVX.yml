@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ITVX
+  pattern: ITVX
 - name: Sonarr - ITVX Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ITVX Rename
+  pattern: ITVX Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

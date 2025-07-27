@@ -8,55 +8,55 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Anime-Heart
+  pattern: Anime-Heart
 - name: Sonarr - Kaerizaki-Fansub
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Kaerizaki-Fansub
+  pattern: Kaerizaki-Fansub
 - name: Sonarr - Natsumi-no-Sekai
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Natsumi-no-Sekai
+  pattern: Natsumi-no-Sekai
 - name: Sonarr - NekoYu'
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - NekoYu'
+  pattern: NekoYu'
 - name: Sonarr - Onii-ChanSub
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Onii-ChanSub
+  pattern: Onii-ChanSub
 - name: Sonarr - Owlolf
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Owlolf
+  pattern: Owlolf
 - name: Sonarr - Pikari-Teshima
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Pikari-Teshima
+  pattern: Pikari-Teshima
 - name: Sonarr - Seimeisen
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Seimeisen
+  pattern: Seimeisen
 - name: Sonarr - Team Arcedo
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Team Arcedo
+  pattern: Team Arcedo
 - name: Sonarr - Yarashii
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Yarashii
+  pattern: Yarashii
 - name: Sonarr - Yangire-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Yangire-Raws
+  pattern: Yangire-Raws
 tests: []

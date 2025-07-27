@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - HBO
+  pattern: HBO
 - name: Radarr - HBO Rename
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - HBO Rename
+  pattern: HBO Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

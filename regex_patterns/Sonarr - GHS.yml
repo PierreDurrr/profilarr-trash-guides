@@ -1,5 +1,0 @@
-name: Sonarr - GHS
-pattern: \b(GHS)\b
-description: ''
-tags: []
-tests: []

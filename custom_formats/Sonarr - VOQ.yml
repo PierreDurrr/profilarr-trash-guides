@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - Quebec Original Version
+  pattern: Quebec Original Version
 tests: []

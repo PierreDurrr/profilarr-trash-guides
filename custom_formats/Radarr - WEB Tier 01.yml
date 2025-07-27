@@ -24,27 +24,27 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - AJP69
+  pattern: AJP69
 - name: Radarr - APEX
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - APEX
+  pattern: APEX
 - name: Radarr - BLUTONiUM
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - BLUTONiUM
+  pattern: BLUTONiUM
 - name: Radarr - CMRG
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - CMRG
+  pattern: CMRG
 - name: Radarr - CRFW
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - CRFW
+  pattern: CRFW
 - name: Radarr - CRUD
   negate: false
   required: false
@@ -54,52 +54,52 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FLUX
+  pattern: FLUX
 - name: Radarr - GNOME
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - GNOME
+  pattern: GNOME
 - name: Radarr - HONE
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HONE
+  pattern: HONE
 - name: Radarr - KiNGS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - KiNGS
+  pattern: KiNGS
 - name: Radarr - Kitsune
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Kitsune
+  pattern: Kitsune
 - name: Radarr - NOSiViD
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NOSiViD
+  pattern: NOSiViD
 - name: Radarr - NTb
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NTb
+  pattern: NTb
 - name: Radarr - NTG
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NTG
+  pattern: NTG
 - name: Radarr - SiC
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SiC
+  pattern: SiC
 - name: Radarr - TEPES
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TEPES
+  pattern: TEPES
 - name: Radarr - ZoroSenpai
   negate: false
   required: false

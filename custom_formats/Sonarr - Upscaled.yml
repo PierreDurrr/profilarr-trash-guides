@@ -13,17 +13,17 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - AIUS
+  pattern: AIUS
 - name: Sonarr - Regrade
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Regrade
+  pattern: Regrade
 - name: Sonarr - TheUpscaler
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TheUpscaler
+  pattern: TheUpscaler
 - name: Sonarr - Upscaled
   negate: false
   required: false

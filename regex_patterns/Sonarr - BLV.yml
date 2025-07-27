@@ -1,5 +1,0 @@
-name: Sonarr - BLV
-pattern: \b(BLV)\b
-description: ''
-tags: []
-tests: []

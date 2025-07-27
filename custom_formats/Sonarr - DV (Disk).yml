@@ -9,25 +9,25 @@ conditions:
   negate: false
   required: true
   type: release_group
-  pattern: Sonarr - FraMeSToR
+  pattern: FraMeSToR
 - name: Sonarr - DV
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - DV
+  pattern: Not DV
 - name: Sonarr - No FANRES
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - No FANRES
+  pattern: No FANRES
 - name: Sonarr - Not Hybrid
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Hybrid
+  pattern: Hybrid
 - name: Sonarr - Not Hybrid Release Group
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Hybrid Release Group
+  pattern: Not Hybrid Release Group
 tests: []

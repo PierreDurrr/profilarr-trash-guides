@@ -8,7 +8,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - Scene Groups + Naming
+  pattern: Scene Groups + Naming
 - name: Radarr - Not INFLATE-DEFLATE
   negate: true
   required: true

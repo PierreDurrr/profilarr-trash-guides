@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TVING
+  pattern: TVING
 - name: Sonarr - TVING Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TVING Rename
+  pattern: TVING Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

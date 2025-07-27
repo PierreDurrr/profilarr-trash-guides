@@ -17,12 +17,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FCK
+  pattern: FCK
 - name: Radarr - FrIeNdS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FrIeNdS
+  pattern: FrIeNdS
 - name: Radarr - QUALiTY
   negate: false
   required: false

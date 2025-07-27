@@ -1,5 +1,0 @@
-name: Radarr - Opus
-pattern: \bOPUS(\b|\d)(?!.*[ ._-](\d{3,4}p))
-description: ''
-tags: []
-tests: []

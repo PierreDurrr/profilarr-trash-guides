@@ -1,5 +1,0 @@
-name: Sonarr - Smoke
-pattern: \[Smoke\]|-Smoke\b
-description: ''
-tags: []
-tests: []

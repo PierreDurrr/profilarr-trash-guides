@@ -1,0 +1,5 @@
+name: Vivid
+pattern: \[Vivid\]|-Vivid\b
+description: ''
+tags: []
+tests: []

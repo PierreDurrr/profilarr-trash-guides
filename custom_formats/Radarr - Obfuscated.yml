@@ -8,57 +8,57 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - 4P
+  pattern: 4P
 - name: Radarr - 4Planet
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - 4Planet
+  pattern: 4Planet
 - name: Radarr - AsRequested
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - AsRequested
+  pattern: AsRequested
 - name: Radarr - BUYMORE
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - BUYMORE
+  pattern: BUYMORE
 - name: Radarr - Chamele0n
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Chamele0n
+  pattern: Chamele0n
 - name: Radarr - GEROV
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - GEROV
+  pattern: GEROV
 - name: Radarr - iNC0GNiTO
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - iNC0GNiTO
+  pattern: iNC0GNiTO
 - name: Radarr - NZBGeek
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NZBGeek
+  pattern: NZBGeek
 - name: Radarr - Obfuscated
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Obfuscated
+  pattern: Obfuscated
 - name: Radarr - postbot
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - postbot
+  pattern: postbot
 - name: Radarr - Rakuv
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Rakuv
+  pattern: Rakuv
 - name: Radarr - Scrambled
   negate: false
   required: false
@@ -68,25 +68,25 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - WhiteRev
+  pattern: WhiteRev
 - name: Radarr - xpost
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - xpost
+  pattern: xpost
 - name: Radarr - WRTEAM
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - WRTEAM
+  pattern: WRTEAM
 - name: Radarr - CAPTCHA
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - CAPTCHA
+  pattern: CAPTCHA
 - name: Radarr - _nzb
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - _nzb
+  pattern: _nzb
 tests: []

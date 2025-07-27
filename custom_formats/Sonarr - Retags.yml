@@ -8,25 +8,25 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - .heb
+  pattern: .heb
 - name: Sonarr - (eztv)
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - (eztv)
+  pattern: (eztv)
 - name: Sonarr - (rarbg)
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - (rarbg)
+  pattern: (rarbg)
 - name: Sonarr - (rartv)
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - (rartv)
+  pattern: (rartv)
 - name: Sonarr - (TGx)
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - (TGx)
+  pattern: (TGx)
 tests: []

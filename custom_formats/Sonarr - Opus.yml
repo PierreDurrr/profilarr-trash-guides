@@ -9,10 +9,10 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - Opus
+  pattern: Opus
 - name: Sonarr - Not OPUS Release Group
   negate: true
   required: true
   type: release_group
-  pattern: Sonarr - OPUS Release Group
+  pattern: Not OPUS Release Group
 tests: []

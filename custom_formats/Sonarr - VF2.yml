@@ -8,10 +8,10 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - VF2
+  pattern: VF2
 - name: Sonarr - Both VFF and VFQ
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Both VFF and VFQ
+  pattern: Both VFF and VFQ
 tests: []

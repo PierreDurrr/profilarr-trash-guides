@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - MP3
+  pattern: MP3
 tests: []

@@ -1,5 +1,0 @@
-name: Sonarr - Rapta
-pattern: \[Rapta\]|-Rapta\b
-description: ''
-tags: []
-tests: []

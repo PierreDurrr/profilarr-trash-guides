@@ -93,7 +93,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - CTFOH
+  pattern: CTFOH
 - name: Sonarr - Pendeti
   negate: false
   required: false
@@ -188,30 +188,30 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - AVTOMAT
+  pattern: AVTOMAT
 - name: Sonarr - iSSEYMiYAKE
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - iSSEYMiYAKE
+  pattern: iSSEYMiYAKE
 - name: Sonarr - TVP
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TVP
+  pattern: TVP
 - name: Sonarr - AIDA
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - AIDA
+  pattern: AIDA
 - name: Sonarr - UTOPiA
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - UTOPiA
+  pattern: UTOPiA
 - name: Sonarr - FRAGGERS
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FRAGGERS
+  pattern: FRAGGERS
 tests: []

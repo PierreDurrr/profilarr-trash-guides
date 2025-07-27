@@ -24,30 +24,30 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Asenshi
+  pattern: Asenshi
 - name: Sonarr - Chihiro
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Chihiro
+  pattern: Chihiro
 - name: Sonarr - Commie
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Commie
+  pattern: Commie
 - name: Sonarr - DameDesuYo
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - DameDesuYo
+  pattern: DameDesuYo
 - name: Sonarr - Doki
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Doki
+  pattern: Doki
 - name: Sonarr - Tsundere
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Tsundere
+  pattern: Tsundere
 tests: []

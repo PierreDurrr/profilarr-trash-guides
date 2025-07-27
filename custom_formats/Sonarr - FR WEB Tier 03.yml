@@ -19,7 +19,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - ARK01
+  pattern: ARK01
 - name: Sonarr - BraD
   negate: false
   required: false
@@ -44,7 +44,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - MYSTERiON
+  pattern: MYSTERiON
 - name: Sonarr - Scaph
   negate: false
   required: false
@@ -54,7 +54,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - WaCkS
+  pattern: WaCkS
 - name: Sonarr - WQM
   negate: false
   required: false

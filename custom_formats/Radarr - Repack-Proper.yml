@@ -8,15 +8,15 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Repack
+  pattern: Repack
 - name: Radarr - Proper
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Proper
+  pattern: Proper
 - name: Radarr - Rerip
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Rerip
+  pattern: Rerip
 tests: []

@@ -19,60 +19,60 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Aergia
+  pattern: Aergia
 - name: Radarr - Arg0
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Arg0
+  pattern: Arg0
 - name: Radarr - Legion
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Legion
+  pattern: Legion
 - name: Radarr - LYS1TH3A
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - LYS1TH3A
+  pattern: LYS1TH3A
 - name: Radarr - OZR
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - OZR
+  pattern: OZR
 - name: Radarr - sam
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - sam
+  pattern: sam
 - name: Radarr - SCY
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SCY
+  pattern: SCY
 - name: Radarr - smol
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - smol
+  pattern: smol
 - name: Radarr - SoM
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SoM
+  pattern: SoM
 - name: Radarr - Vanilla
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Vanilla
+  pattern: Vanilla
 - name: Radarr - Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Vodes
+  pattern: Vodes
 - name: Radarr - ZeroBuild
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ZeroBuild
+  pattern: ZeroBuild
 tests: []

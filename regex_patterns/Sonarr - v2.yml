@@ -1,5 +1,0 @@
-name: Sonarr - v2
-pattern: (\b|\d)(v2)\b
-description: ''
-tags: []
-tests: []

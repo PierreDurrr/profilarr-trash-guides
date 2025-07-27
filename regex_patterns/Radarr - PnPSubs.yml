@@ -1,5 +1,0 @@
-name: Radarr - PnPSubs
-pattern: \b(PnPSubs)\b
-description: ''
-tags: []
-tests: []

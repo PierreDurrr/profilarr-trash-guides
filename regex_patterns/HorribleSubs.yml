@@ -1,0 +1,5 @@
+name: HorribleSubs
+pattern: \b(HorribleSubs)\b
+description: ''
+tags: []
+tests: []

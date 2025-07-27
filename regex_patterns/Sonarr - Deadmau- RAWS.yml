@@ -1,5 +1,0 @@
-name: Sonarr - Deadmau- RAWS
-pattern: \b(Deadmau[ .-]?[ .-]?RAWS)\b
-description: ''
-tags: []
-tests: []

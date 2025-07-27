@@ -1,5 +1,0 @@
-name: Sonarr - EDGE
-pattern: \[EDGE\]|-EDGE\b
-description: ''
-tags: []
-tests: []

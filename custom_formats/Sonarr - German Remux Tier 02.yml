@@ -19,7 +19,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HDSource
+  pattern: HDSource
 - name: Sonarr - Remux
   negate: false
   required: true

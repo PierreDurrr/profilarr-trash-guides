@@ -1,0 +1,5 @@
+name: ZR
+pattern: \b(ZR)\b|-ZR-
+description: ''
+tags: []
+tests: []

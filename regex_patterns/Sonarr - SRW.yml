@@ -1,5 +1,0 @@
-name: Sonarr - SRW
-pattern: \b(SRW)\b
-description: ''
-tags: []
-tests: []

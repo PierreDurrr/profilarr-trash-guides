@@ -1,0 +1,5 @@
+name: SiC
+pattern: \bSiC\b
+description: ''
+tags: []
+tests: []

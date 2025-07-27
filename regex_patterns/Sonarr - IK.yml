@@ -1,5 +1,0 @@
-name: Sonarr - IK
-pattern: \b(IK)\b
-description: ''
-tags: []
-tests: []

@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Max
+  pattern: Max
 - name: Sonarr - MAX Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - MAX Rename
+  pattern: MAX Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

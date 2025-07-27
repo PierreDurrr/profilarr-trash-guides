@@ -1,5 +1,0 @@
-name: Radarr - Disney+
-pattern: \b(dsnp|dsny|disney|Disney\+)\b
-description: ''
-tags: []
-tests: []

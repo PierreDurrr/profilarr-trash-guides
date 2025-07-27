@@ -19,12 +19,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SubsPlease
+  pattern: SubsPlease
 - name: Radarr - SubsPlus+
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SubsPlus+
+  pattern: SubsPlus+
 - name: Radarr - ZR
   negate: false
   required: false

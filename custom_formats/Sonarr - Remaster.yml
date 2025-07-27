@@ -8,10 +8,10 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - Remaster
+  pattern: Remaster
 - name: Sonarr - Not 4K Remaster
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - 4K Remaster
+  pattern: Not 4K Remaster
 tests: []

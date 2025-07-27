@@ -19,15 +19,15 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - DL
+  pattern: DL
 - name: Sonarr - ML
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - ML
+  pattern: ML
 - name: Sonarr - Not Subbed
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Subbed
+  pattern: Not Subbed
 tests: []

@@ -8,17 +8,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FuN
+  pattern: FuN
 - name: Sonarr - w00t
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - w00t
+  pattern: w00t
 - name: Sonarr - GTF
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - GTF
+  pattern: GTF
 - name: Sonarr - PaTroL
   negate: false
   required: false
@@ -28,5 +28,5 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - JellyfinPlex
+  pattern: JellyfinPlex
 tests: []

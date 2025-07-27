@@ -36,12 +36,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FRATERNiTY
+  pattern: FRATERNiTY
 - name: Radarr - FrIeNdS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FrIeNdS
+  pattern: FrIeNdS
 - name: Radarr - MAX
   negate: false
   required: false
@@ -51,7 +51,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Psaro
+  pattern: Psaro
 - name: Radarr - YODA
   negate: false
   required: false

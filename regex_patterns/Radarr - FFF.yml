@@ -1,5 +1,0 @@
-name: Radarr - FFF
-pattern: \b(FFF)\b
-description: ''
-tags: []
-tests: []

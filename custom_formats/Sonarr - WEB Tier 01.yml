@@ -14,12 +14,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - AJP69
+  pattern: AJP69
 - name: Sonarr - APEX
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - APEX
+  pattern: APEX
 - name: Sonarr - CasStudio
   negate: false
   required: false
@@ -29,57 +29,57 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - CRFW
+  pattern: CRFW
 - name: Sonarr - CtrlHD
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - CtrlHD
+  pattern: CtrlHD
 - name: Sonarr - FLUX
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FLUX
+  pattern: FLUX
 - name: Sonarr - HONE
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HONE
+  pattern: HONE
 - name: Sonarr - KiNGS
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - KiNGS
+  pattern: KiNGS
 - name: Sonarr - Kitsune
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Kitsune
+  pattern: Kitsune
 - name: Sonarr - monkee
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - monkee
+  pattern: monkee
 - name: Sonarr - NOSiViD
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - NOSiViD
+  pattern: NOSiViD
 - name: Sonarr - NTb
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - NTb
+  pattern: NTb
 - name: Sonarr - NTG
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - NTG
+  pattern: NTG
 - name: Sonarr - QOQ
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - QOQ
+  pattern: QOQ
 - name: Sonarr - RTN
   negate: false
   required: false
@@ -89,7 +89,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - SiC
+  pattern: SiC
 - name: Sonarr - T6D
   negate: false
   required: false
@@ -99,7 +99,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TOMMY
+  pattern: TOMMY
 - name: Sonarr - ViSUM
   negate: false
   required: false

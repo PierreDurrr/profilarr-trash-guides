@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - x265-HEVC
+  pattern: x|h265
 - name: Radarr - Not HDR-DV
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - HDR-DV
+  pattern: Not HDR-DV
 - name: Radarr - Not 2160p
   negate: true
   required: true

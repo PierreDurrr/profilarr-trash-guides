@@ -1,0 +1,5 @@
+name: USD
+pattern: \[USD\]|-USD\b
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: Radarr - AAC
-pattern: \bAAC(\b|\d)
-description: ''
-tags: []
-tests: []

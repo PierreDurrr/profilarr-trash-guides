@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Max
+  pattern: Max
 - name: Radarr - MAX Rename
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - MAX Rename
+  pattern: MAX Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

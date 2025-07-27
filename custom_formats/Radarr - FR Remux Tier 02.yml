@@ -19,17 +19,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FtLi
+  pattern: FtLi
 - name: Radarr - Goldenyann
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Goldenyann
+  pattern: Goldenyann
 - name: Radarr - HeavyWeight
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HeavyWeight
+  pattern: HeavyWeight
 - name: Radarr - KTM
   negate: false
   required: false

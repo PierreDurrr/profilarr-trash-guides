@@ -1,5 +1,0 @@
-name: Radarr - TTGA
-pattern: \b(TTGA)\b
-description: ''
-tags: []
-tests: []

@@ -19,30 +19,30 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Asenshi
+  pattern: Asenshi
 - name: Radarr - Chihiro
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Chihiro
+  pattern: Chihiro
 - name: Radarr - Commie
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Commie
+  pattern: Commie
 - name: Radarr - DameDesuYo
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - DameDesuYo
+  pattern: DameDesuYo
 - name: Radarr - Doki
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Doki
+  pattern: Doki
 - name: Radarr - Tsundere
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Tsundere
+  pattern: Tsundere
 tests: []

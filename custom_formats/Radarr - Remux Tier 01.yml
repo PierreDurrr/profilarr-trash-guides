@@ -24,12 +24,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - BLURANiUM
+  pattern: BLURANiUM
 - name: Radarr - BMF
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - BMF
+  pattern: BMF
 - name: Radarr - CiNEPHiLES
   negate: false
   required: false
@@ -44,7 +44,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PmP
+  pattern: PmP
 - name: Radarr - WiLDCAT
   negate: false
   required: false

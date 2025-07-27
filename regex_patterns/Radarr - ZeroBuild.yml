@@ -1,5 +1,0 @@
-name: Radarr - ZeroBuild
-pattern: \b(ZeroBuild)\b
-description: ''
-tags: []
-tests: []

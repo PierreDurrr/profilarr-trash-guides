@@ -1,0 +1,5 @@
+name: sam
+pattern: \[sam\]|-sam\b
+description: ''
+tags: []
+tests: []

@@ -1,5 +1,0 @@
-name: Sonarr - New-raws
-pattern: New[ ._-]?(raws)
-description: ''
-tags: []
-tests: []

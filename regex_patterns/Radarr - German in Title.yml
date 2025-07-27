@@ -1,5 +1,0 @@
-name: Radarr - German in Title
-pattern: (?i)\bgerman\b
-description: ''
-tags: []
-tests: []

@@ -1,5 +1,0 @@
-name: Sonarr - OldCastle
-pattern: \b(OldCastle)\b
-description: ''
-tags: []
-tests: []

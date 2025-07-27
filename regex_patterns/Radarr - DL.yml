@@ -1,5 +1,0 @@
-name: Radarr - DL
-pattern: (?<!WEB[-_. ]?)\b(DL)\b
-description: ''
-tags: []
-tests: []

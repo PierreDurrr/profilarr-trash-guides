@@ -1,5 +1,0 @@
-name: Sonarr - SNSbu
-pattern: \b(SNSbu)\b
-description: ''
-tags: []
-tests: []

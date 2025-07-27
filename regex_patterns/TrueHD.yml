@@ -1,0 +1,5 @@
+name: TrueHD
+pattern: True[ .-]?HD
+description: ''
+tags: []
+tests: []

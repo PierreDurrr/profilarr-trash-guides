@@ -19,90 +19,90 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - A-L
+  pattern: A-L
 - name: Radarr - ANiHLS
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ANiHLS
+  pattern: ANiHLS
 - name: Radarr - CBM
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - CBM
+  pattern: CBM
 - name: Radarr - DHD
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - DHD
+  pattern: DHD
 - name: Radarr - DragsterPS
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - DragsterPS
+  pattern: DragsterPS
 - name: Radarr - HAiKU
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - HAiKU
+  pattern: HAiKU
 - name: Radarr - Hark0N
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Hark0N
+  pattern: Hark0N
 - name: Radarr - iAHD
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - iAHD
+  pattern: iAHD
 - name: Radarr - inid4c
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - inid4c
+  pattern: inid4c
 - name: Radarr - KiyoshiStar
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KiyoshiStar
+  pattern: KiyoshiStar
 - name: Radarr - MCR
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - MCR
+  pattern: MCR
 - name: Radarr - NPC
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NPC
+  pattern: NPC
 - name: Radarr - RedBlade
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - RedBlade
+  pattern: RedBlade
 - name: Radarr - RH
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - RH
+  pattern: RH
 - name: Radarr - SEV
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SEV
+  pattern: SEV
 - name: Radarr - STRiFE
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - STRiFE
+  pattern: STRiFE
 - name: Radarr - TENEIGHTY
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - TENEIGHTY
+  pattern: TENEIGHTY
 - name: Radarr - WaLMaRT
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - WaLMaRT
+  pattern: WaLMaRT
 tests: []

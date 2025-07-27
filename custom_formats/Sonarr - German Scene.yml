@@ -8,137 +8,137 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - DETAiLS
+  pattern: DETAiLS
 - name: Sonarr - WAYNE
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - WAYNE
+  pattern: WAYNE
 - name: Sonarr - WOMBAT
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - WOMBAT
+  pattern: WOMBAT
 - name: Sonarr - SAUERKRAUT
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - SAUERKRAUT
+  pattern: SAUERKRAUT
 - name: Sonarr - WvF
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - WvF
+  pattern: WvF
 - name: Sonarr - 4KCONNECTiON
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - 4KCONNECTiON
+  pattern: 4KCONNECTiON
 - name: Sonarr - STARS
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - STARS
+  pattern: STARS
 - name: Sonarr - AWARDS
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - AWARDS
+  pattern: AWARDS
 - name: Sonarr - DMPD
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - DMPD
+  pattern: DMPD
 - name: Sonarr - EXCiTED
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - EXCiTED
+  pattern: EXCiTED
 - name: Sonarr - iNTENTiON
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - iNTENTiON
+  pattern: iNTENTiON
 - name: Sonarr - JaJunge
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - JaJunge
+  pattern: JaJunge
 - name: Sonarr - MGE
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - MGE
+  pattern: MGE
 - name: Sonarr - MisFiTS
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - MisFiTS
+  pattern: MisFiTS
 - name: Sonarr - RUBBiSH
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - RUBBiSH
+  pattern: RUBBiSH
 - name: Sonarr - RWP
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - RWP
+  pattern: RWP
 - name: Sonarr - TMSF
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TMSF
+  pattern: TMSF
 - name: Sonarr - TV4A
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TV4A
+  pattern: TV4A
 - name: Sonarr - HAXE
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HAXE
+  pattern: HAXE
 - name: Sonarr - muhHD
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - muhHD
+  pattern: muhHD
 - name: Sonarr - ENDSTATiON
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - ENDSTATiON
+  pattern: ENDSTATiON
 - name: Sonarr - HDARCHiV
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HDARCHiV
+  pattern: HDARCHiV
 - name: Sonarr - PL3X
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - PL3X
+  pattern: PL3X
 - name: Sonarr - WATCHABLE
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - WATCHABLE
+  pattern: WATCHABLE
 - name: Sonarr - OHD
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - OHD
+  pattern: OHD
 - name: Sonarr - ENCOUNTERS
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - ENCOUNTERS
+  pattern: ENCOUNTERS
 - name: Sonarr - RSG
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - RSG
+  pattern: RSG
 - name: Sonarr - TVNATiON
   negate: false
   required: false
@@ -168,7 +168,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - OCA
+  pattern: OCA
 - name: Sonarr - RIPLEY
   negate: false
   required: false
@@ -183,7 +183,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - CDP
+  pattern: CDP
 - name: Sonarr - CDD
   negate: false
   required: false

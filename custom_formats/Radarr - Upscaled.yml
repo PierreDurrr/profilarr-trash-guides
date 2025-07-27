@@ -13,17 +13,17 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - AIUS
+  pattern: AIUS
 - name: Radarr - Regrade
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Regrade
+  pattern: Regrade
 - name: Radarr - TheUpscaler
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - TheUpscaler
+  pattern: TheUpscaler
 - name: Radarr - Upscaled
   negate: false
   required: false

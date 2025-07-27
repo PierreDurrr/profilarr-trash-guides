@@ -1,0 +1,5 @@
+name: pyroneko
+pattern: \b(pyroneko)\b
+description: ''
+tags: []
+tests: []

@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - Dual Audio
+  pattern: Dual Audio
 - name: Radarr - Not Single Language Only
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Single Language Only
+  pattern: Not Single Language Only
 - name: Radarr - Japanese Language
   negate: false
   required: false

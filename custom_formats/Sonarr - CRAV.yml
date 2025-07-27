@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Crave
+  pattern: Crave
 - name: Sonarr - Crave Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Crave Rename
+  pattern: Crave Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

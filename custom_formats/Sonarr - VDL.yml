@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - Videoland
+  pattern: Videoland
 - name: Sonarr - WEBDL
   negate: false
   required: false

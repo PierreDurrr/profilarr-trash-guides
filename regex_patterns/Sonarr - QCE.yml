@@ -1,5 +1,0 @@
-name: Sonarr - QCE
-pattern: \b(QCE)\b
-description: ''
-tags: []
-tests: []

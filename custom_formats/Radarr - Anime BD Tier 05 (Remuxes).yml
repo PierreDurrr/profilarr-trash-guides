@@ -19,42 +19,42 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - BluDragon
+  pattern: BluDragon
 - name: Radarr - D4C
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - D4C
+  pattern: D4C
 - name: Radarr - E.N.D
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - E.N.D
+  pattern: E.N.D
 - name: Radarr - PMR
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - PMR
+  pattern: PMR
 - name: Radarr - Raizel
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Raizel
+  pattern: Raizel
 - name: Radarr - REVO
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - REVO
+  pattern: REVO
 - name: Radarr - SRLS
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SRLS
+  pattern: SRLS
 - name: Radarr - TTGA
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - TTGA
+  pattern: TTGA
 - name: Radarr - VULCAN
   negate: false
   required: false

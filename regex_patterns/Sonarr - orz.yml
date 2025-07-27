@@ -1,5 +1,0 @@
-name: Sonarr - orz
-pattern: \b(orz)\b
-description: ''
-tags: []
-tests: []

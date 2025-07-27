@@ -1,0 +1,5 @@
+name: NS
+pattern: \b(NS)\b
+description: ''
+tags: []
+tests: []

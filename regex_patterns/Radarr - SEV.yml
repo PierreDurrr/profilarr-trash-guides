@@ -1,5 +1,0 @@
-name: Radarr - SEV
-pattern: \b(SEV)\b
-description: ''
-tags: []
-tests: []

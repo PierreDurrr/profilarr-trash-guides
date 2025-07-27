@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - v3
+  pattern: v3
 tests: []

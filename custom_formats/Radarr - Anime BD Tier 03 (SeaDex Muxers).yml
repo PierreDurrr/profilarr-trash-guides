@@ -19,185 +19,185 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - AC
+  pattern: AC
 - name: Radarr - ASC
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ASC
+  pattern: ASC
 - name: Radarr - AssMix
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - AssMix
+  pattern: AssMix
 - name: Radarr - Ayashii
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Ayashii
+  pattern: Ayashii
 - name: Radarr - B00BA
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - B00BA
+  pattern: B00BA
 - name: Radarr - CBT
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - CBT
+  pattern: CBT
 - name: Radarr - CRUCiBLE
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - CRUCiBLE
+  pattern: CRUCiBLE
 - name: Radarr - CTR
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - CTR
+  pattern: CTR
 - name: Radarr - CyC
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - CyC
+  pattern: CyC
 - name: Radarr - Dekinai
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Dekinai
+  pattern: Dekinai
 - name: Radarr - EXP
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - EXP
+  pattern: EXP
 - name: Radarr - Flugel
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Flugel
+  pattern: Flugel
 - name: Radarr - Galator
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Galator
+  pattern: Galator
 - name: Radarr - GSK_kun
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - GSK_kun
+  pattern: GSK_kun
 - name: Radarr - Holomux
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Holomux
+  pattern: Holomux
 - name: Radarr - IK
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - IK
+  pattern: IK
 - name: Radarr - Kaizoku
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Kaizoku
+  pattern: Kaizoku
 - name: Radarr - Kametsu
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Kametsu
+  pattern: Kametsu
 - name: Radarr - KH
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KH
+  pattern: KH
 - name: Radarr - kuchikirukia
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - kuchikirukia
+  pattern: kuchikirukia
 - name: Radarr - LazyRemux
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - LazyRemux
+  pattern: LazyRemux
 - name: Radarr - MK
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - MK
+  pattern: MK
 - name: Radarr - Mysteria
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Mysteria
+  pattern: Mysteria
 - name: Radarr - NAN0
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NAN0
+  pattern: NAN0
 - name: Radarr - Netaro
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Netaro
+  pattern: Netaro
 - name: Radarr - Pn8
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Pn8
+  pattern: Pn8
 - name: Radarr - Pookie
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Pookie
+  pattern: Pookie
 - name: Radarr - Quetzal
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Quetzal
+  pattern: Quetzal
 - name: Radarr - Rasetsu
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Rasetsu
+  pattern: Rasetsu
 - name: Radarr - Senjou
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Senjou
+  pattern: Senjou
 - name: Radarr - ShowY
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ShowY
+  pattern: ShowY
 - name: Radarr - WBDP
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - WBDP
+  pattern: WBDP
 - name: Radarr - WSE
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - WSE
+  pattern: WSE
 - name: Radarr - Yoghurt
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Yoghurt
+  pattern: Yoghurt
 - name: Radarr - YURI
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - YURI
+  pattern: YURI
 - name: Radarr - ZOIO
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ZOIO
+  pattern: ZOIO
 - name: Radarr - ZR
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ZR
+  pattern: ZR
 tests: []

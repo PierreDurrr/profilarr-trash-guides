@@ -8,7 +8,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: 'Sonarr - #'
+  pattern: '#'
 - name: Sonarr - A
   negate: false
   required: false
@@ -18,57 +18,57 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - B
+  pattern: B
 - name: Sonarr - C
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - C
+  pattern: C
 - name: Sonarr - D
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - D
+  pattern: D
 - name: Sonarr - E
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - E
+  pattern: E
 - name: Sonarr - F
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - F
+  pattern: F
 - name: Sonarr - G
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - G
+  pattern: G
 - name: Sonarr - H
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - H
+  pattern: H
 - name: Sonarr - J
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - J
+  pattern: J
 - name: Sonarr - K
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - K
+  pattern: K
 - name: Sonarr - L
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - L
+  pattern: L
 - name: Sonarr - M
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - M
+  pattern: M
 - name: Sonarr - N
   negate: false
   required: false
@@ -78,7 +78,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - O
+  pattern: O
 - name: Sonarr - P
   negate: false
   required: false
@@ -88,7 +88,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - R
+  pattern: R
 - name: Sonarr - S
   negate: false
   required: false
@@ -98,7 +98,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - T
+  pattern: T
 - name: Sonarr - U
   negate: false
   required: false
@@ -108,15 +108,15 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - V
+  pattern: V
 - name: Sonarr - W
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - W
+  pattern: W
 - name: Sonarr - Z
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Z
+  pattern: Z
 tests: []

@@ -1,5 +1,0 @@
-name: Radarr - ONLY
-pattern: ^(ONLY)$
-description: ''
-tags: []
-tests: []

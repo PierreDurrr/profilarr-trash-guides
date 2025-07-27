@@ -24,60 +24,60 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Aergia
+  pattern: Aergia
 - name: Sonarr - Arg0
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Arg0
+  pattern: Arg0
 - name: Sonarr - Legion
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Legion
+  pattern: Legion
 - name: Sonarr - LYS1TH3A
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - LYS1TH3A
+  pattern: LYS1TH3A
 - name: Sonarr - OZR
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - OZR
+  pattern: OZR
 - name: Sonarr - sam
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - sam
+  pattern: sam
 - name: Sonarr - SCY
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SCY
+  pattern: SCY
 - name: Sonarr - smol
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - smol
+  pattern: smol
 - name: Sonarr - SoM
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SoM
+  pattern: SoM
 - name: Sonarr - Vanilla
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Vanilla
+  pattern: Vanilla
 - name: Sonarr - Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Vodes
+  pattern: Vodes
 - name: Sonarr - ZeroBuild
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ZeroBuild
+  pattern: ZeroBuild
 tests: []

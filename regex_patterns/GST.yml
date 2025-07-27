@@ -1,0 +1,5 @@
+name: GST
+pattern: \b(GST)\b
+description: ''
+tags: []
+tests: []

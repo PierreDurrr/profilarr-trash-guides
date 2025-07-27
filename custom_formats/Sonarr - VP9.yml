@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - VP9
+  pattern: VP9
 tests: []

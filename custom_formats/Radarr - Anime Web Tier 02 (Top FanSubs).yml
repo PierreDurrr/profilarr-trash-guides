@@ -19,17 +19,17 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - 0x539
+  pattern: '0x539'
 - name: Radarr - Asakura
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Asakura
+  pattern: Asakura
 - name: Radarr - Cyan
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Cyan
+  pattern: Cyan
 - name: Radarr - Dae
   negate: false
   required: false
@@ -39,70 +39,70 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Foxtrot
+  pattern: Foxtrot
 - name: Radarr - Gao
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Gao
+  pattern: Gao
 - name: Radarr - GSK_kun
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - GSK_kun
+  pattern: GSK_kun
 - name: Radarr - Half-Baked
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Half-Baked
+  pattern: Half-Baked
 - name: Radarr - HatSubs
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - HatSubs
+  pattern: HatSubs
 - name: Radarr - MALD
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - MALD
+  pattern: MALD
 - name: Radarr - MTBB
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - MTBB
+  pattern: MTBB
 - name: Radarr - Not-Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Not-Vodes
+  pattern: Not-Vodes
 - name: Radarr - Okay-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Okay-Subs
+  pattern: Okay-Subs
 - name: Radarr - Pizza
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Pizza
+  pattern: Pizza
 - name: Radarr - Reza
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Reza
+  pattern: Reza
 - name: Radarr - Slyfox
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Slyfox
+  pattern: Slyfox
 - name: Radarr - SoLCE
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SoLCE
+  pattern: SoLCE
 - name: Radarr - Tenshi
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Tenshi
+  pattern: Tenshi
 tests: []

@@ -8,35 +8,35 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Dubbed
+  pattern: Dubbed
 - name: Radarr - Golumpa
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Golumpa
+  pattern: Golumpa
 - name: Radarr - KaiDubs (Not Dual Audio)
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KaiDubs (Dual Audio)
+  pattern: KaiDubs (Not Dual Audio)
 - name: Radarr - KamiFS
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KamiFS
+  pattern: KamiFS
 - name: Radarr - KS (Not Dual Audio)
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KS (Dual Audio)
+  pattern: KS (Not Dual Audio)
 - name: Radarr - torenter69
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - torenter69
+  pattern: torenter69
 - name: Radarr - Yameii
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Yameii
+  pattern: Yameii
 tests: []

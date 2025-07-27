@@ -1,5 +1,0 @@
-name: Sonarr - V
-pattern: ^(VENUE|VFC|VoMiT)$
-description: ''
-tags: []
-tests: []

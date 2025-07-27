@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - ZeroTwo
+  pattern: ZeroTwo
 - name: Sonarr - ZeroTwo Aliases
   negate: false
   required: false
@@ -19,37 +19,37 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TSCC
+  pattern: TSCC
 - name: Sonarr - TvR
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TvR
+  pattern: TvR
 - name: Sonarr - NIMA4K
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - NIMA4K
+  pattern: NIMA4K
 - name: Sonarr - TVS
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TVS
+  pattern: TVS
 - name: Sonarr - PXL
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - PXL
+  pattern: PXL
 - name: Sonarr - CNY
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - CNY
+  pattern: CNY
 - name: Sonarr - WeebPinn
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - WeebPinn
+  pattern: WeebPinn
 - name: Sonarr - Bluray
   negate: false
   required: true

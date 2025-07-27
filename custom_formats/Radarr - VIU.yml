@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - VIU
+  pattern: VIU
 - name: Radarr - VIU Rename
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - VIU Rename
+  pattern: VIU Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

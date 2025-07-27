@@ -1,5 +1,0 @@
-name: Radarr - NPC
-pattern: \[NPC\]|-NPC\b
-description: ''
-tags: []
-tests: []

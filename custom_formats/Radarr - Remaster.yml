@@ -8,10 +8,10 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - Remaster
+  pattern: Remaster
 - name: Radarr - Not 4K Remaster
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - 4K Remaster
+  pattern: Not 4K Remaster
 tests: []

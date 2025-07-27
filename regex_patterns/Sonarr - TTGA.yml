@@ -1,5 +1,0 @@
-name: Sonarr - TTGA
-pattern: \b(TTGA)\b
-description: ''
-tags: []
-tests: []

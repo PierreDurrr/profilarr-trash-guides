@@ -19,27 +19,27 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - BONBON
+  pattern: BONBON
 - name: Sonarr - FCK
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FCK
+  pattern: FCK
 - name: Sonarr - FW
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FW
+  pattern: FW
 - name: Sonarr - FRATERNiTY
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FRATERNiTY
+  pattern: FRATERNiTY
 - name: Sonarr - MTDK
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - MTDK
+  pattern: MTDK
 - name: Sonarr - NoLo
   negate: false
   required: false
@@ -49,25 +49,25 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - PATOPESTO
+  pattern: PATOPESTO
 - name: Sonarr - Psaro
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Psaro
+  pattern: Psaro
 - name: Sonarr - SUPPLY
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - SUPPLY
+  pattern: SUPPLY
 - name: Sonarr - TFA
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TFA
+  pattern: TFA
 - name: Sonarr - TiNA
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TiNA
+  pattern: TiNA
 tests: []

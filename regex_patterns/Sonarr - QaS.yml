@@ -1,5 +1,0 @@
-name: Sonarr - QaS
-pattern: \b(QAS)\b
-description: ''
-tags: []
-tests: []

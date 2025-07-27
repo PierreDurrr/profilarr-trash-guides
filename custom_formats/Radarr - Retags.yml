@@ -8,22 +8,22 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - (rartv)
+  pattern: (rartv)
 - name: Radarr - (rarbg)
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - (rarbg)
+  pattern: (rarbg)
 - name: Radarr - (eztv)
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - (eztv)
+  pattern: (eztv)
 - name: Radarr - (TGx)
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - (TGx)
+  pattern: (TGx)
 - name: Radarr - .VAV
   negate: false
   required: false
@@ -33,7 +33,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - .heb
+  pattern: .heb
 - name: Radarr - ORARBG
   negate: false
   required: false

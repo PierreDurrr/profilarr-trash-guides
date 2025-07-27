@@ -1,0 +1,5 @@
+name: Chotab
+pattern: \b(Chotab)\b
+description: ''
+tags: []
+tests: []

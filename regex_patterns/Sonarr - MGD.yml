@@ -1,5 +1,0 @@
-name: Sonarr - MGD
-pattern: \b(MGD)\b
-description: ''
-tags: []
-tests: []

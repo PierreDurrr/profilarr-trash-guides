@@ -8,45 +8,45 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Aoi-Project
+  pattern: Aoi-Project
 - name: Radarr - Elecman
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Elecman
+  pattern: Elecman
 - name: Radarr - FUJiSAN
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - FUJiSAN
+  pattern: FUJiSAN
 - name: Radarr - GundamGuy
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - GundamGuy
+  pattern: GundamGuy
 - name: Radarr - IssouCorp
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - IssouCorp
+  pattern: IssouCorp
 - name: Radarr - KAF
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KAF
+  pattern: KAF
 - name: Radarr - Nagutos
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Nagutos
+  pattern: Nagutos
 - name: Radarr - OECUF
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - OECUF
+  pattern: OECUF
 - name: Radarr - XSPITFIRE911
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - XSPITFIRE911
+  pattern: XSPITFIRE911
 tests: []

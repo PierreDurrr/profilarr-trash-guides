@@ -8,10 +8,10 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - TRUEFRENCH
+  pattern: TRUEFRENCH
 - name: Sonarr - Not VF2
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - VF2
+  pattern: Radarr - VF2
 tests: []

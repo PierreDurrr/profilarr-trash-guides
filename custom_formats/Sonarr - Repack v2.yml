@@ -18,5 +18,5 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - RealProperRepack
+  pattern: RealProperRepack
 tests: []

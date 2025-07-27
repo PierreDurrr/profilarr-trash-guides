@@ -19,10 +19,10 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - DL
+  pattern: DL
 - name: Sonarr - ML
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ML
+  pattern: ML
 tests: []

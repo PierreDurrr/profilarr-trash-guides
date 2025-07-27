@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - BYNDR
+  pattern: BYNDR
 - name: Sonarr - DRACULA
   negate: false
   required: false
@@ -19,17 +19,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - NINJACENTRAL
+  pattern: NINJACENTRAL
 - name: Sonarr - SLiGNOME
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - SLiGNOME
+  pattern: SLiGNOME
 - name: Sonarr - SwAgLaNdEr
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - SwAgLaNdEr
+  pattern: SwAgLaNdEr
 - name: Sonarr - T4H
   negate: false
   required: false

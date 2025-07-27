@@ -9,25 +9,25 @@ conditions:
   negate: false
   required: true
   type: release_group
-  pattern: Radarr - FraMeSToR
+  pattern: FraMeSToR
 - name: Radarr - DV
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - DV
+  pattern: Not DV
 - name: Radarr - No FANRES
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - No FANRES
+  pattern: No FANRES
 - name: Radarr - Not Hybrid
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Hybrid
+  pattern: Hybrid
 - name: Radarr - Not Hybrid Release Group
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - Hybrid Release Group
+  pattern: Not Hybrid Release Group
 tests: []

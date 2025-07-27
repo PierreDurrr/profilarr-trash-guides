@@ -1,5 +1,0 @@
-name: Sonarr - Crow
-pattern: \[Crow\]|-Crow\b
-description: ''
-tags: []
-tests: []

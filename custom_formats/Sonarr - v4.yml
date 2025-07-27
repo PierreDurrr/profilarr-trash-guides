@@ -8,5 +8,5 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - v4
+  pattern: v4
 tests: []

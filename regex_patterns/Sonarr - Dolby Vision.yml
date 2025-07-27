@@ -1,5 +1,0 @@
-name: Sonarr - Dolby Vision
-pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
-description: ''
-tags: []
-tests: []

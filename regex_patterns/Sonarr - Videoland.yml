@@ -1,5 +1,0 @@
-name: Sonarr - Videoland
-pattern: \b(vdl|Videoland)\b
-description: ''
-tags: []
-tests: []

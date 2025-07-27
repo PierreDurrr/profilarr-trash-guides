@@ -1,5 +1,0 @@
-name: Sonarr - CBC
-pattern: \b(CBC)\b
-description: ''
-tags: []
-tests: []

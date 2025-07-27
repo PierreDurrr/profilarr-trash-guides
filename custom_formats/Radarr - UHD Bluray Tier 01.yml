@@ -31,7 +31,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - CtrlHD
+  pattern: CtrlHD
 - name: Radarr - MainFrame
   negate: false
   required: false
@@ -41,7 +41,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - DON
+  pattern: DON
 - name: Radarr - W4NK3R
   negate: false
   required: false

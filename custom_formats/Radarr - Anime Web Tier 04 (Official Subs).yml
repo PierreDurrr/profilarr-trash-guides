@@ -19,60 +19,60 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - BlueLobster
+  pattern: BlueLobster
 - name: Radarr - Erai-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Erai-Raws
+  pattern: Erai-Raws
 - name: Radarr - GST
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - GST
+  pattern: GST
 - name: Radarr - HorribleRips
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - HorribleRips
+  pattern: HorribleRips
 - name: Radarr - HorribleSubs
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - HorribleSubs
+  pattern: HorribleSubs
 - name: Radarr - KAN3D2M
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KAN3D2M
+  pattern: KAN3D2M
 - name: Radarr - KiyoshiStar
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - KiyoshiStar
+  pattern: KiyoshiStar
 - name: Radarr - Lia
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Lia
+  pattern: Lia
 - name: Radarr - NanDesuKa
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NanDesuKa
+  pattern: NanDesuKa
 - name: Radarr - URANIME
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - URANIME
+  pattern: URANIME
 - name: Radarr - VARYG
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - VARYG
+  pattern: VARYG
 - name: Radarr - ZigZag
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ZigZag
+  pattern: ZigZag
 tests: []

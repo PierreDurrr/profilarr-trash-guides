@@ -1,0 +1,5 @@
+name: AnimeKuro
+pattern: \b(AnimeKuro)\b
+description: ''
+tags: []
+tests: []

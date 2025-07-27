@@ -19,10 +19,10 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - DL
+  pattern: DL
 - name: Radarr - ML
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ML
+  pattern: ML
 tests: []

@@ -1,5 +1,0 @@
-name: Sonarr - RlsGrp
-pattern: \b(Flights)\b
-description: ''
-tags: []
-tests: []

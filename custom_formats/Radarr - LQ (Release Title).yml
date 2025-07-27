@@ -13,7 +13,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - BEN THE MEN
+  pattern: BEN THE MEN
 - name: Radarr - D3US
   negate: false
   required: false
@@ -28,7 +28,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Feranki1980
+  pattern: Feranki1980
 - name: Radarr - GalaxyRG
   negate: false
   required: false
@@ -58,7 +58,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - TeeWee
+  pattern: TeeWee
 - name: Radarr - TEKNO3D
   negate: false
   required: false

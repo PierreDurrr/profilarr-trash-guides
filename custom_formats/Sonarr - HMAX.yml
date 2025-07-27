@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - HBO Max
+  pattern: HBO Max
 - name: Sonarr - HMAX Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - HMAX Rename
+  pattern: HMAX Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

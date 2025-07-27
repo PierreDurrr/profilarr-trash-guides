@@ -1,5 +1,0 @@
-name: Sonarr - RH
-pattern: \b(RH)\b
-description: ''
-tags: []
-tests: []

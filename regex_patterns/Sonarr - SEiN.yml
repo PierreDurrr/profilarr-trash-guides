@@ -1,5 +1,0 @@
-name: Sonarr - SEiN
-pattern: \[SEiN\]|-SEiN\b
-description: ''
-tags: []
-tests: []

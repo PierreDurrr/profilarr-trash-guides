@@ -1,0 +1,5 @@
+name: MiniTheatre
+pattern: \b(MiniTheatre)\b
+description: ''
+tags: []
+tests: []

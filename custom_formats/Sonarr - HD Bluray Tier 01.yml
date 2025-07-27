@@ -25,30 +25,30 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Chotab
+  pattern: Radarr - Chotab
 - name: Sonarr - CtrlHD
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - CtrlHD
+  pattern: CtrlHD
 - name: Sonarr - DON
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - DON
+  pattern: DON
 - name: Sonarr - EbP
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - EbP
+  pattern: EbP
 - name: Sonarr - NTb
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - NTb
+  pattern: NTb
 - name: Sonarr - PTer
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - PTer
+  pattern: PTer
 tests: []

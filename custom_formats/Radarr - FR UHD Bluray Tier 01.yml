@@ -17,7 +17,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FRATERNiTY
+  pattern: FRATERNiTY
 - name: Radarr - FoX
   negate: false
   required: false
@@ -27,7 +27,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Psaro
+  pattern: Psaro
 - name: Radarr - 2160p
   negate: false
   required: true

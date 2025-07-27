@@ -25,10 +25,10 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - SA89
+  pattern: SA89
 - name: Sonarr - sbR
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - sbR
+  pattern: sbR
 tests: []

@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - Dual Audio
+  pattern: Dual Audio
 - name: Sonarr - Not Single Language Only
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Single Language Only
+  pattern: Not Single Language Only
 - name: Sonarr - Japanese Language
   negate: false
   required: false

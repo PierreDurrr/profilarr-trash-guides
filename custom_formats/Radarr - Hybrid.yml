@@ -10,7 +10,7 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Hybrid
+  pattern: Hybrid
 - name: Radarr - Not Hybrid Release Group
   negate: true
   required: true

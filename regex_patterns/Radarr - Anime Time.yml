@@ -1,5 +1,0 @@
-name: Radarr - Anime Time
-pattern: \b(Anime[ .-]?Time)\b
-description: ''
-tags: []
-tests: []

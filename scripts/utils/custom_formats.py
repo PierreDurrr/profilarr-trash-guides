@@ -39,7 +39,9 @@ SERVICE_TO_TRASH_GUIDES_URL = {
 }
 
 
-def collect_custom_format(service, file_name, input_json, output_dir):
+def collect_custom_format(
+    service, file_name, input_json, output_dir, custom_regex_patterns
+):
     conditions = []
     implementation_tags = set()
     for spec in input_json.get("specifications", []):
@@ -57,7 +59,10 @@ def collect_custom_format(service, file_name, input_json, output_dir):
         implementation_tags.add(IMPLEMENTATION_TO_TAG_MAPPING[implementation])
 
         if implementation in ["ReleaseTitleSpecification", "ReleaseGroupSpecification"]:
-            condition["pattern"] = get_regex_pattern_name(service, spec.get("name", ""))
+            pattern = spec.get("fields", {}).get("value")
+            condition["pattern"] = custom_regex_patterns.get(
+                pattern, get_regex_pattern_name(service, spec.get("name", ""))
+            )
         elif implementation in ["ResolutionSpecification"]:
             condition["resolution"] = f"{spec.get('fields', {}).get('value')}p"
         elif implementation in ["SourceSpecification"]:
@@ -113,11 +118,7 @@ def collect_custom_format(service, file_name, input_json, output_dir):
     print(f"Generated: {output_path}")
 
 
-def collect_custom_formats(
-    service,
-    input_dir,
-    output_dir,
-):
+def collect_custom_formats(service, input_dir, output_dir, custom_regex_patterns):
     trash_id_to_scoring_mapping = {}
     for root, _, files in os.walk(input_dir):
         for filename in sorted(files):
@@ -135,10 +136,7 @@ def collect_custom_formats(
                 trash_id_to_scoring_mapping[trash_id] = trash_scores
 
             collect_custom_format(
-                service,
-                file_stem,
-                data,
-                output_dir,
+                service, file_stem, data, output_dir, custom_regex_patterns
             )
 
     return trash_id_to_scoring_mapping

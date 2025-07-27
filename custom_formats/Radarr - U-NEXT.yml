@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - U-NEXT
+  pattern: U-NEXT
 - name: Radarr - WEBDL
   negate: false
   required: false

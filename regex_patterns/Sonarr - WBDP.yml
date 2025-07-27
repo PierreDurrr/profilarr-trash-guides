@@ -1,5 +1,0 @@
-name: Sonarr - WBDP
-pattern: \b(WBDP)\b
-description: ''
-tags: []
-tests: []

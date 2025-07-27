@@ -1,5 +1,0 @@
-name: Sonarr - Hotstar
-pattern: \b(HTSR|DSNPHS|HS)\b
-description: ''
-tags: []
-tests: []

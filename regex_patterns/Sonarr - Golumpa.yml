@@ -1,5 +1,0 @@
-name: Sonarr - Golumpa
-pattern: \b(Golumpa)\b
-description: ''
-tags: []
-tests: []

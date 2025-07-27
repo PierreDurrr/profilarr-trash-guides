@@ -1,5 +1,0 @@
-name: Radarr - ZR
-pattern: \b(ZR)\b|-ZR-
-description: ''
-tags: []
-tests: []

@@ -29,17 +29,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FrIeNdS
+  pattern: FrIeNdS
 - name: Sonarr - HeavyWeight
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HeavyWeight
+  pattern: HeavyWeight
 - name: Sonarr - NoNe
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - NoNe
+  pattern: NoNe
 - name: Sonarr - pERsO
   negate: false
   required: false
@@ -49,12 +49,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - POTO
+  pattern: POTO
 - name: Sonarr - RG
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - RG
+  pattern: RG
 - name: Sonarr - RiPiT
   negate: false
   required: false

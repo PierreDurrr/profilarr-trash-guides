@@ -1,5 +1,0 @@
-name: Radarr - BLV
-pattern: \b(BLV)\b
-description: ''
-tags: []
-tests: []

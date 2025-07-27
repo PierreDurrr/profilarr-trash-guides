@@ -1,5 +1,0 @@
-name: Sonarr - Flugel
-pattern: \b(Flugel)\b
-description: ''
-tags: []
-tests: []

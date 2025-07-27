@@ -1,0 +1,5 @@
+name: Spirale
+pattern: \b(Spirale)\b
+description: ''
+tags: []
+tests: []

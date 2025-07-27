@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - Apple TV+
+  pattern: Apple TV+
 - name: Radarr - WEBDL
   negate: false
   required: false

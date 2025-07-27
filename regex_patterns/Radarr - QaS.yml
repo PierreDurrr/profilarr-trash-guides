@@ -1,5 +1,0 @@
-name: Radarr - QaS
-pattern: \b(QAS)\b
-description: ''
-tags: []
-tests: []

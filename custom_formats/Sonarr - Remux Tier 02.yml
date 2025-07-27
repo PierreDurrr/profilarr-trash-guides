@@ -14,40 +14,40 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - decibeL
+  pattern: decibeL
 - name: Sonarr - EPSiLON
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - EPSiLON
+  pattern: EPSiLON
 - name: Sonarr - HiFi
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HiFi
+  pattern: HiFi
 - name: Sonarr - KRaLiMaRKo
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - KRaLiMaRKo
+  pattern: KRaLiMaRKo
 - name: Sonarr - playBD
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - playBD
+  pattern: playBD
 - name: Sonarr - PTer
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - PTer
+  pattern: PTer
 - name: Sonarr - SiCFoI
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - SiCFoI
+  pattern: SiCFoI
 - name: Sonarr - TRiToN
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TRiToN
+  pattern: TRiToN
 tests: []

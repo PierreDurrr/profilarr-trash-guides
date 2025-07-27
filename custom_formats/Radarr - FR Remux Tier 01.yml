@@ -24,7 +24,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HDForever
+  pattern: HDForever
 - name: Radarr - MAX
   negate: false
   required: false
@@ -34,12 +34,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ONLY
+  pattern: ONLY
 - name: Radarr - Psaro
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Psaro
+  pattern: Psaro
 - name: Radarr - Sicario
   negate: false
   required: false
@@ -54,7 +54,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TyrellCorp
+  pattern: TyrellCorp
 - name: Radarr - Zapax
   negate: false
   required: false

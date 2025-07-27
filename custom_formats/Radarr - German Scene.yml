@@ -8,102 +8,102 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - DETAiLS
+  pattern: DETAiLS
 - name: Radarr - WAYNE
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - WAYNE
+  pattern: WAYNE
 - name: Radarr - WOMBAT
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - WOMBAT
+  pattern: WOMBAT
 - name: Radarr - SAUERKRAUT
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SAUERKRAUT
+  pattern: SAUERKRAUT
 - name: Radarr - WvF
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - WvF
+  pattern: WvF
 - name: Radarr - 4KCONNECTiON
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - 4KCONNECTiON
+  pattern: 4KCONNECTiON
 - name: Radarr - STARS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - STARS
+  pattern: STARS
 - name: Radarr - AWARDS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - AWARDS
+  pattern: AWARDS
 - name: Radarr - DMPD
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - DMPD
+  pattern: DMPD
 - name: Radarr - EXCiTED
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - EXCiTED
+  pattern: EXCiTED
 - name: Radarr - iNTENTiON
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - iNTENTiON
+  pattern: iNTENTiON
 - name: Radarr - JaJunge
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - JaJunge
+  pattern: JaJunge
 - name: Radarr - MGE
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - MGE
+  pattern: MGE
 - name: Radarr - MisFiTS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - MisFiTS
+  pattern: MisFiTS
 - name: Radarr - RUBBiSH
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - RUBBiSH
+  pattern: RUBBiSH
 - name: Radarr - RWP
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - RWP
+  pattern: RWP
 - name: Radarr - TMSF
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TMSF
+  pattern: TMSF
 - name: Radarr - TV4A
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TV4A
+  pattern: TV4A
 - name: Radarr - HAXE
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HAXE
+  pattern: HAXE
 - name: Radarr - muhHD
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - muhHD
+  pattern: muhHD
 - name: Radarr - RiLE
   negate: false
   required: false
@@ -118,42 +118,42 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ENDSTATiON
+  pattern: ENDSTATiON
 - name: Radarr - HDARCHiV
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HDARCHiV
+  pattern: HDARCHiV
 - name: Radarr - PL3X
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PL3X
+  pattern: PL3X
 - name: Radarr - WATCHABLE
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - WATCHABLE
+  pattern: WATCHABLE
 - name: Radarr - OHD
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - OHD
+  pattern: OHD
 - name: Radarr - ENCOUNTERS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ENCOUNTERS
+  pattern: ENCOUNTERS
 - name: Radarr - RSG
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - RSG
+  pattern: RSG
 - name: Radarr - OCA
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - OCA
+  pattern: OCA
 - name: Radarr - UNDERTAKERS
   negate: false
   required: false
@@ -163,7 +163,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - CDP
+  pattern: CDP
 - name: Radarr - SAViOURHD
   negate: false
   required: false

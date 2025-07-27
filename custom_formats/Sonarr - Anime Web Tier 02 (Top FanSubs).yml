@@ -24,90 +24,90 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - 0x539
+  pattern: '0x539'
 - name: Sonarr - Asakura
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Asakura
+  pattern: Asakura
 - name: Sonarr - Cyan
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Cyan
+  pattern: Cyan
 - name: Sonarr - Dae
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Dae
+  pattern: Radarr - Dae
 - name: Sonarr - Foxtrot
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Foxtrot
+  pattern: Foxtrot
 - name: Sonarr - Gao
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Gao
+  pattern: Gao
 - name: Sonarr - GSK_kun
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - GSK_kun
+  pattern: GSK_kun
 - name: Sonarr - Half-Baked
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Half-Baked
+  pattern: Half-Baked
 - name: Sonarr - HatSubs
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - HatSubs
+  pattern: HatSubs
 - name: Sonarr - MALD
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - MALD
+  pattern: MALD
 - name: Sonarr - MTBB
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - MTBB
+  pattern: MTBB
 - name: Sonarr - Not-Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Not-Vodes
+  pattern: Not-Vodes
 - name: Sonarr - Okay-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Okay-Subs
+  pattern: Okay-Subs
 - name: Sonarr - Pizza
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Pizza
+  pattern: Pizza
 - name: Sonarr - Reza
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Reza
+  pattern: Reza
 - name: Sonarr - Slyfox
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Slyfox
+  pattern: Slyfox
 - name: Sonarr - SoLCE
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SoLCE
+  pattern: SoLCE
 - name: Sonarr - Tenshi
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Tenshi
+  pattern: Tenshi
 tests: []

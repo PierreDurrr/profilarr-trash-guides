@@ -19,220 +19,220 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - 0x539
+  pattern: '0x539'
 - name: Radarr - Alt
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Alt
+  pattern: Alt
 - name: Radarr - ARC
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ARC
+  pattern: ARC
 - name: Radarr - Arid
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Arid
+  pattern: Arid
 - name: Radarr - aro
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - aro
+  pattern: aro
 - name: Radarr - Baws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Baws
+  pattern: Baws
 - name: Radarr - BKC
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - BKC
+  pattern: BKC
 - name: Radarr - Brrrrrrr
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Brrrrrrr
+  pattern: Brrrrrrr
 - name: Radarr - Chotab
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Chotab
+  pattern: Chotab
 - name: Radarr - Crow
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Crow
+  pattern: Crow
 - name: Radarr - CsS
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - CsS
+  pattern: CsS
 - name: Radarr - CUNNY
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - CUNNY
+  pattern: CUNNY
 - name: Radarr - Cunnysseur
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Cunnysseur
+  pattern: Cunnysseur
 - name: Radarr - D-Z0N3
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - D-Z0N3
+  pattern: D-Z0N3
 - name: Radarr - Dae
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Dae
+  pattern: Dae
 - name: Radarr - Datte13
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Datte13
+  pattern: Datte13
 - name: Radarr - DemiHuman
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - DemiHuman
+  pattern: DemiHuman
 - name: Radarr - Drag
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Drag
+  pattern: Drag
 - name: Radarr - FLFL
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - FLFL
+  pattern: FLFL
 - name: Radarr - hydes
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - hydes
+  pattern: hydes
 - name: Radarr - iKaos
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - iKaos
+  pattern: iKaos
 - name: Radarr - JySzE
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - JySzE
+  pattern: JySzE
 - name: Radarr - LostYears
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - LostYears
+  pattern: LostYears
 - name: Radarr - Lulu
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Lulu
+  pattern: Lulu
 - name: Radarr - Matsya
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Matsya
+  pattern: Matsya
 - name: Radarr - MC
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - MC
+  pattern: MC
 - name: Radarr - McBalls
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - McBalls
+  pattern: McBalls
 - name: Radarr - Metal
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Metal
+  pattern: Metal
 - name: Radarr - Moxie
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Moxie
+  pattern: Moxie
 - name: Radarr - MTBB
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - MTBB
+  pattern: MTBB
 - name: Radarr - Not-Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Not-Vodes
+  pattern: Not-Vodes
 - name: Radarr - Noyr
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Noyr
+  pattern: Noyr
 - name: Radarr - NSDAB
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NSDAB
+  pattern: NSDAB
 - name: Radarr - Okay-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Okay-Subs
+  pattern: Okay-Subs
 - name: Radarr - pog42
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - pog42
+  pattern: pog42
 - name: Radarr - pyroneko
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - pyroneko
+  pattern: pyroneko
 - name: Radarr - RAI
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - RAI
+  pattern: RAI
 - name: Radarr - Reza
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Reza
+  pattern: Reza
 - name: Radarr - Shimatta
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Shimatta
+  pattern: Shimatta
 - name: Radarr - Smoke
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Smoke
+  pattern: Smoke
 - name: Radarr - Spirale
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Spirale
+  pattern: Spirale
 - name: Radarr - Thighs
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Thighs
+  pattern: Thighs
 - name: Radarr - UDF
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - UDF
+  pattern: UDF
 - name: Radarr - Yuki
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Yuki
+  pattern: Yuki
 tests: []

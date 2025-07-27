@@ -1,5 +1,0 @@
-name: Sonarr - Canadian French
-pattern: \b(VFQ|\d{3,4}p[ .]CAN|(?<=MULTi[ .])FR(A|ENCH))\b
-description: ''
-tags: []
-tests: []

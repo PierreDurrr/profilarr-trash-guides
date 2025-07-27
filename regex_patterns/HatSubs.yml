@@ -1,0 +1,5 @@
+name: HatSubs
+pattern: \b(HatSubs)\b
+description: ''
+tags: []
+tests: []

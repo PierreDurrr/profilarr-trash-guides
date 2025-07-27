@@ -24,220 +24,220 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - 0x539
+  pattern: '0x539'
 - name: Sonarr - Alt
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Alt
+  pattern: Alt
 - name: Sonarr - ARC
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ARC
+  pattern: ARC
 - name: Sonarr - Arid
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Arid
+  pattern: Arid
 - name: Sonarr - aro
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - aro
+  pattern: aro
 - name: Sonarr - Baws
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Baws
+  pattern: Baws
 - name: Sonarr - BKC
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - BKC
+  pattern: BKC
 - name: Sonarr - Brrrrrrr
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Brrrrrrr
+  pattern: Brrrrrrr
 - name: Sonarr - Chotab
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Chotab
+  pattern: Chotab
 - name: Sonarr - Crow
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Crow
+  pattern: Crow
 - name: Sonarr - CsS
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - CsS
+  pattern: CsS
 - name: Sonarr - CUNNY
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - CUNNY
+  pattern: CUNNY
 - name: Sonarr - Cunnysseur
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Cunnysseur
+  pattern: Cunnysseur
 - name: Sonarr - D-Z0N3
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - D-Z0N3
+  pattern: D-Z0N3
 - name: Sonarr - Dae
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Dae
+  pattern: Dae
 - name: Sonarr - Datte13
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Datte13
+  pattern: Datte13
 - name: Sonarr - DemiHuman
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - DemiHuman
+  pattern: DemiHuman
 - name: Sonarr - Drag
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Drag
+  pattern: Drag
 - name: Sonarr - FLFL
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - FLFL
+  pattern: FLFL
 - name: Sonarr - hydes
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - hydes
+  pattern: hydes
 - name: Sonarr - iKaos
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - iKaos
+  pattern: iKaos
 - name: Sonarr - JySzE
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - JySzE
+  pattern: JySzE
 - name: Sonarr - LostYears
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - LostYears
+  pattern: LostYears
 - name: Sonarr - Lulu
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Lulu
+  pattern: Lulu
 - name: Sonarr - Matsya
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Matsya
+  pattern: Matsya
 - name: Sonarr - MC
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - MC
+  pattern: MC
 - name: Sonarr - McBalls
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - McBalls
+  pattern: McBalls
 - name: Sonarr - Metal
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Metal
+  pattern: Metal
 - name: Sonarr - Moxie
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Moxie
+  pattern: Moxie
 - name: Sonarr - MTBB
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - MTBB
+  pattern: MTBB
 - name: Sonarr - Not-Vodes
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Not-Vodes
+  pattern: Not-Vodes
 - name: Sonarr - Noyr
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Noyr
+  pattern: Noyr
 - name: Sonarr - NSDAB
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - NSDAB
+  pattern: NSDAB
 - name: Sonarr - Okay-Subs
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Okay-Subs
+  pattern: Okay-Subs
 - name: Sonarr - pog42
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - pog42
+  pattern: pog42
 - name: Sonarr - pyroneko
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - pyroneko
+  pattern: pyroneko
 - name: Sonarr - RAI
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - RAI
+  pattern: RAI
 - name: Sonarr - Reza
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Reza
+  pattern: Reza
 - name: Sonarr - Shimatta
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Shimatta
+  pattern: Shimatta
 - name: Sonarr - Smoke
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Smoke
+  pattern: Smoke
 - name: Sonarr - Spirale
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Spirale
+  pattern: Spirale
 - name: Sonarr - Thighs
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Thighs
+  pattern: Thighs
 - name: Sonarr - UDF
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - UDF
+  pattern: UDF
 - name: Sonarr - Yuki
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Yuki
+  pattern: Yuki
 tests: []

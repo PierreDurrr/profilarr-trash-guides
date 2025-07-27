@@ -1,5 +1,0 @@
-name: Radarr - ATMOS
-pattern: \bATMOS(\b|\d)
-description: ''
-tags: []
-tests: []

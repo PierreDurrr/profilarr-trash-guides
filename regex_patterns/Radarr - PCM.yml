@@ -1,5 +1,0 @@
-name: Radarr - PCM
-pattern: \b(l?)PCM(\b|\d)
-description: ''
-tags: []
-tests: []

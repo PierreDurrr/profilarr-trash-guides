@@ -19,5 +19,5 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - MULTi
+  pattern: MULTi
 tests: []

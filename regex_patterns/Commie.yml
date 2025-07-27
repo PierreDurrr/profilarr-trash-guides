@@ -1,0 +1,5 @@
+name: Commie
+pattern: \b(Commie)\b
+description: ''
+tags: []
+tests: []

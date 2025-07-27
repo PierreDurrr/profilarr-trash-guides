@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - x|h265
+  pattern: x|h265
 - name: Sonarr - Not Remux
   negate: true
   required: true

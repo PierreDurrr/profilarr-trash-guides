@@ -188,32 +188,32 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - AVTOMAT
+  pattern: AVTOMAT
 - name: Radarr - iSSEYMiYAKE
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - iSSEYMiYAKE
+  pattern: iSSEYMiYAKE
 - name: Radarr - TVP
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TVP
+  pattern: TVP
 - name: Radarr - AIDA
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - AIDA
+  pattern: AIDA
 - name: Radarr - UTOPiA
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - UTOPiA
+  pattern: UTOPiA
 - name: Radarr - FRAGGERS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FRAGGERS
+  pattern: FRAGGERS
 - name: Radarr - REEL
   negate: false
   required: false

@@ -24,30 +24,30 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - 9volt
+  pattern: 9volt
 - name: Sonarr - GJM
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - GJM
+  pattern: GJM
 - name: Sonarr - Kaleido
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Kaleido
+  pattern: Kaleido
 - name: Sonarr - Kantai
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Kantai
+  pattern: Kantai
 - name: Sonarr - SobsPlease
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SobsPlease
+  pattern: SobsPlease
 - name: Sonarr - Some-Stuffs
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Some-Stuffs
+  pattern: Some-Stuffs
 tests: []

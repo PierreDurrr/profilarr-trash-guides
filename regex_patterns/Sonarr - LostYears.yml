@@ -1,5 +1,0 @@
-name: Sonarr - LostYears
-pattern: \b(LostYears)\b
-description: ''
-tags: []
-tests: []

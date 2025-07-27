@@ -1,5 +1,0 @@
-name: Radarr - ARC
-pattern: \[ARC\]|-ARC\b
-description: ''
-tags: []
-tests: []

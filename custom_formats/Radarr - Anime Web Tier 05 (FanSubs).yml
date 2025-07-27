@@ -19,30 +19,30 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - 9volt
+  pattern: 9volt
 - name: Radarr - GJM
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - GJM
+  pattern: GJM
 - name: Radarr - Kaleido
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Kaleido
+  pattern: Kaleido
 - name: Radarr - Kantai
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Kantai
+  pattern: Kantai
 - name: Radarr - SobsPlease
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SobsPlease
+  pattern: SobsPlease
 - name: Radarr - Some-Stuffs
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Some-Stuffs
+  pattern: Some-Stuffs
 tests: []

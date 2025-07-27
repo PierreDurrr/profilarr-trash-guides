@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - HBO
+  pattern: HBO
 - name: Sonarr - HBO Rename
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - HBO Rename
+  pattern: HBO Rename
 - name: Sonarr - WEBDL
   negate: false
   required: false

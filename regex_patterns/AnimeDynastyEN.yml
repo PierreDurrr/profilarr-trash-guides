@@ -1,0 +1,5 @@
+name: AnimeDynastyEN
+pattern: \b(AnimeDynastyEN)\b
+description: ''
+tags: []
+tests: []

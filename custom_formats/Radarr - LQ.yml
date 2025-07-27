@@ -63,7 +63,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - BTM
+  pattern: BTM
 - name: Radarr - C1NEM4
   negate: false
   required: false
@@ -113,12 +113,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - CTFOH
+  pattern: CTFOH
 - name: Radarr - d3g
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - d3g
+  pattern: d3g
 - name: Radarr - DDR
   negate: false
   required: false
@@ -158,12 +158,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FGT
+  pattern: FGT
 - name: Radarr - FMD
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FMD
+  pattern: FMD
 - name: Radarr - FRDS
   negate: false
   required: false
@@ -218,7 +218,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - iNTENSO
+  pattern: iNTENSO
 - name: Radarr - iPlanet
   negate: false
   required: false
@@ -228,7 +228,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - iVy
+  pattern: iVy
 - name: Radarr - jennaortega
   negate: false
   required: false
@@ -238,12 +238,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - JFF
+  pattern: JFF
 - name: Radarr - KC
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - KC
+  pattern: KC
 - name: Radarr - KiNGDOM
   negate: false
   required: false
@@ -293,7 +293,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - MeGusta
+  pattern: MeGusta
 - name: Radarr - mHD
   negate: false
   required: false
@@ -343,12 +343,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - OFT
+  pattern: OFT
 - name: Radarr - Pahe
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Pahe
+  pattern: Pahe
 - name: Radarr - PATOMiEL
   negate: false
   required: false
@@ -363,7 +363,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PSA
+  pattern: PSA
 - name: Radarr - PTNK
   negate: false
   required: false
@@ -403,12 +403,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SHD
+  pattern: SHD
 - name: Radarr - ShieldBearer
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ShieldBearer
+  pattern: ShieldBearer
 - name: Radarr - STUTTERSHIT
   negate: false
   required: false
@@ -423,7 +423,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TBS
+  pattern: TBS
 - name: Radarr - TEKNO3D
   negate: false
   required: false

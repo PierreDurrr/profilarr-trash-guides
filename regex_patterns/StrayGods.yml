@@ -1,0 +1,5 @@
+name: StrayGods
+pattern: \b(StrayGods)\b
+description: ''
+tags: []
+tests: []

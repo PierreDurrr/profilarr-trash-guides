@@ -25,17 +25,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - ARK01
+  pattern: ARK01
 - name: Sonarr - BONBON
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - BONBON
+  pattern: BONBON
 - name: Sonarr - FRATERNiTY
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FRATERNiTY
+  pattern: FRATERNiTY
 - name: Sonarr - FTMVHD
   negate: false
   required: false
@@ -45,10 +45,10 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HeavyWeight
+  pattern: HeavyWeight
 - name: Sonarr - Psaro
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Psaro
+  pattern: Psaro
 tests: []

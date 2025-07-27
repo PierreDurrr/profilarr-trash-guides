@@ -9,12 +9,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - iTunes
+  pattern: iTunes
 - name: Radarr - iT Rename
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - iT Rename
+  pattern: iT Rename
 - name: Radarr - WEBDL
   negate: false
   required: false

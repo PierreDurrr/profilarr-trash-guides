@@ -8,30 +8,30 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - Dolby Digital Plus
+  pattern: Dolby Digital Plus
 - name: Sonarr - Not TrueHD-ATMOS
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - TrueHD-ATMOS
+  pattern: Radarr - TrueHD-ATMOS
 - name: Sonarr - Not DTS
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - DTS
+  pattern: Not DTS
 - name: Sonarr - Not FLAC
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - FLAC
+  pattern: Not FLAC
 - name: Sonarr - Not AAC
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - AAC
+  pattern: Not AAC
 - name: Sonarr - Not PCM
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - PCM
+  pattern: PCM
 tests: []

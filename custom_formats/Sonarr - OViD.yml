@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - OViD
+  pattern: OViD
 - name: Sonarr - WEBDL
   negate: false
   required: false

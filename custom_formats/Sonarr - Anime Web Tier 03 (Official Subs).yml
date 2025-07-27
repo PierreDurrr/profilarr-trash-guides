@@ -24,15 +24,15 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SubsPlease
+  pattern: SubsPlease
 - name: Sonarr - SubsPlus+
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SubsPlus+
+  pattern: SubsPlus+
 - name: Sonarr - ZR
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ZR
+  pattern: Radarr - ZR
 tests: []

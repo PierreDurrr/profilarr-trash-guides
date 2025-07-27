@@ -8,10 +8,10 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - VOSTFR
+  pattern: VOSTFR
 - name: Radarr - SUBFRENCH
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SUBFRENCH
+  pattern: SUBFRENCH
 tests: []

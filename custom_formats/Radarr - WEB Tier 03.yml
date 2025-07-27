@@ -19,7 +19,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - BYNDR
+  pattern: BYNDR
 - name: Radarr - GNOMiSSiON
   negate: false
   required: false
@@ -29,17 +29,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NINJACENTRAL
+  pattern: NINJACENTRAL
 - name: Radarr - NPMS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NPMS
+  pattern: NPMS
 - name: Radarr - ROCCaT
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ROCCaT
+  pattern: ROCCaT
 - name: Radarr - SiGMA
   negate: false
   required: false
@@ -49,10 +49,10 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SLiGNOME
+  pattern: SLiGNOME
 - name: Radarr - SwAgLaNdEr
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SwAgLaNdEr
+  pattern: SwAgLaNdEr
 tests: []

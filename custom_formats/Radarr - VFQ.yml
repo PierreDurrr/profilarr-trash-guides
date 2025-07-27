@@ -8,7 +8,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - Canadian French
+  pattern: Canadian French
 - name: Radarr - Not VF2
   negate: true
   required: true

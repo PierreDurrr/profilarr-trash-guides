@@ -1,5 +1,0 @@
-name: Sonarr - iTunes
-pattern: \b(it|itunes)\b(?=[ ._-]web[ ._-]?(dl|rip)\b)
-description: ''
-tags: []
-tests: []

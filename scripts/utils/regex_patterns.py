@@ -2,7 +2,9 @@ import os
 import json
 import yaml
 
-from utils.strings import get_regex_pattern_name
+from utils.strings import get_regex_pattern_name, get_safe_name
+
+duplicate_regex_patterns = {}
 
 
 def collect_regex_pattern(service, file_name, input_json, output_dir):
@@ -18,11 +20,43 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
             continue
 
         pattern = spec.get("fields", {}).get("value")
+
         if not pattern:
             print(f"No pattern found in {file_name} for {implementation}")
             continue
+
         # Compose YAML structure
         name = spec.get("name", "")
+
+        existing_pattern_name = duplicate_regex_patterns.get(pattern)
+        if existing_pattern_name:
+            existing_pattern_path = os.path.join(
+                output_dir,
+                f"{existing_pattern_name}.yml",
+            )
+            if (
+                os.path.exists(existing_pattern_path)
+                and service.capitalize() not in existing_pattern_path
+            ):
+                new_path = os.path.join(
+                    output_dir,
+                    f"{get_safe_name(name)}.yml",
+                )
+                os.rename(
+                    existing_pattern_path,
+                    new_path,
+                )
+                with open(new_path, "r+", encoding="utf-8") as f:
+                    yml_data = yaml.safe_load(f)
+                    yml_data["name"] = get_safe_name(name)
+                    f.seek(0)
+                    yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
+                    f.truncate()
+                duplicate_regex_patterns[pattern] = get_safe_name(name)
+            continue
+        else:
+            duplicate_regex_patterns[pattern] = get_regex_pattern_name(service, name)
+
         yml_data = {
             "name": get_regex_pattern_name(service, name),
             "pattern": pattern,
@@ -57,3 +91,5 @@ def collect_regex_patterns(service, input_dir, output_dir):
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
             collect_regex_pattern(service, file_stem, data, output_dir)
+
+    return duplicate_regex_patterns

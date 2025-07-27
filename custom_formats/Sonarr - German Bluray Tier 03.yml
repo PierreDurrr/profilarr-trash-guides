@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - RobertDeNiro
+  pattern: RobertDeNiro
 - name: Sonarr - HQC
   negate: false
   required: false
@@ -19,7 +19,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HDSource
+  pattern: HDSource
 - name: Sonarr - Bluray
   negate: false
   required: true

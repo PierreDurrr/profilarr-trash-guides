@@ -8,15 +8,15 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - TVS iTunesHD
+  pattern: TVS iTunesHD
 - name: Radarr - Jellyfin-Plex
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Jellyfin-Plex
+  pattern: Jellyfin-Plex
 - name: Radarr - Double German Tag
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Double German Tag
+  pattern: Double German Tag
 tests: []

@@ -8,5 +8,5 @@ conditions:
   negate: true
   required: false
   type: release_group
-  pattern: Radarr - No Parsed Group
+  pattern: No Parsed Group
 tests: []

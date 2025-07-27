@@ -1,0 +1,5 @@
+name: O
+pattern: ^(OBSTACLE|OohLaLa|OOKAMI)$
+description: ''
+tags: []
+tests: []

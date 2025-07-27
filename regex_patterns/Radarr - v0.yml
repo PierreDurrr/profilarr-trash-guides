@@ -1,5 +1,0 @@
-name: Radarr - v0
-pattern: (\b|\d)(v0)\b
-description: ''
-tags: []
-tests: []

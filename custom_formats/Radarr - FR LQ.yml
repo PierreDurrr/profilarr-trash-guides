@@ -8,20 +8,20 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Ads-Watermarks
+  pattern: Ads-Watermarks
 - name: Radarr - Bad-False releases
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Bad-False releases
+  pattern: Bad-False releases
 - name: Radarr - DeTAG-ReTAG
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - DeTAG-ReTAG
+  pattern: DeTAG-ReTAG
 - name: Radarr - Other reasons
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Other reasons
+  pattern: Other reasons
 tests: []

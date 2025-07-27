@@ -19,12 +19,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - playBD
+  pattern: playBD
 - name: Radarr - SiCFoI
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SiCFoI
+  pattern: SiCFoI
 - name: Radarr - SURFINBIRD
   negate: false
   required: false
@@ -34,5 +34,5 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TEPES
+  pattern: TEPES
 tests: []

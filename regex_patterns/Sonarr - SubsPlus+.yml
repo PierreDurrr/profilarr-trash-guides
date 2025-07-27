@@ -1,5 +1,0 @@
-name: Sonarr - SubsPlus+
-pattern: \b(SubsPlus\+?)\b
-description: ''
-tags: []
-tests: []

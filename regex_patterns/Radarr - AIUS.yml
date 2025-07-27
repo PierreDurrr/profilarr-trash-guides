@@ -1,5 +1,0 @@
-name: Radarr - AIUS
-pattern: \b(AIUS)\b
-description: ''
-tags: []
-tests: []

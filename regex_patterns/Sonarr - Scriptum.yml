@@ -1,5 +1,0 @@
-name: Sonarr - Scriptum
-pattern: \b(Scriptum)\b
-description: ''
-tags: []
-tests: []

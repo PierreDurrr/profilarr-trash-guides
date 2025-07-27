@@ -24,55 +24,55 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - AkihitoSubs
+  pattern: AkihitoSubs
 - name: Sonarr - Arukoru
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Arukoru
+  pattern: Arukoru
 - name: Sonarr - EDGE
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - EDGE
+  pattern: EDGE
 - name: Sonarr - EMBER
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - EMBER
+  pattern: EMBER
 - name: Sonarr - GHOST
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - GHOST
+  pattern: GHOST
 - name: Sonarr - Judas
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Judas
+  pattern: Judas
 - name: Sonarr - naiyas
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - naiyas
+  pattern: naiyas
 - name: Sonarr - Nep_Blanc
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Nep_Blanc
+  pattern: Nep_Blanc
 - name: Sonarr - Prof
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Prof
+  pattern: Prof
 - name: Sonarr - Shirσ
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Shirσ
+  pattern: Shirσ
 - name: Sonarr - YURASAKA
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - YURASAKA
+  pattern: YURASAKA
 tests: []

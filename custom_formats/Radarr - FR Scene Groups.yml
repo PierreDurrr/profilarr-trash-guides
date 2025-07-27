@@ -8,7 +8,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: 'Radarr - #'
+  pattern: '#'
 - name: Radarr - A
   negate: false
   required: false
@@ -18,57 +18,57 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - B
+  pattern: B
 - name: Radarr - C
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - C
+  pattern: C
 - name: Radarr - D
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - D
+  pattern: D
 - name: Radarr - E
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - E
+  pattern: E
 - name: Radarr - F
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - F
+  pattern: F
 - name: Radarr - G
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - G
+  pattern: G
 - name: Radarr - H
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - H
+  pattern: H
 - name: Radarr - J
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - J
+  pattern: J
 - name: Radarr - K
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - K
+  pattern: K
 - name: Radarr - L
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - L
+  pattern: L
 - name: Radarr - M
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - M
+  pattern: M
 - name: Radarr - N
   negate: false
   required: false
@@ -78,7 +78,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - O
+  pattern: O
 - name: Radarr - P
   negate: false
   required: false
@@ -88,7 +88,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - R
+  pattern: R
 - name: Radarr - S
   negate: false
   required: false
@@ -98,7 +98,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - T
+  pattern: T
 - name: Radarr - U
   negate: false
   required: false
@@ -108,15 +108,15 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - V
+  pattern: V
 - name: Radarr - W
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - W
+  pattern: W
 - name: Radarr - Z
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Z
+  pattern: Z
 tests: []

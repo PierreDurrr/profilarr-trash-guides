@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - My5
+  pattern: My5
 - name: Radarr - WEBDL
   negate: false
   required: false

@@ -8,15 +8,15 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TVS iTunesHD
+  pattern: TVS iTunesHD
 - name: Sonarr - Jellyfin-Plex
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Jellyfin-Plex
+  pattern: Jellyfin-Plex
 - name: Sonarr - Double German Tag
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Double German Tag
+  pattern: Double German Tag
 tests: []

@@ -1,0 +1,5 @@
+name: AniVoid
+pattern: \b(AniVoid)\b
+description: ''
+tags: []
+tests: []

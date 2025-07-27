@@ -8,45 +8,45 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Darki
+  pattern: Darki
 - name: Sonarr - Delivroozzi
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Delivroozzi
+  pattern: Delivroozzi
 - name: Sonarr - Fuceo
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Fuceo
+  pattern: Fuceo
 - name: Sonarr - Good Job! Alexis
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Good Job! Alexis
+  pattern: Good Job! Alexis
 - name: Sonarr - Punisher694
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Punisher694
+  pattern: Punisher694
 - name: Sonarr - SR-71
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SR-71
+  pattern: SR-71
 - name: Sonarr - T3KASHi
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - T3KASHi
+  pattern: T3KASHi
 - name: Sonarr - TANOSHii
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TANOSHii
+  pattern: TANOSHii
 - name: Sonarr - Tsundere-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Tsundere-Raws
+  pattern: Tsundere-Raws
 tests: []

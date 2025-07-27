@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - Remaster
+  pattern: Remaster
 - name: Radarr - 4K
   negate: false
   required: true

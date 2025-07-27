@@ -8,10 +8,10 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - 10bit
+  pattern: 10bit
 - name: Sonarr - hi10p
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - hi10p
+  pattern: hi10p
 tests: []

@@ -14,35 +14,35 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FtLi
+  pattern: FtLi
 - name: Sonarr - Goldenyann
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Goldenyann
+  pattern: Goldenyann
 - name: Sonarr - HDForever
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HDForever
+  pattern: HDForever
 - name: Sonarr - HeavyWeight
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - HeavyWeight
+  pattern: HeavyWeight
 - name: Sonarr - ONLY
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - ONLY
+  pattern: ONLY
 - name: Sonarr - Psaro
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Psaro
+  pattern: Psaro
 - name: Sonarr - TyrellCorp
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TyrellCorp
+  pattern: TyrellCorp
 tests: []

@@ -1,5 +1,0 @@
-name: Radarr - Hybrid
-pattern: \bhybrid(\b|\d)
-description: ''
-tags: []
-tests: []

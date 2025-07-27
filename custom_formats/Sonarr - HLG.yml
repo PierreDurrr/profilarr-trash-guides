@@ -8,25 +8,25 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - HLG
+  pattern: Not HLG
 - name: Sonarr - Not DV
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - DV
+  pattern: Not DV
 - name: Sonarr - Not HDR10+
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - HDR10+
+  pattern: Not HDR10+
 - name: Sonarr - Not HDR10
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - HDR10
+  pattern: Not HDR10
 - name: Sonarr - Not PQ
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - PQ
+  pattern: PQ
 tests: []

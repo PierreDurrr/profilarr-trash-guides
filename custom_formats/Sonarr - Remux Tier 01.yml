@@ -14,20 +14,20 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - BLURANiUM
+  pattern: BLURANiUM
 - name: Sonarr - BMF
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - BMF
+  pattern: BMF
 - name: Sonarr - FraMeSToR
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - FraMeSToR
+  pattern: Radarr - FraMeSToR
 - name: Sonarr - PmP
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - PmP
+  pattern: PmP
 tests: []

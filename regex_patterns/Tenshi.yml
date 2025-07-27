@@ -1,0 +1,5 @@
+name: Tenshi
+pattern: \[tenshi\]|-tenshi$
+description: ''
+tags: []
+tests: []

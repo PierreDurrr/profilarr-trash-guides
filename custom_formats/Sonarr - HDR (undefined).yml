@@ -10,7 +10,7 @@ conditions:
   negate: false
   required: true
   type: release_group
-  pattern: Sonarr - RlsGrp (Missing HDR)
+  pattern: Not RlsGrp (Missing HDR)
 - name: Sonarr - 2160p
   negate: false
   required: true
@@ -20,30 +20,30 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - DV
+  pattern: Not DV
 - name: Sonarr - Not HDR10
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - HDR10
+  pattern: Not HDR10
 - name: Sonarr - Not HDR10+
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - HDR10+
+  pattern: Not HDR10+
 - name: Sonarr - Not HLG
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - HLG
+  pattern: Not HLG
 - name: Sonarr - Not PQ
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - PQ
+  pattern: PQ
 - name: Sonarr - Not SDR
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - SDR
+  pattern: Not SDR
 tests: []

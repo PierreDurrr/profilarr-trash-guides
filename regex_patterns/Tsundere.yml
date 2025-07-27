@@ -1,0 +1,5 @@
+name: Tsundere
+pattern: \[Tsundere\]|-Tsundere(?!-)\b
+description: ''
+tags: []
+tests: []

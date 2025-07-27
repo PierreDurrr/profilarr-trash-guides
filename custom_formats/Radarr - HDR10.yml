@@ -8,7 +8,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Radarr - HDR10
+  pattern: Not HDR10
 - name: Radarr - Not DV HDR10
   negate: true
   required: true
@@ -18,20 +18,20 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - PQ
+  pattern: PQ
 - name: Radarr - Not HLG
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - HLG
+  pattern: Not HLG
 - name: Radarr - Not SDR
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - SDR
+  pattern: Not SDR
 - name: Radarr - Not DV
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - DV
+  pattern: Not DV
 tests: []

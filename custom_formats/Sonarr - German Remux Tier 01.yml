@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TvR
+  pattern: TvR
 - name: Sonarr - pmHD
   negate: false
   required: false
@@ -19,17 +19,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - NIMA4K
+  pattern: NIMA4K
 - name: Sonarr - QfG
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - QfG
+  pattern: QfG
 - name: Sonarr - TSCC
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - TSCC
+  pattern: TSCC
 - name: Sonarr - Remux
   negate: false
   required: true

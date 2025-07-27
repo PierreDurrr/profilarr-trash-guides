@@ -15,17 +15,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - DepraveD
+  pattern: DepraveD
 - name: Radarr - Flights
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Flights
+  pattern: Flights
 - name: Radarr - SasukeducK
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SasukeducK
+  pattern: SasukeducK
 - name: Radarr - tarunk9c
   negate: false
   required: false
@@ -40,17 +40,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - VECTOR
+  pattern: VECTOR
 - name: Radarr - HDR10+
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - HDR10+
+  pattern: Not HDR10+
 - name: Radarr - DV
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - DV
+  pattern: Not DV
 - name: Radarr - Not WEBDL
   negate: true
   required: true

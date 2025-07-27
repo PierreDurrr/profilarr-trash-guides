@@ -8,20 +8,20 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FuN
+  pattern: FuN
 - name: Radarr - w00t
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - w00t
+  pattern: w00t
 - name: Radarr - GTF
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - GTF
+  pattern: GTF
 - name: Radarr - JellyfinPlex
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - JellyfinPlex
+  pattern: JellyfinPlex
 tests: []

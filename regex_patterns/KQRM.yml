@@ -1,0 +1,5 @@
+name: KQRM
+pattern: \b(KQRM)\b
+description: ''
+tags: []
+tests: []

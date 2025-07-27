@@ -1,5 +1,0 @@
-name: Sonarr - Ranger
-pattern: \[Ranger\]|-Ranger\b
-description: ''
-tags: []
-tests: []

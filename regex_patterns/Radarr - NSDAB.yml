@@ -1,5 +1,0 @@
-name: Radarr - NSDAB
-pattern: \b(NSDAB)\b
-description: ''
-tags: []
-tests: []

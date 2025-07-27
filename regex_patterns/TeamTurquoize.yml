@@ -1,0 +1,5 @@
+name: TeamTurquoize
+pattern: \b(TeamTurquoize)\b
+description: ''
+tags: []
+tests: []

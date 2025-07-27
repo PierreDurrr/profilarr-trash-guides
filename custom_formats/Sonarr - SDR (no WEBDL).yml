@@ -15,12 +15,12 @@ conditions:
   negate: true
   required: false
   type: release_title
-  pattern: Sonarr - HDR Formats
+  pattern: HDR Formats
 - name: Sonarr - SDR
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SDR
+  pattern: Radarr - SDR
 - name: Sonarr - Not WEBDL
   negate: true
   required: true

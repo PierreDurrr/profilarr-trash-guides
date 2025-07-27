@@ -41,12 +41,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HONE
+  pattern: HONE
 - name: Radarr - PTer
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PTer
+  pattern: PTer
 - name: Radarr - SPHD
   negate: false
   required: false

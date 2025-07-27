@@ -8,15 +8,15 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Sonarr - 5.1 Surround
+  pattern: 5.1 Surround
 - name: Sonarr - Not 7.1 Surround
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - 7.1 Surround
+  pattern: 7.1 Surround
 - name: Sonarr - Not Low Channel Count
   negate: true
   required: true
   type: release_title
-  pattern: Sonarr - Low Channel Count
+  pattern: Not Low Channel Count
 tests: []

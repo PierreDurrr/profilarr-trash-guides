@@ -24,220 +24,220 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - 9volt
+  pattern: 9volt
 - name: Sonarr - AOmundson
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - AOmundson
+  pattern: AOmundson
 - name: Sonarr - Asakura
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Asakura
+  pattern: Asakura
 - name: Sonarr - ASO
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ASO
+  pattern: ASO
 - name: Sonarr - Bolshevik
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Bolshevik
+  pattern: Bolshevik
 - name: Sonarr - Bulldog
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Bulldog
+  pattern: Bulldog
 - name: Sonarr - Cait-Sidhe
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Cait-Sidhe
+  pattern: Cait-Sidhe
 - name: Sonarr - Chihiro
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Chihiro
+  pattern: Chihiro
 - name: Sonarr - Chimera
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Chimera
+  pattern: Chimera
 - name: Sonarr - CoalGirls
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - CoalGirls
+  pattern: CoalGirls
 - name: Sonarr - Commie
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Commie
+  pattern: Commie
 - name: Sonarr - D3
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - D3
+  pattern: D3
 - name: Sonarr - Davinci
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Davinci
+  pattern: Davinci
 - name: Sonarr - deanzel
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - deanzel
+  pattern: deanzel
 - name: Sonarr - Doki
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Doki
+  pattern: Doki
 - name: Sonarr - Dragon-Releases
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Dragon-Releases
+  pattern: Dragon-Releases
 - name: Sonarr - Foxtrot
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Foxtrot
+  pattern: Foxtrot
 - name: Sonarr - GHS
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - GHS
+  pattern: GHS
 - name: Sonarr - HaiveMind
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - HaiveMind
+  pattern: HaiveMind
 - name: Sonarr - hchcsen
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - hchcsen
+  pattern: hchcsen
 - name: Sonarr - Iznjie Biznjie
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Iznjie Biznjie
+  pattern: Iznjie Biznjie
 - name: Sonarr - Kaleido
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Kaleido
+  pattern: Kaleido
 - name: Sonarr - karios
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - karios
+  pattern: karios
 - name: Sonarr - kBaraka
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - kBaraka
+  pattern: kBaraka
 - name: Sonarr - kmplx
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - kmplx
+  pattern: kmplx
 - name: Sonarr - Koitern
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Koitern
+  pattern: Koitern
 - name: Sonarr - Koten_Gars
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Koten_Gars
+  pattern: Koten_Gars
 - name: Sonarr - Kulot
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Kulot
+  pattern: Kulot
 - name: Sonarr - Lia
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Lia
+  pattern: Lia
 - name: Sonarr - MCLR
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - MCLR
+  pattern: MCLR
 - name: Sonarr - mottoj
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - mottoj
+  pattern: mottoj
 - name: Sonarr - NH
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - NH
+  pattern: NH
 - name: Sonarr - NTRM
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - NTRM
+  pattern: NTRM
 - name: Sonarr - Orphan
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Orphan
+  pattern: Orphan
 - name: Sonarr - RMX
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - RMX
+  pattern: RMX
 - name: Sonarr - SallySubs
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SallySubs
+  pattern: SallySubs
 - name: Sonarr - Scriptum
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Scriptum
+  pattern: Scriptum
 - name: Sonarr - ShadyCrab
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - ShadyCrab
+  pattern: ShadyCrab
 - name: Sonarr - SNSbu
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SNSbu
+  pattern: SNSbu
 - name: Sonarr - SOLA
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - SOLA
+  pattern: SOLA
 - name: Sonarr - THORA
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - THORA
+  pattern: THORA
 - name: Sonarr - Tsundere
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Tsundere
+  pattern: Tsundere
 - name: Sonarr - UWU
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - UWU
+  pattern: UWU
 - name: Sonarr - xPearse
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - xPearse
+  pattern: xPearse
 tests: []

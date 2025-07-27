@@ -29,7 +29,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - WeebPinn
+  pattern: WeebPinn
 - name: Radarr - MAMA
   negate: false
   required: false

@@ -31,7 +31,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - BMF
+  pattern: BMF
 - name: Radarr - c0kE
   negate: false
   required: false
@@ -51,7 +51,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - CtrlHD
+  pattern: CtrlHD
 - name: Radarr - D-Z0N3
   negate: false
   required: false
@@ -66,17 +66,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - decibeL
+  pattern: decibeL
 - name: Radarr - DON
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - DON
+  pattern: DON
 - name: Radarr - EbP
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - EbP
+  pattern: EbP
 - name: Radarr - EDPH
   negate: false
   required: false
@@ -101,7 +101,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PTer
+  pattern: PTer
 - name: Radarr - TayTO
   negate: false
   required: false

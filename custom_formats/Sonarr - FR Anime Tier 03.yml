@@ -8,65 +8,65 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - BLV
+  pattern: BLV
 - name: Sonarr - D3T3R10R1TY
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - D3T3R10R1TY
+  pattern: D3T3R10R1TY
 - name: Sonarr - Galactic
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Galactic
+  pattern: Galactic
 - name: Sonarr - HANAMi
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - HANAMi
+  pattern: HANAMi
 - name: Sonarr - kazuizui
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - kazuizui
+  pattern: kazuizui
 - name: Sonarr - KHAYA
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - KHAYA
+  pattern: KHAYA
 - name: Sonarr - KushEnthusiast
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - KushEnthusiast
+  pattern: KushEnthusiast
 - name: Sonarr - matheousse
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - matheousse
+  pattern: matheousse
 - name: Sonarr - Monkey-D.Lulu
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Monkey-D.Lulu
+  pattern: Monkey-D.Lulu
 - name: Sonarr - NeoSG
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - NeoSG
+  pattern: NeoSG
 - name: Sonarr - RONiN
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - RONiN
+  pattern: RONiN
 - name: Sonarr - TheFantastics
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TheFantastics
+  pattern: TheFantastics
 - name: Sonarr - TTN
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - TTN
+  pattern: TTN
 tests: []

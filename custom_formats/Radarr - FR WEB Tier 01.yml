@@ -19,17 +19,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - BONBON
+  pattern: BONBON
 - name: Radarr - FCK
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FCK
+  pattern: FCK
 - name: Radarr - FW
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FW
+  pattern: FW
 - name: Radarr - FoX
   negate: false
   required: false
@@ -39,12 +39,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FRATERNiTY
+  pattern: FRATERNiTY
 - name: Radarr - FrIeNdS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - FrIeNdS
+  pattern: FrIeNdS
 - name: Radarr - MOONLY
   negate: false
   required: false
@@ -54,35 +54,35 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - MTDK
+  pattern: MTDK
 - name: Radarr - PATOPESTO
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PATOPESTO
+  pattern: PATOPESTO
 - name: Radarr - Psaro
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - Psaro
+  pattern: Psaro
 - name: Radarr - RG
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - RG
+  pattern: RG
 - name: Radarr - SUPPLY
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - SUPPLY
+  pattern: SUPPLY
 - name: Radarr - TFA
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TFA
+  pattern: TFA
 - name: Radarr - TiNA
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TiNA
+  pattern: TiNA
 tests: []

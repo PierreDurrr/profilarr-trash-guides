@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ZeroTwo
+  pattern: ZeroTwo
 - name: Radarr - ZeroTwo Aliases
   negate: false
   required: false
@@ -19,22 +19,22 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TSCC
+  pattern: TSCC
 - name: Radarr - TvR
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TvR
+  pattern: TvR
 - name: Radarr - NIMA4K
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NIMA4K
+  pattern: NIMA4K
 - name: Radarr - TVS
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TVS
+  pattern: TVS
 - name: Radarr - D02KU
   negate: false
   required: false
@@ -44,37 +44,37 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - PXL
+  pattern: PXL
 - name: Radarr - QfG
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - QfG
+  pattern: QfG
 - name: Radarr - CNY
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - CNY
+  pattern: CNY
 - name: Radarr - WeebPinn
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - WeebPinn
+  pattern: WeebPinn
 - name: Radarr - MEDiATHEK
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - MEDiATHEK
+  pattern: MEDiATHEK
 - name: Radarr - RiiR
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - RiiR
+  pattern: RiiR
 - name: Radarr - RiiR Aliases
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - RiiR Aliases
+  pattern: RiiR Aliases
 - name: Radarr - WebDL
   negate: false
   required: false

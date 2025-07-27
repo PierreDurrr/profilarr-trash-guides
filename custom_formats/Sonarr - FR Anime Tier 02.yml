@@ -8,45 +8,45 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Aoi-Project
+  pattern: Aoi-Project
 - name: Sonarr - Elecman
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Elecman
+  pattern: Elecman
 - name: Sonarr - FUJiSAN
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - FUJiSAN
+  pattern: FUJiSAN
 - name: Sonarr - GundamGuy
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - GundamGuy
+  pattern: GundamGuy
 - name: Sonarr - IssouCorp
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - IssouCorp
+  pattern: IssouCorp
 - name: Sonarr - KAF
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - KAF
+  pattern: KAF
 - name: Sonarr - Nagutos
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Nagutos
+  pattern: Nagutos
 - name: Sonarr - OECUF
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - OECUF
+  pattern: OECUF
 - name: Sonarr - XSPITFIRE911
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - XSPITFIRE911
+  pattern: XSPITFIRE911
 tests: []

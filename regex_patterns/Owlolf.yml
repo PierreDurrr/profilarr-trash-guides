@@ -1,0 +1,5 @@
+name: Owlolf
+pattern: \b(Owlolf)\b
+description: ''
+tags: []
+tests: []

@@ -1,0 +1,5 @@
+name: KH
+pattern: \b(KH)\b
+description: ''
+tags: []
+tests: []

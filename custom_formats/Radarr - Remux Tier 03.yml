@@ -19,17 +19,17 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - decibeL
+  pattern: decibeL
 - name: Radarr - EPSiLON
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - EPSiLON
+  pattern: EPSiLON
 - name: Radarr - HiFi
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - HiFi
+  pattern: HiFi
 - name: Radarr - iFT
   negate: false
   required: false
@@ -39,12 +39,12 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - KRaLiMaRKo
+  pattern: KRaLiMaRKo
 - name: Radarr - NTb
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - NTb
+  pattern: NTb
 - name: Radarr - PTP
   negate: false
   required: false
@@ -64,5 +64,5 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - TRiToN
+  pattern: TRiToN
 tests: []

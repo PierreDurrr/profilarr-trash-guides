@@ -9,7 +9,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - VECTOR
+  pattern: VECTOR
 - name: Sonarr - MULTiPLEX
   negate: false
   required: false

@@ -1,5 +1,0 @@
-name: Radarr - KAF
-pattern: \b(KAF)\b
-description: ''
-tags: []
-tests: []

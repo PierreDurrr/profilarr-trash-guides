@@ -8,110 +8,110 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - AsukaRaws
+  pattern: AsukaRaws
 - name: Radarr - Beatrice-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Beatrice-Raws
+  pattern: Beatrice-Raws
 - name: Radarr - Daddy-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Daddy-Raws
+  pattern: Daddy-Raws
 - name: Radarr - Fumi-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Fumi-Raws
+  pattern: Fumi-Raws
 - name: Radarr - IrizaRaws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - IrizaRaws
+  pattern: IrizaRaws
 - name: Radarr - Kawaiika-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Kawaiika-Raws
+  pattern: Kawaiika-Raws
 - name: Radarr - km
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - km
+  pattern: km
 - name: Radarr - Koi-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Koi-Raws
+  pattern: Koi-Raws
 - name: Radarr - Lilith-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Lilith-Raws
+  pattern: Lilith-Raws
 - name: Radarr - LowPower-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - LowPower-Raws
+  pattern: LowPower-Raws
 - name: Radarr - Moozzi2
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Moozzi2
+  pattern: Moozzi2
 - name: Radarr - NanakoRaws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NanakoRaws
+  pattern: NanakoRaws
 - name: Radarr - NC-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - NC-Raws
+  pattern: NC-Raws
 - name: Radarr - neko-raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - neko-raws
+  pattern: neko-raws
 - name: Radarr - New-raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - New-raws
+  pattern: New-raws
 - name: Radarr - Ohys-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Ohys-Raws
+  pattern: Ohys-Raws
 - name: Radarr - Pandoratv-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Pandoratv-Raws
+  pattern: Pandoratv-Raws
 - name: Radarr - Raws-Maji
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Raws-Maji
+  pattern: Raws-Maji
 - name: Radarr - ReinForce
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - ReinForce
+  pattern: ReinForce
 - name: Radarr - Scryous-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Scryous-Raws
+  pattern: Scryous-Raws
 - name: Radarr - Seicher-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Seicher-Raws
+  pattern: Seicher-Raws
 - name: Radarr - Shiniori-Raws
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - Shiniori-Raws
+  pattern: Shiniori-Raws
 tests: []

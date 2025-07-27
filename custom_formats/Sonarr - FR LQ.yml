@@ -8,20 +8,20 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Ads-Watermarks
+  pattern: Ads-Watermarks
 - name: Sonarr - Bad-False releases
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Bad-False releases
+  pattern: Bad-False releases
 - name: Sonarr - DeTAG-ReTAG
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - DeTAG-ReTAG
+  pattern: DeTAG-ReTAG
 - name: Sonarr - Other reasons
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - Other reasons
+  pattern: Other reasons
 tests: []

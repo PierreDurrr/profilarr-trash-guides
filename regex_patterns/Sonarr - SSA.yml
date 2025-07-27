@@ -1,5 +1,0 @@
-name: Sonarr - SSA
-pattern: \b(SSA)\b
-description: ''
-tags: []
-tests: []
