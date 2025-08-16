@@ -1,4 +1,4 @@
-# Unofficial TRaSH-Guides Database Repository
+# Unofficial TRaSH-Guides Database for Profilarr
 
 This repository hosts [TRaSH-Guides's](https://trash-guides.info/) unofficial database for Profilarr containing:
 
