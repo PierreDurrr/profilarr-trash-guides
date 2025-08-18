@@ -1,0 +1,6 @@
+name: Sonarr - BiOMA
+pattern: ^(BiOMA)$
+description: ''
+tags:
+- Sonarr
+tests: []

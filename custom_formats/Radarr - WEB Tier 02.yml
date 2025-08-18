@@ -15,6 +15,11 @@ conditions:
   required: false
   type: source
   source: webrip
+- name: Radarr - BYNDR
+  negate: false
+  required: false
+  type: release_group
+  pattern: BYNDR
 - name: Radarr - dB
   negate: false
   required: false

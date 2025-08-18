@@ -129,6 +129,11 @@ conditions:
   required: false
   type: release_group
   pattern: Radarr - DNL
+- name: Radarr - DRX
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - DRX
 - name: Radarr - E
   negate: false
   required: false

@@ -5,11 +5,6 @@ tags:
 - Release Group
 - Source
 conditions:
-- name: Sonarr - BYNDR
-  negate: false
-  required: false
-  type: release_group
-  pattern: BYNDR
 - name: Sonarr - DRACULA
   negate: false
   required: false

@@ -20,6 +20,11 @@ conditions:
   required: false
   type: release_group
   pattern: Sonarr - BTW
+- name: Sonarr - BYNDR
+  negate: false
+  required: false
+  type: release_group
+  pattern: BYNDR
 - name: Sonarr - Chotab
   negate: false
   required: false
