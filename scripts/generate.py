@@ -12,6 +12,7 @@ import yaml
 from utils.custom_formats import collect_custom_formats
 from utils.regex_patterns import collect_regex_patterns
 from utils.profiles import collect_profiles
+from utils.media_management import collect_media_management
 
 # Prevent aliases from showing up
 yaml.Dumper.ignore_aliases = lambda *args: True
@@ -45,6 +46,10 @@ def main():
     profiles_dir = os.path.join(output_dir, "profiles")
     os.makedirs(profiles_dir, exist_ok=True)
     clear_output_dir(profiles_dir)
+
+    media_management_dir = os.path.join(output_dir, "media_management")
+    os.makedirs(media_management_dir, exist_ok=True)
+    clear_output_dir(media_management_dir)
 
     for service in ["radarr", "sonarr"]:
         trash_custom_formats_dir = os.path.join(input_dir, f"{service}/cf")
@@ -82,6 +87,8 @@ def main():
             profiles_dir,
             trash_id_to_scoring_mapping,
         )
+
+    collect_media_management(input_dir, media_management_dir)
 
 
 if __name__ == "__main__":
