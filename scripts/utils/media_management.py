@@ -25,7 +25,7 @@ BASE_NAMING_CONFIG = {
         "multiEpisodeStyle": 5,
     },
 }
-BASE_QUALITY_DEFINITIONS = {"radarr": {}, "sonarr": {}}
+BASE_QUALITY_DEFINITIONS = {"qualityDefinitions": {"radarr": {}, "sonarr": {}}}
 
 
 def collect_misc_config(output_dir):
@@ -86,7 +86,9 @@ def collect_quality_definitions(input_dir, output_dir):
                 "min": quality["min"],
                 "preferred": quality["preferred"],
             }
-            output_structure["radarr"][quality["quality"]] = profilarr_quality
+            output_structure["qualityDefinitions"]["radarr"][
+                quality["quality"]
+            ] = profilarr_quality
 
     sonarr_input_file_path = os.path.join(
         input_dir, "sonarr", "quality-size", "series.json"
@@ -99,7 +101,9 @@ def collect_quality_definitions(input_dir, output_dir):
                 "min": quality["min"],
                 "preferred": quality["preferred"],
             }
-            output_structure["sonarr"][quality["quality"]] = profilarr_quality
+            output_structure["qualityDefinitions"]["sonarr"][
+                quality["quality"]
+            ] = profilarr_quality
 
     with open(output_file, "w", encoding="utf-8") as f:
         yaml.dump(output_structure, f, sort_keys=False, allow_unicode=True)
