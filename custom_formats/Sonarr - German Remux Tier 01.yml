@@ -34,5 +34,5 @@ conditions:
   negate: false
   required: true
   type: source
-  source: blurayraw
+  source: bluray_raw
 tests: []

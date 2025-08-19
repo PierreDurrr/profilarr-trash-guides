@@ -15,7 +15,7 @@ conditions:
   negate: true
   required: true
   type: source
-  source: blurayraw
+  source: bluray_raw
 - name: Sonarr - Not 2160p
   negate: true
   required: true

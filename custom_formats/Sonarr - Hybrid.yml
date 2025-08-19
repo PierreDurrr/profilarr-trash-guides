@@ -20,7 +20,7 @@ conditions:
   negate: false
   required: false
   type: source
-  source: blurayraw
+  source: bluray_raw
 - name: Sonarr - Bluray
   negate: false
   required: false
