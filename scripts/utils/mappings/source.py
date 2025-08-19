@@ -12,11 +12,11 @@ SOURCE_MAPPING = {
     },
     "sonarr": {
         1: "television",
-        2: "televisionraw",
+        2: "television_raw",
         3: "web_dl",
         4: "webrip",
         5: "dvd",
         6: "bluray",
-        7: "blurayraw",
+        7: "bluray_raw",
     },
 }
