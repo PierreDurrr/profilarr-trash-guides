@@ -5,10 +5,11 @@ This repository hosts [TRaSH-Guides's](https://trash-guides.info/) unofficial da
 - Regex Patterns
 - Custom Formats
 - Quality Profiles
+- Media Management
 
 The goal of this repository is to generate a Profilarr database based on TRaSH-Guides configuration without any changes. If you want anything custom you can commit it yourself within the Profilarr UI.
 
-The repo will be automatically kept in sync with the TRaSH-Guides repository with a potential for updates on a daily basis.
+The repo will be automatically kept in sync with the TRaSH-Guides repository. A Github Action will run every day pulling the latest version of TRaSH-Guides and running the scripts committing and pushing any changes.
 
 ## Scripts
 
