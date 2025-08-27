@@ -85,6 +85,11 @@ conditions:
   required: false
   type: release_title
   pattern: GSK_kun
+- name: Radarr - Headpatter
+  negate: false
+  required: false
+  type: release_title
+  pattern: Headpatter
 - name: Radarr - Holomux
   negate: false
   required: false

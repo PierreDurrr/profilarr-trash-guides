@@ -90,6 +90,11 @@ conditions:
   required: false
   type: release_title
   pattern: GSK_kun
+- name: Sonarr - Headpatter
+  negate: false
+  required: false
+  type: release_title
+  pattern: Headpatter
 - name: Sonarr - Holomux
   negate: false
   required: false
