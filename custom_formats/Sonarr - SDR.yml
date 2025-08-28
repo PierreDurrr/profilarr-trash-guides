@@ -19,5 +19,5 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Radarr - SDR
+  pattern: SDR
 tests: []

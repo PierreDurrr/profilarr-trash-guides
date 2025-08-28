@@ -42,7 +42,7 @@ conditions:
   negate: true
   required: true
   type: release_title
-  pattern: Radarr - SDR
+  pattern: SDR
 - name: Radarr - Not WEBDL
   negate: true
   required: true

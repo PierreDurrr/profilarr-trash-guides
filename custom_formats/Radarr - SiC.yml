@@ -30,5 +30,5 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Not DV
+  pattern: Dolby Vision
 tests: []

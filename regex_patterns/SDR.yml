@@ -1,12 +1,8 @@
-name: Not SDR
+name: SDR
 pattern: \bSDR\b
 description: ''
 tags:
 - Radarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
 - Sonarr
 - Sonarr
 tests: []

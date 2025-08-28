@@ -1,12 +1,7 @@
-name: Not DV HLG
+name: DV HLG
 pattern: \b(DV[ .]HLG)\b
 description: ''
 tags:
 - Radarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
 - Sonarr
 tests: []

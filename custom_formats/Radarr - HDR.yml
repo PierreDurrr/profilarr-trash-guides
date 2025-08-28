@@ -2,47 +2,41 @@ name: Radarr - HDR
 description: '[Custom format from TRaSH-Guides.](https://trash-guides.info/Radarr/Radarr-collection-of-custom-formats#hdr)'
 tags:
 - Radarr
-- Release Group
 - Release Title
 conditions:
+- name: Radarr - DV With HDR10 fallback
+  negate: false
+  required: false
+  type: release_title
+  pattern: DV With HDR10 fallback
 - name: Radarr - HDR
   negate: false
-  required: true
+  required: false
   type: release_title
   pattern: Radarr - HDR
-- name: Radarr - Not DV
-  negate: true
-  required: true
+- name: Radarr - HDR10
+  negate: false
+  required: false
   type: release_title
-  pattern: Not DV
-- name: Radarr - Not HDR10
-  negate: true
-  required: true
+  pattern: HDR10
+- name: Radarr - HDR10+
+  negate: false
+  required: false
   type: release_title
-  pattern: Not HDR10
-- name: Radarr - Not HDR10+
-  negate: true
-  required: true
+  pattern: HDR10+
+- name: Radarr - HLG
+  negate: false
+  required: false
   type: release_title
-  pattern: Not HDR10+
-- name: Radarr - Not HLG
-  negate: true
-  required: true
-  type: release_title
-  pattern: Radarr - HLG
-- name: Radarr - Not PQ
-  negate: true
-  required: true
+  pattern: HLG
+- name: Radarr - PQ
+  negate: false
+  required: false
   type: release_title
   pattern: PQ
-- name: Radarr - Not RlsGrp (Missing HDR)
-  negate: true
-  required: true
-  type: release_group
-  pattern: Not RlsGrp (Missing HDR)
-- name: Radarr - Not SDR
-  negate: true
-  required: true
+- name: Radarr - RlsGrp (Missing HDR)
+  negate: false
+  required: false
   type: release_title
-  pattern: Not SDR
+  pattern: RlsGrp (Missing HDR)
 tests: []

@@ -45,12 +45,12 @@ conditions:
   negate: false
   required: false
   type: release_title
-  pattern: Not HDR10+
+  pattern: Radarr - HDR10+
 - name: Radarr - DV
   negate: false
   required: false
   type: release_title
-  pattern: Not DV
+  pattern: Dolby Vision
 - name: Radarr - Not WEBDL
   negate: true
   required: true

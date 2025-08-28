@@ -48,34 +48,12 @@ custom_formats:
   score: 1600
 - name: Radarr - DTS-ES
   score: 1500
-- name: Radarr - DV
-  score: 1500
-- name: Radarr - DV HDR10
-  score: 1500
-- name: Radarr - DV HDR10+
-  score: 1500
-- name: Radarr - DV HLG
-  score: 1500
-- name: Radarr - DV SDR
-  score: 1500
 - name: Radarr - DTS
   score: 1250
 - name: Radarr - AAC
   score: 1000
 - name: Radarr - DD
   score: 750
-- name: Radarr - HDR10+
-  score: 600
-- name: Radarr - HDR
-  score: 500
-- name: Radarr - HDR (undefined)
-  score: 500
-- name: Radarr - HDR10
-  score: 500
-- name: Radarr - HLG
-  score: 500
-- name: Radarr - PQ
-  score: 500
 - name: Radarr - 2160p
   score: 151
 - name: Radarr - 1080p

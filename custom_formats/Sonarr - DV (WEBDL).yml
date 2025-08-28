@@ -10,7 +10,7 @@ conditions:
   negate: false
   required: true
   type: release_title
-  pattern: Not DV
+  pattern: Dolby Vision
 - name: Sonarr - WEBDL
   negate: false
   required: false

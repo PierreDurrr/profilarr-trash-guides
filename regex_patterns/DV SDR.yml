@@ -1,12 +1,7 @@
-name: Not DV SDR
+name: DV SDR
 pattern: \b(DV[ .]SDR)\b
 description: ''
 tags:
 - Radarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
 - Sonarr
 tests: []

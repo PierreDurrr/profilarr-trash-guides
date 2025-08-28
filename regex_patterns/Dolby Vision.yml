@@ -1,15 +1,8 @@
-name: Not DV
+name: Dolby Vision
 pattern: \b(dv|dovi|dolby[ .]?v(ision)?)\b
 description: ''
 tags:
 - Radarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
-- Sonarr
 - Sonarr
 - Sonarr
 - Sonarr

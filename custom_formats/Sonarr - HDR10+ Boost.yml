@@ -6,32 +6,7 @@ tags:
 conditions:
 - name: Sonarr - HDR10+
   negate: false
-  required: true
+  required: false
   type: release_title
-  pattern: Not HDR10+
-- name: Sonarr - Not DV HDR10
-  negate: true
-  required: true
-  type: release_title
-  pattern: Radarr - DV HDR10
-- name: Sonarr - Not PQ
-  negate: true
-  required: true
-  type: release_title
-  pattern: PQ
-- name: Sonarr - Not HLG
-  negate: true
-  required: true
-  type: release_title
-  pattern: Not HLG
-- name: Sonarr - Not SDR
-  negate: true
-  required: true
-  type: release_title
-  pattern: Not SDR
-- name: Sonarr - Not DV
-  negate: true
-  required: true
-  type: release_title
-  pattern: Not DV
+  pattern: HDR10+
 tests: []
