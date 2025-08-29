@@ -9,14 +9,4 @@ conditions:
   required: false
   type: release_title
   pattern: Dolby Vision
-- name: Sonarr - DV HLG
-  negate: false
-  required: false
-  type: release_title
-  pattern: DV HLG
-- name: Sonarr - DV SDR
-  negate: false
-  required: false
-  type: release_title
-  pattern: DV SDR
 tests: []

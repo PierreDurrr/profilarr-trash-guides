@@ -1,7 +1,0 @@
-name: DV SDR
-pattern: \b(DV[ .]SDR)\b
-description: ''
-tags:
-- Radarr
-- Sonarr
-tests: []
