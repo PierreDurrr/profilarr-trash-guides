@@ -45,11 +45,6 @@ conditions:
   required: false
   type: release_title
   pattern: CBT
-- name: Radarr - CRUCiBLE
-  negate: false
-  required: false
-  type: release_title
-  pattern: CRUCiBLE
 - name: Radarr - CTR
   negate: false
   required: false
