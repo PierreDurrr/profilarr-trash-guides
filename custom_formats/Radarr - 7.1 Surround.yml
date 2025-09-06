@@ -9,16 +9,6 @@ conditions:
   required: true
   type: release_title
   pattern: 7.1 Surround
-- name: Radarr - 5.1 Surround
-  negate: true
-  required: true
-  type: release_title
-  pattern: 5.1 Surround
-- name: Radarr - 6.1 Surround
-  negate: true
-  required: true
-  type: release_title
-  pattern: 6.1 Surround
 - name: Radarr - Not Low Channel Count
   negate: true
   required: true

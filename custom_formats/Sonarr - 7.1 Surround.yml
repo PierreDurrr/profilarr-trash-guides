@@ -9,16 +9,6 @@ conditions:
   required: true
   type: release_title
   pattern: 7.1 Surround
-- name: Sonarr - 5.1 Surround
-  negate: true
-  required: true
-  type: release_title
-  pattern: 5.1 Surround
-- name: Sonarr - 6.1 Surround
-  negate: true
-  required: true
-  type: release_title
-  pattern: 6.1 Surround
 - name: Sonarr - Not Low Channel Count
   negate: true
   required: true
