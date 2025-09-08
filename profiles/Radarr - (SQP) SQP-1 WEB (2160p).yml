@@ -74,7 +74,7 @@ custom_formats:
   score: -10000
 - name: Radarr - DTS-HD MA
   score: -10000
-- name: Radarr - DV (WEBDL)
+- name: Radarr - DV (w-o HDR fallback)
   score: -10000
 - name: Radarr - Extras
   score: -10000
