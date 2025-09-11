@@ -40,6 +40,11 @@ conditions:
   required: false
   type: release_group
   pattern: Radarr - FraMeSToR
+- name: Radarr - PiRAMiDHEAD
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - PiRAMiDHEAD
 - name: Radarr - PmP
   negate: false
   required: false

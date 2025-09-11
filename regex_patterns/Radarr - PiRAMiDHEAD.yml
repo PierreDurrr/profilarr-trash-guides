@@ -1,0 +1,6 @@
+name: Radarr - PiRAMiDHEAD
+pattern: ^(PiRAMiDHEAD)$
+description: ''
+tags:
+- Radarr
+tests: []
