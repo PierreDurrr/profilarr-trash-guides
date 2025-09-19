@@ -1,6 +1,7 @@
-name: Sonarr - pmHD
-pattern: ^(pmHD)$
+name: RiLE
+pattern: ^(RiLE)$
 description: ''
 tags:
+- Radarr
 - Sonarr
 tests: []

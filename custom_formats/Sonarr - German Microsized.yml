@@ -29,4 +29,14 @@ conditions:
   required: false
   type: release_group
   pattern: JellyfinPlex
+- name: Sonarr - BB
+  negate: false
+  required: false
+  type: release_group
+  pattern: BB
+- name: Sonarr - 266ers
+  negate: false
+  required: false
+  type: release_group
+  pattern: 266ers
 tests: []

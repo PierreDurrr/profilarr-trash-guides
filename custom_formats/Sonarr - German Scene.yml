@@ -189,4 +189,19 @@ conditions:
   required: false
   type: release_group
   pattern: Sonarr - CDD
+- name: Sonarr - RiLE
+  negate: false
+  required: false
+  type: release_group
+  pattern: RiLE
+- name: Sonarr - CONTRiBUTiON
+  negate: false
+  required: false
+  type: release_group
+  pattern: CONTRiBUTiON
+- name: Sonarr - bi0hazard
+  negate: false
+  required: false
+  type: release_group
+  pattern: bi0hazard
 tests: []

@@ -15,6 +15,11 @@ conditions:
   required: false
   type: release_group
   pattern: Sonarr - HQC
+- name: Sonarr - RDR
+  negate: false
+  required: false
+  type: release_group
+  pattern: RDR
 - name: Sonarr - HDSource
   negate: false
   required: false

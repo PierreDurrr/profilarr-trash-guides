@@ -36,6 +36,11 @@ conditions:
   required: false
   type: release_group
   pattern: Radarr - paranoid06
+- name: Radarr - RocketHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - RocketHD
 - name: Radarr - Bluray
   negate: false
   required: true

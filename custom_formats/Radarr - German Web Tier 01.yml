@@ -75,6 +75,16 @@ conditions:
   required: false
   type: release_group
   pattern: RiiR Aliases
+- name: Radarr - WalterBishop
+  negate: false
+  required: false
+  type: release_group
+  pattern: WalterBishop
+- name: Radarr - pmHD
+  negate: false
+  required: false
+  type: release_group
+  pattern: pmHD
 - name: Radarr - WebDL
   negate: false
   required: false

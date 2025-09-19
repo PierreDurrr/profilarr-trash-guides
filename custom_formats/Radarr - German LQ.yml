@@ -219,4 +219,9 @@ conditions:
   required: false
   type: release_group
   pattern: Radarr - REEL
+- name: Radarr - VideoStar
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - VideoStar
 tests: []

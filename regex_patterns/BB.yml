@@ -1,6 +1,7 @@
-name: Radarr - RiLE
-pattern: ^(RiLE)$
+name: BB
+pattern: ^(BB)$
 description: ''
 tags:
 - Radarr
+- Sonarr
 tests: []

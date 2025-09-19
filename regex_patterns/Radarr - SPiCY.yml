@@ -1,5 +1,5 @@
-name: Radarr - pmHD
-pattern: (pmHD)$
+name: Radarr - SPiCY
+pattern: ^(SPiCY)$
 description: ''
 tags:
 - Radarr

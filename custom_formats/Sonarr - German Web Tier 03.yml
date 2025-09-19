@@ -30,6 +30,11 @@ conditions:
   required: false
   type: release_group
   pattern: iNCEPTION
+- name: Sonarr - RDR
+  negate: false
+  required: false
+  type: release_group
+  pattern: RDR
 - name: Sonarr - WebDL
   negate: false
   required: false

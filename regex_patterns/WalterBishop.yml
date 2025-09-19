@@ -1,0 +1,8 @@
+name: WalterBishop
+pattern: ^(WalterBishop)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+- Sonarr
+tests: []

@@ -50,6 +50,11 @@ conditions:
   required: false
   type: release_group
   pattern: WeebPinn
+- name: Sonarr - WalterBishop
+  negate: false
+  required: false
+  type: release_group
+  pattern: WalterBishop
 - name: Sonarr - Bluray
   negate: false
   required: true

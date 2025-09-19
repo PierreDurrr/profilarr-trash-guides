@@ -108,7 +108,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - RiLE
+  pattern: RiLE
 - name: Radarr - W4K
   negate: false
   required: false
@@ -169,4 +169,29 @@ conditions:
   required: false
   type: release_group
   pattern: Radarr - SAViOURHD
+- name: Radarr - RiLE
+  negate: false
+  required: false
+  type: release_group
+  pattern: RiLE
+- name: Radarr - CONTRiBUTiON
+  negate: false
+  required: false
+  type: release_group
+  pattern: CONTRiBUTiON
+- name: Radarr - GOREHOUNDS
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - GOREHOUNDS
+- name: Radarr - SPiCY
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - SPiCY
+- name: Radarr - bi0hazard
+  negate: false
+  required: false
+  type: release_group
+  pattern: bi0hazard
 tests: []

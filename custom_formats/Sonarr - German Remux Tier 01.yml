@@ -14,7 +14,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: Sonarr - pmHD
+  pattern: pmHD
 - name: Sonarr - NIMA4K
   negate: false
   required: false

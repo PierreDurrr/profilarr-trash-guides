@@ -24,4 +24,14 @@ conditions:
   required: false
   type: release_group
   pattern: JellyfinPlex
+- name: Radarr - BB
+  negate: false
+  required: false
+  type: release_group
+  pattern: BB
+- name: Radarr - 266ers
+  negate: false
+  required: false
+  type: release_group
+  pattern: 266ers
 tests: []

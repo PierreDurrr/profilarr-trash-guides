@@ -41,6 +41,11 @@ conditions:
   required: false
   type: release_group
   pattern: Radarr - FX
+- name: Radarr - RDR
+  negate: false
+  required: false
+  type: release_group
+  pattern: RDR
 - name: Radarr - Bluray
   negate: false
   required: true
