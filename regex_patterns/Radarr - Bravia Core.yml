@@ -1,5 +1,5 @@
 name: Radarr - Bravia Core
-pattern: \b(BCORE)\b
+pattern: \b(BCORE)\b|\b(\d{3,4}(p|i))\b.*\b(CORE)\b
 description: ''
 tags:
 - Radarr
