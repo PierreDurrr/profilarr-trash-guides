@@ -50,6 +50,11 @@ conditions:
   required: false
   type: release_title
   pattern: CBT
+- name: Sonarr - CRUCiBLE
+  negate: false
+  required: false
+  type: release_title
+  pattern: CRUCiBLE
 - name: Sonarr - CTR
   negate: false
   required: false

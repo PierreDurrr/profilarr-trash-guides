@@ -50,6 +50,11 @@ conditions:
   required: false
   type: release_title
   pattern: CTR
+- name: Radarr - CRUCiBLE
+  negate: false
+  required: false
+  type: release_title
+  pattern: CRUCiBLE
 - name: Radarr - CyC
   negate: false
   required: false
