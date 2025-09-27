@@ -49,7 +49,8 @@ def collect_regex_pattern(service, file_name, input_json, output_dir):
                 with open(new_path, "r+", encoding="utf-8") as f:
                     yml_data = yaml.safe_load(f)
                     yml_data["name"] = get_safe_name(name)
-                    yml_data["tags"].append(service.capitalize())
+                    if service.capitalize() not in yml_data["tags"]:
+                        yml_data["tags"].append(service.capitalize())
                     f.seek(0)
                     yaml.dump(yml_data, f, sort_keys=False, allow_unicode=True)
                     f.truncate()
