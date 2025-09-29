@@ -40,6 +40,11 @@ conditions:
   required: false
   type: release_title
   pattern: Doki
+- name: Radarr - KawaSubs
+  negate: false
+  required: false
+  type: release_title
+  pattern: KawaSubs
 - name: Radarr - Tsundere
   negate: false
   required: false

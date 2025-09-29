@@ -19,6 +19,11 @@ conditions:
   required: false
   type: release_title
   pattern: Regrade
+- name: Radarr - RW
+  negate: false
+  required: false
+  type: release_title
+  pattern: RW
 - name: Radarr - TheUpscaler
   negate: false
   required: false

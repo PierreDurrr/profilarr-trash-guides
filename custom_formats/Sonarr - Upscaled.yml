@@ -19,6 +19,11 @@ conditions:
   required: false
   type: release_title
   pattern: Regrade
+- name: Sonarr - RW
+  negate: false
+  required: false
+  type: release_title
+  pattern: RW
 - name: Sonarr - TheUpscaler
   negate: false
   required: false
