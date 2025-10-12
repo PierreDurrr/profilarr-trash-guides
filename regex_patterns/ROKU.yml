@@ -1,0 +1,7 @@
+name: ROKU
+pattern: \b(ROKU)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

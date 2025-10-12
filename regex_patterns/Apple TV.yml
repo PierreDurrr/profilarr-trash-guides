@@ -1,0 +1,7 @@
+name: Apple TV
+pattern: \b(ATV)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

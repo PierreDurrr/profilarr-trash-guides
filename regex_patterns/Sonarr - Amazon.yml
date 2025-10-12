@@ -1,6 +1,0 @@
-name: Sonarr - Amazon
-pattern: \b(amzn|amazon)\b
-description: ''
-tags:
-- Sonarr
-tests: []

@@ -6,21 +6,26 @@ tags:
 - Resolution
 - Source
 conditions:
-- name: Sonarr - Peacock TV
+- name: Sonarr - Disney+
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Peacock TV
-- name: Sonarr - Paramount+
+  pattern: Disney+
+- name: Sonarr - HBO Max
   negate: false
   required: false
   type: release_title
-  pattern: Sonarr - Paramount+
-- name: Sonarr - Hulu
+  pattern: HBO Max
+- name: Sonarr - HMAX Rename
   negate: false
   required: false
   type: release_title
-  pattern: Hulu
+  pattern: HMAX Rename
+- name: Sonarr - Netflix
+  negate: false
+  required: false
+  type: release_title
+  pattern: Netflix
 - name: Sonarr - WEBDL
   negate: false
   required: false

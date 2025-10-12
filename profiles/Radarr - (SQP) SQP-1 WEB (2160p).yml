@@ -44,10 +44,6 @@ custom_formats:
   score: 115
 - name: Radarr - 1080p
   score: 50
-- name: Radarr - CRiT
-  score: 20
-- name: Radarr - MA
-  score: 20
 - name: Radarr - Repack3
   score: 7
 - name: Radarr - Repack2
@@ -63,8 +59,6 @@ custom_formats:
 - name: Radarr - 3D
   score: -10000
 - name: Radarr - AV1
-  score: -10000
-- name: Radarr - BCORE
   score: -10000
 - name: Radarr - BR-DISK
   score: -10000

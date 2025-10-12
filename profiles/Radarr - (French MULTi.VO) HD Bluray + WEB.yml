@@ -32,12 +32,6 @@ custom_formats:
   score: 1500
 - name: 'Radarr - Language: Original + French'
   score: 500
-- name: Radarr - CRiT
-  score: 20
-- name: Radarr - MA
-  score: 20
-- name: Radarr - BCORE
-  score: 15
 - name: Radarr - Repack3
   score: 7
 - name: Radarr - Repack2

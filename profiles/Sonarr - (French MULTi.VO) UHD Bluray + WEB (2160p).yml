@@ -33,48 +33,16 @@ custom_formats:
   score: 1500
 - name: 'Sonarr - Language: Original + French'
   score: 500
-- name: Sonarr - ATVP
-  score: 100
-- name: Sonarr - DSNP
-  score: 100
-- name: Sonarr - MAX
-  score: 90
-- name: Sonarr - HMAX
-  score: 80
-- name: Sonarr - AMZN
-  score: 70
-- name: Sonarr - NF
-  score: 60
-- name: Sonarr - PCOK
-  score: 60
-- name: Sonarr - PMTP
-  score: 60
-- name: Sonarr - STAN
-  score: 60
-- name: Sonarr - CC
-  score: 50
-- name: Sonarr - DCU
-  score: 50
-- name: Sonarr - HBO
-  score: 50
-- name: Sonarr - HULU
-  score: 50
-- name: Sonarr - iT
-  score: 50
-- name: Sonarr - SHO
-  score: 50
-- name: Sonarr - SYFY
-  score: 50
+- name: Sonarr - HD Streaming Boost
+  score: 75
 - name: Sonarr - UHD Streaming Boost
-  score: 20
+  score: 75
 - name: Sonarr - Repack v3
   score: 7
 - name: Sonarr - Repack v2
   score: 6
 - name: Sonarr - Repack-Proper
   score: 5
-- name: Sonarr - UHD Streaming Cut
-  score: -20
 - name: Sonarr - AV1
   score: -10000
 - name: Sonarr - BR-DISK
