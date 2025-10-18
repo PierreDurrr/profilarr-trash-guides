@@ -15,6 +15,11 @@ conditions:
   required: false
   type: source
   source: webrip
+- name: Radarr - Dooky
+  negate: false
+  required: false
+  type: release_group
+  pattern: Dooky
 - name: Radarr - GNOMiSSiON
   negate: false
   required: false

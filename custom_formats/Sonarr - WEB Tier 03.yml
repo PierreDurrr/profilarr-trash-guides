@@ -10,6 +10,11 @@ conditions:
   required: false
   type: release_group
   pattern: Sonarr - DRACULA
+- name: Sonarr - Dooky
+  negate: false
+  required: false
+  type: release_group
+  pattern: Dooky
 - name: Sonarr - NINJACENTRAL
   negate: false
   required: false

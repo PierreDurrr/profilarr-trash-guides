@@ -1,0 +1,7 @@
+name: 12GaugeShotgun
+pattern: ^(12GaugeShotgun)$
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

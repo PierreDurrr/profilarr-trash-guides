@@ -10,11 +10,11 @@ conditions:
   required: true
   type: quality_modifier
   qualityModifier: remux
-- name: Radarr - ATELiER
+- name: Radarr - 12GaugeShotgun
   negate: false
   required: false
   type: release_group
-  pattern: Radarr - ATELiER
+  pattern: 12GaugeShotgun
 - name: Radarr - decibeL
   negate: false
   required: false

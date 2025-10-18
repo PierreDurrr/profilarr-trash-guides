@@ -10,6 +10,11 @@ conditions:
   required: true
   type: source
   source: bluray_raw
+- name: Sonarr - 12GaugeShotgun
+  negate: false
+  required: false
+  type: release_group
+  pattern: 12GaugeShotgun
 - name: Sonarr - decibeL
   negate: false
   required: false
