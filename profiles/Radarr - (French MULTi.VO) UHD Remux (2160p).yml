@@ -73,7 +73,7 @@ qualities:
 - id: 3
   name: Remux-2160p
 - id: -1
-  name: Bluray|WEB 1080p
+  name: Bluray|WEB 2160p
   description: ''
   qualities:
   - id: 5
