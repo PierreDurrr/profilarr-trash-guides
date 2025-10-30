@@ -30,6 +30,11 @@ conditions:
   required: false
   type: release_title
   pattern: Cyan
+- name: Radarr - Cytox
+  negate: false
+  required: false
+  type: release_title
+  pattern: Cytox
 - name: Radarr - Dae
   negate: false
   required: false
