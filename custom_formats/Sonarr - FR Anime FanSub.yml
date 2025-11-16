@@ -59,4 +59,9 @@ conditions:
   required: false
   type: release_title
   pattern: Yangire-Raws
+- name: Sonarr - Kaoru Hana FR (KHFR)
+  negate: false
+  required: false
+  type: release_title
+  pattern: Sonarr - Kaoru Hana FR (KHFR)
 tests: []
