@@ -1,6 +1,0 @@
-name: Radarr - PsO
-pattern: (PsO)$
-description: ''
-tags:
-- Radarr
-tests: []

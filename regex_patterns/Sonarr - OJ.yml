@@ -1,6 +1,0 @@
-name: Sonarr - OJ
-pattern: ^(OJ)$
-description: ''
-tags:
-- Sonarr
-tests: []

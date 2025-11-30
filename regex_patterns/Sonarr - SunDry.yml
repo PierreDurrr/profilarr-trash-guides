@@ -1,6 +1,0 @@
-name: Sonarr - SunDry
-pattern: ^(SunDry)$
-description: ''
-tags:
-- Sonarr
-tests: []

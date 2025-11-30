@@ -1,6 +1,0 @@
-name: Radarr - SunDry
-pattern: (SunDry)$
-description: ''
-tags:
-- Radarr
-tests: []

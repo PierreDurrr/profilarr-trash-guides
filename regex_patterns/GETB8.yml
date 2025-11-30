@@ -1,5 +1,5 @@
-name: CTFOH
-pattern: ^(CTFOH)$
+name: GETB8
+pattern: ^(GETB8)$
 description: ''
 tags:
 - Radarr

@@ -1,6 +1,0 @@
-name: Radarr - SHOWE
-pattern: (SHOWE)$
-description: ''
-tags:
-- Radarr
-tests: []

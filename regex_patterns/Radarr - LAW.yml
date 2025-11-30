@@ -1,6 +1,0 @@
-name: Radarr - LAW
-pattern: (LAW)$
-description: ''
-tags:
-- Radarr
-tests: []

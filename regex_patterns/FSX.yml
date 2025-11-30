@@ -1,5 +1,5 @@
-name: CTFOH
-pattern: ^(CTFOH)$
+name: FSX
+pattern: ^(FSX)$
 description: ''
 tags:
 - Radarr

@@ -1,6 +1,0 @@
-name: Radarr - LuRCH
-pattern: (LuRCH)$
-description: ''
-tags:
-- Radarr
-tests: []

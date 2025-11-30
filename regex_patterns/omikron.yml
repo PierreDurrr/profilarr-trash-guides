@@ -1,5 +1,5 @@
-name: CTFOH
-pattern: ^(CTFOH)$
+name: omikron
+pattern: ^(omikron)$
 description: ''
 tags:
 - Radarr

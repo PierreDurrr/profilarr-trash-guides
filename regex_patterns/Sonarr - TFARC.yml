@@ -1,6 +1,0 @@
-name: Sonarr - TFARC
-pattern: ^(TFARC)$
-description: ''
-tags:
-- Sonarr
-tests: []

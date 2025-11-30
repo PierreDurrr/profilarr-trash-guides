@@ -1,6 +1,0 @@
-name: Radarr - MBA
-pattern: (MBA)$
-description: ''
-tags:
-- Radarr
-tests: []

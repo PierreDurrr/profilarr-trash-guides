@@ -1,6 +1,0 @@
-name: Sonarr - EMVY
-pattern: ^(EMVY)$
-description: ''
-tags:
-- Sonarr
-tests: []

@@ -1,6 +1,0 @@
-name: Sonarr - FSX
-pattern: ^(FSX)$
-description: ''
-tags:
-- Sonarr
-tests: []

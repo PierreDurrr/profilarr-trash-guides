@@ -1,6 +1,0 @@
-name: Sonarr - HELD
-pattern: ^(HELD)$
-description: ''
-tags:
-- Sonarr
-tests: []

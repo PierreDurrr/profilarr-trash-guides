@@ -1,6 +1,0 @@
-name: Sonarr - LuRCH
-pattern: ^(LuRCH)$
-description: ''
-tags:
-- Sonarr
-tests: []

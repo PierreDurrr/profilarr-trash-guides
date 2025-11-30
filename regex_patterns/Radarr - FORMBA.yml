@@ -1,6 +1,0 @@
-name: Radarr - FORMBA
-pattern: (FORMBA)$
-description: ''
-tags:
-- Radarr
-tests: []

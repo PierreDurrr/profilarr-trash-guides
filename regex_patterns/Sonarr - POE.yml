@@ -1,6 +1,0 @@
-name: Sonarr - POE
-pattern: ^(POE)$
-description: ''
-tags:
-- Sonarr
-tests: []

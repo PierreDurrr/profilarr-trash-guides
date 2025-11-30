@@ -1,6 +1,0 @@
-name: Sonarr - Kristallprinz
-pattern: ^(Kristallprinz)$
-description: ''
-tags:
-- Sonarr
-tests: []

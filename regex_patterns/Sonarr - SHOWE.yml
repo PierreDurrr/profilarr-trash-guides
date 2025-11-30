@@ -1,6 +1,0 @@
-name: Sonarr - SHOWE
-pattern: ^(SHOWE)$
-description: ''
-tags:
-- Sonarr
-tests: []

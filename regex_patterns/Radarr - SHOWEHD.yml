@@ -1,6 +1,0 @@
-name: Radarr - SHOWEHD
-pattern: (SHOWEHD)$
-description: ''
-tags:
-- Radarr
-tests: []

@@ -1,6 +1,0 @@
-name: Sonarr - PL
-pattern: ^(PL)$
-description: ''
-tags:
-- Sonarr
-tests: []

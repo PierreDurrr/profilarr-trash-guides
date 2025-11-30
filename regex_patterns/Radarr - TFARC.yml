@@ -1,6 +1,0 @@
-name: Radarr - TFARC
-pattern: (TFARC)$
-description: ''
-tags:
-- Radarr
-tests: []

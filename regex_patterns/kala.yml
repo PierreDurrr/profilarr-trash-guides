@@ -1,5 +1,5 @@
-name: CTFOH
-pattern: ^(CTFOH)$
+name: kala
+pattern: ^(kala)$
 description: ''
 tags:
 - Radarr

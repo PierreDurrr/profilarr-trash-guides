@@ -1,6 +1,0 @@
-name: Sonarr - 1XBET
-pattern: ^(1XBET)$
-description: ''
-tags:
-- Sonarr
-tests: []

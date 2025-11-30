@@ -1,6 +1,0 @@
-name: Sonarr - MBA
-pattern: ^(MBA)$
-description: ''
-tags:
-- Sonarr
-tests: []

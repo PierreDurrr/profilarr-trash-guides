@@ -1,5 +1,5 @@
-name: CTFOH
-pattern: ^(CTFOH)$
+name: LAW
+pattern: ^(LAW)$
 description: ''
 tags:
 - Radarr

@@ -1,6 +1,0 @@
-name: Sonarr - Pendeti
-pattern: ^(Pendeti)$
-description: ''
-tags:
-- Sonarr
-tests: []

@@ -1,6 +1,0 @@
-name: Sonarr - LizardSquad
-pattern: ^(LizardSquad)$
-description: ''
-tags:
-- Sonarr
-tests: []

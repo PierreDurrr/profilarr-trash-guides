@@ -1,6 +1,0 @@
-name: Sonarr - MEGA
-pattern: ^(MEGA)$
-description: ''
-tags:
-- Sonarr
-tests: []

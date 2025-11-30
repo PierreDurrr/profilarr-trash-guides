@@ -1,6 +1,0 @@
-name: Radarr - PS
-pattern: (PS)$
-description: ''
-tags:
-- Radarr
-tests: []

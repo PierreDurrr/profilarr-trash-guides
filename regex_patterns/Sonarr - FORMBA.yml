@@ -1,6 +1,0 @@
-name: Sonarr - FORMBA
-pattern: ^(FORMBA)$
-description: ''
-tags:
-- Sonarr
-tests: []
