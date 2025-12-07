@@ -1,0 +1,7 @@
+name: PLAY Rename
+pattern: \[(Play)\b|\b(Play)\]
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []
