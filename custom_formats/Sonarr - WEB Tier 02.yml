@@ -160,11 +160,6 @@ conditions:
   required: false
   type: release_group
   pattern: Sonarr - PSiG
-- name: Sonarr - RAWR
-  negate: false
-  required: false
-  type: release_group
-  pattern: RAWR
 - name: Sonarr - ROCCaT
   negate: false
   required: false

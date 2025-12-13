@@ -80,6 +80,11 @@ conditions:
   required: false
   type: release_group
   pattern: QOQ
+- name: Sonarr - RAWR
+  negate: false
+  required: false
+  type: release_group
+  pattern: RAWR
 - name: Sonarr - RTN
   negate: false
   required: false

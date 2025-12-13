@@ -90,6 +90,11 @@ conditions:
   required: false
   type: release_group
   pattern: NTG
+- name: Radarr - RAWR
+  negate: false
+  required: false
+  type: release_group
+  pattern: RAWR
 - name: Radarr - SiC
   negate: false
   required: false
