@@ -40,6 +40,11 @@ conditions:
   required: false
   type: release_group
   pattern: VECTOR
+- name: Radarr - VisionXpert
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - VisionXpert
 - name: Radarr - HDR10+
   negate: false
   required: false
