@@ -35,6 +35,11 @@ conditions:
   required: false
   type: release_group
   pattern: BLUTONiUM
+- name: Radarr - BYNDR
+  negate: false
+  required: false
+  type: release_group
+  pattern: BYNDR
 - name: Radarr - CMRG
   negate: false
   required: false
