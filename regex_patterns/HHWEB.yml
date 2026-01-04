@@ -1,5 +1,5 @@
-name: Repack
-pattern: \b(Repack)\b
+name: HHWEB
+pattern: ^(HHWEB)$
 description: ''
 tags:
 - Radarr

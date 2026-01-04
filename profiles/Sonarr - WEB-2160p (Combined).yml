@@ -20,9 +20,9 @@ custom_formats:
   score: 75
 - name: Sonarr - UHD Streaming Boost
   score: 75
-- name: Sonarr - Repack v3
+- name: Sonarr - Repack3
   score: 7
-- name: Sonarr - Repack v2
+- name: Sonarr - Repack2
   score: 6
 - name: Sonarr - Repack-Proper
   score: 5

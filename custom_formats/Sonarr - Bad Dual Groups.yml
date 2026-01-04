@@ -109,6 +109,11 @@ conditions:
   required: false
   type: release_group
   pattern: tokar86a
+- name: Sonarr - TURG
+  negate: false
+  required: false
+  type: release_group
+  pattern: TURG
 - name: Sonarr - vnlls
   negate: false
   required: false

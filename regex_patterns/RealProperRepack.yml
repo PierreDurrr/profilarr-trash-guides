@@ -1,7 +1,0 @@
-name: RealProperRepack
-pattern: \b(REAL\.(PROPER|REPACK))\b
-description: ''
-tags:
-- Radarr
-- Sonarr
-tests: []

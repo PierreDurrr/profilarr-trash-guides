@@ -5,16 +5,31 @@ tags:
 - Release Group
 - Source
 conditions:
-- name: Sonarr - DRACULA
+- name: Sonarr - WEBDL
   negate: false
   required: false
-  type: release_group
-  pattern: Sonarr - DRACULA
+  type: source
+  source: web_dl
+- name: Sonarr - WEBRIP
+  negate: false
+  required: false
+  type: source
+  source: webrip
 - name: Sonarr - Dooky
   negate: false
   required: false
   type: release_group
   pattern: Dooky
+- name: Sonarr - DRACULA
+  negate: false
+  required: false
+  type: release_group
+  pattern: Sonarr - DRACULA
+- name: Sonarr - HHWEB
+  negate: false
+  required: false
+  type: release_group
+  pattern: HHWEB
 - name: Sonarr - NINJACENTRAL
   negate: false
   required: false
@@ -40,14 +55,4 @@ conditions:
   required: false
   type: release_group
   pattern: Sonarr - ViSiON
-- name: Sonarr - WEBDL
-  negate: false
-  required: false
-  type: source
-  source: web_dl
-- name: Sonarr - WEBRIP
-  negate: false
-  required: false
-  type: source
-  source: webrip
 tests: []

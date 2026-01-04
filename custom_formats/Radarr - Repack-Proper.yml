@@ -4,19 +4,14 @@ tags:
 - Radarr
 - Release Title
 conditions:
-- name: Radarr - Repack
+- name: Radarr - Repack-Proper-Rerip
   negate: false
-  required: false
+  required: true
   type: release_title
-  pattern: Repack
-- name: Radarr - Proper
-  negate: false
-  required: false
+  pattern: Repack-Proper-Rerip
+- name: Radarr - Not Higher Version Repack-Proper
+  negate: true
+  required: true
   type: release_title
-  pattern: Proper
-- name: Radarr - Rerip
-  negate: false
-  required: false
-  type: release_title
-  pattern: Rerip
+  pattern: Not Higher Version Repack-Proper
 tests: []

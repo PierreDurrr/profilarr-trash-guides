@@ -1,6 +1,0 @@
-name: Sonarr - Repack v3
-pattern: \b(repack3)\b
-description: ''
-tags:
-- Sonarr
-tests: []

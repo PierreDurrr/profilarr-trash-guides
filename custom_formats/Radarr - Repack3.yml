@@ -4,19 +4,9 @@ tags:
 - Radarr
 - Release Title
 conditions:
-- name: Radarr - Repack3
+- name: Radarr - Repack-Proper 3 or Real Real Proper-Repack
   negate: false
-  required: false
+  required: true
   type: release_title
-  pattern: Radarr - Repack3
-- name: Radarr - Proper3
-  negate: false
-  required: false
-  type: release_title
-  pattern: Radarr - Proper3
-- name: Radarr - RealRealProperRepack
-  negate: false
-  required: false
-  type: release_title
-  pattern: RealRealProperRepack
+  pattern: Radarr - Higher Version Repack-Proper
 tests: []

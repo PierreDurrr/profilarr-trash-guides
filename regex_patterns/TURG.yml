@@ -1,5 +1,5 @@
-name: Rerip
-pattern: \b(Rerip)\b
+name: TURG
+pattern: ^(TURG)$
 description: ''
 tags:
 - Radarr

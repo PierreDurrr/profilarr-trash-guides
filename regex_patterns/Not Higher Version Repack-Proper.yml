@@ -1,0 +1,7 @@
+name: Not Higher Version Repack-Proper
+pattern: \b((Repack|Proper)[2-3])\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

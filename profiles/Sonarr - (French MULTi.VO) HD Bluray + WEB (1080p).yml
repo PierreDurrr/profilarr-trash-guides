@@ -33,9 +33,9 @@ custom_formats:
   score: 1500
 - name: 'Sonarr - Language: Original + French'
   score: 500
-- name: Sonarr - Repack v3
+- name: Sonarr - Repack3
   score: 7
-- name: Sonarr - Repack v2
+- name: Sonarr - Repack2
   score: 6
 - name: Sonarr - Repack-Proper
   score: 5

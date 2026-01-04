@@ -1,0 +1,7 @@
+name: Repack-Proper-Rerip
+pattern: \b(Repack|Proper|Rerip)\b
+description: ''
+tags:
+- Radarr
+- Sonarr
+tests: []

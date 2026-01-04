@@ -109,6 +109,11 @@ conditions:
   required: false
   type: release_group
   pattern: tokar86a
+- name: Radarr - TURG
+  negate: false
+  required: false
+  type: release_group
+  pattern: TURG
 - name: Radarr - TvR
   negate: false
   required: false

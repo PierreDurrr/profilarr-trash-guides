@@ -4,19 +4,14 @@ tags:
 - Sonarr
 - Release Title
 conditions:
-- name: Sonarr - Repack
+- name: Sonarr - Repack-Proper-Rerip
   negate: false
-  required: false
+  required: true
   type: release_title
-  pattern: Repack
-- name: Sonarr - Proper
-  negate: false
-  required: false
+  pattern: Repack-Proper-Rerip
+- name: Sonarr - Not Higher Version Repack-Proper
+  negate: true
+  required: true
   type: release_title
-  pattern: Proper
-- name: Sonarr - Rerip
-  negate: false
-  required: false
-  type: release_title
-  pattern: Rerip
+  pattern: Not Higher Version Repack-Proper
 tests: []

@@ -1,7 +1,0 @@
-name: Proper
-pattern: \b(Proper)\b
-description: ''
-tags:
-- Radarr
-- Sonarr
-tests: []
