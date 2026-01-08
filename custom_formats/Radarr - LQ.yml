@@ -299,6 +299,11 @@ conditions:
   required: false
   type: release_group
   pattern: MeGusta
+- name: Radarr - Mesc
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - Mesc
 - name: Radarr - mHD
   negate: false
   required: false

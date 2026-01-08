@@ -1,0 +1,6 @@
+name: Radarr - Mesc
+pattern: ^(Mesc)$
+description: ''
+tags:
+- Radarr
+tests: []
