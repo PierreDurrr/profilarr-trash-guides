@@ -1,0 +1,74 @@
+[project]
+name = "profilarr-trash-guides"
+version = "0.1.0"
+description = "Generates a Profilarr database from TRaSH-Guides data"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pyyaml",
+    "markdownify",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "pytest-mock>=3.10",
+    "pylint>=3.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_functions = "test_*"
+python_classes = "Test*"
+addopts = "-v --tb=short --strict-markers"
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]
+
+[tool.pylint.main]
+py-version = "3.13"
+jobs = 4
+
+[tool.pylint.messages_control]
+disable = [
+    "C0103",  # invalid-name
+    "C0114",  # missing-module-docstring
+    "C0115",  # missing-class-docstring
+    "C0116",  # missing-function-docstring
+    "W0212",  # protected-access
+    "R0913",  # too-many-arguments
+    "R0902",  # too-many-instance-attributes
+    "C0301",  # line-too-long (use max-line-length instead)
+    "W0511",  # fixme
+    "W0621",  # redefined-outer-name - doesn't work with pytest fixtures
+]
+
+[tool.pylint.format]
+max-line-length = 100
+
+[tool.pylint.design]
+max-attributes = 10
+max-args = 7
+max-locals = 15
+
+[tool.pylint.basic]
+good-names = ["i", "j", "k", "x", "y", "z", "_", "f", "df", "e"]
+bad-names = ["l", "O", "I"]
+
+[tool.pylint.variables]
+dummy-variables-rgx = "^_"
+
+[tool.pylint.typecheck]
+ignored-modules = ["yaml", "pytest"]
+
+[tool.pylint.similarities]
+min-similarity-lines = 5
+ignore-imports = true
+
+[tool.pylint.logging]
+logging-format-style = "new"
+
+[tool.pylint.reports]
+reports = false

@@ -1,7 +1,0 @@
-name: dB
-pattern: ^(dB)$
-description: ''
-tags:
-- Radarr
-- Sonarr
-tests: []
