@@ -68,7 +68,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: MGE
+  pattern: MGE (1)
 - name: Radarr - MisFiTS
   negate: false
   required: false

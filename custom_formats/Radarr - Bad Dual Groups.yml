@@ -64,6 +64,11 @@ conditions:
   required: false
   type: release_group
   pattern: LCD
+- name: Radarr - MGE
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - MGE
 - name: Radarr - N3G4N
   negate: false
   required: false
@@ -104,6 +109,11 @@ conditions:
   required: false
   type: release_group
   pattern: Tars
+- name: Radarr - TM
+  negate: false
+  required: false
+  type: release_group
+  pattern: Radarr - TM
 - name: Radarr - tokar86a
   negate: false
   required: false

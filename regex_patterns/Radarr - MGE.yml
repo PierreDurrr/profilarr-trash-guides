@@ -1,0 +1,6 @@
+name: Radarr - MGE
+pattern: ^(MGE\b.*)$
+description: ''
+tags:
+- Radarr
+tests: []

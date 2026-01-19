@@ -1,7 +1,6 @@
-name: MGE
-pattern: ^(MGE)$
+name: Radarr - TM
+pattern: ^(TM\b)$
 description: ''
 tags:
 - Radarr
-- Sonarr
 tests: []

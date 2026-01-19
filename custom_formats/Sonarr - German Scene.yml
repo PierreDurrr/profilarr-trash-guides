@@ -68,7 +68,7 @@ conditions:
   negate: false
   required: false
   type: release_group
-  pattern: MGE
+  pattern: MGE (1)
 - name: Sonarr - MisFiTS
   negate: false
   required: false
