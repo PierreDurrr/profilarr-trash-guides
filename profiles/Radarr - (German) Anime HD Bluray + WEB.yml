@@ -93,12 +93,6 @@ custom_formats:
   score: 1
 - name: Radarr - v0
   score: -51
-- name: Radarr - Bad Dual Groups
-  score: -10000
-- name: Radarr - Black and White Editions
-  score: -10000
-- name: Radarr - Sing-Along Versions
-  score: -10000
 - name: Radarr - 3D
   score: -35000
 - name: Radarr - Anime LQ Groups
@@ -124,8 +118,6 @@ custom_formats:
 - name: Radarr - LQ (Release Title)
   score: -35000
 - name: Radarr - Not German, Japanese or English
-  score: -35000
-- name: Radarr - Upscaled
   score: -35000
 - name: Radarr - VOSTFR
   score: -35000

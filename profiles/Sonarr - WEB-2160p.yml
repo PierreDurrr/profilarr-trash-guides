@@ -32,8 +32,6 @@ custom_formats:
   score: -10000
 - name: Sonarr - BR-DISK
   score: -10000
-- name: Sonarr - BR-DISK (BTN)
-  score: -10000
 - name: Sonarr - Extras
   score: -10000
 - name: Sonarr - LQ
