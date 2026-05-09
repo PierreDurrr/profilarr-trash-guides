@@ -45,6 +45,8 @@ custom_formats:
   score: -10000
 - name: Sonarr - LQ (Release Title)
   score: -10000
+- name: Sonarr - Upscaled
+  score: -10000
 - name: Sonarr - x265 (HD)
   score: -10000
 qualities:

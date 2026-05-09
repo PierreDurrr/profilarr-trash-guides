@@ -22,6 +22,8 @@ custom_formats:
   score: -10000
 - name: Sonarr - Extras
   score: -10000
+- name: Sonarr - FR LQ
+  score: -10000
 - name: Sonarr - LQ
   score: -10000
 - name: Sonarr - LQ (Release Title)

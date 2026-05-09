@@ -42,11 +42,15 @@ custom_formats:
   score: -10000
 - name: Radarr - AV1
   score: -10000
+- name: Radarr - Black and White Editions
+  score: -10000
 - name: Radarr - BR-DISK
   score: -10000
 - name: Radarr - Extras
   score: -10000
 - name: Radarr - FR LQ
+  score: -10000
+- name: Radarr - Generated Dynamic HDR
   score: -10000
 - name: 'Radarr - Language: Not Original'
   score: -10000
