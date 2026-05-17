@@ -101,6 +101,8 @@ custom_formats:
   score: -35000
 - name: Radarr - AV1
   score: -35000
+- name: Radarr - Black and White Editions
+  score: -35000
 - name: Radarr - BR-DISK
   score: -35000
 - name: Radarr - Extras
@@ -118,6 +120,10 @@ custom_formats:
 - name: Radarr - LQ (Release Title)
   score: -35000
 - name: Radarr - Not German, Japanese or English
+  score: -35000
+- name: Radarr - Sing-Along Versions
+  score: -35000
+- name: Radarr - Upscaled
   score: -35000
 - name: Radarr - VOSTFR
   score: -35000

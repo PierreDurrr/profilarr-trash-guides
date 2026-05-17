@@ -66,6 +66,8 @@ custom_formats:
   score: -35000
 - name: Sonarr - Not German or English
   score: -35000
+- name: Sonarr - Upscaled
+  score: -35000
 - name: Sonarr - x265 (no HDR-DV)
   score: -35000
 qualities:
