@@ -48,8 +48,6 @@ custom_formats:
   score: 5
 - name: Radarr - 2.0 Stereo
   score: -175
-- name: Radarr - 10bit
-  score: -10000
 - name: Radarr - 3D
   score: -10000
 - name: Radarr - AV1
