@@ -1,7 +1,6 @@
-name: Sonarr - WEB-1080p (Alternative)
+name: Sonarr - Remux + WEB 1080p
 description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-setup-quality-profiles)\n\
-  \nQuality Profile that covers:  \n- HDTV: 720p, 1080p  \n- WEBDL: 720, 1080p  \n\
-  - Bluray: 720p, 1080p"
+  \nQuality Profile that covers:  \n- WEBDL: 1080p  \n- Remux: 1080p"
 tags:
 - Sonarr
 upgradesAllowed: true
@@ -9,6 +8,10 @@ minCustomFormatScore: 0
 upgradeUntilScore: 10000
 minScoreIncrement: 1
 custom_formats:
+- name: Sonarr - Remux Tier 01
+  score: 1900
+- name: Sonarr - Remux Tier 02
+  score: 1850
 - name: Sonarr - WEB Tier 01
   score: 1700
 - name: Sonarr - WEB Tier 02
@@ -46,6 +49,8 @@ custom_formats:
 - name: Sonarr - x265 (HD)
   score: -10000
 qualities:
+- id: 8
+  name: Bluray-1080p Remux
 - id: -1
   name: WEB 1080p
   description: ''
@@ -54,23 +59,7 @@ qualities:
     name: WEBRip-1080p
   - id: 9
     name: WEBDL-1080p
-- id: 10
-  name: Bluray-1080p
-- id: 12
-  name: HDTV-1080p
-- id: -2
-  name: WEB 720p
-  description: ''
-  qualities:
-  - id: 15
-    name: WEBRip-720p
-  - id: 14
-    name: WEBDL-720p
-- id: 13
-  name: Bluray-720p
-- id: 16
-  name: HDTV-720p
 upgrade_until:
-  id: -1
-  name: WEB 1080p
+  id: 8
+  name: Bluray-1080p Remux
 language: any

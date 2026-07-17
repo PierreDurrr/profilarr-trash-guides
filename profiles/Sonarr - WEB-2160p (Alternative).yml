@@ -1,7 +1,7 @@
 name: Sonarr - WEB-2160p (Alternative)
 description: "[Profile from TRaSH-Guides.](https://trash-guides.info/Sonarr/sonarr-setup-quality-profiles)\n\
-  \nQuality Profile that covers:  \n- SDTV, DVD  \n- HDTV 720p, 1080p  \n- WEBDL:\
-  \ 480p, 720, 1080p, 2160p  \n- Bluray 480p, 576p, 720p, 1080p, 2160p"
+  \nQuality Profile that covers:  \n- HDTV: 720p, 1080p  \n- WEBDL: 720, 1080p, 2160p\
+  \  \n- Bluray: 720p, 1080p, 2160p"
 tags:
 - Sonarr
 upgradesAllowed: true
