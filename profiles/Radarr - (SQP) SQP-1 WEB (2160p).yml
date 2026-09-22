@@ -82,6 +82,8 @@ custom_formats:
   score: -10000
 - name: Radarr - LQ (Release Title)
   score: -10000
+- name: Radarr - No-RlsGroup
+  score: -10000
 - name: Radarr - Sing-Along Versions
   score: -10000
 - name: Radarr - TrueHD
